@@ -129,8 +129,6 @@ module.exports = ({
                 (source.country_code === countryCode || !source.country_code)
             ) || {};
 
-          console.log(title);
-
           if (title && link) {
             // Convert to postgraphile compatipatible schema
             const spliTableName = tablename
@@ -142,10 +140,12 @@ module.exports = ({
             dataSources[
               `${row["geo_level"]}-${countryCode}`
             ] = formatSQL(
-              `INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES(?,?,?,?,?) on conflict do nothing;`,
+              // TODO: Refactor table_name -> query_name
+              `INSERT into public.sources(geo_level, country_code, pg_table_name, table_name, source_title, source_link) VALUES(?,?,?,?,?,?) on conflict do nothing;`,
               [
                 row["geo_level"],
                 countryCode,
+                tablename,
                 "all" + spliTableName.join(""),
                 title,
                 link

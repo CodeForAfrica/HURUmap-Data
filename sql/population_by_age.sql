@@ -29,4 +29,4 @@ INSERT INTO public.population_by_age VALUES
 ('country','ZA',2009,'continent','AFR','18 to 64',31826567,'South Africa'),
 ('country','ZA',2009,'continent','AFR','total',55653654,'South Africa');
       
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allPopulationByAges','"Community Survey, 2016"','https://open.africa/dataset/community-survey-south-africa-2016/resource/72a0babb-b503-4dc6-98bf-3bad3039f321') on conflict do nothing;
+INSERT into public.sources(geo_level, country_code, pg_table_name, table_name, source_title, source_link) VALUES('country','ZA','population_by_age','allPopulationByAges','"Community Survey, 2016"','https://open.africa/dataset/community-survey-south-africa-2016/resource/72a0babb-b503-4dc6-98bf-3bad3039f321') on conflict do nothing;

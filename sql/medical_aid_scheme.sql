@@ -76,5 +76,5 @@ INSERT INTO public.medical_aid_scheme VALUES
 ('level1','ZA_1_008',2009,'country','ZA','Total',6650261,'Western Cape',NULL),
 ('level1','ZA_1_008',2009,'country','ZA','Yes',1664353,'Western Cape',NULL);
       
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allMedicalAidSchemes','"General Household Survey, 2018"','https://open.africa/dataset/general-household-survey-2018/resource/ff03c7bb-19c2-4f2c-9782-3b4f0f48b213') on conflict do nothing;
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allMedicalAidSchemes','"General Household Survey, 2018"','https://open.africa/dataset/general-household-survey-2018/resource/ff03c7bb-19c2-4f2c-9782-3b4f0f48b213') on conflict do nothing;
+INSERT into public.sources(geo_level, country_code, pg_table_name, table_name, source_title, source_link) VALUES('level1','ZA','medical_aid_scheme','allMedicalAidSchemes','"General Household Survey, 2018"','https://open.africa/dataset/general-household-survey-2018/resource/ff03c7bb-19c2-4f2c-9782-3b4f0f48b213') on conflict do nothing;
+INSERT into public.sources(geo_level, country_code, pg_table_name, table_name, source_title, source_link) VALUES('country','ZA','medical_aid_scheme','allMedicalAidSchemes','"General Household Survey, 2018"','https://open.africa/dataset/general-household-survey-2018/resource/ff03c7bb-19c2-4f2c-9782-3b4f0f48b213') on conflict do nothing;

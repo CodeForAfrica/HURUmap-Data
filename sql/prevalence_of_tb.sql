@@ -68,5 +68,5 @@ INSERT INTO public.prevalence_of_tb VALUES
 ('level1','KE_1_045',2009,'country','KE',0,'Kisii'),
 ('level1','KE_1_046',2009,'country','KE',0,'Nyamira');
       
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','KE','allPrevalenceOfTbs','"Kenya Integrated Household Budget Survey, 2016"','https://open.africa/dataset/kenya-integrated-household-budget-survey-2016/resource/e9e723f8-d674-4261-a23a-53d7f0771351') on conflict do nothing;
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','KE','allPrevalenceOfTbs','"Kenya Integrated Household Budget Survey, 2016"','https://open.africa/dataset/kenya-integrated-household-budget-survey-2016/resource/e9e723f8-d674-4261-a23a-53d7f0771351') on conflict do nothing;
+INSERT into public.sources(geo_level, country_code, pg_table_name, table_name, source_title, source_link) VALUES('country','KE','prevalence_of_tb','allPrevalenceOfTbs','"Kenya Integrated Household Budget Survey, 2016"','https://open.africa/dataset/kenya-integrated-household-budget-survey-2016/resource/e9e723f8-d674-4261-a23a-53d7f0771351') on conflict do nothing;
+INSERT into public.sources(geo_level, country_code, pg_table_name, table_name, source_title, source_link) VALUES('level1','KE','prevalence_of_tb','allPrevalenceOfTbs','"Kenya Integrated Household Budget Survey, 2016"','https://open.africa/dataset/kenya-integrated-household-budget-survey-2016/resource/e9e723f8-d674-4261-a23a-53d7f0771351') on conflict do nothing;

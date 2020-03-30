@@ -15,6 +15,9 @@ SET default_with_oids = false;
 CREATE TABLE IF NOT EXISTS public.sources (
 	geo_level TEXT,
 	country_code TEXT,
+	pg_table_name TEXT,
+	-- TODO: rename table_name to query_name
+	-- table_name is the camelcase postgraphile table table query name e.g. allTableName
 	table_name TEXT,
 	source_title TEXT,
 	source_link TEXT
