@@ -129,8 +129,6 @@ module.exports = ({
                 (source.country_code === countryCode || !source.country_code)
             ) || {};
 
-          console.log(title);
-
           if (title && link) {
             // Convert to postgraphile compatipatible schema
             const spliTableName = tablename
