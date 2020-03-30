@@ -55,7 +55,10 @@ function combineCSVData(filenames) {
 const geos = csv2OjectsArray("./csv/geos.csv");
 
 const tables = fs.readdirSync("./csv/data").reduce((merged, filename) => {
-  const tablename = filename.slice(0, -7); // remove _za.csv or _ke.csv
+  if (!filename.includes(".csv")) {
+    return merged;
+  }
+  const tablename = filename.match(/_za|_ke/) ? filename.slice(0, -7) : filename.slice(0, -4); // remove _za.csv or _ke.csv or .csv
   if (!merged[tablename]) {
     merged[tablename] = [filename];
   } else {
