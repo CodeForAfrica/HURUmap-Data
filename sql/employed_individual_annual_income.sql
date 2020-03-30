@@ -425,3 +425,6 @@ INSERT INTO public.employed_individual_annual_income VALUES
 ('level1','ZA_1_008',2009,'country','ZA','All','Unspecified',90,'Western Cape'),
 ('level1','ZA_1_008',2009,'country','ZA','Female','Unspecified',11,'Western Cape'),
 ('level1','ZA_1_008',2009,'country','ZA','Male','Unspecified',79,'Western Cape');
+      
+INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allEmployedIndividualAnnualIncomes','"Community Survey, 2016"','https://open.africa/dataset/community-survey-south-africa-2016/resource/ce9148f0-1157-4919-9708-19af4574de3f') on conflict do nothing;
+INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allEmployedIndividualAnnualIncomes','"Community Survey, 2016"','https://open.africa/dataset/community-survey-south-africa-2016/resource/ce9148f0-1157-4919-9708-19af4574de3f') on conflict do nothing;

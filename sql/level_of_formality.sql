@@ -377,3 +377,6 @@ INSERT INTO public.level_of_formality VALUES
 ('level1','KE_1_024',2009,'country','KE','Intersex','Urban',0,'West Pokot'),
 ('level1','KE_1_024',2009,'country','KE','Female','Urban',16297,'West Pokot'),
 ('level1','KE_1_024',2009,'country','KE','Male','Urban',15544,'West Pokot');
+      
+INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','KE','allLevelOfFormalities','"Kenya Population and Housing Census, 2019"','https://open.africa/dataset/2019-kenya-population-and-housing-census') on conflict do nothing;
+INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','KE','allLevelOfFormalities','"Kenya Population and Housing Census, 2019"','https://open.africa/dataset/2019-kenya-population-and-housing-census') on conflict do nothing;

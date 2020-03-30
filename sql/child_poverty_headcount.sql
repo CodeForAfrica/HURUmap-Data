@@ -33,3 +33,6 @@ INSERT INTO public.child_poverty_headcount VALUES
 ('level1','ZA_1_004',2009,'country','ZA',8.3,'Mpumalanga'),
 ('level1','ZA_1_005',2009,'country','ZA',13.9,'Limpopo'),
 ('country','ZA',2009,'continent','AFR',11.1,'South Africa');
+      
+INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allChildPovertyHeadcounts','"Men, Women and Children Findings of the Living Conditions Survey, 2015"','https://open.africa/dataset/men-women-and-children-findings-of-the-living-conditions-survey-2015/resource/640bd9d3-43f4-4f3f-bce7-624f4d535d84') on conflict do nothing;
+INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allChildPovertyHeadcounts','"Men, Women and Children Findings of the Living Conditions Survey, 2015"','https://open.africa/dataset/men-women-and-children-findings-of-the-living-conditions-survey-2015/resource/640bd9d3-43f4-4f3f-bce7-624f4d535d84') on conflict do nothing;

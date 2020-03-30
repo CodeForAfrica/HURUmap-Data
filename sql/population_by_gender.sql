@@ -290,3 +290,8 @@ INSERT INTO public.population_by_gender VALUES
 ('level1','ZA_1_008',2009,'country','ZA','Female',3183273,'Western Cape'),
 ('level1','ZA_1_008',2009,'country','ZA','total',6279730,'Western Cape'),
 ('level1','ZA_1_008',2009,'country','ZA','Male',3096457,'Western Cape');
+      
+INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','KE','allPopulationByGenders','"Kenya Population and Housing Census, 2019"','https://open.africa/dataset/2019-kenya-population-and-housing-census/resource/d0c95fee-9d00-453a-b343-7c195e81b9f1') on conflict do nothing;
+INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','KE','allPopulationByGenders','"Kenya Population and Housing Census, 2019"','https://open.africa/dataset/2019-kenya-population-and-housing-census/resource/d0c95fee-9d00-453a-b343-7c195e81b9f1') on conflict do nothing;
+INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allPopulationByGenders','"Community Survey, 2016"','https://open.africa/dataset/community-survey-south-africa-2016/resource/ae3e7faf-d9c2-4996-880a-adaf9017d087') on conflict do nothing;
+INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allPopulationByGenders','"Community Survey, 2016"','https://open.africa/dataset/community-survey-south-africa-2016/resource/ae3e7faf-d9c2-4996-880a-adaf9017d087') on conflict do nothing;

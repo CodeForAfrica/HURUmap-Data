@@ -76,3 +76,6 @@ INSERT INTO public.number_of_hospital_beds VALUES
 ('level1','KE_1_008',2009,'country','KE',601,'Wajir'),
 ('level1','KE_1_024',2009,'country','KE',557,'West Pokot'),
 ('country','KE',2009,'continent','AFR',74283,'Kenya');
+      
+INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','KE','allNumberOfHospitalBeds','"Kenya Master Health Facility List, 2020"','https://open.africa/dataset/kenya-master-health-facility-list-2020/resource/38b72113-8cd5-40b2-960d-1baefd32c8f1') on conflict do nothing;
+INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','KE','allNumberOfHospitalBeds','"Kenya Master Health Facility List, 2020"','https://open.africa/dataset/kenya-master-health-facility-list-2020/resource/38b72113-8cd5-40b2-960d-1baefd32c8f1') on conflict do nothing;

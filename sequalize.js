@@ -5,11 +5,17 @@ const pluralize = require("pluralize");
 /** Helpers */
 
 function formatSQL(str, variables) {
-  return knex.raw(str, variables).toQuery().toString();
+  return knex
+    .raw(str, variables)
+    .toQuery()
+    .toString();
 }
 
 function escapeField(str) {
-  return knex.raw(str).toQuery().toString();
+  return knex
+    .raw(str)
+    .toQuery()
+    .toString();
 }
 
 /** */
@@ -119,9 +125,11 @@ module.exports = ({
           const { title, link } =
             sources.find(
               source =>
-                source.table_name === tablename &&
+                source.table_name.includes(tablename) &&
                 (source.country_code === countryCode || !source.country_code)
             ) || {};
+
+          console.log(title);
 
           if (title && link) {
             // Convert to postgraphile compatipatible schema

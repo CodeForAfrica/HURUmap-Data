@@ -156,3 +156,6 @@ INSERT INTO public.prevalence_of_respiratory_infection VALUES
 ('level1','KE_1_024',2009,'country','KE','Upper respiratory Infection',7.1,'West Pokot'),
 ('level1','KE_1_024',2009,'country','KE','Asthma',0,'West Pokot'),
 ('level1','KE_1_024',2009,'country','KE','Lower Respiratoty Infection',0,'West Pokot');
+      
+INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','KE','allPrevalenceOfRespiratoryInfections','"Kenya Integrated Household Budget Survey, 2016"','https://open.africa/dataset/kenya-integrated-household-budget-survey-2016/resource/11feb6d9-5a0c-433e-99e7-c7059d7f89fb') on conflict do nothing;
+INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','KE','allPrevalenceOfRespiratoryInfections','"Kenya Integrated Household Budget Survey, 2016"','https://open.africa/dataset/kenya-integrated-household-budget-survey-2016/resource/11feb6d9-5a0c-433e-99e7-c7059d7f89fb') on conflict do nothing;

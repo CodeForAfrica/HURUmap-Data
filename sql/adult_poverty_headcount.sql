@@ -44,3 +44,6 @@ INSERT INTO public.adult_poverty_headcount VALUES
 ('country','ZA',2009,'continent','AFR','Female',52,'South Africa'),
 ('level1','ZA_1_008',2009,'country','ZA','Female',34.1,'Western Cape'),
 ('level1','ZA_1_008',2009,'country','ZA','Male',32.2,'Western Cape');
+      
+INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allAdultPovertyHeadcounts','"Men, Women and Children Findings of the Living Conditions Survey, 2015"','https://open.africa/dataset/men-women-and-children-findings-of-the-living-conditions-survey-2015/resource/a5ea1811-044a-4d68-9316-0085132cbcca') on conflict do nothing;
+INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allAdultPovertyHeadcounts','"Men, Women and Children Findings of the Living Conditions Survey, 2015"','https://open.africa/dataset/men-women-and-children-findings-of-the-living-conditions-survey-2015/resource/a5ea1811-044a-4d68-9316-0085132cbcca') on conflict do nothing;
