@@ -1,0 +1,869 @@
+geo_level,geo_code,geo_version,name,variable,value
+municipality,BUF,,Buffalo City,< 18,"317,164"
+municipality,BUF,,Buffalo City,>= 65,"34,129"
+municipality,BUF,,Buffalo City,18 to 64,"483,704"
+municipality,BUF,,Buffalo City,total,"834,997"
+municipality,CPT,,City of Cape Town,< 18,"1,275,373"
+municipality,CPT,,City of Cape Town,>= 65,"249,972"
+municipality,CPT,,City of Cape Town,18 to 64,"2,479,671"
+municipality,CPT,,City of Cape Town,total,"4,005,016"
+municipality,EC101,,Dr Beyers Naude,< 18,"33,765"
+municipality,EC101,,Dr Beyers Naude,>= 65,"4,966"
+municipality,EC101,,Dr Beyers Naude,18 to 64,"43,466"
+municipality,EC101,,Dr Beyers Naude,total,"82,197"
+municipality,EC102,,Blue Crane Route,< 18,"14,486"
+municipality,EC102,,Blue Crane Route,>= 65,"2,347"
+municipality,EC102,,Blue Crane Route,18 to 64,"19,230"
+municipality,EC102,,Blue Crane Route,total,"36,063"
+municipality,EC104,,Makana,< 18,"27,899"
+municipality,EC104,,Makana,>= 65,"4,556"
+municipality,EC104,,Makana,18 to 64,"49,606"
+municipality,EC104,,Makana,total,"82,061"
+municipality,EC105,,Ndlambe,< 18,"21,334"
+municipality,EC105,,Ndlambe,>= 65,5704
+municipality,EC105,,Ndlambe,18 to 64,"36,142"
+municipality,EC105,,Ndlambe,total,"63,180"
+municipality,EC106,,Sundays River Valley,< 18,"22,569"
+municipality,EC106,,Sundays River Valley,>= 65,"2,587"
+municipality,EC106,,Sundays River Valley,18 to 64,"34,636"
+municipality,EC106,,Sundays River Valley,total,"59,792"
+municipality,EC108,,Kouga,< 18,"42,050"
+municipality,EC108,,Kouga,>= 65,"8,271"
+municipality,EC108,,Kouga,18 to 64,"62,620"
+municipality,EC108,,Kouga,total,"112,941"
+municipality,EC109,,Kou-Kamma,< 18,"17,272"
+municipality,EC109,,Kou-Kamma,>= 65,"1,756"
+municipality,EC109,,Kou-Kamma,18 to 64,"24,661"
+municipality,EC109,,Kou-Kamma,total,"43,689"
+municipality,EC121,,Mbhashe,< 18,"136,855"
+municipality,EC121,,Mbhashe,>= 65,"14,408"
+municipality,EC121,,Mbhashe,18 to 64,"125,987"
+municipality,EC121,,Mbhashe,total,"277,250"
+municipality,EC122,,Mnquma,< 18,"110,200"
+municipality,EC122,,Mnquma,>= 65,"14,609"
+municipality,EC122,,Mnquma,18 to 64,122004
+municipality,EC122,,Mnquma,total,"246,813"
+municipality,EC123,,Great Kei,< 18,"11,359"
+municipality,EC123,,Great Kei,>= 65,"1,969"
+municipality,EC123,,Great Kei,18 to 64,"18,364"
+municipality,EC123,,Great Kei,total,"31,692"
+municipality,EC124,,Amahlathi,< 18,"41,086"
+municipality,EC124,,Amahlathi,>= 65,"5,317"
+municipality,EC124,,Amahlathi,18 to 64,"55,423"
+municipality,EC124,,Amahlathi,total,"101,826"
+municipality,EC126,,Ngqushwa,< 18,25273
+municipality,EC126,,Ngqushwa,>= 65,5157
+municipality,EC126,,Ngqushwa,18 to 64,"33,264"
+municipality,EC126,,Ngqushwa,total,"63,694"
+municipality,EC129,,Raymond Mhlaba,< 18,"61,953"
+municipality,EC129,,Raymond Mhlaba,>= 65,"8,871"
+municipality,EC129,,Raymond Mhlaba,18 to 64,"88,692"
+municipality,EC129,,Raymond Mhlaba,total,"159,516"
+municipality,EC131,,Inxuba Yethemba,< 18,"30,372"
+municipality,EC131,,Inxuba Yethemba,>= 65,"3,130"
+municipality,EC131,,Inxuba Yethemba,18 to 64,"36,991"
+municipality,EC131,,Inxuba Yethemba,total,"70,493"
+municipality,EC135,,Intsika Yethu,< 18,"75,882"
+municipality,EC135,,Intsika Yethu,>= 65,"11,316"
+municipality,EC135,,Intsika Yethu,18 to 64,"64,961"
+municipality,EC135,,Intsika Yethu,total,152159
+municipality,EC136,,Emalahleni,< 18,"61,982"
+municipality,EC136,,Emalahleni,< 18,"142,523"
+municipality,EC136,,Emalahleni,>= 65,"13,824"
+municipality,EC136,,Emalahleni,>= 65,"9,179"
+municipality,EC136,,Emalahleni,18 to 64,"298,882"
+municipality,EC136,,Emalahleni,18 to 64,"53,372"
+municipality,EC136,,Emalahleni,total,"455,229"
+municipality,EC136,,Emalahleni,total,"124,533"
+municipality,EC137,,Engcobo,< 18,"86,400"
+municipality,EC137,,Engcobo,>= 65,"8,825"
+municipality,EC137,,Engcobo,18 to 64,"66,789"
+municipality,EC137,,Engcobo,total,"162,014"
+municipality,EC138,,Sakhisizwe,< 18,"31,153"
+municipality,EC138,,Sakhisizwe,>= 65,"3,293"
+municipality,EC138,,Sakhisizwe,18 to 64,"29,401"
+municipality,EC138,,Sakhisizwe,total,"63,847"
+municipality,EC139,,Enoch Mgijima,< 18,"119,866"
+municipality,EC139,,Enoch Mgijima,>= 65,"13,437"
+municipality,EC139,,Enoch Mgijima,18 to 64,"133,708"
+municipality,EC139,,Enoch Mgijima,total,"267,011"
+municipality,EC141,,Elundini,< 18,"70,865"
+municipality,EC141,,Elundini,>= 65,"8,129"
+municipality,EC141,,Elundini,18 to 64,"65,935"
+municipality,EC141,,Elundini,total,"144,929"
+municipality,EC142,,Senqu,< 18,"66,363"
+municipality,EC142,,Senqu,>= 65,"7,198"
+municipality,EC142,,Senqu,18 to 64,"67,159"
+municipality,EC142,,Senqu,total,"140,720"
+municipality,EC145,,Walter Sisulu,< 18,"38,725"
+municipality,EC145,,Walter Sisulu,>= 65,"3,221"
+municipality,EC145,,Walter Sisulu,18 to 64,"45,317"
+municipality,EC145,,Walter Sisulu,total,"87,263"
+municipality,EC153,,Ngquza Hill,< 18,"163,771"
+municipality,EC153,,Ngquza Hill,>= 65,"13,378"
+municipality,EC153,,Ngquza Hill,18 to 64,"126,230"
+municipality,EC153,,Ngquza Hill,total,"303,379"
+municipality,EC154,,Port St Johns,< 18,"89,849"
+municipality,EC154,,Port St Johns,>= 65,"7,786"
+municipality,EC154,,Port St Johns,18 to 64,"69,144"
+municipality,EC154,,Port St Johns,total,"166,779"
+municipality,EC155,,Nyandeni,< 18,"160,022"
+municipality,EC155,,Nyandeni,>= 65,"13,771"
+municipality,EC155,,Nyandeni,18 to 64,"135,908"
+municipality,EC155,,Nyandeni,total,"309,701"
+municipality,EC156,,Mhlontlo,< 18,"93,241"
+municipality,EC156,,Mhlontlo,>= 65,"11,614"
+municipality,EC156,,Mhlontlo,18 to 64,"84,321"
+municipality,EC156,,Mhlontlo,total,"189,176"
+municipality,EC157,,King Sabata Dalindyebo,< 18,"219,746"
+municipality,EC157,,King Sabata Dalindyebo,>= 65,"19,605"
+municipality,EC157,,King Sabata Dalindyebo,18 to 64,"248,997"
+municipality,EC157,,King Sabata Dalindyebo,total,"488,348"
+municipality,EC441,,Matatiele,< 18,"105,799"
+municipality,EC441,,Matatiele,>= 65,"14,192"
+municipality,EC441,,Matatiele,18 to 64,"99,457"
+municipality,EC441,,Matatiele,total,"219,448"
+municipality,EC442,,Umzimvubu,< 18,"94,576"
+municipality,EC442,,Umzimvubu,>= 65,"12,714"
+municipality,EC442,,Umzimvubu,18 to 64,"92,331"
+municipality,EC442,,Umzimvubu,total,"199,621"
+municipality,EC443,,Mbizana,< 18,"175,746"
+municipality,EC443,,Mbizana,>= 65,"15,456"
+municipality,EC443,,Mbizana,18 to 64,"128,746"
+municipality,EC443,,Mbizana,total,"319,948"
+municipality,EC444,,Ntabankulu,< 18,"66,291"
+municipality,EC444,,Ntabankulu,>= 65,"7,636"
+municipality,EC444,,Ntabankulu,18 to 64,"54,922"
+municipality,EC444,,Ntabankulu,total,"128,849"
+municipality,EKU,,Ekurhuleni,< 18,"946,843"
+municipality,EKU,,Ekurhuleni,>= 65,"206,531"
+municipality,EKU,,Ekurhuleni,18 to 64,"2,225,730"
+municipality,EKU,,Ekurhuleni,total,"3,379,104"
+municipality,ETH,,eThekwini,< 18,"1,291,428"
+municipality,ETH,,eThekwini,>= 65,"210,382"
+municipality,ETH,,eThekwini,18 to 64,"2,200,420"
+municipality,ETH,,eThekwini,total,"3,702,230"
+municipality,FS161,,Letsemeng,< 18,"13,405"
+municipality,FS161,,Letsemeng,>= 65,"2,423"
+municipality,FS161,,Letsemeng,18 to 64,"24,216"
+municipality,FS161,,Letsemeng,total,"40,044"
+municipality,FS162,,Kopanong,< 18,"17,088"
+municipality,FS162,,Kopanong,>= 65,"3,559"
+municipality,FS162,,Kopanong,18 to 64,"29,352"
+municipality,FS162,,Kopanong,total,"49,999"
+municipality,FS163,,Mohokare,< 18,"13,980"
+municipality,FS163,,Mohokare,>= 65,"2,545"
+municipality,FS163,,Mohokare,18 to 64,"19,316"
+municipality,FS163,,Mohokare,total,"35,841"
+municipality,FS164,,Naledi,< 18,"25,764"
+municipality,FS164,,Naledi,>= 65,"3,180"
+municipality,FS164,,Naledi,18 to 64,"39,859"
+municipality,FS164,,Naledi,total,"68,803"
+municipality,FS181,,Masilonyana,< 18,"22,266"
+municipality,FS181,,Masilonyana,>= 65,"3,367"
+municipality,FS181,,Masilonyana,18 to 64,"37,137"
+municipality,FS181,,Masilonyana,total,"62,770"
+municipality,FS182,,Tokologo,< 18,"10,806"
+municipality,FS182,,Tokologo,>= 65,"1,600"
+municipality,FS182,,Tokologo,18 to 64,"16,742"
+municipality,FS182,,Tokologo,total,"29,148"
+municipality,FS183,,Tswelopele,< 18,"18,842"
+municipality,FS183,,Tswelopele,>= 65,"2,531"
+municipality,FS183,,Tswelopele,18 to 64,"25,999"
+municipality,FS183,,Tswelopele,total,"47,372"
+municipality,FS184,,Matjhabeng,< 18,"137,693"
+municipality,FS184,,Matjhabeng,>= 65,"20,532"
+municipality,FS184,,Matjhabeng,18 to 64,"270,888"
+municipality,FS184,,Matjhabeng,total,"429,113"
+municipality,FS185,,Nala,< 18,"30,108"
+municipality,FS185,,Nala,>= 65,"4,802"
+municipality,FS185,,Nala,18 to 64,"43,606"
+municipality,FS185,,Nala,total,"78,516"
+municipality,FS191,,Setsoto,< 18,"46,092"
+municipality,FS191,,Setsoto,>= 65,"6,632"
+municipality,FS191,,Setsoto,18 to 64,"64,638"
+municipality,FS191,,Setsoto,total,"117,362"
+municipality,FS192,,Dihlabeng,< 18,"49,348"
+municipality,FS192,,Dihlabeng,>= 65,"7,134"
+municipality,FS192,,Dihlabeng,18 to 64,"83,561"
+municipality,FS192,,Dihlabeng,total,"140,043"
+municipality,FS193,,Nketoana,< 18,"24,978"
+municipality,FS193,,Nketoana,>= 65,"3,544"
+municipality,FS193,,Nketoana,18 to 64,"36,371"
+municipality,FS193,,Nketoana,total,"64,893"
+municipality,FS194,,Maluti a Phofung,< 18,"140,695"
+municipality,FS194,,Maluti a Phofung,>= 65,"17,748"
+municipality,FS194,,Maluti a Phofung,18 to 64,"195,009"
+municipality,FS194,,Maluti a Phofung,total,"353,452"
+municipality,FS195,,Phumelela,< 18,"18,979"
+municipality,FS195,,Phumelela,>= 65,"2,814"
+municipality,FS195,,Phumelela,18 to 64,"28,260"
+municipality,FS195,,Phumelela,total,"50,053"
+municipality,FS196,,Mantsopa,< 18,"20,416"
+municipality,FS196,,Mantsopa,>= 65,"2,636"
+municipality,FS196,,Mantsopa,18 to 64,"30,474"
+municipality,FS196,,Mantsopa,total,"53,526"
+municipality,FS201,,Moqhaka,< 18,"49,556"
+municipality,FS201,,Moqhaka,>= 65,"11,945"
+municipality,FS201,,Moqhaka,18 to 64,"93,231"
+municipality,FS201,,Moqhaka,total,"154,732"
+municipality,FS203,,Ngwathe,< 18,"41,406"
+municipality,FS203,,Ngwathe,>= 65,"10,062"
+municipality,FS203,,Ngwathe,18 to 64,"67,439"
+municipality,FS203,,Ngwathe,total,"118,907"
+municipality,FS204,,Metsimaholo,< 18,"50,231"
+municipality,FS204,,Metsimaholo,>= 65,"8,595"
+municipality,FS204,,Metsimaholo,18 to 64,"104,738"
+municipality,FS204,,Metsimaholo,total,"163,564"
+municipality,FS205,,Mafube,< 18,"20,719"
+municipality,FS205,,Mafube,>= 65,"4,118"
+municipality,FS205,,Mafube,18 to 64,"32,737"
+municipality,FS205,,Mafube,total,"57,574"
+municipality,GT421,,Emfuleni,< 18,"236,458"
+municipality,GT421,,Emfuleni,>= 65,"44,314"
+municipality,GT421,,Emfuleni,18 to 64,"452,673"
+municipality,GT421,,Emfuleni,total,"733,445"
+municipality,GT422,,Midvaal,< 18,"32,432"
+municipality,GT422,,Midvaal,>= 65,"9,058"
+municipality,GT422,,Midvaal,18 to 64,"70,122"
+municipality,GT422,,Midvaal,total,"111,612"
+municipality,GT423,,Lesedi,< 18,"35,836"
+municipality,GT423,,Lesedi,>= 65,"7,352"
+municipality,GT423,,Lesedi,18 to 64,"69,284"
+municipality,GT423,,Lesedi,total,"112,472"
+municipality,GT481,,Mogale City,< 18,"109,258"
+municipality,GT481,,Mogale City,>= 65,"21,768"
+municipality,GT481,,Mogale City,18 to 64,"252,839"
+municipality,GT481,,Mogale City,total,"383,865"
+municipality,GT484,,Merafong City,< 18,"54,661"
+municipality,GT484,,Merafong City,>= 65,"8,474"
+municipality,GT484,,Merafong City,18 to 64,"125,708"
+municipality,GT484,,Merafong City,total,"188,843"
+municipality,GT485,,Rand West City,< 18,"79,302"
+municipality,GT485,,Rand West City,>= 65,"13,039"
+municipality,GT485,,Rand West City,18 to 64,"173,546"
+municipality,GT485,,Rand West City,total,"265,887"
+municipality,JHB,,City of Johannesburg,< 18,"1,517,336"
+municipality,JHB,,City of Johannesburg,>= 65,"266,167"
+municipality,JHB,,City of Johannesburg,18 to 64,"3,165,843"
+municipality,JHB,,City of Johannesburg,total,"4,949,346"
+municipality,KZN212,,Umdoni,< 18,"65,274"
+municipality,KZN212,,Umdoni,>= 65,"7,013"
+municipality,KZN212,,Umdoni,18 to 64,"72,263"
+municipality,KZN212,,Umdoni,total,"144,550"
+municipality,KZN213,,Umzumbe,< 18,"78,281"
+municipality,KZN213,,Umzumbe,>= 65,"6,432"
+municipality,KZN213,,Umzumbe,18 to 64,"66,963"
+municipality,KZN213,,Umzumbe,total,"151,676"
+municipality,KZN214,,uMuziwabantu,< 18,"60,692"
+municipality,KZN214,,uMuziwabantu,>= 65,"3,433"
+municipality,KZN214,,uMuziwabantu,18 to 64,"44,451"
+municipality,KZN214,,uMuziwabantu,total,"108,576"
+municipality,KZN216,,Ray Nkonyeni,< 18,"150,321"
+municipality,KZN216,,Ray Nkonyeni,>= 65,"16,219"
+municipality,KZN216,,Ray Nkonyeni,18 to 64,"181,993"
+municipality,KZN216,,Ray Nkonyeni,total,"348,533"
+municipality,KZN221,,uMshwathi,< 18,"51,736"
+municipality,KZN221,,uMshwathi,>= 65,"4,315"
+municipality,KZN221,,uMshwathi,18 to 64,"55,594"
+municipality,KZN221,,uMshwathi,total,"111,645"
+municipality,KZN222,,uMngeni,< 18,"41,043"
+municipality,KZN222,,uMngeni,>= 65,"7,039"
+municipality,KZN222,,uMngeni,18 to 64,"61,785"
+municipality,KZN222,,uMngeni,total,"109,867"
+municipality,KZN223,,Mpofana,< 18,"15,412"
+municipality,KZN223,,Mpofana,>= 65,"1,090"
+municipality,KZN223,,Mpofana,18 to 64,"20,889"
+municipality,KZN223,,Mpofana,total,"37,391"
+municipality,KZN224,,Impendle,< 18,"15,435"
+municipality,KZN224,,Impendle,>= 65,"1,365"
+municipality,KZN224,,Impendle,18 to 64,"12,726"
+municipality,KZN224,,Impendle,total,"29,526"
+municipality,KZN225,,The Msunduzi,< 18,"261,062"
+municipality,KZN225,,The Msunduzi,>= 65,"26,276"
+municipality,KZN225,,The Msunduzi,18 to 64,"391,701"
+municipality,KZN225,,The Msunduzi,total,"679,039"
+municipality,KZN226,,Mkhambathini,< 18,"23,839"
+municipality,KZN226,,Mkhambathini,>= 65,"2,085"
+municipality,KZN226,,Mkhambathini,18 to 64,"31,151"
+municipality,KZN226,,Mkhambathini,total,"57,075"
+municipality,KZN227,,Richmond,< 18,"33,865"
+municipality,KZN227,,Richmond,>= 65,"2,342"
+municipality,KZN227,,Richmond,18 to 64,"35,115"
+municipality,KZN227,,Richmond,total,"71,322"
+municipality,KZN235,,Okhahlamba,< 18,"66,001"
+municipality,KZN235,,Okhahlamba,>= 65,"6,043"
+municipality,KZN235,,Okhahlamba,18 to 64,"63,087"
+municipality,KZN235,,Okhahlamba,total,135131
+municipality,KZN237,,Inkosi Langalibalele,< 18,98909
+municipality,KZN237,,Inkosi Langalibalele,>= 65,8534
+municipality,KZN237,,Inkosi Langalibalele,18 to 64,107739
+municipality,KZN237,,Inkosi Langalibalele,total,"215,182"
+municipality,KZN238,,Alfred Duma,< 18,162312
+municipality,KZN238,,Alfred Duma,>= 65,15655
+municipality,KZN238,,Alfred Duma,18 to 64,178308
+municipality,KZN238,,Alfred Duma,total,356275
+municipality,KZN241,,Endumeni,< 18,30016
+municipality,KZN241,,Endumeni,>= 65,3536
+municipality,KZN241,,Endumeni,18 to 64,43087
+municipality,KZN241,,Endumeni,total,76639
+municipality,KZN242,,Nqutu,< 18,88976
+municipality,KZN242,,Nqutu,>= 65,8095
+municipality,KZN242,,Nqutu,18 to 64,74255
+municipality,KZN242,,Nqutu,total,"171,326"
+municipality,KZN244,,Msinga,< 18,99069
+municipality,KZN244,,Msinga,>= 65,8761
+municipality,KZN244,,Msinga,18 to 64,76664
+municipality,KZN244,,Msinga,total,184494
+municipality,KZN245,,Umvoti,< 18,55241
+municipality,KZN245,,Umvoti,>= 65,6044
+municipality,KZN245,,Umvoti,18 to 64,61138
+municipality,KZN245,,Umvoti,total,122423
+municipality,KZN252,,Newcastle,< 18,166434
+municipality,KZN252,,Newcastle,>= 65,14195
+municipality,KZN252,,Newcastle,18 to 64,208488
+municipality,KZN252,,Newcastle,total,389117
+municipality,KZN253,,Emadlangeni,< 18,17323
+municipality,KZN253,,Emadlangeni,>= 65,1399
+municipality,KZN253,,Emadlangeni,18 to 64,18147
+municipality,KZN253,,Emadlangeni,total,36869
+municipality,KZN254,,Dannhauser,< 18,52366
+municipality,KZN254,,Dannhauser,>= 65,4161
+municipality,KZN254,,Dannhauser,18 to 64,48814
+municipality,KZN254,,Dannhauser,total,105341
+municipality,KZN261,,eDumbe,< 18,45964
+municipality,KZN261,,eDumbe,>= 65,4036
+municipality,KZN261,,eDumbe,18 to 64,39613
+municipality,KZN261,,eDumbe,total,89613
+municipality,KZN262,,uPhongolo,< 18,72499
+municipality,KZN262,,uPhongolo,>= 65,5318
+municipality,KZN262,,uPhongolo,18 to 64,63430
+municipality,KZN262,,uPhongolo,total,141247
+municipality,KZN263,,Abaqulusi,< 18,116455
+municipality,KZN263,,Abaqulusi,>= 65,10435
+municipality,KZN263,,Abaqulusi,18 to 64,116905
+municipality,KZN263,,Abaqulusi,total,243795
+municipality,KZN265,,Nongoma,< 18,112930
+municipality,KZN265,,Nongoma,>= 65,9007
+municipality,KZN265,,Nongoma,18 to 64,89956
+municipality,KZN265,,Nongoma,total,211893
+municipality,KZN266,,Ulundi,< 18,104585
+municipality,KZN266,,Ulundi,>= 65,8135
+municipality,KZN266,,Ulundi,18 to 64,93042
+municipality,KZN266,,Ulundi,total,205762
+municipality,KZN271,,Umhlabuyalingana,< 18,86654
+municipality,KZN271,,Umhlabuyalingana,>= 65,7487
+municipality,KZN271,,Umhlabuyalingana,18 to 64,77936
+municipality,KZN271,,Umhlabuyalingana,total,172077
+municipality,KZN272,,Jozini,< 18,102617
+municipality,KZN272,,Jozini,>= 65,6825
+municipality,KZN272,,Jozini,18 to 64,88774
+municipality,KZN272,,Jozini,total,198216
+municipality,KZN275,,Mtubatuba,< 18,101430
+municipality,KZN275,,Mtubatuba,>= 65,7960
+municipality,KZN275,,Mtubatuba,18 to 64,92787
+municipality,KZN275,,Mtubatuba,total,202177
+municipality,KZN276,,Big Five Hlabisa,< 18,58578
+municipality,KZN276,,Big Five Hlabisa,>= 65,4844
+municipality,KZN276,,Big Five Hlabisa,18 to 64,53199
+municipality,KZN276,,Big Five Hlabisa,total,116621
+municipality,KZN281,,Mfolozi,< 18,69763
+municipality,KZN281,,Mfolozi,>= 65,5864
+municipality,KZN281,,Mfolozi,18 to 64,68735
+municipality,KZN281,,Mfolozi,total,144362
+municipality,KZN282,,uMhlathuze,< 18,173582
+municipality,KZN282,,uMhlathuze,>= 65,13384
+municipality,KZN282,,uMhlathuze,18 to 64,223498
+municipality,KZN282,,uMhlathuze,total,410464
+municipality,KZN284,,uMlalazi,< 18,114118
+municipality,KZN284,,uMlalazi,>= 65,"11,645"
+municipality,KZN284,,uMlalazi,18 to 64,97377
+municipality,KZN284,,uMlalazi,total,223140
+municipality,KZN285,,Mthonjaneni,< 18,43097
+municipality,KZN285,,Mthonjaneni,>= 65,3571
+municipality,KZN285,,Mthonjaneni,18 to 64,32216
+municipality,KZN285,,Mthonjaneni,total,78884
+municipality,KZN286,,Nkandla,< 18,62801
+municipality,KZN286,,Nkandla,>= 65,6269
+municipality,KZN286,,Nkandla,18 to 64,45214
+municipality,KZN286,,Nkandla,total,114284
+municipality,KZN291,,Mandeni,< 18,60280
+municipality,KZN291,,Mandeni,>= 65,6755
+municipality,KZN291,,Mandeni,18 to 64,80773
+municipality,KZN291,,Mandeni,total,147808
+municipality,KZN292,,KwaDukuza,< 18,99932
+municipality,KZN292,,KwaDukuza,>= 65,13677
+municipality,KZN292,,KwaDukuza,18 to 64,163110
+municipality,KZN292,,KwaDukuza,total,276719
+municipality,KZN293,,Ndwedwe,< 18,65199
+municipality,KZN293,,Ndwedwe,>= 65,9971
+municipality,KZN293,,Ndwedwe,18 to 64,67947
+municipality,KZN293,,Ndwedwe,total,143117
+municipality,KZN294,,Maphumulo,< 18,44010
+municipality,KZN294,,Maphumulo,>= 65,6675
+municipality,KZN294,,Maphumulo,18 to 64,39283
+municipality,KZN294,,Maphumulo,total,89968
+municipality,KZN433,,Greater Kokstad,< 18,31853
+municipality,KZN433,,Greater Kokstad,>= 65,1699
+municipality,KZN433,,Greater Kokstad,18 to 64,43201
+municipality,KZN433,,Greater Kokstad,total,76753
+municipality,KZN434,,Ubuhlebezwe,< 18,59235
+municipality,KZN434,,Ubuhlebezwe,>= 65,5224
+municipality,KZN434,,Ubuhlebezwe,18 to 64,53887
+municipality,KZN434,,Ubuhlebezwe,total,118346
+municipality,KZN435,,Umzimkhulu,< 18,104175
+municipality,KZN435,,Umzimkhulu,>= 65,9262
+municipality,KZN435,,Umzimkhulu,18 to 64,83849
+municipality,KZN435,,Umzimkhulu,total,197286
+municipality,KZN436,,Dr Nkosazana Dlamini Zuma,< 18,58610
+municipality,KZN436,,Dr Nkosazana Dlamini Zuma,>= 65,5152
+municipality,KZN436,,Dr Nkosazana Dlamini Zuma,18 to 64,54718
+municipality,KZN436,,Dr Nkosazana Dlamini Zuma,total,118480
+municipality,LIM331,,Greater Giyani,< 18,115425
+municipality,LIM331,,Greater Giyani,>= 65,12240
+municipality,LIM331,,Greater Giyani,18 to 64,128461
+municipality,LIM331,,Greater Giyani,total,256126
+municipality,LIM332,,Greater Letaba,< 18,92346
+municipality,LIM332,,Greater Letaba,>= 65,12347
+municipality,LIM332,,Greater Letaba,18 to 64,113336
+municipality,LIM332,,Greater Letaba,total,218029
+municipality,LIM333,,Greater Tzaneen,< 18,160409
+municipality,LIM333,,Greater Tzaneen,>= 65,18376
+municipality,LIM333,,Greater Tzaneen,18 to 64,237362
+municipality,LIM333,,Greater Tzaneen,total,416147
+municipality,LIM334,,Ba-Phalaborwa,< 18,67600
+municipality,LIM334,,Ba-Phalaborwa,>= 65,5760
+municipality,LIM334,,Ba-Phalaborwa,18 to 64,95577
+municipality,LIM334,,Ba-Phalaborwa,total,168937
+municipality,LIM335,,Maruleng,< 18,41340
+municipality,LIM335,,Maruleng,>= 65,4086
+municipality,LIM335,,Maruleng,18 to 64,54521
+municipality,LIM335,,Maruleng,total,99947
+municipality,LIM341,,Musina,< 18,50660
+municipality,LIM341,,Musina,>= 65,3222
+municipality,LIM341,,Musina,18 to 64,78127
+municipality,LIM341,,Musina,total,132009
+municipality,LIM343,,Thulamela,< 18,215470
+municipality,LIM343,,Thulamela,>= 65,22788
+municipality,LIM343,,Thulamela,18 to 64,258979
+municipality,LIM343,,Thulamela,total,497237
+municipality,LIM344,,Makhado,< 18,183318
+municipality,LIM344,,Makhado,>= 65,22458
+municipality,LIM344,,Makhado,18 to 64,210952
+municipality,LIM344,,Makhado,total,416728
+municipality,LIM345,,Collins Chabane,< 18,163808
+municipality,LIM345,,Collins Chabane,>= 65,17591
+municipality,LIM345,,Collins Chabane,18 to 64,166576
+municipality,LIM345,,Collins Chabane,total,347975
+municipality,LIM351,,Blouberg,< 18,"87,806"
+municipality,LIM351,,Blouberg,>= 65,12058
+municipality,LIM351,,Blouberg,18 to 64,72737
+municipality,LIM351,,Blouberg,total,172601
+municipality,LIM353,,Molemole,< 18,58854
+municipality,LIM353,,Molemole,>= 65,9136
+municipality,LIM353,,Molemole,18 to 64,57338
+municipality,LIM353,,Molemole,total,125328
+municipality,LIM354,,Polokwane,< 18,316695
+municipality,LIM354,,Polokwane,>= 65,39326
+municipality,LIM354,,Polokwane,18 to 64,"441,106"
+municipality,LIM354,,Polokwane,total,797127
+municipality,LIM355,,Lepele-Nkumpi,< 18,107906
+municipality,LIM355,,Lepele-Nkumpi,>= 65,16541
+municipality,LIM355,,Lepele-Nkumpi,18 to 64,110933
+municipality,LIM355,,Lepele-Nkumpi,total,235380
+municipality,LIM361,,Thabazimbi,< 18,29326
+municipality,LIM361,,Thabazimbi,>= 65,2101
+municipality,LIM361,,Thabazimbi,18 to 64,64804
+municipality,LIM361,,Thabazimbi,total,96231
+municipality,LIM362,,Lephalale,< 18,49703
+municipality,LIM362,,Lephalale,>= 65,4778
+municipality,LIM362,,Lephalale,18 to 64,85759
+municipality,LIM362,,Lephalale,total,140240
+municipality,LIM366,,Bela-Bela,< 18,29795
+municipality,LIM366,,Bela-Bela,>= 65,4033
+municipality,LIM366,,Bela-Bela,18 to 64,42468
+municipality,LIM366,,Bela-Bela,total,76296
+municipality,LIM367,,Mogalakwena,< 18,154430
+municipality,LIM367,,Mogalakwena,>= 65,21620
+municipality,LIM367,,Mogalakwena,18 to 64,149241
+municipality,LIM367,,Mogalakwena,total,325291
+municipality,LIM368,,Modimolle/Mookgophong,< 18,45292
+municipality,LIM368,,Modimolle/Mookgophong,>= 65,5574
+municipality,LIM368,,Modimolle/Mookgophong,18 to 64,56833
+municipality,LIM368,,Modimolle/Mookgophong,total,107699
+municipality,LIM471,,Ephraim Mogale,< 18,55369
+municipality,LIM471,,Ephraim Mogale,>= 65,7156
+municipality,LIM471,,Ephraim Mogale,18 to 64,64644
+municipality,LIM471,,Ephraim Mogale,total,127169
+municipality,LIM472,,Elias Motsoaledi,< 18,117827
+municipality,LIM472,,Elias Motsoaledi,>= 65,15306
+municipality,LIM472,,Elias Motsoaledi,18 to 64,135122
+municipality,LIM472,,Elias Motsoaledi,total,268255
+municipality,LIM473,,Makhuduthamaga,< 18,132139
+municipality,LIM473,,Makhuduthamaga,>= 65,18827
+municipality,LIM473,,Makhuduthamaga,18 to 64,133469
+municipality,LIM473,,Makhuduthamaga,total,284435
+municipality,LIM476,,Greater Tubatse/Fetakgomo,< 18,196212
+municipality,LIM476,,Greater Tubatse/Fetakgomo,>= 65,21049
+municipality,LIM476,,Greater Tubatse/Fetakgomo,18 to 64,272641
+municipality,LIM476,,Greater Tubatse/Fetakgomo,total,489902
+municipality,MAN,,Mangaung,< 18,286640
+municipality,MAN,,Mangaung,>= 65,41768
+municipality,MAN,,Mangaung,18 to 64,459395
+municipality,MAN,,Mangaung,total,787803
+municipality,MP301,,Chief Albert Luthuli,< 18,82110
+municipality,MP301,,Chief Albert Luthuli,>= 65,10663
+municipality,MP301,,Chief Albert Luthuli,18 to 64,94856
+municipality,MP301,,Chief Albert Luthuli,total,187629
+municipality,MP302,,Msukaligwa,< 18,58341
+municipality,MP302,,Msukaligwa,>= 65,6807
+municipality,MP302,,Msukaligwa,18 to 64,99460
+municipality,MP302,,Msukaligwa,total,164608
+municipality,MP303,,Mkhondo,< 18,83047
+municipality,MP303,,Mkhondo,>= 65,8432
+municipality,MP303,,Mkhondo,18 to 64,97556
+municipality,MP303,,Mkhondo,total,189035
+municipality,MP304,,Dr Pixley Ka Isaka Seme,< 18,35041
+municipality,MP304,,Dr Pixley Ka Isaka Seme,>= 65,5257
+municipality,MP304,,Dr Pixley Ka Isaka Seme,18 to 64,45097
+municipality,MP304,,Dr Pixley Ka Isaka Seme,total,85395
+municipality,MP305,,Lekwa,< 18,41211
+municipality,MP305,,Lekwa,>= 65,6858
+municipality,MP305,,Lekwa,18 to 64,75350
+municipality,MP305,,Lekwa,total,123419
+municipality,MP306,,Dipaleseng,< 18,14804
+municipality,MP306,,Dipaleseng,>= 65,2821
+municipality,MP306,,Dipaleseng,18 to 64,27606
+municipality,MP306,,Dipaleseng,total,45231
+municipality,MP307,,Govan Mbeki,< 18,110600
+municipality,MP307,,Govan Mbeki,>= 65,14282
+municipality,MP307,,Govan Mbeki,18 to 64,215209
+municipality,MP307,,Govan Mbeki,total,340091
+municipality,MP311,,Victor Khanye,< 18,29238
+municipality,MP311,,Victor Khanye,>= 65,3254
+municipality,MP311,,Victor Khanye,18 to 64,51659
+municipality,MP311,,Victor Khanye,total,84151
+municipality,MP312,,Emalahleni,< 18,61982
+municipality,MP312,,Emalahleni,< 18,142523
+municipality,MP312,,Emalahleni,>= 65,13824
+municipality,MP312,,Emalahleni,>= 65,9179
+municipality,MP312,,Emalahleni,18 to 64,298882
+municipality,MP312,,Emalahleni,18 to 64,53372
+municipality,MP312,,Emalahleni,total,455229
+municipality,MP312,,Emalahleni,total,124533
+municipality,MP313,,Steve Tshwete,< 18,86676
+municipality,MP313,,Steve Tshwete,>= 65,10309
+municipality,MP313,,Steve Tshwete,18 to 64,181764
+municipality,MP313,,Steve Tshwete,total,278749
+municipality,MP314,,Emakhazeni,< 18,16943
+municipality,MP314,,Emakhazeni,>= 65,2311
+municipality,MP314,,Emakhazeni,18 to 64,28895
+municipality,MP314,,Emakhazeni,total,48149
+municipality,MP315,,Thembisile,< 18,130852
+municipality,MP315,,Thembisile,>= 65,13005
+municipality,MP315,,Thembisile,18 to 64,189474
+municipality,MP315,,Thembisile,total,333331
+municipality,MP316,,Dr JS Moroka,< 18,98819
+municipality,MP316,,Dr JS Moroka,>= 65,16297
+municipality,MP316,,Dr JS Moroka,18 to 64,130900
+municipality,MP316,,Dr JS Moroka,total,246016
+municipality,MP321,,Thaba Chweu,< 18,35210
+municipality,MP321,,Thaba Chweu,>= 65,4882
+municipality,MP321,,Thaba Chweu,18 to 64,61804
+municipality,MP321,,Thaba Chweu,total,101896
+municipality,MP324,,Nkomazi,< 18,193484
+municipality,MP324,,Nkomazi,>= 65,14940
+municipality,MP324,,Nkomazi,18 to 64,202482
+municipality,MP324,,Nkomazi,total,410906
+municipality,MP325,,Bushbuckridge,< 18,264026
+municipality,MP325,,Bushbuckridge,>= 65,26524
+municipality,MP325,,Bushbuckridge,18 to 64,255666
+municipality,MP325,,Bushbuckridge,total,546216
+municipality,MP326,,Mbombela City,< 18,273070
+municipality,MP326,,Mbombela City,>= 65,27304
+municipality,MP326,,Mbombela City,18 to 64,395539
+municipality,MP326,,Mbombela City,total,695913
+municipality,NC061,,Richtersveld,< 18,3482
+municipality,NC061,,Richtersveld,>= 65,898
+municipality,NC061,,Richtersveld,18 to 64,8107
+municipality,NC061,,Richtersveld,total,12487
+municipality,NC062,,Nama Khoi,< 18,13061
+municipality,NC062,,Nama Khoi,>= 65,4867
+municipality,NC062,,Nama Khoi,18 to 64,28584
+municipality,NC062,,Nama Khoi,total,46512
+municipality,NC064,,Kamiesberg,< 18,2750
+municipality,NC064,,Kamiesberg,>= 65,1131
+municipality,NC064,,Kamiesberg,18 to 64,5724
+municipality,NC064,,Kamiesberg,total,9605
+municipality,NC065,,Hantam,< 18,6905
+municipality,NC065,,Hantam,>= 65,1920
+municipality,NC065,,Hantam,18 to 64,12715
+municipality,NC065,,Hantam,total,21540
+municipality,NC066,,Karoo Hoogland,< 18,4034
+municipality,NC066,,Karoo Hoogland,>= 65,1429
+municipality,NC066,,Karoo Hoogland,18 to 64,7546
+municipality,NC066,,Karoo Hoogland,total,13009
+municipality,NC067,,Khai-Ma,< 18,3543
+municipality,NC067,,Khai-Ma,>= 65,761
+municipality,NC067,,Khai-Ma,18 to 64,8029
+municipality,NC067,,Khai-Ma,total,12333
+municipality,NC071,,Ubuntu,< 18,7519
+municipality,NC071,,Ubuntu,>= 65,1063
+municipality,NC071,,Ubuntu,18 to 64,10890
+municipality,NC071,,Ubuntu,total,19472
+municipality,NC072,,Umsobomvu,< 18,10786
+municipality,NC072,,Umsobomvu,>= 65,1828
+municipality,NC072,,Umsobomvu,18 to 64,18269
+municipality,NC072,,Umsobomvu,total,30883
+municipality,NC073,,Emthanjeni,< 18,16512
+municipality,NC073,,Emthanjeni,>= 65,2623
+municipality,NC073,,Emthanjeni,18 to 64,26270
+municipality,NC073,,Emthanjeni,total,45405
+municipality,NC074,,Kareeberg,< 18,4033
+municipality,NC074,,Kareeberg,>= 65,993
+municipality,NC074,,Kareeberg,18 to 64,7746
+municipality,NC074,,Kareeberg,total,12772
+municipality,NC075,,Renosterberg,< 18,4376
+municipality,NC075,,Renosterberg,>= 65,725
+municipality,NC075,,Renosterberg,18 to 64,6717
+municipality,NC075,,Renosterberg,total,11818
+municipality,NC076,,Thembelihle,< 18,5429
+municipality,NC076,,Thembelihle,>= 65,"1,054"
+municipality,NC076,,Thembelihle,18 to 64,9747
+municipality,NC076,,Thembelihle,total,16230
+municipality,NC077,,Siyathemba,< 18,7382
+municipality,NC077,,Siyathemba,>= 65,1383
+municipality,NC077,,Siyathemba,18 to 64,14310
+municipality,NC077,,Siyathemba,total,23075
+municipality,NC078,,Siyancuma,< 18,13295
+municipality,NC078,,Siyancuma,>= 65,2155
+municipality,NC078,,Siyancuma,18 to 64,20491
+municipality,NC078,,Siyancuma,total,35941
+municipality,NC082,,Kai !Garib,< 18,22306
+municipality,NC082,,Kai !Garib,>= 65,3332
+municipality,NC082,,Kai !Garib,18 to 64,43291
+municipality,NC082,,Kai !Garib,total,68929
+municipality,NC084,,!Kheis,< 18,7142
+municipality,NC084,,!Kheis,>= 65,755
+municipality,NC084,,!Kheis,18 to 64,8668
+municipality,NC084,,!Kheis,total,16565
+municipality,NC085,,Tsantsabane,< 18,13365
+municipality,NC085,,Tsantsabane,>= 65,1651
+municipality,NC085,,Tsantsabane,18 to 64,24329
+municipality,NC085,,Tsantsabane,total,39345
+municipality,NC086,,Kgatelopele,< 18,7286
+municipality,NC086,,Kgatelopele,>= 65,915
+municipality,NC086,,Kgatelopele,18 to 64,12490
+municipality,NC086,,Kgatelopele,total,20691
+municipality,NC087,,Dawid Kruiper,< 18,39647
+municipality,NC087,,Dawid Kruiper,>= 65,6019
+municipality,NC087,,Dawid Kruiper,18 to 64,61496
+municipality,NC087,,Dawid Kruiper,total,107162
+municipality,NC091,,Sol Plaatjie,< 18,86717
+municipality,NC091,,Sol Plaatjie,>= 65,20468
+municipality,NC091,,Sol Plaatjie,18 to 64,147855
+municipality,NC091,,Sol Plaatjie,total,255040
+municipality,NC092,,Dikgatlong,< 18,18314
+municipality,NC092,,Dikgatlong,>= 65,3793
+municipality,NC092,,Dikgatlong,18 to 64,26366
+municipality,NC092,,Dikgatlong,total,48473
+municipality,NC093,,Magareng,< 18,9077
+municipality,NC093,,Magareng,>= 65,2272
+municipality,NC093,,Magareng,18 to 64,12710
+municipality,NC093,,Magareng,total,24059
+municipality,NC094,,Phokwane,< 18,22745
+municipality,NC094,,Phokwane,>= 65,5193
+municipality,NC094,,Phokwane,18 to 64,32230
+municipality,NC094,,Phokwane,total,60168
+municipality,NC451,,Joe Morolong,< 18,38795
+municipality,NC451,,Joe Morolong,>= 65,5750
+municipality,NC451,,Joe Morolong,18 to 64,39656
+municipality,NC451,,Joe Morolong,total,84201
+municipality,NC452,,Ga-Segonyana,< 18,40677
+municipality,NC452,,Ga-Segonyana,>= 65,4545
+municipality,NC452,,Ga-Segonyana,18 to 64,59186
+municipality,NC452,,Ga-Segonyana,total,104408
+municipality,NC453,,Gamagara,< 18,17438
+municipality,NC453,,Gamagara,>= 65,1236
+municipality,NC453,,Gamagara,18 to 64,34982
+municipality,NC453,,Gamagara,total,53656
+municipality,NMA,,Nelson Mandela Bay,< 18,461562
+municipality,NMA,,Nelson Mandela Bay,>= 65,74037
+municipality,NMA,,Nelson Mandela Bay,18 to 64,727452
+municipality,NMA,,Nelson Mandela Bay,total,1263051
+municipality,NW371,,Moretele,< 18,80650
+municipality,NW371,,Moretele,>= 65,14996
+municipality,NW371,,Moretele,18 to 64,95660
+municipality,NW371,,Moretele,total,191306
+municipality,NW372,,Madibeng,< 18,190218
+municipality,NW372,,Madibeng,>= 65,25294
+municipality,NW372,,Madibeng,18 to 64,320597
+municipality,NW372,,Madibeng,total,536109
+municipality,NW373,,Rustenburg,< 18,212969
+municipality,NW373,,Rustenburg,>= 65,18816
+municipality,NW373,,Rustenburg,18 to 64,394737
+municipality,NW373,,Rustenburg,total,626522
+municipality,NW374,,Kgetlengrivier,< 18,23609
+municipality,NW374,,Kgetlengrivier,>= 65,3214
+municipality,NW374,,Kgetlengrivier,18 to 64,32739
+municipality,NW374,,Kgetlengrivier,total,59562
+municipality,NW375,,Moses Kotane,< 18,95681
+municipality,NW375,,Moses Kotane,>= 65,17720
+municipality,NW375,,Moses Kotane,18 to 64,130248
+municipality,NW375,,Moses Kotane,total,243649
+municipality,NW381,,Ratlou,< 18,45281
+municipality,NW381,,Ratlou,>= 65,7157
+municipality,NW381,,Ratlou,18 to 64,53670
+municipality,NW381,,Ratlou,total,106108
+municipality,NW382,,Tswaing,< 18,52517
+municipality,NW382,,Tswaing,>= 65,6778
+municipality,NW382,,Tswaing,18 to 64,69757
+municipality,NW382,,Tswaing,total,129052
+municipality,NW383,,Mafikeng,< 18,106286
+municipality,NW383,,Mafikeng,>= 65,13415
+municipality,NW383,,Mafikeng,18 to 64,194693
+municipality,NW383,,Mafikeng,total,314394
+municipality,NW384,,Ditsobotla,< 18,65567
+municipality,NW384,,Ditsobotla,>= 65,8689
+municipality,NW384,,Ditsobotla,18 to 64,107609
+municipality,NW384,,Ditsobotla,total,181865
+municipality,NW385,,Ramotshere Moiloa,< 18,56941
+municipality,NW385,,Ramotshere Moiloa,>= 65,10384
+municipality,NW385,,Ramotshere Moiloa,18 to 64,90366
+municipality,NW385,,Ramotshere Moiloa,total,157691
+municipality,NW392,,Naledi,< 18,25764
+municipality,NW392,,Naledi,>= 65,3180
+municipality,NW392,,Naledi,18 to 64,39859
+municipality,NW392,,Naledi,total,68803
+municipality,NW393,,Mamusa,< 18,28807
+municipality,NW393,,Mamusa,>= 65,2866
+municipality,NW393,,Mamusa,18 to 64,32328
+municipality,NW393,,Mamusa,total,64001
+municipality,NW394,,Greater Taung,< 18,73664
+municipality,NW394,,Greater Taung,>= 65,12563
+municipality,NW394,,Greater Taung,18 to 64,81601
+municipality,NW394,,Greater Taung,total,167828
+municipality,NW396,,Lekwa-Teemane,< 18,22231
+municipality,NW396,,Lekwa-Teemane,>= 65,3115
+municipality,NW396,,Lekwa-Teemane,18 to 64,30679
+municipality,NW396,,Lekwa-Teemane,total,56025
+municipality,NW397,,Kagisano/Molopo,< 18,46265
+municipality,NW397,,Kagisano/Molopo,>= 65,5661
+municipality,NW397,,Kagisano/Molopo,18 to 64,50776
+municipality,NW397,,Kagisano/Molopo,total,102702
+municipality,NW403,,City of Matlosana,< 18,149376
+municipality,NW403,,City of Matlosana,>= 65,20349
+municipality,NW403,,City of Matlosana,18 to 64,247556
+municipality,NW403,,City of Matlosana,total,417281
+municipality,NW404,,Maquassi Hills,< 18,33559
+municipality,NW404,,Maquassi Hills,>= 65,3645
+municipality,NW404,,Maquassi Hills,18 to 64,44808
+municipality,NW404,,Maquassi Hills,total,82012
+municipality,NW405,,Ventersdorp/Tlokwe,< 18,85159
+municipality,NW405,,Ventersdorp/Tlokwe,>= 65,11877
+municipality,NW405,,Ventersdorp/Tlokwe,18 to 64,146492
+municipality,NW405,,Ventersdorp/Tlokwe,total,243528
+municipality,TSH,,City of Tshwane,< 18,1021754
+municipality,TSH,,City of Tshwane,>= 65,175509
+municipality,TSH,,City of Tshwane,18 to 64,2077888
+municipality,TSH,,City of Tshwane,total,3275151
+municipality,WC011,,Matzikama,< 18,24612
+municipality,WC011,,Matzikama,>= 65,4163
+municipality,WC011,,Matzikama,18 to 64,42271
+municipality,WC011,,Matzikama,total,71046
+municipality,WC012,,Cederberg,< 18,17380
+municipality,WC012,,Cederberg,>= 65,3185
+municipality,WC012,,Cederberg,18 to 64,32384
+municipality,WC012,,Cederberg,total,52949
+municipality,WC013,,Bergrivier,< 18,22098
+municipality,WC013,,Bergrivier,>= 65,4549
+municipality,WC013,,Bergrivier,18 to 64,40828
+municipality,WC013,,Bergrivier,total,67475
+municipality,WC014,,Saldanha Bay,< 18,"34,889"
+municipality,WC014,,Saldanha Bay,>= 65,6073
+municipality,WC014,,Saldanha Bay,18 to 64,70211
+municipality,WC014,,Saldanha Bay,total,"111,173"
+municipality,WC015,,Swartland,< 18,43708
+municipality,WC015,,Swartland,>= 65,7421
+municipality,WC015,,Swartland,18 to 64,82633
+municipality,WC015,,Swartland,total,133762
+municipality,WC022,,Witzenberg,< 18,43957
+municipality,WC022,,Witzenberg,>= 65,4621
+municipality,WC022,,Witzenberg,18 to 64,81969
+municipality,WC022,,Witzenberg,total,130547
+municipality,WC023,,Drakenstein,< 18,91394
+municipality,WC023,,Drakenstein,>= 65,12969
+municipality,WC023,,Drakenstein,18 to 64,175832
+municipality,WC023,,Drakenstein,total,280195
+municipality,WC024,,Stellenbosch,< 18,53568
+municipality,WC024,,Stellenbosch,>= 65,7140
+municipality,WC024,,Stellenbosch,18 to 64,112489
+municipality,WC024,,Stellenbosch,total,173197
+municipality,WC025,,Breede Valley,< 18,64575
+municipality,WC025,,Breede Valley,>= 65,8215
+municipality,WC025,,Breede Valley,18 to 64,103788
+municipality,WC025,,Breede Valley,total,176578
+municipality,WC026,,Langeberg,< 18,39417
+municipality,WC026,,Langeberg,>= 65,5450
+municipality,WC026,,Langeberg,18 to 64,60616
+municipality,WC026,,Langeberg,total,105483
+municipality,WC031,,Theewaterskloof,< 18,40575
+municipality,WC031,,Theewaterskloof,>= 65,5588
+municipality,WC031,,Theewaterskloof,18 to 64,71004
+municipality,WC031,,Theewaterskloof,total,117167
+municipality,WC032,,Overstrand,< 18,28156
+municipality,WC032,,Overstrand,>= 65,11123
+municipality,WC032,,Overstrand,18 to 64,54129
+municipality,WC032,,Overstrand,total,93408
+municipality,WC033,,Cape Agulhas,< 18,10953
+municipality,WC033,,Cape Agulhas,>= 65,2824
+municipality,WC033,,Cape Agulhas,18 to 64,22223
+municipality,WC033,,Cape Agulhas,total,36000
+municipality,WC034,,Swellendam,< 18,14542
+municipality,WC034,,Swellendam,>= 65,2575
+municipality,WC034,,Swellendam,18 to 64,23095
+municipality,WC034,,Swellendam,total,40212
+municipality,WC041,,Kannaland,< 18,8173
+municipality,WC041,,Kannaland,>= 65,1778
+municipality,WC041,,Kannaland,18 to 64,14217
+municipality,WC041,,Kannaland,total,24168
+municipality,WC042,,Hessequa,< 18,16279
+municipality,WC042,,Hessequa,>= 65,"6,095"
+municipality,WC042,,Hessequa,18 to 64,31863
+municipality,WC042,,Hessequa,total,54237
+municipality,WC043,,Mossel Bay,< 18,28403
+municipality,WC043,,Mossel Bay,>= 65,10137
+municipality,WC043,,Mossel Bay,18 to 64,"55,595"
+municipality,WC043,,Mossel Bay,total,94135
+municipality,WC044,,George,< 18,68862
+municipality,WC044,,George,>= 65,13207
+municipality,WC044,,George,18 to 64,126168
+municipality,WC044,,George,total,208237
+municipality,WC045,,Oudtshoorn,< 18,34623
+municipality,WC045,,Oudtshoorn,>= 65,7003
+municipality,WC045,,Oudtshoorn,18 to 64,55883
+municipality,WC045,,Oudtshoorn,total,97509
+municipality,WC047,,Bitou,< 18,18647
+municipality,WC047,,Bitou,>= 65,3612
+municipality,WC047,,Bitou,18 to 64,36897
+municipality,WC047,,Bitou,total,59156
+municipality,WC048,,Knysna,< 18,23732
+municipality,WC048,,Knysna,>= 65,6033
+municipality,WC048,,Knysna,18 to 64,44069
+municipality,WC048,,Knysna,total,73834
+municipality,WC051,,Laingsburg,< 18,2624
+municipality,WC051,,Laingsburg,>= 65,715
+municipality,WC051,,Laingsburg,18 to 64,5556
+municipality,WC051,,Laingsburg,total,8895
+municipality,WC052,,Prince Albert,< 18,4638
+municipality,WC052,,Prince Albert,>= 65,1069
+municipality,WC052,,Prince Albert,18 to 64,8565
+municipality,WC052,,Prince Albert,total,14272
+municipality,WC053,,Beaufort West,< 18,18589
+municipality,WC053,,Beaufort West,>= 65,3550
+municipality,WC053,,Beaufort West,18 to 64,28941
+municipality,WC053,,Beaufort West,total,51080
+country,ZA,,South Africa,< 18,20874659
+country,ZA,,South Africa,>= 65,2952428
+country,ZA,,South Africa,18 to 64,31826567
+country,ZA,,South Africa,total,55653654

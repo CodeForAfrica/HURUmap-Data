@@ -1,0 +1,289 @@
+geo_level,geo_code,geo_version,name,variable,value
+county,30,,Baringo,Employer Contributory,4
+county,30,,Baringo,Private- Non Contributory,0
+county,30,,Baringo,Employer Non Contributory,0
+county,30,,Baringo,Private Contributory,7.1
+county,30,,Baringo,NHIF,96.3
+county,30,,Baringo,Other,1.4
+county,36,,Bomet,Employer Contributory,0.3
+county,36,,Bomet,Private- Non Contributory,0
+county,36,,Bomet,Employer Non Contributory,0.6
+county,36,,Bomet,Private Contributory,2.4
+county,36,,Bomet,NHIF,97.9
+county,36,,Bomet,Other,0
+county,39,,Bungoma,Employer Contributory,2.2
+county,39,,Bungoma,Private- Non Contributory,0
+county,39,,Bungoma,Private Contributory,0.4
+county,39,,Bungoma,NHIF,71.7
+county,39,,Bungoma,Employer Non Contributory,0
+county,39,,Bungoma,Other,27.6
+county,40,,Busia,Private Contributory,1.7
+county,40,,Busia,Private- Non Contributory,4.9
+county,40,,Busia,Employer Contributory,5.5
+county,40,,Busia,Employer Non Contributory,2.3
+county,40,,Busia,Other,0
+county,40,,Busia,NHIF,96.4
+county,28,,Elgeyo / Marakwet,NHIF,97.6
+county,28,,Elgeyo / Marakwet,Employer Contributory,1.6
+county,28,,Elgeyo / Marakwet,Private Contributory,3.2
+county,28,,Elgeyo / Marakwet,Employer Non Contributory,0
+county,28,,Elgeyo / Marakwet,Other,0
+county,28,,Elgeyo / Marakwet,Private- Non Contributory,1.8
+county,14,,Embu,Private Contributory,2.9
+county,14,,Embu,NHIF,94.5
+county,14,,Embu,Employer Contributory,3.3
+county,14,,Embu,Other,4.5
+county,14,,Embu,Private- Non Contributory,0.7
+county,14,,Embu,Employer Non Contributory,0.1
+county,7,,Garissa,Private- Non Contributory,0.9
+county,7,,Garissa,NHIF,89.5
+county,7,,Garissa,Private Contributory,0
+county,7,,Garissa,Other,0
+county,7,,Garissa,Employer Contributory,15.4
+county,7,,Garissa,Employer Non Contributory,0
+county,43,,Homa Bay,Other,3
+county,43,,Homa Bay,Private Contributory,1.6
+county,43,,Homa Bay,NHIF,97.8
+county,43,,Homa Bay,Employer Non Contributory,0
+county,43,,Homa Bay,Private- Non Contributory,1.4
+county,43,,Homa Bay,Employer Contributory,6
+county,11,,Isiolo,Private Contributory,6.9
+county,11,,Isiolo,Private- Non Contributory,0
+county,11,,Isiolo,Employer Contributory,0
+county,11,,Isiolo,Other,0
+county,11,,Isiolo,NHIF,100
+county,11,,Isiolo,Employer Non Contributory,6.6
+county,34,,Kajiado,Private- Non Contributory,0
+county,34,,Kajiado,Employer Contributory,2.3
+county,34,,Kajiado,Employer Non Contributory,7.5
+county,34,,Kajiado,NHIF,96.5
+county,34,,Kajiado,Private Contributory,3.1
+county,34,,Kajiado,Other,0
+county,37,,Kakamega,Employer Contributory,1.2
+county,37,,Kakamega,Other,1.1
+county,37,,Kakamega,Private- Non Contributory,0.2
+county,37,,Kakamega,Employer Non Contributory,1.5
+county,37,,Kakamega,NHIF,97.6
+county,37,,Kakamega,Private Contributory,0.6
+country,KE,,Kenya,NHIF,93.9
+country,KE,,Kenya,Private Contributory,4.2
+country,KE,,Kenya,Employer Contributory,6.2
+country,KE,,Kenya,Employer Non Contributory,1
+country,KE,,Kenya,Private- Non Contributory,1
+country,KE,,Kenya,Other,1.7
+county,35,,Kericho,Private Contributory,2.2
+county,35,,Kericho,Private- Non Contributory,0
+county,35,,Kericho,Employer Contributory,14.4
+county,35,,Kericho,Employer Non Contributory,1.3
+county,35,,Kericho,NHIF,96.2
+county,35,,Kericho,Other,0
+county,22,,Kiambu,Private Contributory,2
+county,22,,Kiambu,Employer Non Contributory,0
+county,22,,Kiambu,Other,0
+county,22,,Kiambu,Private- Non Contributory,0
+county,22,,Kiambu,NHIF,97.1
+county,22,,Kiambu,Employer Contributory,10.8
+county,3,,Kilifi,Private- Non Contributory,1
+county,3,,Kilifi,Other,0
+county,3,,Kilifi,Private Contributory,1.3
+county,3,,Kilifi,Employer Contributory,10.5
+county,3,,Kilifi,NHIF,95.9
+county,3,,Kilifi,Employer Non Contributory,0.5
+county,20,,Kirinyaga,Private- Non Contributory,0.5
+county,20,,Kirinyaga,Other,0.3
+county,20,,Kirinyaga,Private Contributory,26.4
+county,20,,Kirinyaga,NHIF,77.5
+county,20,,Kirinyaga,Employer Non Contributory,0.6
+county,20,,Kirinyaga,Employer Contributory,1.8
+county,45,,Kisii,NHIF,97.2
+county,45,,Kisii,Private- Non Contributory,0
+county,45,,Kisii,Employer Contributory,0
+county,45,,Kisii,Employer Non Contributory,0
+county,45,,Kisii,Other,0.4
+county,45,,Kisii,Private Contributory,3.2
+county,42,,Kisumu,Private- Non Contributory,0.2
+county,42,,Kisumu,Private Contributory,1.9
+county,42,,Kisumu,Other,5.7
+county,42,,Kisumu,NHIF,93.1
+county,42,,Kisumu,Employer Contributory,11
+county,42,,Kisumu,Employer Non Contributory,0.2
+county,15,,Kitui,Employer Non Contributory,1.3
+county,15,,Kitui,Employer Contributory,8
+county,15,,Kitui,Private- Non Contributory,5.9
+county,15,,Kitui,Other,0
+county,15,,Kitui,NHIF,86.1
+county,15,,Kitui,Private Contributory,1.5
+county,2,,Kwale,Employer Non Contributory,2.1
+county,2,,Kwale,Employer Contributory,0.3
+county,2,,Kwale,NHIF,95.9
+county,2,,Kwale,Other,0
+county,2,,Kwale,Private Contributory,10.1
+county,2,,Kwale,Private- Non Contributory,1.2
+county,31,,Laikipia,Other,0
+county,31,,Laikipia,Private- Non Contributory,0.3
+county,31,,Laikipia,NHIF,98.4
+county,31,,Laikipia,Private Contributory,0.4
+county,31,,Laikipia,Employer Non Contributory,0
+county,31,,Laikipia,Employer Contributory,1.5
+county,5,,Lamu,NHIF,97.5
+county,5,,Lamu,Private- Non Contributory,0.3
+county,5,,Lamu,Other,0
+county,5,,Lamu,Employer Non Contributory,0.8
+county,5,,Lamu,Private Contributory,2.4
+county,5,,Lamu,Employer Contributory,2.4
+county,16,,Machakos,Employer Non Contributory,0.9
+county,16,,Machakos,Employer Contributory,1.8
+county,16,,Machakos,Other,0
+county,16,,Machakos,Private Contributory,0.5
+county,16,,Machakos,Private- Non Contributory,4.6
+county,16,,Machakos,NHIF,99.1
+county,17,,Makueni,NHIF,97.9
+county,17,,Makueni,Employer Contributory,8.4
+county,17,,Makueni,Private- Non Contributory,0.7
+county,17,,Makueni,Private Contributory,2.5
+county,17,,Makueni,Employer Non Contributory,2
+county,17,,Makueni,Other,0
+county,9,,Mandera,Employer Contributory,3.1
+county,9,,Mandera,Private- Non Contributory,0
+county,9,,Mandera,Private Contributory,2.5
+county,9,,Mandera,Other,0
+county,9,,Mandera,Employer Non Contributory,0
+county,9,,Mandera,NHIF,91.3
+county,10,,Marsabit,Private- Non Contributory,0
+county,10,,Marsabit,Private Contributory,0
+county,10,,Marsabit,Employer Non Contributory,0
+county,10,,Marsabit,Other,0
+county,10,,Marsabit,Employer Contributory,26.1
+county,10,,Marsabit,NHIF,85.6
+county,12,,Meru,Private- Non Contributory,0
+county,12,,Meru,Other,4.6
+county,12,,Meru,NHIF,91.1
+county,12,,Meru,Employer Contributory,0.7
+county,12,,Meru,Employer Non Contributory,0
+county,12,,Meru,Private Contributory,6.4
+county,44,,Migori,Private Contributory,1.4
+county,44,,Migori,Private- Non Contributory,0
+county,44,,Migori,Employer Non Contributory,0.2
+county,44,,Migori,NHIF,97.1
+county,44,,Migori,Other,0
+county,44,,Migori,Employer Contributory,2.9
+county,1,,Mombasa,Employer Non Contributory,2.3
+county,1,,Mombasa,Private Contributory,3.7
+county,1,,Mombasa,NHIF,96.8
+county,1,,Mombasa,Private- Non Contributory,3.9
+county,1,,Mombasa,Other,1.4
+county,1,,Mombasa,Employer Contributory,4.3
+county,21,,Murang'a,Employer Contributory,0.4
+county,21,,Murang'a,Private Contributory,18.1
+county,21,,Murang'a,Employer Non Contributory,3.4
+county,21,,Murang'a,Other,3.8
+county,21,,Murang'a,Private- Non Contributory,0
+county,21,,Murang'a,NHIF,81
+county,47,,Nairobi City,Employer Contributory,12.9
+county,47,,Nairobi City,Employer Non Contributory,0.7
+county,47,,Nairobi City,Private- Non Contributory,0.3
+county,47,,Nairobi City,Other,0.6
+county,47,,Nairobi City,Private Contributory,1.4
+county,47,,Nairobi City,NHIF,96.3
+county,32,,Nakuru,Private Contributory,5.4
+county,32,,Nakuru,Private- Non Contributory,0.5
+county,32,,Nakuru,NHIF,96.1
+county,32,,Nakuru,Employer Non Contributory,0.6
+county,32,,Nakuru,Employer Contributory,2.8
+county,32,,Nakuru,Other,1.6
+county,29,,Nandi,NHIF,95.4
+county,29,,Nandi,Private- Non Contributory,0.5
+county,29,,Nandi,Employer Non Contributory,0.2
+county,29,,Nandi,Private Contributory,3.2
+county,29,,Nandi,Other,0.7
+county,29,,Nandi,Employer Contributory,2.1
+county,33,,Narok,NHIF,90.7
+county,33,,Narok,Employer Non Contributory,0
+county,33,,Narok,Employer Contributory,2.8
+county,33,,Narok,Private Contributory,2.3
+county,33,,Narok,Other,0
+county,33,,Narok,Private- Non Contributory,0
+county,46,,Nyamira,Private Contributory,14.4
+county,46,,Nyamira,Other,0
+county,46,,Nyamira,Employer Contributory,5.1
+county,46,,Nyamira,Employer Non Contributory,1.5
+county,46,,Nyamira,NHIF,89.5
+county,46,,Nyamira,Private- Non Contributory,0.1
+county,18,,Nyandarua,NHIF,95.6
+county,18,,Nyandarua,Other,0
+county,18,,Nyandarua,Employer Contributory,2.5
+county,18,,Nyandarua,Private Contributory,2.4
+county,18,,Nyandarua,Private- Non Contributory,0
+county,18,,Nyandarua,Employer Non Contributory,0
+county,19,,Nyeri,Private Contributory,13.4
+county,19,,Nyeri,Employer Non Contributory,0
+county,19,,Nyeri,Private- Non Contributory,7
+county,19,,Nyeri,Other,0.2
+county,19,,Nyeri,Employer Contributory,0
+county,19,,Nyeri,NHIF,81.6
+county,25,,Samburu,Private- Non Contributory,2.7
+county,25,,Samburu,Employer Contributory,4
+county,25,,Samburu,Other,0
+county,25,,Samburu,Private Contributory,0
+county,25,,Samburu,Employer Non Contributory,0
+county,25,,Samburu,NHIF,94.3
+county,41,,Siaya,Employer Contributory,9
+county,41,,Siaya,Employer Non Contributory,0
+county,41,,Siaya,Private Contributory,11.8
+county,41,,Siaya,Other,0
+county,41,,Siaya,NHIF,85.5
+county,41,,Siaya,Private- Non Contributory,9.4
+county,6,,Taita / Taveta,Employer Non Contributory,0.9
+county,6,,Taita / Taveta,Private Contributory,0.9
+county,6,,Taita / Taveta,Employer Contributory,4.8
+county,6,,Taita / Taveta,Other,8.3
+county,6,,Taita / Taveta,Private- Non Contributory,0.8
+county,6,,Taita / Taveta,NHIF,87
+county,4,,Tana River,Private Contributory,17.6
+county,4,,Tana River,Private- Non Contributory,0
+county,4,,Tana River,NHIF,97.7
+county,4,,Tana River,Other,0.4
+county,4,,Tana River,Employer Non Contributory,1.4
+county,4,,Tana River,Employer Contributory,3.9
+county,13,,Tharaka-Nithi,Employer Contributory,2.4
+county,13,,Tharaka-Nithi,NHIF,93.6
+county,13,,Tharaka-Nithi,Employer Non Contributory,0.3
+county,13,,Tharaka-Nithi,Private Contributory,2.9
+county,13,,Tharaka-Nithi,Other,0
+county,13,,Tharaka-Nithi,Private- Non Contributory,3.9
+county,26,,Trans Nzoia,Employer Non Contributory,0.7
+county,26,,Trans Nzoia,Employer Contributory,0.3
+county,26,,Trans Nzoia,Private Contributory,14.3
+county,26,,Trans Nzoia,Private- Non Contributory,4.9
+county,26,,Trans Nzoia,Other,0
+county,26,,Trans Nzoia,NHIF,98
+county,23,,Turkana,Employer Non Contributory,0
+county,23,,Turkana,Other,54
+county,23,,Turkana,Private- Non Contributory,3
+county,23,,Turkana,NHIF,45.8
+county,23,,Turkana,Private Contributory,3.4
+county,23,,Turkana,Employer Contributory,1
+county,27,,Uasin Gishu,Other,0.7
+county,27,,Uasin Gishu,NHIF,95.1
+county,27,,Uasin Gishu,Employer Contributory,10.1
+county,27,,Uasin Gishu,Private Contributory,1.8
+county,27,,Uasin Gishu,Employer Non Contributory,2.3
+county,27,,Uasin Gishu,Private- Non Contributory,1.5
+county,38,,Vihiga,Employer Contributory,1
+county,38,,Vihiga,Other,0
+county,38,,Vihiga,Private- Non Contributory,1.8
+county,38,,Vihiga,NHIF,94.8
+county,38,,Vihiga,Private Contributory,3.1
+county,38,,Vihiga,Employer Non Contributory,2.7
+county,8,,Wajir,Private- Non Contributory,0
+county,8,,Wajir,Employer Non Contributory,0
+county,8,,Wajir,NHIF,90.8
+county,8,,Wajir,Employer Contributory,0
+county,8,,Wajir,Private Contributory,21.4
+county,8,,Wajir,Other,0
+county,24,,West Pokot,Employer Non Contributory,0
+county,24,,West Pokot,Private Contributory,0
+county,24,,West Pokot,Other,0
+county,24,,West Pokot,Employer Contributory,0.9
+county,24,,West Pokot,Private- Non Contributory,4.4
+county,24,,West Pokot,NHIF,99.6

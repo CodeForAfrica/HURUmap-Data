@@ -1,0 +1,15 @@
+{
+  "name": "hurumap-data",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:CodeForAfrica/HURUmap-Data.git",
+  "author": "karimkawambwa <4308339+karimkawambwa@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "sequalize": "node index.js"
+  },
+  "dependencies": {
+    "knex": "^0.20.13",
+    "pluralize": "^8.0.0"
+  }
+}

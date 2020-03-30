@@ -1,0 +1,337 @@
+geo_level,geo_code,geo_version,name,variable,value
+county,30,,Baringo,Tuberculosis Treatment,0
+county,30,,Baringo,HIV/AIDS,0
+county,30,,Baringo,Malaria,6.3
+county,30,,Baringo,Not Stated,0
+county,30,,Baringo,Maternal & Child Health Care (MCH),71.2
+county,30,,Baringo,Other,18.7
+county,30,,Baringo,Nutrition Feeding,3.9
+county,36,,Bomet,Other,21.9
+county,36,,Bomet,Not Stated,0
+county,36,,Bomet,Maternal & Child Health Care (MCH),5.1
+county,36,,Bomet,Tuberculosis Treatment,0.6
+county,36,,Bomet,Nutrition Feeding,0.3
+county,36,,Bomet,HIV/AIDS,1.2
+county,36,,Bomet,Malaria,71
+county,39,,Bungoma,Nutrition Feeding,0
+county,39,,Bungoma,Malaria,3.3
+county,39,,Bungoma,Tuberculosis Treatment,0.2
+county,39,,Bungoma,Maternal & Child Health Care (MCH),24.8
+county,39,,Bungoma,Other,61.8
+county,39,,Bungoma,HIV/AIDS,9.9
+county,39,,Bungoma,Not Stated,0
+county,40,,Busia,HIV/AIDS,5.1
+county,40,,Busia,Maternal & Child Health Care (MCH),28.4
+county,40,,Busia,Malaria,23.9
+county,40,,Busia,Nutrition Feeding,0
+county,40,,Busia,Other,42.4
+county,40,,Busia,Not Stated,0
+county,40,,Busia,Tuberculosis Treatment,0.3
+county,28,,Elgeyo / Marakwet,Malaria,8
+county,28,,Elgeyo / Marakwet,Not Stated,0
+county,28,,Elgeyo / Marakwet,Maternal & Child Health Care (MCH),11.1
+county,28,,Elgeyo / Marakwet,Tuberculosis Treatment,0.9
+county,28,,Elgeyo / Marakwet,Other,79
+county,28,,Elgeyo / Marakwet,Nutrition Feeding,0.9
+county,28,,Elgeyo / Marakwet,HIV/AIDS,0
+county,14,,Embu,Maternal & Child Health Care (MCH),43
+county,14,,Embu,Not Stated,0
+county,14,,Embu,Other,26.8
+county,14,,Embu,Tuberculosis Treatment,0
+county,14,,Embu,HIV/AIDS,4
+county,14,,Embu,Malaria,24.1
+county,14,,Embu,Nutrition Feeding,2.1
+county,7,,Garissa,HIV/AIDS,0
+county,7,,Garissa,Other,27.1
+county,7,,Garissa,Malaria,39.8
+county,7,,Garissa,Not Stated,0
+county,7,,Garissa,Tuberculosis Treatment,0
+county,7,,Garissa,Maternal & Child Health Care (MCH),26.6
+county,7,,Garissa,Nutrition Feeding,6.4
+county,43,,Homa Bay,Nutrition Feeding,1
+county,43,,Homa Bay,Maternal & Child Health Care (MCH),6.7
+county,43,,Homa Bay,Tuberculosis Treatment,0.1
+county,43,,Homa Bay,Other,65.7
+county,43,,Homa Bay,Malaria,25.8
+county,43,,Homa Bay,Not Stated,0
+county,43,,Homa Bay,HIV/AIDS,0.7
+county,11,,Isiolo,Nutrition Feeding,0.2
+county,11,,Isiolo,HIV/AIDS,0.6
+county,11,,Isiolo,Other,75.7
+county,11,,Isiolo,Tuberculosis Treatment,0.2
+county,11,,Isiolo,Malaria,11.2
+county,11,,Isiolo,Maternal & Child Health Care (MCH),12.1
+county,11,,Isiolo,Not Stated,0
+county,34,,Kajiado,Not Stated,0
+county,34,,Kajiado,Other,15.5
+county,34,,Kajiado,Maternal & Child Health Care (MCH),50.2
+county,34,,Kajiado,HIV/AIDS,9.7
+county,34,,Kajiado,Malaria,24.6
+county,34,,Kajiado,Tuberculosis Treatment,0
+county,34,,Kajiado,Nutrition Feeding,0
+county,37,,Kakamega,Nutrition Feeding,0.5
+county,37,,Kakamega,Malaria,25.2
+county,37,,Kakamega,Tuberculosis Treatment,0
+county,37,,Kakamega,Other,31.3
+county,37,,Kakamega,Not Stated,0.2
+county,37,,Kakamega,HIV/AIDS,8.5
+county,37,,Kakamega,Maternal & Child Health Care (MCH),34.3
+county,35,,Kericho,Nutrition Feeding,0.6
+county,35,,Kericho,Tuberculosis Treatment,0
+county,35,,Kericho,Not Stated,0
+county,35,,Kericho,Other,76.6
+county,35,,Kericho,Malaria,4.7
+county,35,,Kericho,Maternal & Child Health Care (MCH),17.4
+county,35,,Kericho,HIV/AIDS,0.6
+county,22,,Kiambu,Nutrition Feeding,0
+county,22,,Kiambu,Tuberculosis Treatment,0
+county,22,,Kiambu,HIV/AIDS,0
+county,22,,Kiambu,Other,54.2
+county,22,,Kiambu,Malaria,6.1
+county,22,,Kiambu,Not Stated,0
+county,22,,Kiambu,Maternal & Child Health Care (MCH),39.7
+county,3,,Kilifi,Other,65
+county,3,,Kilifi,Tuberculosis Treatment,0.5
+county,3,,Kilifi,Malaria,7.1
+county,3,,Kilifi,Maternal & Child Health Care (MCH),26.5
+county,3,,Kilifi,Not Stated,0
+county,3,,Kilifi,Nutrition Feeding,0.3
+county,3,,Kilifi,HIV/AIDS,0.7
+county,20,,Kirinyaga,Not Stated,0
+county,20,,Kirinyaga,Nutrition Feeding,0
+county,20,,Kirinyaga,Malaria,10.5
+county,20,,Kirinyaga,Tuberculosis Treatment,0
+county,20,,Kirinyaga,Other,32.2
+county,20,,Kirinyaga,Maternal & Child Health Care (MCH),54.7
+county,20,,Kirinyaga,HIV/AIDS,2.6
+county,45,,Kisii,Malaria,1.6
+county,45,,Kisii,HIV/AIDS,0.6
+county,45,,Kisii,Not Stated,0
+county,45,,Kisii,Nutrition Feeding,0.2
+county,45,,Kisii,Tuberculosis Treatment,0
+county,45,,Kisii,Maternal & Child Health Care (MCH),36.2
+county,45,,Kisii,Other,61.4
+county,42,,Kisumu,Other,21.6
+county,42,,Kisumu,Nutrition Feeding,2.4
+county,42,,Kisumu,Malaria,30.6
+county,42,,Kisumu,HIV/AIDS,2.8
+county,42,,Kisumu,Tuberculosis Treatment,0.3
+county,42,,Kisumu,Maternal & Child Health Care (MCH),42.2
+county,42,,Kisumu,Not Stated,0
+county,15,,Kitui,Malaria,21.5
+county,15,,Kitui,Tuberculosis Treatment,0.8
+county,15,,Kitui,Other,27.5
+county,15,,Kitui,HIV/AIDS,0.8
+county,15,,Kitui,Nutrition Feeding,0
+county,15,,Kitui,Not Stated,0
+county,15,,Kitui,Maternal & Child Health Care (MCH),49.5
+county,2,,Kwale,Tuberculosis Treatment,1.1
+county,2,,Kwale,HIV/AIDS,0.7
+county,2,,Kwale,Maternal & Child Health Care (MCH),28.8
+county,2,,Kwale,Malaria,60.8
+county,2,,Kwale,Other,8.3
+county,2,,Kwale,Not Stated,0
+county,2,,Kwale,Nutrition Feeding,0.4
+county,31,,Laikipia,Tuberculosis Treatment,0
+county,31,,Laikipia,Maternal & Child Health Care (MCH),18.5
+county,31,,Laikipia,Other,79.3
+county,31,,Laikipia,Not Stated,0
+county,31,,Laikipia,Nutrition Feeding,0
+county,31,,Laikipia,HIV/AIDS,1.3
+county,31,,Laikipia,Malaria,0.9
+county,5,,Lamu,Malaria,18.2
+county,5,,Lamu,Other,55.5
+county,5,,Lamu,Not Stated,0
+county,5,,Lamu,Nutrition Feeding,0.1
+county,5,,Lamu,Tuberculosis Treatment,0.1
+county,5,,Lamu,Maternal & Child Health Care (MCH),25.4
+county,5,,Lamu,HIV/AIDS,0.7
+county,16,,Machakos,Maternal & Child Health Care (MCH),55.6
+county,16,,Machakos,Other,24.5
+county,16,,Machakos,Not Stated,1.3
+county,16,,Machakos,Malaria,17.5
+county,16,,Machakos,Tuberculosis Treatment,0.2
+county,16,,Machakos,HIV/AIDS,0.8
+county,16,,Machakos,Nutrition Feeding,0
+county,17,,Makueni,Maternal & Child Health Care (MCH),23
+county,17,,Makueni,Other,35.9
+county,17,,Makueni,Nutrition Feeding,0.2
+county,17,,Makueni,HIV/AIDS,0.2
+county,17,,Makueni,Malaria,40.2
+county,17,,Makueni,Tuberculosis Treatment,0.4
+county,17,,Makueni,Not Stated,0
+county,9,,Mandera,HIV/AIDS,0
+county,9,,Mandera,Maternal & Child Health Care (MCH),2.3
+county,9,,Mandera,Tuberculosis Treatment,0
+county,9,,Mandera,Other,36.2
+county,9,,Mandera,Malaria,57.6
+county,9,,Mandera,Nutrition Feeding,3.9
+county,9,,Mandera,Not Stated,0
+county,10,,Marsabit,Other,1.2
+county,10,,Marsabit,Malaria,0.3
+county,10,,Marsabit,HIV/AIDS,1.8
+county,10,,Marsabit,Not Stated,0
+county,10,,Marsabit,Maternal & Child Health Care (MCH),95.6
+county,10,,Marsabit,Tuberculosis Treatment,1
+county,10,,Marsabit,Nutrition Feeding,0
+county,12,,Meru,Other,66.6
+county,12,,Meru,Malaria,3.5
+county,12,,Meru,Tuberculosis Treatment,0.3
+county,12,,Meru,HIV/AIDS,2.6
+county,12,,Meru,Nutrition Feeding,0.3
+county,12,,Meru,Not Stated,0.2
+county,12,,Meru,Maternal & Child Health Care (MCH),26.5
+county,44,,Migori,Nutrition Feeding,1
+county,44,,Migori,Tuberculosis Treatment,0.8
+county,44,,Migori,Malaria,35.4
+county,44,,Migori,Not Stated,0
+county,44,,Migori,Maternal & Child Health Care (MCH),44.9
+county,44,,Migori,HIV/AIDS,15.8
+county,44,,Migori,Other,2.1
+county,1,,Mombasa,Nutrition Feeding,0
+county,1,,Mombasa,Not Stated,0
+county,1,,Mombasa,Other,16.9
+county,1,,Mombasa,Malaria,2.9
+county,1,,Mombasa,Maternal & Child Health Care (MCH),73.1
+county,1,,Mombasa,Tuberculosis Treatment,1
+county,1,,Mombasa,HIV/AIDS,6.1
+county,21,,Murang'a,HIV/AIDS,18.9
+county,21,,Murang'a,Not Stated,0
+county,21,,Murang'a,Tuberculosis Treatment,12.7
+county,21,,Murang'a,Maternal & Child Health Care (MCH),39.7
+county,21,,Murang'a,Other,17.7
+county,21,,Murang'a,Malaria,6.9
+county,21,,Murang'a,Nutrition Feeding,4.1
+county,47,,Nairobi City,Malaria,18.5
+county,47,,Nairobi City,Other,35.8
+county,47,,Nairobi City,Not Stated,0
+county,47,,Nairobi City,Tuberculosis Treatment,2.1
+county,47,,Nairobi City,HIV/AIDS,0
+county,47,,Nairobi City,Maternal & Child Health Care (MCH),42.7
+county,47,,Nairobi City,Nutrition Feeding,1
+county,32,,Nakuru,Malaria,3.7
+county,32,,Nakuru,Other,44.8
+county,32,,Nakuru,HIV/AIDS,2.5
+county,32,,Nakuru,Maternal & Child Health Care (MCH),48.3
+county,32,,Nakuru,Not Stated,0
+county,32,,Nakuru,Nutrition Feeding,0.4
+county,32,,Nakuru,Tuberculosis Treatment,0.4
+county,29,,Nandi,Maternal & Child Health Care (MCH),75.8
+county,29,,Nandi,Nutrition Feeding,1
+county,29,,Nandi,Tuberculosis Treatment,0
+county,29,,Nandi,Other,17.8
+county,29,,Nandi,Malaria,2.3
+county,29,,Nandi,Not Stated,1.9
+county,29,,Nandi,HIV/AIDS,1.3
+county,33,,Narok,Other,42.8
+county,33,,Narok,HIV/AIDS,0.7
+county,33,,Narok,Malaria,0
+county,33,,Narok,Nutrition Feeding,0
+county,33,,Narok,Tuberculosis Treatment,0
+county,33,,Narok,Not Stated,0
+county,33,,Narok,Maternal & Child Health Care (MCH),56.5
+country,KE,,Kenya,Not Stated,0.2
+country,KE,,Kenya,Tuberculosis Treatment,0.4
+country,KE,,Kenya,HIV/AIDS,3.9
+country,KE,,Kenya,Maternal & Child Health Care (MCH),37.6
+country,KE,,Kenya,Nutrition Feeding,0.8
+country,KE,,Kenya,Other,39.2
+country,KE,,Kenya,Malaria,17.9
+county,46,,Nyamira,Maternal & Child Health Care (MCH),79.2
+county,46,,Nyamira,Malaria,11.4
+county,46,,Nyamira,Not Stated,0
+county,46,,Nyamira,Nutrition Feeding,4.8
+county,46,,Nyamira,Other,3
+county,46,,Nyamira,HIV/AIDS,1.3
+county,46,,Nyamira,Tuberculosis Treatment,0.2
+county,18,,Nyandarua,Malaria,3.9
+county,18,,Nyandarua,Not Stated,2.8
+county,18,,Nyandarua,Maternal & Child Health Care (MCH),43.4
+county,18,,Nyandarua,HIV/AIDS,6.2
+county,18,,Nyandarua,Tuberculosis Treatment,0
+county,18,,Nyandarua,Other,43.6
+county,18,,Nyandarua,Nutrition Feeding,0
+county,19,,Nyeri,Nutrition Feeding,0
+county,19,,Nyeri,Other,21.8
+county,19,,Nyeri,HIV/AIDS,4.1
+county,19,,Nyeri,Not Stated,3.4
+county,19,,Nyeri,Tuberculosis Treatment,0
+county,19,,Nyeri,Maternal & Child Health Care (MCH),70.6
+county,19,,Nyeri,Malaria,0
+county,25,,Samburu,Tuberculosis Treatment,0
+county,25,,Samburu,Maternal & Child Health Care (MCH),19.2
+county,25,,Samburu,Other,69.9
+county,25,,Samburu,HIV/AIDS,0
+county,25,,Samburu,Not Stated,0.5
+county,25,,Samburu,Malaria,9.5
+county,25,,Samburu,Nutrition Feeding,0.9
+county,41,,Siaya,HIV/AIDS,27.8
+county,41,,Siaya,Nutrition Feeding,2.2
+county,41,,Siaya,Other,6.6
+county,41,,Siaya,Not Stated,0
+county,41,,Siaya,Malaria,26.9
+county,41,,Siaya,Tuberculosis Treatment,0.7
+county,41,,Siaya,Maternal & Child Health Care (MCH),35.7
+county,6,,Taita / Taveta,Tuberculosis Treatment,0
+county,6,,Taita / Taveta,Nutrition Feeding,0
+county,6,,Taita / Taveta,Malaria,14.5
+county,6,,Taita / Taveta,HIV/AIDS,0.8
+county,6,,Taita / Taveta,Not Stated,0
+county,6,,Taita / Taveta,Maternal & Child Health Care (MCH),33.4
+county,6,,Taita / Taveta,Other,51.2
+county,4,,Tana River,Tuberculosis Treatment,0
+county,4,,Tana River,Malaria,9.3
+county,4,,Tana River,Maternal & Child Health Care (MCH),85.3
+county,4,,Tana River,HIV/AIDS,0.8
+county,4,,Tana River,Other,2.7
+county,4,,Tana River,Not Stated,0
+county,4,,Tana River,Nutrition Feeding,1.9
+county,13,,Tharaka-Nithi,Malaria,73.2
+county,13,,Tharaka-Nithi,Maternal & Child Health Care (MCH),12.5
+county,13,,Tharaka-Nithi,Nutrition Feeding,0.2
+county,13,,Tharaka-Nithi,HIV/AIDS,0
+county,13,,Tharaka-Nithi,Not Stated,4.6
+county,13,,Tharaka-Nithi,Other,9.5
+county,13,,Tharaka-Nithi,Tuberculosis Treatment,0
+county,26,,Trans Nzoia,Other,26.5
+county,26,,Trans Nzoia,HIV/AIDS,0.2
+county,26,,Trans Nzoia,Nutrition Feeding,0.4
+county,26,,Trans Nzoia,Malaria,14
+county,26,,Trans Nzoia,Tuberculosis Treatment,0
+county,26,,Trans Nzoia,Maternal & Child Health Care (MCH),58.7
+county,26,,Trans Nzoia,Not Stated,0.2
+county,23,,Turkana,Maternal & Child Health Care (MCH),16.1
+county,23,,Turkana,Other,72.6
+county,23,,Turkana,Not Stated,0
+county,23,,Turkana,Malaria,10.8
+county,23,,Turkana,Nutrition Feeding,0.3
+county,23,,Turkana,Tuberculosis Treatment,0.2
+county,23,,Turkana,HIV/AIDS,0
+county,27,,Uasin Gishu,HIV/AIDS,10.7
+county,27,,Uasin Gishu,Maternal & Child Health Care (MCH),58.8
+county,27,,Uasin Gishu,Tuberculosis Treatment,0
+county,27,,Uasin Gishu,Malaria,6.5
+county,27,,Uasin Gishu,Other,20.8
+county,27,,Uasin Gishu,Not Stated,0
+county,27,,Uasin Gishu,Nutrition Feeding,3.3
+county,38,,Vihiga,Other,6.4
+county,38,,Vihiga,Tuberculosis Treatment,0.2
+county,38,,Vihiga,Not Stated,0
+county,38,,Vihiga,Malaria,29.5
+county,38,,Vihiga,Maternal & Child Health Care (MCH),61.2
+county,38,,Vihiga,Nutrition Feeding,0
+county,38,,Vihiga,HIV/AIDS,2.7
+county,8,,Wajir,Malaria,34.3
+county,8,,Wajir,Nutrition Feeding,0
+county,8,,Wajir,Tuberculosis Treatment,26.3
+county,8,,Wajir,Not Stated,0
+county,8,,Wajir,Other,16.6
+county,8,,Wajir,HIV/AIDS,0
+county,8,,Wajir,Maternal & Child Health Care (MCH),22.8
+county,24,,West Pokot,Nutrition Feeding,1.2
+county,24,,West Pokot,Other,47.5
+county,24,,West Pokot,Not Stated,1.4
+county,24,,West Pokot,Maternal & Child Health Care (MCH),43.7
+county,24,,West Pokot,HIV/AIDS,0.1
+county,24,,West Pokot,Malaria,6
+county,24,,West Pokot,Tuberculosis Treatment,0

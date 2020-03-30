@@ -1,0 +1,670 @@
+geo_level,geo_code,geo_version,name,variable,value
+municipality,BUF,,Buffalo City,Female,"430,842"
+municipality,BUF,,Buffalo City,Male,"404,155"
+municipality,BUF,,Buffalo City,Total,"834,997"
+municipality,CPT,,City of Cape Town,Female,"2,034,175"
+municipality,CPT,,City of Cape Town,Male,"1,970,841"
+municipality,CPT,,City of Cape Town,Total,"4,005,016"
+municipality,EC101,,Dr Beyers Naude,Female,"42,100"
+municipality,EC101,,Dr Beyers Naude,Male,"40,097"
+municipality,EC101,,Dr Beyers Naude,Total,"82,197"
+municipality,EC102,,Blue Crane Route,Female,"18,223"
+municipality,EC102,,Blue Crane Route,Male,"17,841"
+municipality,EC102,,Blue Crane Route,Total,"36,064"
+municipality,EC104,,Makana,Female,42842
+municipality,EC104,,Makana,Male,39218
+municipality,EC104,,Makana,Total,82060
+municipality,EC105,,Ndlambe,Female,33084
+municipality,EC105,,Ndlambe,Male,30096
+municipality,EC105,,Ndlambe,Total,63180
+municipality,EC106,,Sundays River Valley,Female,28656
+municipality,EC106,,Sundays River Valley,Male,31136
+municipality,EC106,,Sundays River Valley,Total,59792
+municipality,EC108,,Kouga,Female,"57,163"
+municipality,EC108,,Kouga,Male,"55,778"
+municipality,EC108,,Kouga,Total,"112,941"
+municipality,EC109,,Kou-Kamma,Female,"21,735"
+municipality,EC109,,Kou-Kamma,Male,"21,953"
+municipality,EC109,,Kou-Kamma,Total,"43,688"
+municipality,EC121,,Mbhashe,Female,148792
+municipality,EC121,,Mbhashe,Male,128458
+municipality,EC121,,Mbhashe,Total,277250
+municipality,EC122,,Mnquma,Female,130085
+municipality,EC122,,Mnquma,Male,116728
+municipality,EC122,,Mnquma,Total,246813
+municipality,EC123,,Great Kei,Female,"16,469"
+municipality,EC123,,Great Kei,Male,"15,223"
+municipality,EC123,,Great Kei,Total,"31,692"
+municipality,EC124,,Amahlathi,Female,"52,693"
+municipality,EC124,,Amahlathi,Male,"49,133"
+municipality,EC124,,Amahlathi,Total,"101,826"
+municipality,EC126,,Ngqushwa,Female,33721
+municipality,EC126,,Ngqushwa,Male,29973
+municipality,EC126,,Ngqushwa,Total,63694
+municipality,EC129,,Raymond Mhlaba,Female,82676
+municipality,EC129,,Raymond Mhlaba,Male,76840
+municipality,EC129,,Raymond Mhlaba,Total,159516
+municipality,EC131,,Inxuba Yethemba,Female,"37,061"
+municipality,EC131,,Inxuba Yethemba,Male,"33,432"
+municipality,EC131,,Inxuba Yethemba,Total,"70,493"
+municipality,EC135,,Intsika Yethu,Female,"78,727"
+municipality,EC135,,Intsika Yethu,Male,"73,432"
+municipality,EC135,,Intsika Yethu,Total,"152,159"
+municipality,EC136,,Emalahleni,Female,"65,042"
+municipality,EC136,,Emalahleni,Male,"59,490"
+municipality,EC136,,Emalahleni,Total,"124,532"
+municipality,EC137,,Engcobo,Female,"87,313"
+municipality,EC137,,Engcobo,Male,"74,701"
+municipality,EC137,,Engcobo,Total,162014
+municipality,EC138,,Sakhisizwe,Female,32898
+municipality,EC138,,Sakhisizwe,Male,30948
+municipality,EC138,,Sakhisizwe,Total,63846
+municipality,EC139,,Enoch Mgijima,Female,"140,208"
+municipality,EC139,,Enoch Mgijima,Male,"126,803"
+municipality,EC139,,Enoch Mgijima,Total,"267,011"
+municipality,EC141,,Elundini,Female,"74,981"
+municipality,EC141,,Elundini,Male,"69,948"
+municipality,EC141,,Elundini,Total,"144,929"
+municipality,EC142,,Senqu,Female,75759
+municipality,EC142,,Senqu,Male,64961
+municipality,EC142,,Senqu,Total,140720
+municipality,EC145,,Walter Sisulu,Female,45728
+municipality,EC145,,Walter Sisulu,Male,41535
+municipality,EC145,,Walter Sisulu,Total,87263
+municipality,EC153,,Ngquza Hill,Female,160549
+municipality,EC153,,Ngquza Hill,Male,142829
+municipality,EC153,,Ngquza Hill,Total,303378
+municipality,EC154,,Port St Johns,Female,89701
+municipality,EC154,,Port St Johns,Male,77077
+municipality,EC154,,Port St Johns,Total,166778
+municipality,EC155,,Nyandeni,Female,165899
+municipality,EC155,,Nyandeni,Male,143803
+municipality,EC155,,Nyandeni,Total,309702
+municipality,EC156,,Mhlontlo,Female,100264
+municipality,EC156,,Mhlontlo,Male,88911
+municipality,EC156,,Mhlontlo,Total,189175
+municipality,EC157,,King Sabata Dalindyebo,Female,"261,088"
+municipality,EC157,,King Sabata Dalindyebo,Male,"227,261"
+municipality,EC157,,King Sabata Dalindyebo,Total,"488,349"
+municipality,EC441,,Matatiele,Female,119159
+municipality,EC441,,Matatiele,Male,100288
+municipality,EC441,,Matatiele,Total,219447
+municipality,EC442,,Umzimvubu,Female,107491
+municipality,EC442,,Umzimvubu,Male,92129
+municipality,EC442,,Umzimvubu,Total,199620
+municipality,EC443,,Mbizana,Female,174127
+municipality,EC443,,Mbizana,Male,145821
+municipality,EC443,,Mbizana,Total,319948
+municipality,EC444,,Ntabankulu,Female,69880
+municipality,EC444,,Ntabankulu,Male,58968
+municipality,EC444,,Ntabankulu,Total,128848
+municipality,EKU,,Ekurhuleni,Female,"1,642,354"
+municipality,EKU,,Ekurhuleni,Male,1736750
+municipality,EKU,,Ekurhuleni,Total,"3,379,104"
+municipality,ETH,,eThekwini,Female,1886610
+municipality,ETH,,eThekwini,Male,1815621
+municipality,ETH,,eThekwini,Total,3702231
+municipality,FS161,,Letsemeng,Female,18904
+municipality,FS161,,Letsemeng,Male,21140
+municipality,FS161,,Letsemeng,Total,40044
+municipality,FS162,,Kopanong,Female,"25,188"
+municipality,FS162,,Kopanong,Male,"24,812"
+municipality,FS162,,Kopanong,Total,"50,000"
+municipality,FS163,,Mohokare,Female,19317
+municipality,FS163,,Mohokare,Male,16523
+municipality,FS163,,Mohokare,Total,35840
+municipality,FS181,,Masilonyana,Female,30809
+municipality,FS181,,Masilonyana,Male,31961
+municipality,FS181,,Masilonyana,Total,62770
+municipality,FS182,,Tokologo,Female,14416
+municipality,FS182,,Tokologo,Male,14733
+municipality,FS182,,Tokologo,Total,29149
+municipality,FS183,,Tswelopele,Female,24515
+municipality,FS183,,Tswelopele,Male,22858
+municipality,FS183,,Tswelopele,Total,47373
+municipality,FS184,,Matjhabeng,Female,213293
+municipality,FS184,,Matjhabeng,Male,215820
+municipality,FS184,,Matjhabeng,Total,429113
+municipality,FS185,,Nala,Female,40477
+municipality,FS185,,Nala,Male,38038
+municipality,FS185,,Nala,Total,78515
+municipality,FS191,,Setsoto,Female,61962
+municipality,FS191,,Setsoto,Male,55400
+municipality,FS191,,Setsoto,Total,117362
+municipality,FS192,,Dihlabeng,Female,"72,482"
+municipality,FS192,,Dihlabeng,Male,"67,562"
+municipality,FS192,,Dihlabeng,Total,"140,044"
+municipality,FS193,,Nketoana,Female,33751
+municipality,FS193,,Nketoana,Male,31142
+municipality,FS193,,Nketoana,Total,64893
+municipality,FS194,,Maluti a Phofung,Female,192177
+municipality,FS194,,Maluti a Phofung,Male,161275
+municipality,FS194,,Maluti a Phofung,Total,353452
+municipality,FS195,,Phumelela,Female,25345
+municipality,FS195,,Phumelela,Male,24709
+municipality,FS195,,Phumelela,Total,50054
+municipality,FS196,,Mantsopa,Female,27583
+municipality,FS196,,Mantsopa,Male,25943
+municipality,FS196,,Mantsopa,Total,53526
+municipality,FS201,,Moqhaka,Female,78539
+municipality,FS201,,Moqhaka,Male,76193
+municipality,FS201,,Moqhaka,Total,154732
+municipality,FS203,,Ngwathe,Female,62482
+municipality,FS203,,Ngwathe,Male,56425
+municipality,FS203,,Ngwathe,Total,118907
+municipality,FS204,,Metsimaholo,Female,78033
+municipality,FS204,,Metsimaholo,Male,85531
+municipality,FS204,,Metsimaholo,Total,163564
+municipality,FS205,,Mafube,Female,29738
+municipality,FS205,,Mafube,Male,27836
+municipality,FS205,,Mafube,Total,57574
+municipality,GT421,,Emfuleni,Female,"371,752"
+municipality,GT421,,Emfuleni,Male,361692
+municipality,GT421,,Emfuleni,Total,"733,444"
+municipality,GT422,,Midvaal,Female,53685
+municipality,GT422,,Midvaal,Male,57926
+municipality,GT422,,Midvaal,Total,111611
+municipality,GT423,,Lesedi,Female,53784
+municipality,GT423,,Lesedi,Male,58688
+municipality,GT423,,Lesedi,Total,112472
+municipality,GT481,,Mogale City,Female,188626
+municipality,GT481,,Mogale City,Male,195238
+municipality,GT481,,Mogale City,Total,383864
+municipality,GT484,,Merafong City,Female,87693
+municipality,GT484,,Merafong City,Male,101150
+municipality,GT484,,Merafong City,Total,188843
+municipality,GT485,,Rand West City,Female,127674
+municipality,GT485,,Rand West City,Male,138213
+municipality,GT485,,Rand West City,Total,265887
+municipality,JHB,,City of Johannesburg,Female,"2,471,156"
+municipality,JHB,,City of Johannesburg,Male,"2,478,191"
+municipality,JHB,,City of Johannesburg,Total,"4,949,347"
+municipality,KZN212,,Umdoni,Female,74924
+municipality,KZN212,,Umdoni,Male,69627
+municipality,KZN212,,Umdoni,Total,144551
+municipality,KZN213,,Umzumbe,Female,79127
+municipality,KZN213,,Umzumbe,Male,72549
+municipality,KZN213,,Umzumbe,Total,151676
+municipality,KZN214,,uMuziwabantu,Female,56521
+municipality,KZN214,,uMuziwabantu,Male,52055
+municipality,KZN214,,uMuziwabantu,Total,108576
+municipality,KZN216,,Ray Nkonyeni,Female,182280
+municipality,KZN216,,Ray Nkonyeni,Male,166253
+municipality,KZN216,,Ray Nkonyeni,Total,348533
+municipality,KZN221,,uMshwathi,Female,57980
+municipality,KZN221,,uMshwathi,Male,53665
+municipality,KZN221,,uMshwathi,Total,111645
+municipality,KZN222,,uMngeni,Female,56796
+municipality,KZN222,,uMngeni,Male,53071
+municipality,KZN222,,uMngeni,Total,109867
+municipality,KZN223,,Mpofana,Female,19755
+municipality,KZN223,,Mpofana,Male,17636
+municipality,KZN223,,Mpofana,Total,37391
+municipality,KZN224,,Impendle,Female,"15,159"
+municipality,KZN224,,Impendle,Male,"14,367"
+municipality,KZN224,,Impendle,Total,"29,526"
+municipality,KZN225,,The Msunduzi,Female,352042
+municipality,KZN225,,The Msunduzi,Male,326997
+municipality,KZN225,,The Msunduzi,Total,679039
+municipality,KZN226,,Mkhambathini,Female,29339
+municipality,KZN226,,Mkhambathini,Male,27736
+municipality,KZN226,,Mkhambathini,Total,57075
+municipality,KZN227,,Richmond,Female,36068
+municipality,KZN227,,Richmond,Male,35254
+municipality,KZN227,,Richmond,Total,71322
+municipality,KZN235,,Okhahlamba,Female,71403
+municipality,KZN235,,Okhahlamba,Male,63729
+municipality,KZN235,,Okhahlamba,Total,135132
+municipality,KZN237,,Inkosi Langalibalele,Female,"113,343"
+municipality,KZN237,,Inkosi Langalibalele,Male,"101,839"
+municipality,KZN237,,Inkosi Langalibalele,Total,"215,182"
+municipality,KZN238,,Alfred Duma,Female,"188,032"
+municipality,KZN238,,Alfred Duma,Male,"168,243"
+municipality,KZN238,,Alfred Duma,Total,"356,275"
+municipality,KZN241,,Endumeni,Female,"38,361"
+municipality,KZN241,,Endumeni,Male,"38,278"
+municipality,KZN241,,Endumeni,Total,"76,639"
+municipality,KZN242,,Nqutu,Female,91801
+municipality,KZN242,,Nqutu,Male,79524
+municipality,KZN242,,Nqutu,Total,171325
+municipality,KZN244,,Msinga,Female,102095
+municipality,KZN244,,Msinga,Male,82399
+municipality,KZN244,,Msinga,Total,184494
+municipality,KZN245,,Umvoti,Female,66955
+municipality,KZN245,,Umvoti,Male,55468
+municipality,KZN245,,Umvoti,Total,122423
+municipality,KZN252,,Newcastle,Female,202871
+municipality,KZN252,,Newcastle,Male,186246
+municipality,KZN252,,Newcastle,Total,389117
+municipality,KZN253,,Emadlangeni,Female,"19,145"
+municipality,KZN253,,Emadlangeni,Male,"17,724"
+municipality,KZN253,,Emadlangeni,Total,"36,869"
+municipality,KZN254,,Dannhauser,Female,"55,482"
+municipality,KZN254,,Dannhauser,Male,"49,860"
+municipality,KZN254,,Dannhauser,Total,"105,342"
+municipality,KZN261,,eDumbe,Female,47382
+municipality,KZN261,,eDumbe,Male,42232
+municipality,KZN261,,eDumbe,Total,89614
+municipality,KZN262,,uPhongolo,Female,74049
+municipality,KZN262,,uPhongolo,Male,67198
+municipality,KZN262,,uPhongolo,Total,141247
+municipality,KZN263,,Abaqulusi,Female,"126,383"
+municipality,KZN263,,Abaqulusi,Male,"117,412"
+municipality,KZN263,,Abaqulusi,Total,"243,795"
+municipality,KZN265,,Nongoma,Female,113890
+municipality,KZN265,,Nongoma,Male,98002
+municipality,KZN265,,Nongoma,Total,211892
+municipality,KZN266,,Ulundi,Female,111544
+municipality,KZN266,,Ulundi,Male,94218
+municipality,KZN266,,Ulundi,Total,205762
+municipality,KZN271,,Umhlabuyalingana,Female,91398
+municipality,KZN271,,Umhlabuyalingana,Male,80679
+municipality,KZN271,,Umhlabuyalingana,Total,172077
+municipality,KZN272,,Jozini,Female,"104,933"
+municipality,KZN272,,Jozini,Male,"93,282"
+municipality,KZN272,,Jozini,Total,"198,215"
+municipality,KZN275,,Mtubatuba,Female,106800
+municipality,KZN275,,Mtubatuba,Male,95377
+municipality,KZN275,,Mtubatuba,Total,202177
+municipality,KZN276,,Big Five Hlabisa,Female,"61,967"
+municipality,KZN276,,Big Five Hlabisa,Male,"54,655"
+municipality,KZN276,,Big Five Hlabisa,Total,"116,622"
+municipality,KZN281,,Mfolozi,Female,74337
+municipality,KZN281,,Mfolozi,Male,70025
+municipality,KZN281,,Mfolozi,Total,144362
+municipality,KZN282,,uMhlathuze,Female,212332
+municipality,KZN282,,uMhlathuze,Male,198133
+municipality,KZN282,,uMhlathuze,Total,410465
+municipality,KZN284,,uMlalazi,Female,119367
+municipality,KZN284,,uMlalazi,Male,103773
+municipality,KZN284,,uMlalazi,Total,223140
+municipality,KZN285,,Mthonjaneni,Female,42639
+municipality,KZN285,,Mthonjaneni,Male,36245
+municipality,KZN285,,Mthonjaneni,Total,78884
+municipality,KZN286,,Nkandla,Female,62628
+municipality,KZN286,,Nkandla,Male,51656
+municipality,KZN286,,Nkandla,Total,114284
+municipality,KZN291,,Mandeni,Female,77551
+municipality,KZN291,,Mandeni,Male,70257
+municipality,KZN291,,Mandeni,Total,147808
+municipality,KZN292,,KwaDukuza,Female,"140,093"
+municipality,KZN292,,KwaDukuza,Male,"136,626"
+municipality,KZN292,,KwaDukuza,Total,"276,719"
+municipality,KZN293,,Ndwedwe,Female,75181
+municipality,KZN293,,Ndwedwe,Male,67935
+municipality,KZN293,,Ndwedwe,Total,143116
+municipality,KZN294,,Maphumulo,Female,49101
+municipality,KZN294,,Maphumulo,Male,40868
+municipality,KZN294,,Maphumulo,Total,89969
+municipality,KZN433,,Greater Kokstad,Female,"39,875"
+municipality,KZN433,,Greater Kokstad,Male,"36,878"
+municipality,KZN433,,Greater Kokstad,Total,"76,753"
+municipality,KZN434,,Ubuhlebezwe,Female,62834
+municipality,KZN434,,Ubuhlebezwe,Male,55513
+municipality,KZN434,,Ubuhlebezwe,Total,118347
+municipality,KZN435,,Umzimkhulu,Female,106827
+municipality,KZN435,,Umzimkhulu,Male,90459
+municipality,KZN435,,Umzimkhulu,Total,197286
+municipality,KZN436,,Dr Nkosazana Dlamini Zuma,Female,"61,748"
+municipality,KZN436,,Dr Nkosazana Dlamini Zuma,Male,"56,732"
+municipality,KZN436,,Dr Nkosazana Dlamini Zuma,Total,"118,480"
+municipality,LIM331,,Greater Giyani,Female,"142,391"
+municipality,LIM331,,Greater Giyani,Male,113735
+municipality,LIM331,,Greater Giyani,Total,"256,126"
+municipality,LIM332,,Greater Letaba,Female,"119,343"
+municipality,LIM332,,Greater Letaba,Male,"98,686"
+municipality,LIM332,,Greater Letaba,Total,"218,029"
+municipality,LIM333,,Greater Tzaneen,Female,"217,583"
+municipality,LIM333,,Greater Tzaneen,Male,"198,563"
+municipality,LIM333,,Greater Tzaneen,Total,"416,146"
+municipality,LIM334,,Ba-Phalaborwa,Female,"86,534"
+municipality,LIM334,,Ba-Phalaborwa,Male,"82,403"
+municipality,LIM334,,Ba-Phalaborwa,Total,"168,937"
+municipality,LIM335,,Maruleng,Female,53760
+municipality,LIM335,,Maruleng,Male,46186
+municipality,LIM335,,Maruleng,Total,99946
+municipality,LIM341,,Musina,Female,66153
+municipality,LIM341,,Musina,Male,65856
+municipality,LIM341,,Musina,Total,132009
+municipality,LIM343,,Thulamela,Female,269398
+municipality,LIM343,,Thulamela,Male,227839
+municipality,LIM343,,Thulamela,Total,497237
+municipality,LIM344,,Makhado,Female,221716
+municipality,LIM344,,Makhado,Male,195012
+municipality,LIM344,,Makhado,Total,416728
+municipality,LIM345,,Collins Chabane,Female,"192,924"
+municipality,LIM345,,Collins Chabane,Male,"155,051"
+municipality,LIM345,,Collins Chabane,Total,"347,975"
+municipality,LIM351,,Blouberg,Female,"94,767"
+municipality,LIM351,,Blouberg,Male,"77,835"
+municipality,LIM351,,Blouberg,Total,"172,602"
+municipality,LIM353,,Molemole,Female,68667
+municipality,LIM353,,Molemole,Male,56660
+municipality,LIM353,,Molemole,Total,125327
+municipality,LIM354,,Polokwane,Female,413351
+municipality,LIM354,,Polokwane,Male,383776
+municipality,LIM354,,Polokwane,Total,797127
+municipality,LIM355,,Lepele-Nkumpi,Female,128392
+municipality,LIM355,,Lepele-Nkumpi,Male,106989
+municipality,LIM355,,Lepele-Nkumpi,Total,235381
+municipality,LIM361,,Thabazimbi,Female,38973
+municipality,LIM361,,Thabazimbi,Male,57259
+municipality,LIM361,,Thabazimbi,Total,96232
+municipality,LIM362,,Lephalale,Female,61919
+municipality,LIM362,,Lephalale,Male,78320
+municipality,LIM362,,Lephalale,Total,140239
+municipality,LIM366,,Bela-Bela,Female,"37,335"
+municipality,LIM366,,Bela-Bela,Male,"38,961"
+municipality,LIM366,,Bela-Bela,Total,76296
+municipality,LIM367,,Mogalakwena,Female,172732
+municipality,LIM367,,Mogalakwena,Male,152559
+municipality,LIM367,,Mogalakwena,Total,325291
+municipality,LIM368,,Modimolle/Mookgophong,Female,53306
+municipality,LIM368,,Modimolle/Mookgophong,Male,54393
+municipality,LIM368,,Modimolle/Mookgophong,Total,107699
+municipality,LIM471,,Ephraim Mogale,Female,"67,260"
+municipality,LIM471,,Ephraim Mogale,Male,"59,908"
+municipality,LIM471,,Ephraim Mogale,Total,"127,168"
+municipality,LIM472,,Elias Motsoaledi,Female,"143,123"
+municipality,LIM472,,Elias Motsoaledi,Male,"125,133"
+municipality,LIM472,,Elias Motsoaledi,Total,"268,256"
+municipality,LIM473,,Makhuduthamaga,Female,159193
+municipality,LIM473,,Makhuduthamaga,Male,125242
+municipality,LIM473,,Makhuduthamaga,Total,284435
+municipality,LIM476,,Greater Tubatse/Fetakgomo,Female,"251,723"
+municipality,LIM476,,Greater Tubatse/Fetakgomo,Male,"238,179"
+municipality,LIM476,,Greater Tubatse/Fetakgomo,Total,"489,902"
+municipality,MAN,,Mangaung,Female,405740
+municipality,MAN,,Mangaung,Male,382064
+municipality,MAN,,Mangaung,Total,787804
+municipality,MP301,,Chief Albert Luthuli,Female,"99,244"
+municipality,MP301,,Chief Albert Luthuli,Male,"88,386"
+municipality,MP301,,Chief Albert Luthuli,Total,"187,630"
+municipality,MP302,,Msukaligwa,Female,82166
+municipality,MP302,,Msukaligwa,Male,82442
+municipality,MP302,,Msukaligwa,Total,164608
+municipality,MP303,,Mkhondo,Female,98858
+municipality,MP303,,Mkhondo,Male,90178
+municipality,MP303,,Mkhondo,Total,189036
+municipality,MP304,,Dr Pixley Ka Isaka Seme,Female,"44,700"
+municipality,MP304,,Dr Pixley Ka Isaka Seme,Male,"40,695"
+municipality,MP304,,Dr Pixley Ka Isaka Seme,Total,"85,395"
+municipality,MP305,,Lekwa,Female,"61,644"
+municipality,MP305,,Lekwa,Male,"61,774"
+municipality,MP305,,Lekwa,Total,"123,418"
+municipality,MP306,,Dipaleseng,Female,"21,831"
+municipality,MP306,,Dipaleseng,Male,"23,401"
+municipality,MP306,,Dipaleseng,Total,"45,232"
+municipality,MP307,,Govan Mbeki,Female,"163,152"
+municipality,MP307,,Govan Mbeki,Male,"176,939"
+municipality,MP307,,Govan Mbeki,Total,"340,091"
+municipality,MP311,,Victor Khanye,Female,40545
+municipality,MP311,,Victor Khanye,Male,43605
+municipality,MP311,,Victor Khanye,Total,84150
+municipality,MP312,,Emalahleni,Female,"214,473"
+municipality,MP312,,Emalahleni,Male,"240,754"
+municipality,MP312,,Emalahleni,Total,"455,227"
+municipality,MP313,,Steve Tshwete,Female,132671
+municipality,MP313,,Steve Tshwete,Male,146079
+municipality,MP313,,Steve Tshwete,Total,278750
+municipality,MP314,,Emakhazeni,Female,"23,444"
+municipality,MP314,,Emakhazeni,Male,"24,705"
+municipality,MP314,,Emakhazeni,Total,"48,149"
+municipality,MP315,,Thembisile,Female,174145
+municipality,MP315,,Thembisile,Male,159187
+municipality,MP315,,Thembisile,Total,333332
+municipality,MP316,,Dr JS Moroka,Female,"129,606"
+municipality,MP316,,Dr JS Moroka,Male,"116,409"
+municipality,MP316,,Dr JS Moroka,Total,"246,015"
+municipality,MP321,,Thaba Chweu,Female,48887
+municipality,MP321,,Thaba Chweu,Male,53008
+municipality,MP321,,Thaba Chweu,Total,101895
+municipality,MP324,,Nkomazi,Female,215101
+municipality,MP324,,Nkomazi,Male,195806
+municipality,MP324,,Nkomazi,Total,410907
+municipality,MP325,,Bushbuckridge,Female,294445
+municipality,MP325,,Bushbuckridge,Male,"251,770"
+municipality,MP325,,Bushbuckridge,Total,"546,215"
+municipality,MP326,,Mbombela City,Female,351864
+municipality,MP326,,Mbombela City,Male,344049
+municipality,MP326,,Mbombela City,Total,695913
+municipality,NC061,,Richtersveld,Female,5857
+municipality,NC061,,Richtersveld,Male,6630
+municipality,NC061,,Richtersveld,Total,12487
+municipality,NC062,,Nama Khoi,Female,23677
+municipality,NC062,,Nama Khoi,Male,22835
+municipality,NC062,,Nama Khoi,Total,46512
+municipality,NC064,,Kamiesberg,Female,"4,794"
+municipality,NC064,,Kamiesberg,Male,"4,812"
+municipality,NC064,,Kamiesberg,Total,"9,606"
+municipality,NC065,,Hantam,Female,"10,669"
+municipality,NC065,,Hantam,Male,"10,872"
+municipality,NC065,,Hantam,Total,"21,541"
+municipality,NC066,,Karoo Hoogland,Female,"6,481"
+municipality,NC066,,Karoo Hoogland,Male,"6,529"
+municipality,NC066,,Karoo Hoogland,Total,"13,010"
+municipality,NC067,,Khai-Ma,Female,"5,823"
+municipality,NC067,,Khai-Ma,Male,"6,510"
+municipality,NC067,,Khai-Ma,Total,"12,333"
+municipality,NC071,,Ubuntu,Female,9682
+municipality,NC071,,Ubuntu,Male,9789
+municipality,NC071,,Ubuntu,Total,19471
+municipality,NC072,,Umsobomvu,Female,15868
+municipality,NC072,,Umsobomvu,Male,15015
+municipality,NC072,,Umsobomvu,Total,30883
+municipality,NC073,,Emthanjeni,Female,"22,962"
+municipality,NC073,,Emthanjeni,Male,22443
+municipality,NC073,,Emthanjeni,Total,"45,405"
+municipality,NC074,,Kareeberg,Female,"6,308"
+municipality,NC074,,Kareeberg,Male,"6,464"
+municipality,NC074,,Kareeberg,Total,"12,772"
+municipality,NC075,,Renosterberg,Female,6016
+municipality,NC075,,Renosterberg,Male,5802
+municipality,NC075,,Renosterberg,Total,11818
+municipality,NC076,,Thembelihle,Female,7933
+municipality,NC076,,Thembelihle,Male,8297
+municipality,NC076,,Thembelihle,Total,16230
+municipality,NC077,,Siyathemba,Female,11264
+municipality,NC077,,Siyathemba,Male,11811
+municipality,NC077,,Siyathemba,Total,23075
+municipality,NC078,,Siyancuma,Female,17969
+municipality,NC078,,Siyancuma,Male,17972
+municipality,NC078,,Siyancuma,Total,35941
+municipality,NC082,,Kai !Garib,Female,"32,272"
+municipality,NC082,,Kai !Garib,Male,"36,657"
+municipality,NC082,,Kai !Garib,Total,"68,929"
+municipality,NC084,,!Kheis,Female,"8,188"
+municipality,NC084,,!Kheis,Male,"8,378"
+municipality,NC084,,!Kheis,Total,"16,566"
+municipality,NC085,,Tsantsabane,Female,18259
+municipality,NC085,,Tsantsabane,Male,21086
+municipality,NC085,,Tsantsabane,Total,39345
+municipality,NC086,,Kgatelopele,Female,"10,216"
+municipality,NC086,,Kgatelopele,Male,"10,475"
+municipality,NC086,,Kgatelopele,Total,"20,691"
+municipality,NC087,,Dawid Kruiper,Female,"54,337"
+municipality,NC087,,Dawid Kruiper,Male,"52,824"
+municipality,NC087,,Dawid Kruiper,Total,"107,161"
+municipality,NC091,,Sol Plaatjie,Female,128599
+municipality,NC091,,Sol Plaatjie,Male,126442
+municipality,NC091,,Sol Plaatjie,Total,255041
+municipality,NC092,,Dikgatlong,Female,"24,180"
+municipality,NC092,,Dikgatlong,Male,"24,293"
+municipality,NC092,,Dikgatlong,Total,"48,473"
+municipality,NC093,,Magareng,Female,12071
+municipality,NC093,,Magareng,Male,11989
+municipality,NC093,,Magareng,Total,24060
+municipality,NC094,,Phokwane,Female,30660
+municipality,NC094,,Phokwane,Male,29507
+municipality,NC094,,Phokwane,Total,60167
+municipality,NC451,,Joe Morolong,Female,"45,995"
+municipality,NC451,,Joe Morolong,Male,"38,206"
+municipality,NC451,,Joe Morolong,Total,"84,201"
+municipality,NC452,,Ga-Segonyana,Female,"53,925"
+municipality,NC452,,Ga-Segonyana,Male,"50,483"
+municipality,NC452,,Ga-Segonyana,Total,"104,408"
+municipality,NC453,,Gamagara,Female,"23,356"
+municipality,NC453,,Gamagara,Male,"30,299"
+municipality,NC453,,Gamagara,Total,"53,655"
+municipality,NMA,,Nelson Mandela Bay,Female,644523
+municipality,NMA,,Nelson Mandela Bay,Male,618528
+municipality,NMA,,Nelson Mandela Bay,Total,1263051
+municipality,NW371,,Moretele,Female,98047
+municipality,NW371,,Moretele,Male,93259
+municipality,NW371,,Moretele,Total,191306
+municipality,NW372,,Madibeng,Female,248837
+municipality,NW372,,Madibeng,Male,287273
+municipality,NW372,,Madibeng,Total,536110
+municipality,NW373,,Rustenburg,Female,283657
+municipality,NW373,,Rustenburg,Male,342865
+municipality,NW373,,Rustenburg,Total,626522
+municipality,NW374,,Kgetlengrivier,Female,"27,656"
+municipality,NW374,,Kgetlengrivier,Male,"31,906"
+municipality,NW374,,Kgetlengrivier,Total,"59,562"
+municipality,NW375,,Moses Kotane,Female,122263
+municipality,NW375,,Moses Kotane,Male,121385
+municipality,NW375,,Moses Kotane,Total,243648
+municipality,NW381,,Ratlou,Female,55861
+municipality,NW381,,Ratlou,Male,50247
+municipality,NW381,,Ratlou,Total,106108
+municipality,NW382,,Tswaing,Female,64223
+municipality,NW382,,Tswaing,Male,64829
+municipality,NW382,,Tswaing,Total,129052
+municipality,NW383,,Mafikeng,Female,161300
+municipality,NW383,,Mafikeng,Male,153094
+municipality,NW383,,Mafikeng,Total,314394
+municipality,NW384,,Ditsobotla,Female,"88,444"
+municipality,NW384,,Ditsobotla,Male,"93,421"
+municipality,NW384,,Ditsobotla,Total,"181,865"
+municipality,NW385,,Ramotshere Moiloa,Female,80232
+municipality,NW385,,Ramotshere Moiloa,Male,77458
+municipality,NW385,,Ramotshere Moiloa,Total,157690
+municipality,NW392,,Naledi,Female,34032
+municipality,NW392,,Naledi,Male,34771
+municipality,NW392,,Naledi,Total,68803
+municipality,NW393,,Mamusa,Female,32380
+municipality,NW393,,Mamusa,Male,31620
+municipality,NW393,,Mamusa,Total,64000
+municipality,NW394,,Greater Taung,Female,"89,972"
+municipality,NW394,,Greater Taung,Male,"77,855"
+municipality,NW394,,Greater Taung,Total,"167,827"
+municipality,NW396,,Lekwa-Teemane,Female,28307
+municipality,NW396,,Lekwa-Teemane,Male,"27,718"
+municipality,NW396,,Lekwa-Teemane,Total,"56,025"
+municipality,NW397,,Kagisano/Molopo,Female,"53,555"
+municipality,NW397,,Kagisano/Molopo,Male,"49,147"
+municipality,NW397,,Kagisano/Molopo,Total,"102,702"
+municipality,NW403,,City of Matlosana,Female,"208,443"
+municipality,NW403,,City of Matlosana,Male,"208,839"
+municipality,NW403,,City of Matlosana,Total,"417,282"
+municipality,NW404,,Maquassi Hills,Female,40776
+municipality,NW404,,Maquassi Hills,Male,41236
+municipality,NW404,,Maquassi Hills,Total,82012
+municipality,NW405,,Ventersdorp/Tlokwe,Female,120861
+municipality,NW405,,Ventersdorp/Tlokwe,Male,122666
+municipality,NW405,,Ventersdorp/Tlokwe,Total,243527
+municipality,TSH,,City of Tshwane,Female,"1,649,731"
+municipality,TSH,,City of Tshwane,Male,"1,625,421"
+municipality,TSH,,City of Tshwane,Total,"3,275,152"
+municipality,WC011,,Matzikama,Female,35256
+municipality,WC011,,Matzikama,Male,35789
+municipality,WC011,,Matzikama,Total,71045
+municipality,WC012,,Cederberg,Female,"26,173"
+municipality,WC012,,Cederberg,Male,26776
+municipality,WC012,,Cederberg,Total,52949
+municipality,WC013,,Bergrivier,Female,34906
+municipality,WC013,,Bergrivier,Male,"32,567"
+municipality,WC013,,Bergrivier,Total,"67,473"
+municipality,WC014,,Saldanha Bay,Female,55588
+municipality,WC014,,Saldanha Bay,Male,55584
+municipality,WC014,,Saldanha Bay,Total,111172
+municipality,WC015,,Swartland,Female,67319
+municipality,WC015,,Swartland,Male,66443
+municipality,WC015,,Swartland,Total,133762
+municipality,WC022,,Witzenberg,Female,62635
+municipality,WC022,,Witzenberg,Male,67912
+municipality,WC022,,Witzenberg,Total,130547
+municipality,WC023,,Drakenstein,Female,"141,774"
+municipality,WC023,,Drakenstein,Male,"138,421"
+municipality,WC023,,Drakenstein,Total,"280,195"
+municipality,WC024,,Stellenbosch,Female,88035
+municipality,WC024,,Stellenbosch,Male,85162
+municipality,WC024,,Stellenbosch,Total,173197
+municipality,WC025,,Breede Valley,Female,"90,883"
+municipality,WC025,,Breede Valley,Male,85695
+municipality,WC025,,Breede Valley,Total,"176,578"
+municipality,WC026,,Langeberg,Female,"53,364"
+municipality,WC026,,Langeberg,Male,"52,119"
+municipality,WC026,,Langeberg,Total,"105,483"
+municipality,WC031,,Theewaterskloof,Female,57898
+municipality,WC031,,Theewaterskloof,Male,59270
+municipality,WC031,,Theewaterskloof,Total,117168
+municipality,WC032,,Overstrand,Female,47154
+municipality,WC032,,Overstrand,Male,46254
+municipality,WC032,,Overstrand,Total,93408
+municipality,WC033,,Cape Agulhas,Female,"18,170"
+municipality,WC033,,Cape Agulhas,Male,"17,830"
+municipality,WC033,,Cape Agulhas,Total,"36,000"
+municipality,WC034,,Swellendam,Female,20078
+municipality,WC034,,Swellendam,Male,20133
+municipality,WC034,,Swellendam,Total,40211
+municipality,WC041,,Kannaland,Female,"12,382"
+municipality,WC041,,Kannaland,Male,"11,786"
+municipality,WC041,,Kannaland,Total,"24,168"
+municipality,WC042,,Hessequa,Female,"27,839"
+municipality,WC042,,Hessequa,Male,"26,397"
+municipality,WC042,,Hessequa,Total,"54,236"
+municipality,WC043,,Mossel Bay,Female,48372
+municipality,WC043,,Mossel Bay,Male,45763
+municipality,WC043,,Mossel Bay,Total,94135
+municipality,WC044,,George,Female,"105,387"
+municipality,WC044,,George,Male,"102,850"
+municipality,WC044,,George,Total,"208,237"
+municipality,WC045,,Oudtshoorn,Female,50703
+municipality,WC045,,Oudtshoorn,Male,46805
+municipality,WC045,,Oudtshoorn,Total,97508
+municipality,WC047,,Bitou,Female,"29,563"
+municipality,WC047,,Bitou,Male,"29,595"
+municipality,WC047,,Bitou,Total,"59,158"
+municipality,WC048,,Knysna,Female,"37,312"
+municipality,WC048,,Knysna,Male,"36,523"
+municipality,WC048,,Knysna,Total,"73,835"
+municipality,WC051,,Laingsburg,Female,"4,477"
+municipality,WC051,,Laingsburg,Male,"4,418"
+municipality,WC051,,Laingsburg,Total,"8,895"
+municipality,WC052,,Prince Albert,Female,7325
+municipality,WC052,,Prince Albert,Male,6947
+municipality,WC052,,Prince Albert,Total,14272
+municipality,WC053,,Beaufort West,Female,"26,503"
+municipality,WC053,,Beaufort West,Male,"24,577"
+municipality,WC053,,Beaufort West,Total,"51,080"
+province,EC,,Eastern Cape,Female,3669481
+province,EC,,Eastern Cape,total,6996976
+province,EC,,Eastern Cape,Male,3327495
+province,FS,,Free State,total,2834714
+province,FS,,Free State,Female,1454749
+province,FS,,Free State,Male,1379965
+province,GT,,Gauteng,Female,6646455
+province,GT,,Gauteng,Male,6753269
+province,GT,,Gauteng,total,13399724
+province,KZN,,KwaZulu-Natal,total,11065240
+province,KZN,,KwaZulu-Natal,Male,5306295
+province,KZN,,KwaZulu-Natal,Female,5758945
+province,LIM,,Limpopo,total,5799090
+province,LIM,,Limpopo,Female,3060543
+province,LIM,,Limpopo,Male,2738547
+province,MP,,Mpumalanga,Male,2139187
+province,MP,,Mpumalanga,total,4335963
+province,MP,,Mpumalanga,Female,2196776
+province,NW,,North West,total,3748435
+province,NW,,North West,Male,1909589
+province,NW,,North West,Female,1838846
+province,NC,,Northern Cape,Male,596421
+province,NC,,Northern Cape,Female,597359
+province,NC,,Northern Cape,total,1193780
+country,ZA,,South Africa,total,55653654
+country,ZA,,South Africa,Female,28406428
+country,ZA,,South Africa,Male,27247226
+province,WC,,Western Cape,Female,3183273
+province,WC,,Western Cape,total,6279730
+province,WC,,Western Cape,Male,3096457

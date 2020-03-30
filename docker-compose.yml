@@ -1,0 +1,13 @@
+version: '3.3'
+
+services:
+  db:
+    image: postgres:9.5
+    ports:
+      - 54321:5432
+    environment:
+      - POSTGRES_USER=hurumapdata
+      - POSTGRES_PASSWORD=hurumapdata
+      - POSTGRES_DB=hurumapdata
+    volumes:
+      - ./sql:/docker-entrypoint-initdb.d/

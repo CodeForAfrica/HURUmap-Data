@@ -1,0 +1,91 @@
+geo_level,geo_code,geo_version,name,variable,value
+province,EC,,Eastern Cape,Train,6040.20
+province,EC,,Eastern Cape,Bus,35030.11
+province,EC,,Eastern Cape,Own transport,776735.19
+province,EC,,Eastern Cape,Minibus taxi/sedan taxi/bakkie taxi,2083253.06
+province,EC,,Eastern Cape,Total,6508137.53
+province,EC,,Eastern Cape,Unspecified,59713.69
+province,EC,,Eastern Cape,Other,54600.76
+province,EC,,Eastern Cape,Walking,3492041.79
+province,EC,,Eastern Cape,Bicycle/motorcycle,722.73
+province,FS,,Free State,Train,2499.09
+province,FS,,Free State,Other,75172.57
+province,FS,,Free State,Bicycle/motorcycle,0.00
+province,FS,,Free State,Bus,4941.46
+province,FS,,Free State,Walking,1747447.17
+province,FS,,Free State,Unspecified,33503.80
+province,FS,,Free State,Minibus taxi/sedan taxi/bakkie taxi,450031.84
+province,FS,,Free State,Total,2891248.08
+province,FS,,Free State,Own transport,577652.15
+province,GT,,Gauteng,Bus,20871.11
+province,GT,,Gauteng,Train,28589.67
+province,GT,,Gauteng,Minibus taxi/sedan taxi/bakkie taxi,2627825.51
+province,GT,,Gauteng,Bicycle/motorcycle,19191.15
+province,GT,,Gauteng,Unspecified,169668.20
+province,GT,,Gauteng,Total,14660744.49
+province,GT,,Gauteng,Walking,7197031.32
+province,GT,,Gauteng,Other,53040.00
+province,GT,,Gauteng,Own transport,4544527.54
+province,KZN,,KwaZulu-Natal,Other,42828.16
+province,KZN,,KwaZulu-Natal,Train,11049.12
+province,KZN,,KwaZulu-Natal,Unspecified,46345.51
+province,KZN,,KwaZulu-Natal,Bicycle/motorcycle,5487.59
+province,KZN,,KwaZulu-Natal,Own transport,1806242.35
+province,KZN,,KwaZulu-Natal,Total,11215217.59
+province,KZN,,KwaZulu-Natal,Minibus taxi/sedan taxi/bakkie taxi,4710057.26
+province,KZN,,KwaZulu-Natal,Walking,4343028.29
+province,KZN,,KwaZulu-Natal,Bus,250179.32
+province,LIM,,Limpopo,Own transport,608329.16
+province,LIM,,Limpopo,Minibus taxi/sedan taxi/bakkie taxi,2207208.51
+province,LIM,,Limpopo,Total,5853756.09
+province,LIM,,Limpopo,Other,53709.08
+province,LIM,,Limpopo,Unspecified,27363.84
+province,LIM,,Limpopo,Train,519.10
+province,LIM,,Limpopo,Bicycle/motorcycle,7931.09
+province,LIM,,Limpopo,Bus,83613.21
+province,LIM,,Limpopo,Walking,2865082.10
+province,MP,,Mpumalanga,Bicycle/motorcycle,4955.86
+province,MP,,Mpumalanga,Total,4523433.48
+province,MP,,Mpumalanga,Other,93776.87
+province,MP,,Mpumalanga,Unspecified,29280.19
+province,MP,,Mpumalanga,Minibus taxi/sedan taxi/bakkie taxi,1339013.80
+province,MP,,Mpumalanga,Walking,2112580.17
+province,MP,,Mpumalanga,Train,7072.15
+province,MP,,Mpumalanga,Bus,74921.89
+province,MP,,Mpumalanga,Own transport,861832.56
+province,NW,,North West,Total,3925218.34
+province,NW,,North West,Own transport,644897.24
+province,NW,,North West,Minibus taxi/sedan taxi/bakkie taxi,747812.30
+province,NW,,North West,Bicycle/motorcycle,9444.48
+province,NW,,North West,Bus,51780.32
+province,NW,,North West,Train,18880.69
+province,NW,,North West,Walking,2381179.84
+province,NW,,North West,Unspecified,8923.37
+province,NW,,North West,Other,62300.10
+province,NC,,Northern Cape,Walking,846076.50
+province,NC,,Northern Cape,Train,0.00
+province,NC,,Northern Cape,Bicycle/motorcycle,264.82
+province,NC,,Northern Cape,Minibus taxi/sedan taxi/bakkie taxi,87223.26
+province,NC,,Northern Cape,Total,1229794.40
+province,NC,,Northern Cape,Own transport,249405.03
+province,NC,,Northern Cape,Bus,4233.62
+province,NC,,Northern Cape,Other,38360.56
+province,NC,,Northern Cape,Unspecified,4230.61
+country,ZA,,South Africa,Unspecified,415113.34
+country,ZA,,South Africa,Total,57457811.01
+country,ZA,,South Africa,Other,654357.21
+country,ZA,,South Africa,Bicycle/motorcycle,61616.89
+country,ZA,,South Africa,Own transport,12453016.20
+country,ZA,,South Africa,Train,95012.65
+country,ZA,,South Africa,Bus,608612.54
+country,ZA,,South Africa,Minibus taxi/sedan taxi/bakkie taxi,15366667.84
+country,ZA,,South Africa,Walking,27803414.34
+province,WC,,Western Cape,Other,180569.11
+province,WC,,Western Cape,Bicycle/motorcycle,13619.16
+province,WC,,Western Cape,Own transport,2383394.99
+province,WC,,Western Cape,Total,6650261.01
+province,WC,,Western Cape,Train,20362.64
+province,WC,,Western Cape,Bus,83041.51
+province,WC,,Western Cape,Minibus taxi/sedan taxi/bakkie taxi,1114242.30
+province,WC,,Western Cape,Unspecified,36084.13
+province,WC,,Western Cape,Walking,2818947.17

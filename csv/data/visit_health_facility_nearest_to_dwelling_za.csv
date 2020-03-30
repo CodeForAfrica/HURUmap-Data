@@ -1,0 +1,31 @@
+geo_level,geo_code,geo version,name,variable,value
+province,EC,,Eastern Cape,No,264037.84
+province,EC,,Eastern Cape,Yes,6244099.69
+province,EC,,Eastern Cape,Total,6508137.53
+province,FS,,Free State,No,216033.48
+province,FS,,Free State,Total,2891248.08
+province,FS,,Free State,Yes,2675214.60
+province,GT,,Gauteng,Yes,13533853.73
+province,GT,,Gauteng,No,1126890.77
+province,GT,,Gauteng,Total,14660744.49
+province,KZN,,KwaZulu-Natal,No,355578.11
+province,KZN,,KwaZulu-Natal,Total,11215217.59
+province,KZN,,KwaZulu-Natal,Yes,10859639.48
+province,LIM,,Limpopo,No,230456.55
+province,LIM,,Limpopo,Total,5853756.09
+province,LIM,,Limpopo,Yes,5623299.54
+province,MP,,Mpumalanga,Total,4523433.48
+province,MP,,Mpumalanga,No,191967.01
+province,MP,,Mpumalanga,Yes,4331466.47
+province,NW,,North West,No,424599.86
+province,NW,,North West,Total,3925218.34
+province,NW,,North West,Yes,3500618.47
+province,NC,,Northern Cape,Total,1229794.40
+province,NC,,Northern Cape,Yes,1133960.57
+province,NC,,Northern Cape,No,95833.83
+country,ZA,,South Africa,Total,57457811.01
+country,ZA,,South Africa,No,3756597.71
+country,ZA,,South Africa,Yes,53701213.30
+province,WC,,Western Cape,No,851200.25
+province,WC,,Western Cape,Total,6650261.01
+province,WC,,Western Cape,Yes,5799060.76

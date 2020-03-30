@@ -1,0 +1,385 @@
+geo_level,geo_code,geo_version,name,variable,value
+county,30,,Baringo,"Faith Based (church, Mission) Hospital / Clinic",4.4
+county,30,,Baringo,Government dispensary,52.9
+county,30,,Baringo,Fhok/ Fpack Health,0.1
+county,30,,Baringo,Nursing/ Maternity Home,0
+county,30,,Baringo,Government health centre,13.7
+county,30,,Baringo,Private hospital / clinic,13.7
+county,30,,Baringo,Government hospital,18.3
+county,30,,Baringo,Pharmacy/ chemist,0
+county,36,,Bomet,Private hospital / clinic,23.6
+county,36,,Bomet,Nursing/ Maternity Home,0.2
+county,36,,Bomet,Government health centre,32.5
+county,36,,Bomet,"Faith Based (church, Mission) Hospital / Clinic",4.1
+county,36,,Bomet,Government hospital,11.5
+county,36,,Bomet,Pharmacy/ chemist,0
+county,36,,Bomet,Government dispensary,31.1
+county,36,,Bomet,Fhok/ Fpack Health,0.9
+county,39,,Bungoma,Pharmacy/ chemist,0.6
+county,39,,Bungoma,Government hospital,20.1
+county,39,,Bungoma,Fhok/ Fpack Health,0
+county,39,,Bungoma,"Faith Based (church, Mission) Hospital / Clinic",1.1
+county,39,,Bungoma,Government health centre,16.8
+county,39,,Bungoma,Private hospital / clinic,14.5
+county,39,,Bungoma,Government dispensary,44.3
+county,39,,Bungoma,Nursing/ Maternity Home,0
+county,40,,Busia,Government dispensary,41
+county,40,,Busia,Government health centre,23.5
+county,40,,Busia,Pharmacy/ chemist,0
+county,40,,Busia,Fhok/ Fpack Health,0
+county,40,,Busia,Government hospital,21.1
+county,40,,Busia,Private hospital / clinic,15.3
+county,40,,Busia,Nursing/ Maternity Home,0.9
+county,40,,Busia,"Faith Based (church, Mission) Hospital / Clinic",0.4
+county,28,,Elgeyo / Marakwet,Fhok/ Fpack Health,0.6
+county,28,,Elgeyo / Marakwet,Nursing/ Maternity Home,0
+county,28,,Elgeyo / Marakwet,Government health centre,22
+county,28,,Elgeyo / Marakwet,"Faith Based (church, Mission) Hospital / Clinic",8.8
+county,28,,Elgeyo / Marakwet,Private hospital / clinic,3.7
+county,28,,Elgeyo / Marakwet,Government hospital,13.7
+county,28,,Elgeyo / Marakwet,Pharmacy/ chemist,0
+county,28,,Elgeyo / Marakwet,Government dispensary,53.2
+county,14,,Embu,Government health centre,7.7
+county,14,,Embu,Nursing/ Maternity Home,0.4
+county,14,,Embu,Private hospital / clinic,27.2
+county,14,,Embu,Pharmacy/ chemist,0.8
+county,14,,Embu,"Faith Based (church, Mission) Hospital / Clinic",1.6
+county,14,,Embu,Government dispensary,37.8
+county,14,,Embu,Fhok/ Fpack Health,0
+county,14,,Embu,Government hospital,28.1
+county,7,,Garissa,Government dispensary,32.6
+county,7,,Garissa,Private hospital / clinic,36.7
+county,7,,Garissa,Fhok/ Fpack Health,0
+county,7,,Garissa,Nursing/ Maternity Home,0
+county,7,,Garissa,"Faith Based (church, Mission) Hospital / Clinic",0
+county,7,,Garissa,Government health centre,18.4
+county,7,,Garissa,Pharmacy/ chemist,0
+county,7,,Garissa,Government hospital,11.7
+county,43,,Homa Bay,Government hospital,12.8
+county,43,,Homa Bay,Government health centre,22.2
+county,43,,Homa Bay,"Faith Based (church, Mission) Hospital / Clinic",2.6
+county,43,,Homa Bay,Private hospital / clinic,26
+county,43,,Homa Bay,Pharmacy/ chemist,0
+county,43,,Homa Bay,Fhok/ Fpack Health,0.6
+county,43,,Homa Bay,Nursing/ Maternity Home,0.3
+county,43,,Homa Bay,Government dispensary,37.2
+county,11,,Isiolo,Government hospital,24.7
+county,11,,Isiolo,Government dispensary,36.8
+county,11,,Isiolo,Pharmacy/ chemist,0.3
+county,11,,Isiolo,Private hospital / clinic,27
+county,11,,Isiolo,"Faith Based (church, Mission) Hospital / Clinic",10.9
+county,11,,Isiolo,Fhok/ Fpack Health,0
+county,11,,Isiolo,Government health centre,4.8
+county,11,,Isiolo,Nursing/ Maternity Home,0
+county,34,,Kajiado,Nursing/ Maternity Home,1.5
+county,34,,Kajiado,Private hospital / clinic,33
+county,34,,Kajiado,Government health centre,10.4
+county,34,,Kajiado,Government dispensary,14.6
+county,34,,Kajiado,Fhok/ Fpack Health,0
+county,34,,Kajiado,"Faith Based (church, Mission) Hospital / Clinic",12.6
+county,34,,Kajiado,Pharmacy/ chemist,0
+county,34,,Kajiado,Government hospital,28.4
+county,37,,Kakamega,Pharmacy/ chemist,0.6
+county,37,,Kakamega,Government hospital,8.2
+county,37,,Kakamega,Fhok/ Fpack Health,0
+county,37,,Kakamega,"Faith Based (church, Mission) Hospital / Clinic",3.4
+county,37,,Kakamega,Private hospital / clinic,9.7
+county,37,,Kakamega,Nursing/ Maternity Home,0.4
+county,37,,Kakamega,Government dispensary,64.9
+county,37,,Kakamega,Government health centre,12.6
+county,35,,Kericho,Pharmacy/ chemist,0.6
+county,35,,Kericho,Government hospital,15.5
+county,35,,Kericho,"Faith Based (church, Mission) Hospital / Clinic",1.4
+county,35,,Kericho,Nursing/ Maternity Home,0
+county,35,,Kericho,Private hospital / clinic,22.7
+county,35,,Kericho,Fhok/ Fpack Health,0.4
+county,35,,Kericho,Government health centre,18.2
+county,35,,Kericho,Government dispensary,38.2
+county,22,,Kiambu,Government hospital,22.3
+county,22,,Kiambu,Pharmacy/ chemist,0
+county,22,,Kiambu,"Faith Based (church, Mission) Hospital / Clinic",5.5
+county,22,,Kiambu,Government dispensary,21.4
+county,22,,Kiambu,Private hospital / clinic,28.2
+county,22,,Kiambu,Fhok/ Fpack Health,0
+county,22,,Kiambu,Nursing/ Maternity Home,0
+county,22,,Kiambu,Government health centre,23.6
+county,3,,Kilifi,Private hospital / clinic,27.6
+county,3,,Kilifi,"Faith Based (church, Mission) Hospital / Clinic",1.8
+county,3,,Kilifi,Fhok/ Fpack Health,0
+county,3,,Kilifi,Government health centre,15
+county,3,,Kilifi,Nursing/ Maternity Home,0.3
+county,3,,Kilifi,Pharmacy/ chemist,1
+county,3,,Kilifi,Government hospital,13.2
+county,3,,Kilifi,Government dispensary,36.5
+county,20,,Kirinyaga,Nursing/ Maternity Home,0
+county,20,,Kirinyaga,Government hospital,20.7
+county,20,,Kirinyaga,Fhok/ Fpack Health,1.2
+county,20,,Kirinyaga,"Faith Based (church, Mission) Hospital / Clinic",6.1
+county,20,,Kirinyaga,Pharmacy/ chemist,0
+county,20,,Kirinyaga,Private hospital / clinic,24.2
+county,20,,Kirinyaga,Government health centre,12.4
+county,20,,Kirinyaga,Government dispensary,38.5
+county,45,,Kisii,Fhok/ Fpack Health,0
+county,45,,Kisii,Pharmacy/ chemist,0
+county,45,,Kisii,Government dispensary,12.5
+county,45,,Kisii,Nursing/ Maternity Home,0
+county,45,,Kisii,Government hospital,51.3
+county,45,,Kisii,"Faith Based (church, Mission) Hospital / Clinic",1.6
+county,45,,Kisii,Government health centre,16.9
+county,45,,Kisii,Private hospital / clinic,7.1
+county,42,,Kisumu,Private hospital / clinic,17.5
+county,42,,Kisumu,Government hospital,22.6
+county,42,,Kisumu,Fhok/ Fpack Health,0.3
+county,42,,Kisumu,Government dispensary,24.2
+county,42,,Kisumu,"Faith Based (church, Mission) Hospital / Clinic",3.1
+county,42,,Kisumu,Government health centre,31.7
+county,42,,Kisumu,Nursing/ Maternity Home,0
+county,42,,Kisumu,Pharmacy/ chemist,0.5
+county,15,,Kitui,Fhok/ Fpack Health,0
+county,15,,Kitui,"Faith Based (church, Mission) Hospital / Clinic",5.6
+county,15,,Kitui,Private hospital / clinic,12.1
+county,15,,Kitui,Government dispensary,39
+county,15,,Kitui,Government hospital,16.2
+county,15,,Kitui,Nursing/ Maternity Home,0
+county,15,,Kitui,Pharmacy/ chemist,0
+county,15,,Kitui,Government health centre,28.4
+county,2,,Kwale,"Faith Based (church, Mission) Hospital / Clinic",0.7
+county,2,,Kwale,Government dispensary,49.5
+county,2,,Kwale,Pharmacy/ chemist,0
+county,2,,Kwale,Government health centre,8.7
+county,2,,Kwale,Fhok/ Fpack Health,0.3
+county,2,,Kwale,Private hospital / clinic,21.3
+county,2,,Kwale,Nursing/ Maternity Home,0
+county,2,,Kwale,Government hospital,19.8
+county,31,,Laikipia,"Faith Based (church, Mission) Hospital / Clinic",5.9
+county,31,,Laikipia,Pharmacy/ chemist,0.3
+county,31,,Laikipia,Government health centre,24.7
+county,31,,Laikipia,Private hospital / clinic,23
+county,31,,Laikipia,Nursing/ Maternity Home,0
+county,31,,Laikipia,Government hospital,34.3
+county,31,,Laikipia,Government dispensary,19
+county,31,,Laikipia,Fhok/ Fpack Health,0
+county,5,,Lamu,Fhok/ Fpack Health,1.5
+county,5,,Lamu,Private hospital / clinic,19
+county,5,,Lamu,Nursing/ Maternity Home,0
+county,5,,Lamu,Government hospital,22.4
+county,5,,Lamu,"Faith Based (church, Mission) Hospital / Clinic",1.2
+county,5,,Lamu,Pharmacy/ chemist,0
+county,5,,Lamu,Government health centre,7.6
+county,5,,Lamu,Government dispensary,50.4
+county,16,,Machakos,Government health centre,15
+county,16,,Machakos,Private hospital / clinic,27
+county,16,,Machakos,Nursing/ Maternity Home,0.4
+county,16,,Machakos,Fhok/ Fpack Health,0
+county,16,,Machakos,"Faith Based (church, Mission) Hospital / Clinic",4
+county,16,,Machakos,Government dispensary,26.7
+county,16,,Machakos,Government hospital,28.4
+county,16,,Machakos,Pharmacy/ chemist,0
+county,17,,Makueni,Government health centre,12.6
+county,17,,Makueni,Private hospital / clinic,13.3
+county,17,,Makueni,Government hospital,19.1
+county,17,,Makueni,Government dispensary,48.6
+county,17,,Makueni,Pharmacy/ chemist,0.6
+county,17,,Makueni,Fhok/ Fpack Health,0.1
+county,17,,Makueni,"Faith Based (church, Mission) Hospital / Clinic",3.1
+county,17,,Makueni,Nursing/ Maternity Home,0.2
+county,9,,Mandera,Pharmacy/ chemist,0.3
+county,9,,Mandera,Government dispensary,35
+county,9,,Mandera,Government health centre,16.9
+county,9,,Mandera,"Faith Based (church, Mission) Hospital / Clinic",0
+county,9,,Mandera,Private hospital / clinic,25.3
+county,9,,Mandera,Fhok/ Fpack Health,0
+county,9,,Mandera,Government hospital,24.1
+county,9,,Mandera,Nursing/ Maternity Home,0.8
+county,10,,Marsabit,Private hospital / clinic,16.2
+county,10,,Marsabit,Fhok/ Fpack Health,0
+county,10,,Marsabit,Pharmacy/ chemist,0
+county,10,,Marsabit,Government dispensary,24.1
+county,10,,Marsabit,Nursing/ Maternity Home,4.4
+county,10,,Marsabit,Government health centre,5.9
+county,10,,Marsabit,"Faith Based (church, Mission) Hospital / Clinic",18.3
+county,10,,Marsabit,Government hospital,34.9
+county,12,,Meru,Private hospital / clinic,46.6
+county,12,,Meru,Fhok/ Fpack Health,0.9
+county,12,,Meru,"Faith Based (church, Mission) Hospital / Clinic",9.6
+county,12,,Meru,Government dispensary,16.6
+county,12,,Meru,Government hospital,13.6
+county,12,,Meru,Nursing/ Maternity Home,0
+county,12,,Meru,Pharmacy/ chemist,0.2
+county,12,,Meru,Government health centre,15.3
+county,44,,Migori,Government hospital,17.3
+county,44,,Migori,"Faith Based (church, Mission) Hospital / Clinic",3.6
+county,44,,Migori,Fhok/ Fpack Health,1.6
+county,44,,Migori,Nursing/ Maternity Home,0
+county,44,,Migori,Government health centre,31
+county,44,,Migori,Pharmacy/ chemist,0.3
+county,44,,Migori,Government dispensary,39.1
+county,44,,Migori,Private hospital / clinic,8.1
+county,1,,Mombasa,Government hospital,14.3
+county,1,,Mombasa,Nursing/ Maternity Home,0
+county,1,,Mombasa,Private hospital / clinic,53.6
+county,1,,Mombasa,Fhok/ Fpack Health,0
+county,1,,Mombasa,Government health centre,13.6
+county,1,,Mombasa,"Faith Based (church, Mission) Hospital / Clinic",2.3
+county,1,,Mombasa,Pharmacy/ chemist,2.7
+county,1,,Mombasa,Government dispensary,10.1
+county,21,,Murang'a,Pharmacy/ chemist,0.7
+county,21,,Murang'a,Government dispensary,27.5
+county,21,,Murang'a,Nursing/ Maternity Home,1
+county,21,,Murang'a,"Faith Based (church, Mission) Hospital / Clinic",3.8
+county,21,,Murang'a,Government health centre,31.4
+county,21,,Murang'a,Private hospital / clinic,13.9
+county,21,,Murang'a,Fhok/ Fpack Health,0
+county,21,,Murang'a,Government hospital,24.8
+county,47,,Nairobi City,Fhok/ Fpack Health,0.3
+county,47,,Nairobi City,Private hospital / clinic,39.5
+county,47,,Nairobi City,Nursing/ Maternity Home,0.3
+county,47,,Nairobi City,"Faith Based (church, Mission) Hospital / Clinic",2.9
+county,47,,Nairobi City,Pharmacy/ chemist,0.7
+county,47,,Nairobi City,Government dispensary,22.5
+county,47,,Nairobi City,Government health centre,14.2
+county,47,,Nairobi City,Government hospital,21.8
+county,32,,Nakuru,Fhok/ Fpack Health,0
+county,32,,Nakuru,Private hospital / clinic,28.9
+county,32,,Nakuru,Government dispensary,27
+county,32,,Nakuru,Government health centre,13.6
+county,32,,Nakuru,Nursing/ Maternity Home,0
+county,32,,Nakuru,Government hospital,26.9
+county,32,,Nakuru,Pharmacy/ chemist,0
+county,32,,Nakuru,"Faith Based (church, Mission) Hospital / Clinic",4.5
+county,29,,Nandi,Government health centre,9.5
+county,29,,Nandi,Government hospital,20.8
+county,29,,Nandi,"Faith Based (church, Mission) Hospital / Clinic",0.4
+county,29,,Nandi,Private hospital / clinic,19
+county,29,,Nandi,Fhok/ Fpack Health,0
+county,29,,Nandi,Pharmacy/ chemist,0.2
+county,29,,Nandi,Nursing/ Maternity Home,0
+county,29,,Nandi,Government dispensary,34.1
+county,33,,Narok,Private hospital / clinic,31.2
+county,33,,Narok,Pharmacy/ chemist,0.1
+county,33,,Narok,Government dispensary,18.8
+county,33,,Narok,Fhok/ Fpack Health,0.3
+county,33,,Narok,Government hospital,17.6
+county,33,,Narok,"Faith Based (church, Mission) Hospital / Clinic",11.7
+county,33,,Narok,Nursing/ Maternity Home,0
+county,33,,Narok,Government health centre,23.2
+country,KE,,Kenya,Nursing/ Maternity Home,0.2
+country,KE,,Kenya,"Faith Based (church, Mission) Hospital / Clinic",4.1
+country,KE,,Kenya,Government dispensary,34.7
+country,KE,,Kenya,Pharmacy/ chemist,0.5
+country,KE,,Kenya,Government health centre,18.4
+country,KE,,Kenya,Government hospital,20.3
+country,KE,,Kenya,Private hospital / clinic,21.4
+country,KE,,Kenya,Fhok/ Fpack Health,0.3
+county,46,,Nyamira,Government health centre,29.4
+county,46,,Nyamira,Fhok/ Fpack Health,1.4
+county,46,,Nyamira,Nursing/ Maternity Home,1.2
+county,46,,Nyamira,Government hospital,26.2
+county,46,,Nyamira,Private hospital / clinic,15.7
+county,46,,Nyamira,Government dispensary,23.1
+county,46,,Nyamira,Pharmacy/ chemist,0
+county,46,,Nyamira,"Faith Based (church, Mission) Hospital / Clinic",4.9
+county,18,,Nyandarua,Fhok/ Fpack Health,0
+county,18,,Nyandarua,Nursing/ Maternity Home,0
+county,18,,Nyandarua,Government health centre,40.8
+county,18,,Nyandarua,Government dispensary,22.6
+county,18,,Nyandarua,Pharmacy/ chemist,0
+county,18,,Nyandarua,"Faith Based (church, Mission) Hospital / Clinic",6.2
+county,18,,Nyandarua,Private hospital / clinic,16.1
+county,18,,Nyandarua,Government hospital,19.7
+county,19,,Nyeri,Government hospital,22
+county,19,,Nyeri,Private hospital / clinic,19.8
+county,19,,Nyeri,Government dispensary,36.6
+county,19,,Nyeri,Pharmacy/ chemist,0
+county,19,,Nyeri,Nursing/ Maternity Home,0
+county,19,,Nyeri,"Faith Based (church, Mission) Hospital / Clinic",3.9
+county,19,,Nyeri,Government health centre,21.3
+county,19,,Nyeri,Fhok/ Fpack Health,0
+county,25,,Samburu,"Faith Based (church, Mission) Hospital / Clinic",16.8
+county,25,,Samburu,Government health centre,12.7
+county,25,,Samburu,Private hospital / clinic,12.4
+county,25,,Samburu,Government dispensary,33.9
+county,25,,Samburu,Nursing/ Maternity Home,0
+county,25,,Samburu,Fhok/ Fpack Health,0
+county,25,,Samburu,Pharmacy/ chemist,0
+county,25,,Samburu,Government hospital,27.3
+county,41,,Siaya,Government dispensary,43
+county,41,,Siaya,Government hospital,20.9
+county,41,,Siaya,Private hospital / clinic,9.3
+county,41,,Siaya,Nursing/ Maternity Home,0
+county,41,,Siaya,Pharmacy/ chemist,2.9
+county,41,,Siaya,Fhok/ Fpack Health,0
+county,41,,Siaya,"Faith Based (church, Mission) Hospital / Clinic",2.5
+county,41,,Siaya,Government health centre,22
+county,6,,Taita / Taveta,"Faith Based (church, Mission) Hospital / Clinic",6
+county,6,,Taita / Taveta,Government hospital,26
+county,6,,Taita / Taveta,Fhok/ Fpack Health,0
+county,6,,Taita / Taveta,Government dispensary,43.6
+county,6,,Taita / Taveta,Nursing/ Maternity Home,0.3
+county,6,,Taita / Taveta,Government health centre,13.9
+county,6,,Taita / Taveta,Private hospital / clinic,11.4
+county,6,,Taita / Taveta,Pharmacy/ chemist,0
+county,4,,Tana River,"Faith Based (church, Mission) Hospital / Clinic",1.7
+county,4,,Tana River,Fhok/ Fpack Health,0
+county,4,,Tana River,Government health centre,11.9
+county,4,,Tana River,Government dispensary,32.1
+county,4,,Tana River,Private hospital / clinic,17.8
+county,4,,Tana River,Pharmacy/ chemist,0.2
+county,4,,Tana River,Nursing/ Maternity Home,0
+county,4,,Tana River,Government hospital,38.2
+county,13,,Tharaka-Nithi,Pharmacy/ chemist,1.5
+county,13,,Tharaka-Nithi,Fhok/ Fpack Health,1.1
+county,13,,Tharaka-Nithi,Government health centre,16.8
+county,13,,Tharaka-Nithi,Government hospital,10.7
+county,13,,Tharaka-Nithi,Government dispensary,39.4
+county,13,,Tharaka-Nithi,Nursing/ Maternity Home,0
+county,13,,Tharaka-Nithi,Private hospital / clinic,27.8
+county,13,,Tharaka-Nithi,"Faith Based (church, Mission) Hospital / Clinic",11.6
+county,26,,Trans Nzoia,Private hospital / clinic,26.6
+county,26,,Trans Nzoia,Government dispensary,28.6
+county,26,,Trans Nzoia,Pharmacy/ chemist,0
+county,26,,Trans Nzoia,Government hospital,33.2
+county,26,,Trans Nzoia,Fhok/ Fpack Health,0
+county,26,,Trans Nzoia,"Faith Based (church, Mission) Hospital / Clinic",1.8
+county,26,,Trans Nzoia,Government health centre,7.9
+county,26,,Trans Nzoia,Nursing/ Maternity Home,0.1
+county,23,,Turkana,Government health centre,23.7
+county,23,,Turkana,Private hospital / clinic,2.4
+county,23,,Turkana,Nursing/ Maternity Home,0.4
+county,23,,Turkana,Fhok/ Fpack Health,0.3
+county,23,,Turkana,Government hospital,25.6
+county,23,,Turkana,Pharmacy/ chemist,0.1
+county,23,,Turkana,"Faith Based (church, Mission) Hospital / Clinic",6.9
+county,23,,Turkana,Government dispensary,28.3
+county,27,,Uasin Gishu,Pharmacy/ chemist,0
+county,27,,Uasin Gishu,Government dispensary,24.5
+county,27,,Uasin Gishu,Government health centre,17
+county,27,,Uasin Gishu,"Faith Based (church, Mission) Hospital / Clinic",3
+county,27,,Uasin Gishu,Fhok/ Fpack Health,0.2
+county,27,,Uasin Gishu,Private hospital / clinic,15.9
+county,27,,Uasin Gishu,Nursing/ Maternity Home,0
+county,27,,Uasin Gishu,Government hospital,40.9
+county,38,,Vihiga,Private hospital / clinic,16.6
+county,38,,Vihiga,"Faith Based (church, Mission) Hospital / Clinic",8.8
+county,38,,Vihiga,Pharmacy/ chemist,0.8
+county,38,,Vihiga,Nursing/ Maternity Home,0
+county,38,,Vihiga,Fhok/ Fpack Health,2
+county,38,,Vihiga,Government health centre,22.2
+county,38,,Vihiga,Government hospital,10
+county,38,,Vihiga,Government dispensary,38.7
+county,8,,Wajir,Fhok/ Fpack Health,0
+county,8,,Wajir,Government hospital,41.5
+county,8,,Wajir,"Faith Based (church, Mission) Hospital / Clinic",0
+county,8,,Wajir,Nursing/ Maternity Home,0
+county,8,,Wajir,Private hospital / clinic,37.5
+county,8,,Wajir,Pharmacy/ chemist,0
+county,8,,Wajir,Government dispensary,13
+county,8,,Wajir,Government health centre,11.8
+county,24,,West Pokot,Government hospital,11.7
+county,24,,West Pokot,Pharmacy/ chemist,1.9
+county,24,,West Pokot,Private hospital / clinic,11.2
+county,24,,West Pokot,Nursing/ Maternity Home,0.1
+county,24,,West Pokot,Government health centre,21.3
+county,24,,West Pokot,Government dispensary,38.4
+county,24,,West Pokot,Fhok/ Fpack Health,0
+county,24,,West Pokot,"Faith Based (church, Mission) Hospital / Clinic",8.6

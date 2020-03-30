@@ -1,0 +1,385 @@
+geo_level,geo_code,geo_version,name,variable_1,variable_2,value
+county,30,,Baringo,Rural,Total,"591,474"
+county,30,,Baringo,Rural,Intersex,12
+county,30,,Baringo,Rural,Female,"292,006"
+county,30,,Baringo,Rural,Male,"299,456"
+county,30,,Baringo,Urban,Total,"75,289"
+county,30,,Baringo,Urban,Intersex,1
+county,30,,Baringo,Urban,Female,"38,422"
+county,30,,Baringo,Urban,Male,"36,866"
+county,36,,Bomet,Rural,Total,"847,718"
+county,36,,Bomet,Rural,Female,"427,577"
+county,36,,Bomet,Rural,Intersex,22
+county,36,,Bomet,Rural,Male,"420,119"
+county,36,,Bomet,Urban,Total,"27,971"
+county,36,,Bomet,Urban,Female,"13,802"
+county,36,,Bomet,Urban,Intersex,1
+county,36,,Bomet,Urban,Male,"14,168"
+county,39,,Bungoma,Rural,Intersex,29
+county,39,,Bungoma,Rural,Male,"720,235"
+county,39,,Bungoma,Rural,Total,"1,480,458"
+county,39,,Bungoma,Rural,Female,"760,194"
+county,39,,Bungoma,Urban,Intersex,6
+county,39,,Bungoma,Urban,Male,"91,911"
+county,39,,Bungoma,Urban,Total,"190,112"
+county,39,,Bungoma,Urban,Female,"98,195"
+county,40,,Busia,Rural,Female,"408,611"
+county,40,,Busia,Rural,Total,"779,928"
+county,40,,Busia,Rural,Male,"371,289"
+county,40,,Busia,Rural,Intersex,28
+county,40,,Busia,Urban,Female,"58,790"
+county,40,,Busia,Urban,Total,"113,753"
+county,40,,Busia,Urban,Male,"54,963"
+county,40,,Busia,Urban,Intersex,0
+county,28,,Elg eyo/Marakwet,Rural,Female,"216,548"
+county,28,,Elg eyo/Marakwet,Rural,Intersex,9
+county,28,,Elg eyo/Marakwet,Rural,Male,"217,344"
+county,28,,Elg eyo/Marakwet,Rural,Total,"433,901"
+county,28,,Elg eyo/Marakwet,Urban,Female,"10,603"
+county,28,,Elg eyo/Marakwet,Urban,Intersex,3
+county,28,,Elg eyo/Marakwet,Urban,Male,"9,973"
+county,28,,Elg eyo/Marakwet,Urban,Total,"20,579"
+county,14,,Embu,Rural,Total,"532,675"
+county,14,,Embu,Rural,Male,"267,126"
+county,14,,Embu,Rural,Female,"265,534"
+county,14,,Embu,Rural,Intersex,15
+county,14,,Embu,Urban,Total,"75,924"
+county,14,,Embu,Urban,Male,"37,082"
+county,14,,Embu,Urban,Female,"38,833"
+county,14,,Embu,Urban,Intersex,9
+county,7,,Garissa,Rural,Intersex,27
+county,7,,Garissa,Rural,Female,"281,013"
+county,7,,Garissa,Rural,Male,"349,423"
+county,7,,Garissa,Rural,Total,"630,463"
+county,7,,Garissa,Urban,Intersex,7
+county,7,,Garissa,Urban,Female,"101,331"
+county,7,,Garissa,Urban,Male,"109,552"
+county,7,,Garissa,Urban,Total,"210,890"
+county,43,,Homa Bay,Rural,Total,"1,018,871"
+county,43,,Homa Bay,Rural,Intersex,19
+county,43,,Homa Bay,Rural,Female,"532,861"
+county,43,,Homa Bay,Rural,Male,"485,991"
+county,43,,Homa Bay,Urban,Total,"113,079"
+county,43,,Homa Bay,Urban,Intersex,4
+county,43,,Homa Bay,Urban,Female,"59,506"
+county,43,,Homa Bay,Urban,Male,"53,569"
+county,11,,Isiolo,Rural,Female,"65,894"
+county,11,,Isiolo,Rural,Male,"76,435"
+county,11,,Isiolo,Rural,Intersex,4
+county,11,,Isiolo,Rural,Total,"142,333"
+county,11,,Isiolo,Urban,Female,"62,589"
+county,11,,Isiolo,Urban,Male,"63,075"
+county,11,,Isiolo,Urban,Intersex,5
+county,11,,Isiolo,Urban,Total,"125,669"
+county,34,,Kajiado,Rural,Male,"250,233"
+county,34,,Kajiado,Rural,Total,"495,218"
+county,34,,Kajiado,Rural,Female,"244,970"
+county,34,,Kajiado,Rural,Intersex,15
+county,34,,Kajiado,Urban,Male,"306,865"
+county,34,,Kajiado,Urban,Total,"622,622"
+county,34,,Kajiado,Urban,Female,"315,734"
+county,34,,Kajiado,Urban,Intersex,23
+county,37,,Kakamega,Rural,Intersex,31
+county,37,,Kakamega,Rural,Male,"806,682"
+county,37,,Kakamega,Rural,Female,"875,526"
+county,37,,Kakamega,Rural,Total,"1,682,239"
+county,37,,Kakamega,Urban,Intersex,9
+county,37,,Kakamega,Urban,Male,"90,451"
+county,37,,Kakamega,Urban,Female,"94,880"
+county,37,,Kakamega,Urban,Total,"185,340"
+country,KE,,Kenya,Rural,Intersex,841
+country,KE,,Kenya,Rural,Female,"16,535,833"
+country,KE,,Kenya,Rural,Male,"16,195,922"
+country,KE,,Kenya,Rural,Total,"32,732,596"
+country,KE,,Kenya,Urban,Intersex,683
+country,KE,,Kenya,Urban,Female,"7,478,883"
+country,KE,,Kenya,Urban,Male,"7,352,134"
+country,KE,,Kenya,Urban,Total,"14,831,700"
+county,35,,Kericho,Rural,Male,"402,717"
+county,35,,Kericho,Rural,Female,"405,500"
+county,35,,Kericho,Rural,Intersex,22
+county,35,,Kericho,Rural,Total,"808,239"
+county,35,,Kericho,Urban,Male,"48,024"
+county,35,,Kericho,Urban,Female,"45,508"
+county,35,,Kericho,Urban,Intersex,6
+county,35,,Kericho,Urban,Total,"93,538"
+county,22,,Kiambu,Rural,Female,"355,866"
+county,22,,Kiambu,Rural,Male,"355,557"
+county,22,,Kiambu,Rural,Total,"711,450"
+county,22,,Kiambu,Rural,Intersex,27
+county,22,,Kiambu,Urban,Female,"874,588"
+county,22,,Kiambu,Urban,Male,"831,589"
+county,22,,Kiambu,Urban,Total,"1,706,285"
+county,22,,Kiambu,Urban,Intersex,108
+county,3,,Kilifi,Rural,Male,"512,765"
+county,3,,Kilifi,Rural,Female,"547,115"
+county,3,,Kilifi,Rural,Total,"1,059,899"
+county,3,,Kilifi,Rural,Intersex,19
+county,3,,Kilifi,Urban,Male,"191,324"
+county,3,,Kilifi,Urban,Female,"202,558"
+county,3,,Kilifi,Urban,Total,"393,888"
+county,3,,Kilifi,Urban,Intersex,6
+county,20,,Kirinyaga,Rural,Total,"474,187"
+county,20,,Kirinyaga,Rural,Male,"237,086"
+county,20,,Kirinyaga,Rural,Intersex,18
+county,20,,Kirinyaga,Rural,Female,"237,083"
+county,20,,Kirinyaga,Urban,Total,"136,224"
+county,20,,Kirinyaga,Urban,Male,"64,925"
+county,20,,Kirinyaga,Urban,Intersex,13
+county,20,,Kirinyaga,Urban,Female,"71,286"
+county,45,,Kisii,Rural,Total,"1,115,450"
+county,45,,Kisii,Rural,Female,"583,560"
+county,45,,Kisii,Rural,Male,"531,860"
+county,45,,Kisii,Rural,Intersex,30
+county,45,,Kisii,Urban,Total,"151,410"
+county,45,,Kisii,Urban,Female,"77,478"
+county,45,,Kisii,Urban,Male,"73,924"
+county,45,,Kisii,Urban,Intersex,8
+county,42,,Kisumu,Rural,Total,"714,668"
+county,42,,Kisumu,Rural,Intersex,8
+county,42,,Kisumu,Rural,Male,"344,721"
+county,42,,Kisumu,Rural,Female,"369,939"
+county,42,,Kisumu,Urban,Total,"440,906"
+county,42,,Kisumu,Urban,Intersex,15
+county,42,,Kisumu,Urban,Male,"216,221"
+county,42,,Kisumu,Urban,Female,"224,670"
+county,15,,Kitui,Rural,Female,"559,193"
+county,15,,Kitui,Rural,Male,"522,943"
+county,15,,Kitui,Rural,Intersex,32
+county,15,,Kitui,Rural,Total,"1,082,168"
+county,15,,Kitui,Urban,Female,"27,958"
+county,15,,Kitui,Urban,Male,"26,060"
+county,15,,Kitui,Urban,Intersex,1
+county,15,,Kitui,Urban,Total,"54,019"
+county,2,,Kwale,Rural,Intersex,13
+county,2,,Kwale,Rural,Female,"377,650"
+county,2,,Kwale,Rural,Male,"362,726"
+county,2,,Kwale,Rural,Total,"740,389"
+county,2,,Kwale,Urban,Intersex,5
+county,2,,Kwale,Urban,Female,"64,031"
+county,2,,Kwale,Urban,Male,"62,395"
+county,2,,Kwale,Urban,Total,"126,431"
+county,31,,Laikipia,Rural,Total,"391,200"
+county,31,,Laikipia,Rural,Intersex,14
+county,31,,Laikipia,Rural,Female,"194,909"
+county,31,,Laikipia,Rural,Male,"196,277"
+county,31,,Laikipia,Urban,Total,"127,360"
+county,31,,Laikipia,Urban,Intersex,4
+county,31,,Laikipia,Urban,Female,"64,193"
+county,31,,Laikipia,Urban,Male,"63,163"
+county,5,,Lamu,Rural,Total,"105,474"
+county,5,,Lamu,Rural,Intersex,2
+county,5,,Lamu,Rural,Female,"48,902"
+county,5,,Lamu,Rural,Male,"56,570"
+county,5,,Lamu,Urban,Total,"38,446"
+county,5,,Lamu,Urban,Intersex,2
+county,5,,Lamu,Urban,Female,"18,911"
+county,5,,Lamu,Urban,Male,"19,533"
+county,16,,Machakos,Rural,Intersex,25
+county,16,,Machakos,Rural,Female,"503,582"
+county,16,,Machakos,Rural,Total,"1,007,854"
+county,16,,Machakos,Rural,Male,"504,247"
+county,16,,Machakos,Urban,Intersex,9
+county,16,,Machakos,Urban,Female,"207,609"
+county,16,,Machakos,Urban,Total,"414,078"
+county,16,,Machakos,Urban,Male,"206,460"
+county,17,,Makueni,Rural,Female,"460,075"
+county,17,,Makueni,Rural,Intersex,20
+county,17,,Makueni,Rural,Total,"910,577"
+county,17,,Makueni,Rural,Male,"450,482"
+county,17,,Makueni,Urban,Female,"37,867"
+county,17,,Makueni,Urban,Intersex,0
+county,17,,Makueni,Urban,Total,"77,076"
+county,17,,Makueni,Urban,Male,"39,209"
+county,9,,Mandera,Rural,Male,"299,428"
+county,9,,Mandera,Rural,Total,"596,990"
+county,9,,Mandera,Rural,Intersex,27
+county,9,,Mandera,Rural,Female,"297,535"
+county,9,,Mandera,Urban,Male,"135,548"
+county,9,,Mandera,Urban,Total,"270,467"
+county,9,,Mandera,Urban,Intersex,10
+county,9,,Mandera,Urban,Female,"134,909"
+county,10,,Marsabit,Rural,Male,"188,758"
+county,10,,Marsabit,Rural,Total,"352,546"
+county,10,,Marsabit,Rural,Female,"163,772"
+county,10,,Marsabit,Rural,Intersex,16
+county,10,,Marsabit,Urban,Male,"54,790"
+county,10,,Marsabit,Urban,Total,"107,239"
+county,10,,Marsabit,Urban,Female,"52,447"
+county,10,,Marsabit,Urban,Intersex,2
+county,12,,Meru,Rural,Female,"707,228"
+county,12,,Meru,Rural,Male,"699,532"
+county,12,,Meru,Rural,Total,"1,406,796"
+county,12,,Meru,Rural,Intersex,36
+county,12,,Meru,Urban,Female,"70,747"
+county,12,,Meru,Urban,Male,"68,166"
+county,12,,Meru,Urban,Total,"138,918"
+county,12,,Meru,Urban,Intersex,5
+county,44,,Migori,Rural,Male,"455,887"
+county,44,,Migori,Rural,Female,"493,318"
+county,44,,Migori,Rural,Total,"949,236"
+county,44,,Migori,Rural,Intersex,31
+county,44,,Migori,Urban,Male,"80,300"
+county,44,,Migori,Urban,Female,"86,896"
+county,44,,Migori,Urban,Total,"167,200"
+county,44,,Migori,Urban,Intersex,4
+county,1,,Mombasa,Rural,Female,0
+county,1,,Mombasa,Rural,Intersex,0
+county,1,,Mombasa,Rural,Total,0
+county,1,,Mombasa,Rural,Male,0
+county,1,,Mombasa,Urban,Female,"598,046"
+county,1,,Mombasa,Urban,Intersex,30
+county,1,,Mombasa,Urban,Total,"1,208,333"
+county,1,,Mombasa,Urban,Male,"610,257"
+county,21,,Murang'a,Rural,Male,"467,062"
+county,21,,Murang'a,Rural,Intersex,30
+county,21,,Murang'a,Rural,Female,"471,121"
+county,21,,Murang'a,Rural,Total,"938,213"
+county,21,,Murang'a,Urban,Male,"56,878"
+county,21,,Murang'a,Urban,Intersex,1
+county,21,,Murang'a,Urban,Female,"61,548"
+county,21,,Murang'a,Urban,Total,"118,427"
+county,47,,Nairobi City,Rural,Female,0
+county,47,,Nairobi City,Rural,Male,0
+county,47,,Nairobi City,Rural,Intersex,0
+county,47,,Nairobi City,Rural,Total,0
+county,47,,Nairobi City,Urban,Female,"2,204,376"
+county,47,,Nairobi City,Urban,Male,"2,192,452"
+county,47,,Nairobi City,Urban,Intersex,245
+county,47,,Nairobi City,Urban,Total,"4,397,073"
+county,32,,Nakuru,Rural,Female,"555,458"
+county,32,,Nakuru,Rural,Male,"559,639"
+county,32,,Nakuru,Rural,Total,"1,115,122"
+county,32,,Nakuru,Rural,Intersex,25
+county,32,,Nakuru,Urban,Female,"529,377"
+county,32,,Nakuru,Urban,Male,"517,633"
+county,32,,Nakuru,Urban,Total,"1,047,080"
+county,32,,Nakuru,Urban,Intersex,70
+county,29,,Nandi,Rural,Female,"414,497"
+county,29,,Nandi,Rural,Intersex,20
+county,29,,Nandi,Rural,Total,"826,232"
+county,29,,Nandi,Rural,Male,"411,715"
+county,29,,Nandi,Urban,Female,"29,933"
+county,29,,Nandi,Urban,Intersex,2
+county,29,,Nandi,Urban,Total,"59,479"
+county,29,,Nandi,Urban,Male,"29,544"
+county,33,,Narok,Rural,Total,"1,057,521"
+county,33,,Narok,Rural,Male,"529,224"
+county,33,,Narok,Rural,Intersex,21
+county,33,,Narok,Rural,Female,"528,276"
+county,33,,Narok,Urban,Total,"100,352"
+county,33,,Narok,Urban,Male,"49,818"
+county,33,,Narok,Urban,Intersex,5
+county,33,,Narok,Urban,Female,"50,529"
+county,46,,Nyamira,Rural,Total,"558,540"
+county,46,,Nyamira,Rural,Male,"268,241"
+county,46,,Nyamira,Rural,Female,"290,286"
+county,46,,Nyamira,Rural,Intersex,13
+county,46,,Nyamira,Urban,Total,"47,036"
+county,46,,Nyamira,Urban,Male,"22,666"
+county,46,,Nyamira,Urban,Female,"24,370"
+county,46,,Nyamira,Urban,Intersex,0
+county,18,,Nyandarua,Rural,Intersex,15
+county,18,,Nyandarua,Rural,Male,"282,499"
+county,18,,Nyandarua,Rural,Female,"289,240"
+county,18,,Nyandarua,Rural,Total,"571,754"
+county,18,,Nyandarua,Urban,Intersex,5
+county,18,,Nyandarua,Urban,Male,"32,523"
+county,18,,Nyandarua,Urban,Female,"34,007"
+county,18,,Nyandarua,Urban,Total,"66,535"
+county,19,,Nyeri,Rural,Total,"608,409"
+county,19,,Nyeri,Rural,Intersex,28
+county,19,,Nyeri,Rural,Male,"300,893"
+county,19,,Nyeri,Rural,Female,"307,488"
+county,19,,Nyeri,Urban,Total,"150,755"
+county,19,,Nyeri,Urban,Intersex,3
+county,19,,Nyeri,Urban,Male,"73,395"
+county,19,,Nyeri,Urban,Female,"77,357"
+county,25,,Samburu,Rural,Female,"130,130"
+county,25,,Samburu,Rural,Total,"263,195"
+county,25,,Samburu,Rural,Intersex,7
+county,25,,Samburu,Rural,Male,"133,058"
+county,25,,Samburu,Urban,Female,"23,416"
+county,25,,Samburu,Urban,Total,"47,132"
+county,25,,Samburu,Urban,Intersex,0
+county,25,,Samburu,Urban,Male,"23,716"
+county,41,,Siaya,Rural,Total,"907,766"
+county,41,,Siaya,Rural,Male,"431,450"
+county,41,,Siaya,Rural,Intersex,15
+county,41,,Siaya,Rural,Female,"476,301"
+county,41,,Siaya,Urban,Total,"85,417"
+county,41,,Siaya,Urban,Male,"40,219"
+county,41,,Siaya,Urban,Intersex,3
+county,41,,Siaya,Urban,Female,"45,195"
+county,6,,Taita/Taveta,Rural,Total,"246,897"
+county,6,,Taita/Taveta,Rural,Female,"120,178"
+county,6,,Taita/Taveta,Rural,Intersex,2
+county,6,,Taita/Taveta,Rural,Male,"126,717"
+county,6,,Taita/Taveta,Urban,Total,"93,774"
+county,6,,Taita/Taveta,Urban,Female,"47,149"
+county,6,,Taita/Taveta,Urban,Intersex,5
+county,6,,Taita/Taveta,Urban,Male,"46,620"
+county,4,,Tana River,Rural,Intersex,1
+county,4,,Tana River,Rural,Female,"119,524"
+county,4,,Tana River,Rural,Total,"240,221"
+county,4,,Tana River,Rural,Male,"120,696"
+county,4,,Tana River,Urban,Intersex,1
+county,4,,Tana River,Urban,Female,"37,867"
+county,4,,Tana River,Urban,Total,"75,722"
+county,4,,Tana River,Urban,Male,"37,854"
+county,13,,Tharaka-Nithi,Rural,Intersex,6
+county,13,,Tharaka-Nithi,Rural,Male,"177,716"
+county,13,,Tharaka-Nithi,Rural,Female,"182,712"
+county,13,,Tharaka-Nithi,Rural,Total,"360,434"
+county,13,,Tharaka-Nithi,Urban,Intersex,1
+county,13,,Tharaka-Nithi,Urban,Male,"16,048"
+county,13,,Tharaka-Nithi,Urban,Female,"16,694"
+county,13,,Tharaka-Nithi,Urban,Total,"32,743"
+county,26,,Trans Nzoia,Rural,Intersex,23
+county,26,,Trans Nzoia,Rural,Total,"811,607"
+county,26,,Trans Nzoia,Rural,Female,"410,978"
+county,26,,Trans Nzoia,Rural,Male,"400,606"
+county,26,,Trans Nzoia,Urban,Intersex,5
+county,26,,Trans Nzoia,Urban,Total,"178,734"
+county,26,,Trans Nzoia,Urban,Female,"90,228"
+county,26,,Trans Nzoia,Urban,Male,"88,501"
+county,23,,Turkana,Rural,Total,"786,185"
+county,23,,Turkana,Rural,Intersex,20
+county,23,,Turkana,Rural,Female,"379,675"
+county,23,,Turkana,Rural,Male,"406,490"
+county,23,,Turkana,Urban,Total,"140,791"
+county,23,,Turkana,Urban,Intersex,1
+county,23,,Turkana,Urban,Female,"69,193"
+county,23,,Turkana,Urban,Male,"71,597"
+county,27,,Uasin Gishu,Rural,Female,"326,700"
+county,27,,Uasin Gishu,Rural,Male,"326,269"
+county,27,,Uasin Gishu,Rural,Intersex,12
+county,27,,Uasin Gishu,Rural,Total,"652,981"
+county,27,,Uasin Gishu,Urban,Female,"256,189"
+county,27,,Uasin Gishu,Urban,Male,"254,000"
+county,27,,Uasin Gishu,Urban,Intersex,16
+county,27,,Uasin Gishu,Urban,Total,"510,205"
+county,38,,Vihiga,Rural,Intersex,10
+county,38,,Vihiga,Rural,Male,"255,727"
+county,38,,Vihiga,Rural,Female,"275,892"
+county,38,,Vihiga,Rural,Total,"531,629"
+county,38,,Vihiga,Urban,Intersex,2
+county,38,,Vihiga,Urban,Male,"27,951"
+county,38,,Vihiga,Urban,Female,"30,431"
+county,38,,Vihiga,Urban,Total,"58,384"
+county,8,,Wajir,Rural,Female,"283,500"
+county,8,,Wajir,Rural,Intersex,27
+county,8,,Wajir,Rural,Total,"604,089"
+county,8,,Wajir,Rural,Male,"320,562"
+county,8,,Wajir,Urban,Female,"82,340"
+county,8,,Wajir,Urban,Intersex,22
+county,8,,Wajir,Urban,Total,"177,174"
+county,8,,Wajir,Urban,Male,"94,812"
+county,24,,West Pokot,Rural,Total,"589,400"
+county,24,,West Pokot,Rural,Intersex,15
+county,24,,West Pokot,Rural,Female,"297,916"
+county,24,,West Pokot,Rural,Male,"291,469"
+county,24,,West Pokot,Urban,Total,"31,841"
+county,24,,West Pokot,Urban,Intersex,0
+county,24,,West Pokot,Urban,Female,"16,297"
+county,24,,West Pokot,Urban,Male,"15,544"

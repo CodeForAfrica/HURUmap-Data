@@ -1,0 +1,21 @@
+geo_level,geo_code,geo_version,name,variable,value
+province,EC,,Eastern Cape,Male,65.1
+province,EC,,Eastern Cape,Female,69.2
+province,FS,,Free State,Male,46.7
+province,FS,,Free State,Female,51
+province,GT,,Gauteng,Female,31.1
+province,GT,,Gauteng,Male,27.5
+province,KZN,,KwaZulu-Natal,Female,64.9
+province,KZN,,KwaZulu-Natal,Male,55.9
+province,LIM,,Limpopo,Female,70.7
+province,LIM,,Limpopo,Male,63.5
+province,MP,,Mpumalanga,Female,57.3
+province,MP,,Mpumalanga,Male,51.7
+province,NW,,North West,Male,55.5
+province,NW,,North West,Female,63.6
+province,NC,,Northern Cape,Female,56.5
+province,NC,,Northern Cape,Male,51.8
+country,ZA,,South Africa,Male,46.1
+country,ZA,,South Africa,Female,52
+province,WC,,Western Cape,Female,34.1
+province,WC,,Western Cape,Male,32.2

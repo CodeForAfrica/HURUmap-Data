@@ -1,0 +1,161 @@
+geo_level,geo_code,parent_level,parent_code,version,name,long_name,square_kms
+continent,AFR,,,2009,Africa,Africa,
+country,NG,continent,AFR,2009,Nigeria,Nigeria,923768
+country,SN,continent,AFR,2009,Senegal,Senegal,196712
+country,TZ,continent,AFR,2009,Tanzania,Tanzania,945087
+level1,NG_1_006,country,NG,2009,Bayelsa,Bayelsa,10773
+level1,NG_1_007,country,NG,2009,Benue,Benue,34059
+level1,NG_1_008,country,NG,2009,Borno,Borno,70898
+level1,NG_1_009,country,NG,2009,Cross River,Cross River,20156
+level1,NG_1_010,country,NG,2009,Delta,Delta,17698
+level1,NG_1_011,country,NG,2009,Ebonyi,Ebonyi,5670
+level1,NG_1_012,country,NG,2009,Edo,Edo,17802
+level1,NG_1_013,country,NG,2009,Ekiti,Ekiti,6353
+level1,NG_1_014,country,NG,2009,Enugu,Enugu,7161
+level1,NG_1_015,country,NG,2009,Federal Capital Territory,Federal Capital Territory,7315
+level1,NG_1_016,country,NG,2009,Gombe,Gombe,18768
+level1,NG_1_017,country,NG,2009,Imo,Imo,5530
+level1,NG_1_018,country,NG,2009,Jigawa,Jigawa,23154
+level1,NG_1_019,country,NG,2009,Kaduna,Kaduna,46053
+level1,NG_1_020,country,NG,2009,Kano,Kano,20131
+level1,NG_1_021,country,NG,2009,Katsina,Katsina,24192
+level1,NG_1_022,country,NG,2009,Kebbi,Kebbi,36800
+level1,NG_1_023,country,NG,2009,Kogi,Kogi,29833
+level1,NG_1_024,country,NG,2009,Kwara,Kwara,36825
+level1,NG_1_025,country,NG,2009,Lagos,Lagos,3345
+level1,NG_1_026,country,NG,2009,Nasarawa,Nasarawa,27117
+level1,NG_1_027,country,NG,2009,Niger,Niger,76363
+level1,NG_1_028,country,NG,2009,Ogun,Ogun,16762
+level1,NG_1_029,country,NG,2009,Ondo,Ondo,15500
+level1,NG_1_030,country,NG,2009,Osun,Osun,9251
+level1,NG_1_031,country,NG,2009,Oyo,Oyo,28454
+level1,NG_1_032,country,NG,2009,Plateau,Plateau,30913
+level1,NG_1_033,country,NG,2009,Rivers,Rivers,11077
+level1,NG_1_034,country,NG,2009,Sokoto,Sokoto,25973
+level1,NG_1_035,country,NG,2009,Taraba,Taraba,54473
+level1,NG_1_036,country,NG,2009,Yobe,Yobe,45502
+level1,NG_1_037,country,NG,2009,Zamfara,Zamfara,39762
+level1,SN_1_001,country,SN,2009,Dakar,Dakar,547
+level1,SN_1_002,country,SN,2009,Diourbel,Diourbel,4824
+level1,SN_1_003,country,SN,2009,Fatick,Fatick,6849
+level1,SN_1_004,country,SN,2009,Kaffrine,Kaffrine,11262
+level1,SN_1_005,country,SN,2009,Kaolack,Kaolack,5357
+level1,SN_1_006,country,SN,2009,Kedougou,Kedougou,16800
+level1,SN_1_007,country,SN,2009,Kolda,Kolda,13771
+level1,SN_1_008,country,SN,2009,Louga,Louga,24889
+level1,SN_1_009,country,SN,2009,Matam,Matam,29445
+level1,SN_1_010,country,SN,2009,Saint Louis,Saint Louis,19241
+level1,SN_1_011,country,SN,2009,Sedhiou,Sedhiou,7341
+level1,SN_1_012,country,SN,2009,Tambacounda,Tambacounda,42364
+level1,SN_1_013,country,SN,2009,Thies,Thies,6670
+level1,SN_1_014,country,SN,2009,Ziguinchor,Ziguinchor,7352
+level1,TZ_1_022,country,TZ,2009,Pwani,Pwani,32407
+level1,TZ_1_026,country,TZ,2009,Simiyu,Simiyu,2380
+level1,TZ_1_004,country,TZ,2009,Geita,Geita,20054
+level1,TZ_1_027,country,TZ,2009,Singida,Singida,49437
+level1,TZ_1_005,country,TZ,2009,Iringa,Iringa,58936
+level1,TZ_1_023,country,TZ,2009,Rukwa,Rukwa,75240
+level1,TZ_1_006,country,TZ,2009,Kagera,Kagera,39627
+level1,TZ_1_010,country,TZ,2009,Kigoma,Kigoma,45066
+level1,TZ_1_014,country,TZ,2009,Lindi,Lindi,67000
+level1,TZ_1_002,country,TZ,2009,Dar es salaam,Dar es salaam,1393
+level1,TZ_1_003,country,TZ,2009,Dodoma,Dodoma,41311
+level1,TZ_1_028,country,TZ,2009,Tanga,Tanga,27348
+level1,TZ_1_019,country,TZ,2009,Mtwara,Mtwara,16707
+level1,TZ_1_021,country,TZ,2009,Njombe,Njombe,21347
+level1,TZ_1_029,country,TZ,2009,Tabora,Tabora,76151
+level1,TZ_1_011,country,TZ,2009,Kilimanjaro,Kilimanjaro,13209
+level1,TZ_1_025,country,TZ,2009,Shinyanga,Shinyanga,40781
+level1,TZ_1_016,country,TZ,2009,Mara,Mara,31150
+level1,TZ_1_024,country,TZ,2009,Ruvuma,Ruvuma,66477
+level1,TZ_1_020,country,TZ,2009,Mwanza,Mwanza,35187
+level1,TZ_1_017,country,TZ,2009,Mbeya,Mbeya,62420
+level1,TZ_1_001,country,TZ,2009,Arusha,Arusha,34516
+level1,TZ_1_018,country,TZ,2009,Morogoro,Morogoro,73139
+level1,TZ_1_009,country,TZ,2009,Katavi,Katavi,45843
+level1,TZ_1_015,country,TZ,2009,Manyara,Manyara,47913
+level1,TZ_1_012,country,TZ,2009,Kusini Pemba,Kusini Pemba,332
+level1,TZ_1_008,country,TZ,2009,Kaskazini Unguja,Kaskazini Unguja,470
+level1,TZ_1_013,country,TZ,2009,Kusini Unguja,Kusini Unguja,854
+level1,TZ_1_030,country,TZ,2009,Mjini Magharibi,Mjini Magharibi,230
+level1,TZ_1_007,country,TZ,2009,Kaskazini Pemba,Kaskazini Pemba,574
+level1,NG_1_001,country,NG,2009,Abia,Abia,6320
+level1,NG_1_002,country,NG,2009,Adamawa,Adamawa,36917
+level1,NG_1_003,country,NG,2009,Akwa Ibom,Akwa Ibom,7081
+level1,NG_1_004,country,NG,2009,Anambra,Anambra,4844
+level1,NG_1_005,country,NG,2009,Bauchi,Bauchi,45837
+level1,KE_1_020,country,KE,2009,Kirinyaga,Kirinyaga,1478.3
+level1,KE_1_021,country,KE,2009,Murang'a,Murang'a,2524.2
+level1,KE_1_018,country,KE,2009,Nyandarua,Nyandarua,3285.7
+level1,KE_1_019,country,KE,2009,Nyeri,Nyeri,3325
+level1,KE_1_024,country,KE,2009,West Pokot,West Pokot,9123.2
+level1,KE_1_025,country,KE,2009,Samburu,Samburu,21065.1
+level1,KE_1_022,country,KE,2009,Kiambu,Kiambu,2538.6
+level1,KE_1_023,country,KE,2009,Turkana,Turkana,68232.9
+level1,KE_1_028,country,KE,2009,Elgeyo-Marakwet,Elgeyo-Marakwet,3032
+level1,KE_1_029,country,KE,2009,Nandi,Nandi,2855.8
+level1,KE_1_026,country,KE,2009,Trans-Nzoia,Trans-Nzoia,2495.2
+level1,KE_1_027,country,KE,2009,Uasin Gishu,Uasin Gishu,3392.2
+level1,KE_1_032,country,KE,2009,Nakuru,Nakuru,7462.4
+level1,KE_1_033,country,KE,2009,Narok,Narok,17950.3
+level1,KE_1_030,country,KE,2009,Baringo,Baringo,10976.4
+level1,KE_1_031,country,KE,2009,Laikipia,Laikipia,9532.2
+level1,KE_1_036,country,KE,2009,Bomet,Bomet,2530.9
+level1,KE_1_037,country,KE,2009,Kakamega,Kakamega,3020
+level1,KE_1_034,country,KE,2009,Kajiado,Kajiado,21871.1
+level1,KE_1_035,country,KE,2009,Kericho,Kericho,2436.1
+level1,KE_1_040,country,KE,2009,Busia,Busia,1696.3
+level1,KE_1_041,country,KE,2009,Siaya,Siaya,2529.8
+level1,KE_1_038,country,KE,2009,Vihiga,Vihiga,563.8
+level1,KE_1_039,country,KE,2009,Bungoma,Bungoma,3023.9
+level1,KE_1_044,country,KE,2009,Migori,Migori,2613.5
+level1,KE_1_045,country,KE,2009,Kisii,Kisii,1323
+level1,KE_1_042,country,KE,2009,Kisumu,Kisumu,2085.4
+level1,KE_1_043,country,KE,2009,Homa Bay,Homa Bay,3152.5
+level1,KE_1_046,country,KE,2009,Nyamira,Nyamira,897.3
+level1,KE_1_047,country,KE,2009,Nairobi,Nairobi,703.9
+country,KE,continent,AFR,2009,Kenya,Kenya,580876.3
+level1,KE_1_001,country,KE,2009,Mombasa,Mombasa,219.9
+level1,KE_1_004,country,KE,2009,Tana River,Tana River,37950.5
+level1,KE_1_005,country,KE,2009,Lamu,Lamu,6253.3
+level1,KE_1_002,country,KE,2009,Kwale,Kwale,8267.1
+level1,KE_1_003,country,KE,2009,Kilifi,Kilifi,12539.7
+level1,KE_1_008,country,KE,2009,Wajir,Wajir,56773.1
+level1,KE_1_009,country,KE,2009,Mandera,Mandera,25939.8
+level1,KE_1_006,country,KE,2009,Taita Taveta,Taita Taveta,17152
+level1,KE_1_007,country,KE,2009,Garissa,Garissa,44736
+level1,KE_1_012,country,KE,2009,Meru,Meru,7006.3
+level1,KE_1_013,country,KE,2009,Tharaka-Nithi,Tharaka-Nithi,2564.4
+level1,KE_1_010,country,KE,2009,Marsabit,Marsabit,70944.1
+level1,KE_1_011,country,KE,2009,Isiolo,Isiolo,25350.6
+level1,KE_1_016,country,KE,2009,Machakos,Machakos,6042.7
+level1,KE_1_017,country,KE,2009,Makueni,Makueni,8169.8
+level1,KE_1_014,country,KE,2009,Embu,Embu,2820.7
+level1,KE_1_015,country,KE,2009,Kitui,Kitui,30429.5
+country,ET,continent,AFR,2009,Ethiopia,Ethiopia,1104000
+level1,ET_1_001,country,ET,2009,Addis Ababa,Addis Ababa,526.99
+level1,ET_1_002,country,ET,2009,Afar,Afar,72052.78
+level1,ET_1_003,country,ET,2009,Amhara,Amhara,154708.96
+level1,ET_1_004,country,ET,2009,Beneshangul Gumuz,Beneshangul Gumuz,50698.68
+level1,ET_1_005,country,ET,2009,Dire Dawa,Dire Dawa,1558.61
+level1,ET_1_006,country,ET,2009,Gambella,Gambella,29782.82
+level1,ET_1_007,country,ET,2009,Harar,Harar,333.94
+level1,ET_1_008,country,ET,2009,Oromiya,Oromiya,284537.84
+level1,ET_1_009,country,ET,2009,SNNPR,SNNPR,105476
+level1,ET_1_010,country,ET,2009,Somali,Somali,279252
+level1,ET_1_011,country,ET,2009,Tigray,Tigray,84722
+country,ZA,continent,AFR,2009,South Africa,South Africa,1221037
+level1,ZA_1_001,country,ZA,2009,KwaZulu-Natal,KwaZulu-Natal,94361
+level1,ZA_1_002,country,ZA,2009,Free State,KwaZulu-Natal,129825
+level1,ZA_1_003,country,ZA,2009,Eastern Cape,KwaZulu-Natal,168966
+level1,ZA_1_004,country,ZA,2009,Mpumalanga,KwaZulu-Natal,76495
+level1,ZA_1_005,country,ZA,2009,Limpopo,KwaZulu-Natal,125754
+level1,ZA_1_006,country,ZA,2009,Northern Cape,KwaZulu-Natal,372889
+level1,ZA_1_007,country,ZA,2009,North West,KwaZulu-Natal,104882
+level1,ZA_1_008,country,ZA,2009,Western Cape,KwaZulu-Natal,129462
+level1,ZA_1_009,country,ZA,2009,Gauteng,KwaZulu-Natal,18178
+country,UG,continent,AFR,2009,Uganda,Uganda,241038
+country,ZM,continent,AFR,2009,Zambia,Zambia,752618
+country,BF,continent,AFR,2009,Burkina Faso,Burkina Faso,274200
+country,CD,continent,AFR,2009,Democratic Republic of Congo,Democratic Republic of Congo,2345409
+country,GH,continent,AFR,2009,Ghana,Ghana,

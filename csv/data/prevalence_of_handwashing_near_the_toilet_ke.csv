@@ -1,0 +1,145 @@
+geo_level,geo_code,geo_version,name,variable,value
+country,KE,,Kenya,Place to wash hands,21.2
+country,KE,,Kenya,Not stated,0.4
+country,KE,,Kenya,No place to wash hands,78.4
+county,1,,Mombasa,Not stated,0.2
+county,1,,Mombasa,Place to wash hands,18.6
+county,1,,Mombasa,No place to wash hands,81.2
+county,2,,Kwale,No place to wash hands,87.2
+county,2,,Kwale,Place to wash hands,12.8
+county,2,,Kwale,Not stated,0
+county,3,,Kilifi,Place to wash hands,17.2
+county,3,,Kilifi,Not stated,1.8
+county,3,,Kilifi,No place to wash hands,81
+county,4,,Tana River,No place to wash hands,82.2
+county,4,,Tana River,Place to wash hands,17.7
+county,4,,Tana River,Not stated,0.1
+county,5,,Lamu,No place to wash hands,78.2
+county,5,,Lamu,Not stated,0
+county,5,,Lamu,Place to wash hands,21.8
+county,6,,Taita / Taveta,Not stated,0
+county,6,,Taita / Taveta,Place to wash hands,37.6
+county,6,,Taita / Taveta,No place to wash hands,62.4
+county,7,,Garissa,Not stated,1.3
+county,7,,Garissa,Place to wash hands,6.3
+county,7,,Garissa,No place to wash hands,92.4
+county,8,,Wajir,Not stated,0.4
+county,8,,Wajir,Place to wash hands,3.1
+county,8,,Wajir,No place to wash hands,96.5
+county,9,,Mandera,Place to wash hands,14.3
+county,9,,Mandera,No place to wash hands,85.7
+county,9,,Mandera,Not stated,0
+county,10,,Marsabit,Not stated,0
+county,10,,Marsabit,No place to wash hands,85.4
+county,10,,Marsabit,Place to wash hands,14.6
+county,11,,Isiolo,No place to wash hands,52.1
+county,11,,Isiolo,Place to wash hands,47.9
+county,11,,Isiolo,Not stated,0
+county,12,,Meru,Place to wash hands,35
+county,12,,Meru,Not stated,0
+county,12,,Meru,No place to wash hands,65
+county,13,,Tharaka-Nithi,No place to wash hands,86
+county,13,,Tharaka-Nithi,Place to wash hands,13.8
+county,13,,Tharaka-Nithi,Not stated,0.2
+county,14,,Embu,Place to wash hands,15.4
+county,14,,Embu,Not stated,0.2
+county,14,,Embu,No place to wash hands,84.4
+county,15,,Kitui,Not stated,0.2
+county,15,,Kitui,No place to wash hands,88.6
+county,15,,Kitui,Place to wash hands,11.1
+county,16,,Machakos,No place to wash hands,83.1
+county,16,,Machakos,Place to wash hands,16.2
+county,16,,Machakos,Not stated,0.7
+county,17,,Makueni,Place to wash hands,4.6
+county,17,,Makueni,No place to wash hands,95.2
+county,17,,Makueni,Not stated,0.2
+county,18,,Nyandarua,Place to wash hands,12.1
+county,18,,Nyandarua,No place to wash hands,87.9
+county,18,,Nyandarua,Not stated,0
+county,19,,Nyeri,Place to wash hands,20.1
+county,19,,Nyeri,No place to wash hands,79.9
+county,19,,Nyeri,Not stated,0
+county,20,,Kirinyaga,Place to wash hands,20.6
+county,20,,Kirinyaga,No place to wash hands,79.4
+county,20,,Kirinyaga,Not stated,0
+county,21,,Murang'a,Place to wash hands,8.8
+county,21,,Murang'a,No place to wash hands,91.2
+county,21,,Murang'a,Not stated,0
+county,22,,Kiambu,Not stated,0
+county,22,,Kiambu,Place to wash hands,41.1
+county,22,,Kiambu,No place to wash hands,58.9
+county,23,,Turkana,Not stated,0
+county,23,,Turkana,Place to wash hands,18.7
+county,23,,Turkana,No place to wash hands,81.3
+county,24,,West Pokot,No place to wash hands,94
+county,24,,West Pokot,Place to wash hands,3.4
+county,24,,West Pokot,Not stated,2.6
+county,25,,Samburu,Place to wash hands,6.8
+county,25,,Samburu,No place to wash hands,93.2
+county,25,,Samburu,Not stated,0
+county,26,,Trans Nzoia,Not stated,0
+county,26,,Trans Nzoia,Place to wash hands,7.2
+county,26,,Trans Nzoia,No place to wash hands,92.8
+county,27,,Uasin Gishu,Not stated,0.2
+county,27,,Uasin Gishu,Place to wash hands,14.3
+county,27,,Uasin Gishu,No place to wash hands,85.6
+county,28,,Elgeyo / Marakwet,Place to wash hands,9.9
+county,28,,Elgeyo / Marakwet,No place to wash hands,89.6
+county,28,,Elgeyo / Marakwet,Not stated,0.5
+county,29,,Nandi,No place to wash hands,89.4
+county,29,,Nandi,Place to wash hands,10.6
+county,29,,Nandi,Not stated,0
+county,30,,Baringo,No place to wash hands,92.6
+county,30,,Baringo,Not stated,0.2
+county,30,,Baringo,Place to wash hands,7.2
+county,31,,Laikipia,No place to wash hands,76.6
+county,31,,Laikipia,Not stated,0.2
+county,31,,Laikipia,Place to wash hands,23.2
+county,32,,Nakuru,No place to wash hands,81
+county,32,,Nakuru,Not stated,0.4
+county,32,,Nakuru,Place to wash hands,18.6
+county,33,,Narok,Place to wash hands,7.5
+county,33,,Narok,No place to wash hands,91.1
+county,33,,Narok,Not stated,1.4
+county,34,,Kajiado,Not stated,1
+county,34,,Kajiado,No place to wash hands,68.2
+county,34,,Kajiado,Place to wash hands,30.8
+county,35,,Kericho,Place to wash hands,15.8
+county,35,,Kericho,No place to wash hands,84.2
+county,35,,Kericho,Not stated,0
+county,36,,Bomet,No place to wash hands,91.3
+county,36,,Bomet,Not stated,0.4
+county,36,,Bomet,Place to wash hands,8.4
+county,37,,Kakamega,Place to wash hands,8.1
+county,37,,Kakamega,No place to wash hands,91.2
+county,37,,Kakamega,Not stated,0.7
+county,38,,Vihiga,No place to wash hands,84.3
+county,38,,Vihiga,Place to wash hands,15.7
+county,38,,Vihiga,Not stated,0
+county,39,,Bungoma,Not stated,1.5
+county,39,,Bungoma,No place to wash hands,77.3
+county,39,,Bungoma,Place to wash hands,21.2
+county,40,,Busia,Not stated,0
+county,40,,Busia,No place to wash hands,76.5
+county,40,,Busia,Place to wash hands,23.5
+county,41,,Siaya,Not stated,0.3
+county,41,,Siaya,No place to wash hands,76.9
+county,41,,Siaya,Place to wash hands,22.8
+county,42,,Kisumu,No place to wash hands,81.1
+county,42,,Kisumu,Not stated,0
+county,42,,Kisumu,Place to wash hands,18.9
+county,43,,Homa Bay,Not stated,0.5
+county,43,,Homa Bay,No place to wash hands,82
+county,43,,Homa Bay,Place to wash hands,17.5
+county,44,,Migori,Not stated,0
+county,44,,Migori,No place to wash hands,94.8
+county,44,,Migori,Place to wash hands,5.2
+county,45,,Kisii,Not stated,0.3
+county,45,,Kisii,No place to wash hands,97
+county,45,,Kisii,Place to wash hands,2.7
+county,46,,Nyamira,Not stated,0.2
+county,46,,Nyamira,Place to wash hands,5
+county,46,,Nyamira,No place to wash hands,94.8
+county,47,,Nairobi City,Place to wash hands,43.6
+county,47,,Nairobi City,No place to wash hands,55.6
+county,47,,Nairobi City,Not stated,0.7
