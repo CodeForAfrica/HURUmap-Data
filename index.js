@@ -41,7 +41,7 @@ function combineCSVData(filenames) {
       .map(values => values.split(/,(?=(?:(?:[^"]*"){2})*[^"]*$)/));
 
     // ensure column names have no spaces have no spaces
-    data[0] = data[0].map(x => x.toLowerCase().replace(/ | _/, "_"));
+    data[0] = data[0].map(x => x.toLowerCase().replace(/ _| /, "_"));
 
     // Order data by column name
     data = transpose(transpose(data).sort((a, b) => (a[0] < b[0] ? 1 : -1)));
