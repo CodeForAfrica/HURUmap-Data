@@ -18,6 +18,15 @@ function escapeField(str) {
     .toString();
 }
 
+function gqlName(tablename) {
+  const spliTableName = tablename
+    .split("_")
+    .map(w => w[0].toUpperCase() + w.slice(1));
+  const lastWord = spliTableName.pop();
+  spliTableName.push(pluralize(lastWord));
+  return "all" + spliTableName.join("");
+}
+
 /** */
 
 const sqlString = (tablename, headers, dataTypes, data, sources) => {
@@ -72,6 +81,7 @@ ${Object.values(sources).join("\r\n")}
 
 module.exports = ({
   tablename,
+  drop,
   data,
   geos,
   sources,
@@ -84,8 +94,21 @@ module.exports = ({
     "parent_code"
   ]
 }) => {
-  const origHeaders = data[0]
-    .map(v => v.trim().toLowerCase());
+  if (drop) {
+    drop.forEach(table => {
+      fs.writeFileSync(
+        `./sql/${table}.sql`,
+        `DROP TABLE public.${table};\nDELETE FROM public.sources where table_name = '${gqlName(
+          table
+        )}';`.trim()
+      );
+    });
+  }
+
+  if (!data) {
+    return;
+  }
+  const origHeaders = data[0].map(v => v.trim().toLowerCase());
   const headers = Array.from(
     new Set(
       populateGeoColumns ? defaultHeaders.concat(origHeaders) : origHeaders
@@ -103,7 +126,10 @@ module.exports = ({
 
     if (populateGeoColumns) {
       const geo = row["name"]
-        ? geos.find(geo => geo.name.toLocaleLowerCase() === row["name"].toLocaleLowerCase())
+        ? geos.find(
+            geo =>
+              geo.name.toLocaleLowerCase() === row["name"].toLocaleLowerCase()
+          )
         : geos.find(geo => geo.geo_code === row["geo_code"]);
 
       if (geo) {
@@ -127,24 +153,11 @@ module.exports = ({
             ) || {};
 
           if (title && link) {
-            // Convert to postgraphile compatipatible schema
-            const spliTableName = tablename
-              .split("_")
-              .map(w => w[0].toUpperCase() + w.slice(1));
-            const lastWord = spliTableName.pop();
-            spliTableName.push(pluralize(lastWord));
-
             dataSources[
               `${row["geo_level"]}-${countryCode}`
             ] = formatSQL(
               `INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES(?,?,?,?,?) on conflict do nothing;`,
-              [
-                row["geo_level"],
-                countryCode,
-                "all" + spliTableName.join(""),
-                title,
-                link
-              ]
+              [row["geo_level"], countryCode, gqlName(tablename), title, link]
             );
           }
         }

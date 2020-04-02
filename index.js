@@ -81,3 +81,12 @@ Object.entries(tables).forEach(([tablename, filenames]) => {
 const geosData = csv2Array("./csv/geos.csv");
 
 sequalize({ tablename: "geos", data: geosData, populateGeoColumns: false });
+
+const drop = fs.readdirSync("./sql").map( filename => {
+  if (!filename.includes(".sql") || filename.includes("sources") || filename.includes("geos")) {
+    return null;
+  }
+  return filename.replace(".sql", "");
+}).filter(tablename => tablename && !tables[tablename]);
+
+sequalize({ drop });
