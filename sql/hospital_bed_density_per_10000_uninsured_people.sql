@@ -194,3 +194,6 @@ INSERT INTO public.hospital_bed_density_per_10000_uninsured_people VALUES
 ('level1','ZA_1_008',2009,'country','ZA',2017,20.3,'Western Cape'),
 ('level1','ZA_1_008',2009,'country','ZA',2018,20,'Western Cape'),
 ('level1','ZA_1_008',2009,'country','ZA',2019,20,'Western Cape');
+      
+INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allHospitalBedDensityPer10000UninsuredPeople','"South African Health Review, 2019"','https://open.africa/dataset/south-african-health-review-2019/resource/725585e4-10c9-4ef3-a22a-d9ab297df71c') on conflict do nothing;
+INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allHospitalBedDensityPer10000UninsuredPeople','"South African Health Review, 2019"','https://open.africa/dataset/south-african-health-review-2019/resource/725585e4-10c9-4ef3-a22a-d9ab297df71c') on conflict do nothing;

@@ -44,3 +44,6 @@ INSERT INTO public.visit_health_facility_nearest_to_dwelling VALUES
 ('country','ZA',2009,'continent','AFR','Yes',53701213.3,'South Africa'),
 ('level1','ZA_1_008',2009,'country','ZA','No',851200.25,'Western Cape'),
 ('level1','ZA_1_008',2009,'country','ZA','Yes',5799060.76,'Western Cape');
+      
+INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allVisitHealthFacilityNearestToDwellings','"General Household Survey, 2018"','https://open.africa/dataset/general-household-survey-2018/resource/e464b246-3812-4d2e-90bd-10fb8898e5d5') on conflict do nothing;
+INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allVisitHealthFacilityNearestToDwellings','"General Household Survey, 2018"','https://open.africa/dataset/general-household-survey-2018/resource/e464b246-3812-4d2e-90bd-10fb8898e5d5') on conflict do nothing;
