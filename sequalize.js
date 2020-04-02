@@ -23,7 +23,12 @@ function gqlName(tablename) {
     .split("_")
     .map(w => w[0].toUpperCase() + w.slice(1));
   const lastWord = spliTableName.pop();
-  spliTableName.push(pluralize(lastWord));
+
+  if (/[0-9]$/.test(lastWord)) {
+    spliTableName.push(lastWord + "S");
+  } else {
+    spliTableName.push(pluralize(lastWord));
+  }
   return "all" + spliTableName.join("");
 }
 
