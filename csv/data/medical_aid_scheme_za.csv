@@ -1,30 +1,24 @@
 geo_level,geo_code,geo _version,name,variable,value
-province,EC,,Eastern Cape,Total,6508138
 province,EC,,Eastern Cape,Yes,644722
 province,EC,,Eastern Cape,Do not know,0
 province,EC,,Eastern Cape,No,5814477
 province,EC,,Eastern Cape,Unspecified,48938.96
 province,FS,,Free State,No,2394066
 province,FS,,Free State,Do not know,1014.212
-province,FS,,Free State,Total,2891248
 province,FS,,Free State,Unspecified,34852.21
 province,FS,,Free State,Yes,461316
 province,GT,,Gauteng,Do not know,13949.44
-province,GT,,Gauteng,Total,14660744
 province,GT,,Gauteng,Unspecified,159159.6
 province,GT,,Gauteng,Yes,3463385
 province,GT,,Gauteng,No,11024251
-province,KZN,,KwaZulu-Natal,Total,11215218
 province,KZN,,KwaZulu-Natal,Unspecified,31558.73
 province,KZN,,KwaZulu-Natal,Do not know,12611.01
 province,KZN,,KwaZulu-Natal,Yes,1383185
 province,KZN,,KwaZulu-Natal,No,9787862
 province,LIM,,Limpopo,No,5325477
 province,LIM,,Limpopo,Yes,473641.5
-province,LIM,,Limpopo,Total,5853756
 province,LIM,,Limpopo,Do not know,3373.257
 province,LIM,,Limpopo,Unspecified,51264.68
-province,MP,,Mpumalanga,Total,4523433
 province,MP,,Mpumalanga,Do not know,3794.126
 province,MP,,Mpumalanga,No,3927404
 province,MP,,Mpumalanga,Yes,568191.7
@@ -33,13 +27,10 @@ province,NW,,North West,Do not know,4903.171
 province,NW,,North West,No,3352623
 province,NW,,North West,Yes,523349.8
 province,NW,,North West,Unspecified,44342.5
-province,NW,,North West,Total,3925218
 province,NC,,Northern Cape,Do not know,0
-province,NC,,Northern Cape,Total,1229794
 province,NC,,Northern Cape,Unspecified,2772.782
 province,NC,,Northern Cape,Yes,197669.5
 province,NC,,Northern Cape,No,1029352
-province,ZA,,South Africa,Total,57457811
 province,ZA,,South Africa,Unspecified,407870.5
 province,ZA,,South Africa,Do not know,42048.37
 province,ZA,,South Africa,No,47628079
@@ -47,5 +38,4 @@ province,ZA,,South Africa,Yes,9379813
 province,WC,,Western Cape,Unspecified,10936.94
 province,WC,,Western Cape,Do not know,2403.156
 province,WC,,Western Cape,No,4972568
-province,WC,,Western Cape,Total,6650261
 province,WC,,Western Cape,Yes,1664353

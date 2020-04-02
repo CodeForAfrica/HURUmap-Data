@@ -4,9 +4,7 @@ province,EC,,Eastern Cape,Less than 15 minutes,2015752.23
 province,EC,,Eastern Cape,30-89 minutes,1264924.91
 province,EC,,Eastern Cape,90 minutes and more,186782.20
 province,EC,,Eastern Cape,Unspecified,34467.49
-province,EC,,Eastern Cape,Total,6508137.53
 province,EC,,Eastern Cape,Do not know,0.00
-province,FS,,Free State,Total,2891248.08
 province,FS,,Free State,90 minutes and more,47953.88
 province,FS,,Free State,15-29 minutes,1300900.97
 province,FS,,Free State,30-89 minutes,378374.86
@@ -18,20 +16,17 @@ province,GT,,Gauteng,90 minutes and more,52970.17
 province,GT,,Gauteng,15-29 minutes,5222047.98
 province,GT,,Gauteng,Less than 15 minutes,8257819.08
 province,GT,,Gauteng,30-89 minutes,879395.75
-province,GT,,Gauteng,Total,14660744.49
 province,GT,,Gauteng,Unspecified,230528.68
 province,KZN,,KwaZulu-Natal,30-89 minutes,2793973.18
 province,KZN,,KwaZulu-Natal,Do not know,1495.29
 province,KZN,,KwaZulu-Natal,Unspecified,37224.56
 province,KZN,,KwaZulu-Natal,90 minutes and more,259141.08
-province,KZN,,KwaZulu-Natal,Total,11215217.59
 province,KZN,,KwaZulu-Natal,15-29 minutes,5145046.70
 province,KZN,,KwaZulu-Natal,Less than 15 minutes,2978336.79
 province,LIM,,Limpopo,30-89 minutes,1093236.84
 province,LIM,,Limpopo,90 minutes and more,98325.04
 province,LIM,,Limpopo,Do not know,3280.12
 province,LIM,,Limpopo,Less than 15 minutes,1269135.04
-province,LIM,,Limpopo,Total,5853756.09
 province,LIM,,Limpopo,15-29 minutes,3332582.24
 province,LIM,,Limpopo,Unspecified,57196.82
 province,MP,,Mpumalanga,15-29 minutes,1951326.02
@@ -40,30 +35,25 @@ province,MP,,Mpumalanga,Do not know,4156.93
 province,MP,,Mpumalanga,90 minutes and more,51791.65
 province,MP,,Mpumalanga,30-89 minutes,948026.64
 province,MP,,Mpumalanga,Less than 15 minutes,1549634.00
-province,MP,,Mpumalanga,Total,4523433.48
 province,NW,,North West,Less than 15 minutes,1263093.64
 province,NW,,North West,Do not know,21587.49
 province,NW,,North West,30-89 minutes,798758.63
 province,NW,,North West,15-29 minutes,1697927.26
 province,NW,,North West,90 minutes and more,113576.51
-province,NW,,North West,Total,3925218.34
 province,NW,,North West,Unspecified,30274.80
 province,NC,,Northern Cape,15-29 minutes,503550.82
 province,NC,,Northern Cape,30-89 minutes,179084.33
 province,NC,,Northern Cape,90 minutes and more,10573.06
-province,NC,,Northern Cape,Total,1229794.40
 province,NC,,Northern Cape,Unspecified,2643.91
 province,NC,,Northern Cape,Less than 15 minutes,533942.28
 province,NC,,Northern Cape,Do not know,0.00
 country,ZA,,South Africa,Unspecified,487590.75
-country,ZA,,South Africa,Total,57457811.01
 country,ZA,,South Africa,Do not know,51055.66
 country,ZA,,South Africa,90 minutes and more,834502.35
 country,ZA,,South Africa,30-89 minutes,8735875.30
 country,ZA,,South Africa,15-29 minutes,24154188.32
 country,ZA,,South Africa,Less than 15 minutes,23194598.63
 province,WC,,Western Cape,Do not know,2553.00
-province,WC,,Western Cape,Total,6650261.01
 province,WC,,Western Cape,90 minutes and more,13388.75
 province,WC,,Western Cape,30-89 minutes,400100.17
 province,WC,,Western Cape,15-29 minutes,1994595.63

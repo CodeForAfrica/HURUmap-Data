@@ -1,0 +1,13 @@
+geo_level,geo_code,geo_version,name,variable_1,variable_2,value
+country,ZA,,South Africa,Non-urban,Soap and water,34.5
+country,ZA,,South Africa,Non-urban,Water and cleansing agent other than soap only,0.7
+country,ZA,,South Africa,Non-urban,Water only,37.7
+country,ZA,,South Africa,Non-urban,Soap but no water,1.3
+country,ZA,,South Africa,Non-urban,Cleansing agent other than soap only,0
+country,ZA,,South Africa,Non-urban,"No water, no soap, no other cleansing agent",25.8
+country,ZA,,South Africa,Urban,Soap and water,57
+country,ZA,,South Africa,Urban,Water and cleansing agent other than soap only,1.1
+country,ZA,,South Africa,Urban,Water only,31.8
+country,ZA,,South Africa,Urban,Soap but no water,1.3
+country,ZA,,South Africa,Urban,Cleansing agent other than soap only,0
+country,ZA,,South Africa,Urban,"No water, no soap, no other cleansing agent",8.8

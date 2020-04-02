@@ -1,0 +1,5 @@
+geo_level,geo_code,geo_version,name,variable_1,variable_2,value
+country,ZA,,South Africa,Urban,Handwashing was a fixed place,67.3
+country,ZA,,South Africa,Urban,Handwashing was mobile,19.7
+country,ZA,,South Africa,Non-urban,Handwashing was a fixed place,27.9
+country,ZA,,South Africa,Non-urban,Handwashing was mobile,54.2

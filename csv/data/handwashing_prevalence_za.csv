@@ -1,0 +1,21 @@
+geo_level,geo_code,geo_version,name,variable,value
+province,EC,,Eastern Cape,Handwashing was a fixed place,42.4
+province,EC,,Eastern Cape,Handwashing was mobile,39.5
+province,FS,,Free State,Handwashing was a fixed place,64.5
+province,FS,,Free State,Handwashing was mobile,22.1
+province,GT,,Gauteng,Handwashing was mobile,18.6
+province,GT,,Gauteng,Handwashing was a fixed place,61.2
+province,KZN,,KwaZulu-Natal,Handwashing was mobile,25
+province,KZN,,KwaZulu-Natal,Handwashing was a fixed place,55.2
+province,LIM,,Limpopo,Handwashing was mobile,70.2
+province,LIM,,Limpopo,Handwashing was a fixed place,24.6
+province,MP,,Mpumalanga,Handwashing was mobile,42.6
+province,MP,,Mpumalanga,Handwashing was a fixed place,47.9
+province,NW,,North West,Handwashing was a fixed place,47.3
+province,NW,,North West,Handwashing was mobile,48.2
+province,NC,,Northern Cape,Handwashing was mobile,22.9
+province,NC,,Northern Cape,Handwashing was a fixed place,67.5
+country,ZA,,South Africa,Handwashing was a fixed place,54.6
+country,ZA,,South Africa,Handwashing was mobile,33.3
+province,WC,,Western Cape,Handwashing was mobile,10.4
+province,WC,,Western Cape,Handwashing was a fixed place,81

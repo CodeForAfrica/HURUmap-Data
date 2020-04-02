@@ -1,0 +1,51 @@
+geo_level,geo_code,geo_version,name,variable,value
+province,EC,,Eastern Cape,At least one problem accessing health care,49.4
+province,EC,,Eastern Cape,Getting permission to go for treatment,14.2
+province,EC,,Eastern Cape,Distance to health facility,34.2
+province,EC,,Eastern Cape,Getting money for treatment,37
+province,EC,,Eastern Cape,Not wanting to go alone,19.7
+province,FS,,Free State,Getting money for treatment,25.5
+province,FS,,Free State,Distance to health facility,16.8
+province,FS,,Free State,At least one problem accessing health care,31.4
+province,FS,,Free State,Not wanting to go alone,9.8
+province,FS,,Free State,Getting permission to go for treatment,10.9
+province,GT,,Gauteng,Distance to health facility,16.2
+province,GT,,Gauteng,At least one problem accessing health care,34.4
+province,GT,,Gauteng,Not wanting to go alone,6.6
+province,GT,,Gauteng,Getting permission to go for treatment,10.1
+province,GT,,Gauteng,Getting money for treatment,26.1
+province,KZN,,KwaZulu-Natal,At least one problem accessing health care,39.6
+province,KZN,,KwaZulu-Natal,Not wanting to go alone,24.6
+province,KZN,,KwaZulu-Natal,Distance to health facility,29.7
+province,KZN,,KwaZulu-Natal,Getting permission to go for treatment,23.9
+province,KZN,,KwaZulu-Natal,Getting money for treatment,27.8
+province,LIM,,Limpopo,Getting money for treatment,37.5
+province,LIM,,Limpopo,Getting permission to go for treatment,22.8
+province,LIM,,Limpopo,At least one problem accessing health care,48.1
+province,LIM,,Limpopo,Distance to health facility,33.1
+province,LIM,,Limpopo,Not wanting to go alone,18.8
+province,MP,,Mpumalanga,At least one problem accessing health care,38.9
+province,MP,,Mpumalanga,Distance to health facility,30.1
+province,MP,,Mpumalanga,Getting money for treatment,25.7
+province,MP,,Mpumalanga,Getting permission to go for treatment,14.6
+province,MP,,Mpumalanga,Not wanting to go alone,11.6
+province,NW,,North West,Distance to health facility,31.8
+province,NW,,North West,Getting money for treatment,32.9
+province,NW,,North West,Getting permission to go for treatment,10.6
+province,NW,,North West,Not wanting to go alone,17.4
+province,NW,,North West,At least one problem accessing health care,46.3
+province,NC,,Northern Cape,Distance to health facility,23.7
+province,NC,,Northern Cape,At least one problem accessing health care,38
+province,NC,,Northern Cape,Not wanting to go alone,10
+province,NC,,Northern Cape,Getting permission to go for treatment,15.8
+province,NC,,Northern Cape,Getting money for treatment,28
+country,ZA,,South Africa,At least one problem accessing health care,38.8
+country,ZA,,South Africa,Not wanting to go alone,14.1
+country,ZA,,South Africa,Distance to health facility,25.2
+country,ZA,,South Africa,Getting money for treatment,28.5
+country,ZA,,South Africa,Getting permission to go for treatment,14.5
+province,WC,,Western Cape,Not wanting to go alone,8.6
+province,WC,,Western Cape,Distance to health facility,11.3
+province,WC,,Western Cape,Getting money for treatment,16
+province,WC,,Western Cape,At least one problem accessing health care,23.3
+province,WC,,Western Cape,Getting permission to go for treatment,7.2

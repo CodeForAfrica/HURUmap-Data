@@ -1,0 +1,61 @@
+geo_level,geo_code,geo_version,name,variable,value
+province,EC,,Eastern Cape,Soap and water,45.4
+province,EC,,Eastern Cape,Water only,36.3
+province,EC,,Eastern Cape,Soap but no water,0.6
+province,EC,,Eastern Cape,Cleansing agent other than soap only,0
+province,EC,,Eastern Cape,"No water, no soap, no other cleansing agent",17
+province,EC,,Eastern Cape,Water and cleansing agent other than soap only,0.7
+province,FS,,Free State,Water and cleansing agent other than soap only,0.3
+province,FS,,Free State,Water only,47.9
+province,FS,,Free State,Soap and water,38.1
+province,FS,,Free State,"No water, no soap, no other cleansing agent",12.7
+province,FS,,Free State,Cleansing agent other than soap only,0
+province,FS,,Free State,Soap but no water,0.9
+province,GT,,Gauteng,Water and cleansing agent other than soap only,2
+province,GT,,Gauteng,Soap but no water,1.6
+province,GT,,Gauteng,Water only,36.3
+province,GT,,Gauteng,"No water, no soap, no other cleansing agent",10.9
+province,GT,,Gauteng,Soap and water,49.2
+province,GT,,Gauteng,Cleansing agent other than soap only,0
+province,KZN,,KwaZulu-Natal,Soap but no water,1.8
+province,KZN,,KwaZulu-Natal,"No water, no soap, no other cleansing agent",16.8
+province,KZN,,KwaZulu-Natal,Cleansing agent other than soap only,0
+province,KZN,,KwaZulu-Natal,Soap and water,49.3
+province,KZN,,KwaZulu-Natal,Water and cleansing agent other than soap only,1.4
+province,KZN,,KwaZulu-Natal,Water only,30.7
+province,LIM,,Limpopo,Water only,31.4
+province,LIM,,Limpopo,Soap but no water,1.5
+province,LIM,,Limpopo,"No water, no soap, no other cleansing agent",19.9
+province,LIM,,Limpopo,Cleansing agent other than soap only,0
+province,LIM,,Limpopo,Water and cleansing agent other than soap only,0.1
+province,LIM,,Limpopo,Soap and water,47
+province,MP,,Mpumalanga,Cleansing agent other than soap only,0
+province,MP,,Mpumalanga,Water and cleansing agent other than soap only,0.1
+province,MP,,Mpumalanga,Soap but no water,1.8
+province,MP,,Mpumalanga,Water only,39.4
+province,MP,,Mpumalanga,"No water, no soap, no other cleansing agent",23.5
+province,MP,,Mpumalanga,Soap and water,35.2
+province,NW,,North West,Water only,45.7
+province,NW,,North West,"No water, no soap, no other cleansing agent",17.1
+province,NW,,North West,Cleansing agent other than soap only,0.1
+province,NW,,North West,Soap but no water,1.4
+province,NW,,North West,Water and cleansing agent other than soap only,0.1
+province,NW,,North West,Soap and water,35.5
+province,NC,,Northern Cape,Soap and water,54.2
+province,NC,,Northern Cape,Water and cleansing agent other than soap only,0.6
+province,NC,,Northern Cape,"No water, no soap, no other cleansing agent",10.6
+province,NC,,Northern Cape,Soap but no water,1.2
+province,NC,,Northern Cape,Water only,33.5
+province,NC,,Northern Cape,Cleansing agent other than soap only,0
+country,ZA,,South Africa,Water only,34.8
+country,ZA,,South Africa,"No water, no soap, no other cleansing agent",14.4
+country,ZA,,South Africa,Soap but no water,1.2
+country,ZA,,South Africa,Water and cleansing agent other than soap only,0.7
+country,ZA,,South Africa,Soap and water,48.9
+country,ZA,,South Africa,Cleansing agent other than soap only,0
+province,WC,,Western Cape,"No water, no soap, no other cleansing agent",0.8
+province,WC,,Western Cape,Cleansing agent other than soap only,0
+province,WC,,Western Cape,Soap but no water,0
+province,WC,,Western Cape,Water only,12
+province,WC,,Western Cape,Water and cleansing agent other than soap only,1
+province,WC,,Western Cape,Soap and water,86.1

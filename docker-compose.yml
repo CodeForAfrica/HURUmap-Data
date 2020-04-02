@@ -1,7 +1,7 @@
 version: '3.3'
 
 services:
-  db:
+  postgres:
     image: postgres:9.5
     ports:
       - 54321:5432
@@ -11,3 +11,26 @@ services:
       - POSTGRES_DB=hurumapdata
     volumes:
       - ./sql:/docker-entrypoint-initdb.d/
+  graphql:
+    image: node:12.4.0
+    depends_on:
+      - postgres
+    command: npx \
+      postgraphile \
+      --subscriptions \
+      --watch \
+      --dynamic-json \
+      --no-setof-functions-contain-nulls
+      --no-ignore-rbac
+      --no-ignore-indexes
+      --show-error-stack=json
+      --extended-errors hint,detail,errcode
+      --append-plugins @graphile-contrib/pg-simplify-inflector
+      --export-schema-graphql schema.graphql
+      --graphiql "/"
+      --enhance-graphiq
+      --allow-explain
+      --enable-query-batching
+      --legacy-relations omit
+      --connection postgres://hurumapdata:hurumapdata@postgres:54321/hurumapdata
+      --schema public

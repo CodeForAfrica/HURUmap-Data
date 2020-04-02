@@ -33,6 +33,3 @@ INSERT INTO public.prevalence_of_handwashing_facilities VALUES
 ('level1','ZA_1_004',2009,'country','ZA',51.17,'Mpumalanga'),
 ('level1','ZA_1_005',2009,'country','ZA',32.39,'Limpopo'),
 ('country','ZA',2009,'continent','AFR',62.96,'South Africa');
-      
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allPrevalenceOfHandwashingFacilities','"General Household Survey, 2018"','https://open.africa/dataset/general-household-survey-2018/resource/f5e2b79d-36a6-4f0a-b0c5-84b75675ec00') on conflict do nothing;
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allPrevalenceOfHandwashingFacilities','"General Household Survey, 2018"','https://open.africa/dataset/general-household-survey-2018/resource/f5e2b79d-36a6-4f0a-b0c5-84b75675ec00') on conflict do nothing;
