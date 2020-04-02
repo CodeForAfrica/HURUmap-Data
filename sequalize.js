@@ -98,7 +98,7 @@ module.exports = ({
     drop.forEach(table => {
       fs.writeFileSync(
         `./sql/${table}.sql`,
-        `DROP TABLE public.${table};\nDELETE FROM public.sources where table_name = '${gqlName(
+        `DROP TABLE IF EXISTS public.${table};\n\nDELETE FROM public.sources where table_name = '${gqlName(
           table
         )}';`.trim()
       );
