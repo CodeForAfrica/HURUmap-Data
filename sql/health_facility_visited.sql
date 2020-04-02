@@ -137,3 +137,5 @@ INSERT INTO public.health_facility_visited VALUES
       
 INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allHealthFacilityVisiteds','"General Household Survey, 2018"','https://open.africa/dataset/general-household-survey-2018/resource/0311975d-df1f-4cf8-a744-dabd53634cd7') on conflict do nothing;
 INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allHealthFacilityVisiteds','"General Household Survey, 2018"','https://open.africa/dataset/general-household-survey-2018/resource/0311975d-df1f-4cf8-a744-dabd53634cd7') on conflict do nothing;
+
+ALTER TABLE ONLY public.health_facility_visited ADD CONSTRAINT pk_health_facility_visited PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value, name);

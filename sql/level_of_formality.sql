@@ -57,3 +57,5 @@ INSERT INTO public.level_of_formality VALUES
       
 INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allLevelOfFormalities','"Community Survey, 2016"','https://open.africa/dataset/community-survey-south-africa-2016/resource/9a65a9bc-6317-4cc9-becf-c476605ba328') on conflict do nothing;
 INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allLevelOfFormalities','"Community Survey, 2016"','https://open.africa/dataset/community-survey-south-africa-2016/resource/9a65a9bc-6317-4cc9-becf-c476605ba328') on conflict do nothing;
+
+ALTER TABLE ONLY public.level_of_formality ADD CONSTRAINT pk_level_of_formality PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value, name);

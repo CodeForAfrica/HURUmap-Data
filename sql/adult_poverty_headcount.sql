@@ -47,3 +47,5 @@ INSERT INTO public.adult_poverty_headcount VALUES
       
 INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allAdultPovertyHeadcounts','"Men, Women and Children Findings of the Living Conditions Survey, 2015"','https://open.africa/dataset/men-women-and-children-findings-of-the-living-conditions-survey-2015/resource/a5ea1811-044a-4d68-9316-0085132cbcca') on conflict do nothing;
 INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allAdultPovertyHeadcounts','"Men, Women and Children Findings of the Living Conditions Survey, 2015"','https://open.africa/dataset/men-women-and-children-findings-of-the-living-conditions-survey-2015/resource/a5ea1811-044a-4d68-9316-0085132cbcca') on conflict do nothing;
+
+ALTER TABLE ONLY public.adult_poverty_headcount ADD CONSTRAINT pk_adult_poverty_headcount PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value, name);

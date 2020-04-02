@@ -87,3 +87,5 @@ INSERT INTO public.handwashing_type VALUES
       
 INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allHandwashingTypes','"Demographic and Health Survey, 2016"','https://open.africa/dataset/demographic-and-health-survey-2016-south-africa/resource/46c842f7-c507-4c4f-b5ca-cdb07355f438') on conflict do nothing;
 INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allHandwashingTypes','"Demographic and Health Survey, 2016"','https://open.africa/dataset/demographic-and-health-survey-2016-south-africa/resource/46c842f7-c507-4c4f-b5ca-cdb07355f438') on conflict do nothing;
+
+ALTER TABLE ONLY public.handwashing_type ADD CONSTRAINT pk_handwashing_type PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value, name);

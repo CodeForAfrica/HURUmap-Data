@@ -71,3 +71,5 @@ INSERT INTO public.prevalence_of_heart_problem VALUES
       
 INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','KE','allPrevalenceOfHeartProblems','"Kenya Integrated Household Budget Survey, 2016"','https://open.africa/dataset/kenya-integrated-household-budget-survey-2016/resource/44da62a0-cf7b-40c7-ba07-05035b794fb3') on conflict do nothing;
 INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','KE','allPrevalenceOfHeartProblems','"Kenya Integrated Household Budget Survey, 2016"','https://open.africa/dataset/kenya-integrated-household-budget-survey-2016/resource/44da62a0-cf7b-40c7-ba07-05035b794fb3') on conflict do nothing;
+
+ALTER TABLE ONLY public.prevalence_of_heart_problem ADD CONSTRAINT pk_prevalence_of_heart_problem PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, value, name);

@@ -39,3 +39,5 @@ INSERT INTO public.handwashing_type_urbanrural VALUES
 ('country','ZA',2009,'continent','AFR','"No water, no soap, no other cleansing agent"','Urban',8.8,'South Africa');
       
 INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allHandwashingTypeUrbanrurals','"Demographic and Health Survey, 2016"','https://open.africa/dataset/demographic-and-health-survey-2016-south-africa/resource/46c842f7-c507-4c4f-b5ca-cdb07355f438') on conflict do nothing;
+
+ALTER TABLE ONLY public.handwashing_type_urbanrural ADD CONSTRAINT pk_handwashing_type_urbanrural PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable_2, variable_1, value, name);

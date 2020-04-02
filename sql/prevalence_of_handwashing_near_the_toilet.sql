@@ -162,3 +162,5 @@ INSERT INTO public.prevalence_of_handwashing_near_the_toilet VALUES
       
 INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','KE','allPrevalenceOfHandwashingNearTheToilets','"Kenya Integrated Household Budget Survey, 2016"','https://open.africa/dataset/kenya-integrated-household-budget-survey-2016/resource/4cf6156d-515b-4d4f-8fdf-3f2dd301ae88') on conflict do nothing;
 INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','KE','allPrevalenceOfHandwashingNearTheToilets','"Kenya Integrated Household Budget Survey, 2016"','https://open.africa/dataset/kenya-integrated-household-budget-survey-2016/resource/4cf6156d-515b-4d4f-8fdf-3f2dd301ae88') on conflict do nothing;
+
+ALTER TABLE ONLY public.prevalence_of_handwashing_near_the_toilet ADD CONSTRAINT pk_prevalence_of_handwashing_near_the_toilet PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value, name);

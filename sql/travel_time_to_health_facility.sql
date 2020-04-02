@@ -87,3 +87,5 @@ INSERT INTO public.travel_time_to_health_facility VALUES
       
 INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allTravelTimeToHealthFacilities','"General Household Survey, 2018"','https://open.africa/dataset/general-household-survey-2018/resource/7960887d-2c72-4119-a97e-5e9967dd1246') on conflict do nothing;
 INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allTravelTimeToHealthFacilities','"General Household Survey, 2018"','https://open.africa/dataset/general-household-survey-2018/resource/7960887d-2c72-4119-a97e-5e9967dd1246') on conflict do nothing;
+
+ALTER TABLE ONLY public.travel_time_to_health_facility ADD CONSTRAINT pk_travel_time_to_health_facility PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value, name);

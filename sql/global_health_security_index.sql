@@ -69,3 +69,5 @@ INSERT into public.sources(geo_level, country_code, table_name, source_title, so
 INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','GH','allGlobalHealthSecurityIndices','"Global Health Security Index, 2019"','https://open.africa/dataset/global-health-security-index-2019') on conflict do nothing;
 INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ET','allGlobalHealthSecurityIndices','"Global Health Security Index, 2019"','https://open.africa/dataset/global-health-security-index-2019') on conflict do nothing;
 INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','NG','allGlobalHealthSecurityIndices','"Global Health Security Index, 2019"','https://open.africa/dataset/global-health-security-index-2019') on conflict do nothing;
+
+ALTER TABLE ONLY public.global_health_security_index ADD CONSTRAINT pk_global_health_security_index PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value);

@@ -342,3 +342,5 @@ INSERT INTO public.population_that_received_free_medical_services VALUES
       
 INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','KE','allPopulationThatReceivedFreeMedicalServices','"Kenya Integrated Household Budget Survey, 2016"','https://open.africa/dataset/kenya-integrated-household-budget-survey-2016/resource/4492472d-62b3-4721-8bb9-dd51bb5e960d') on conflict do nothing;
 INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','KE','allPopulationThatReceivedFreeMedicalServices','"Kenya Integrated Household Budget Survey, 2016"','https://open.africa/dataset/kenya-integrated-household-budget-survey-2016/resource/4492472d-62b3-4721-8bb9-dd51bb5e960d') on conflict do nothing;
+
+ALTER TABLE ONLY public.population_that_received_free_medical_services ADD CONSTRAINT pk_population_that_received_free_medical_services PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value, name);

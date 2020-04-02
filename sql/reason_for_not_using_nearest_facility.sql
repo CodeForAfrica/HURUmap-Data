@@ -157,3 +157,5 @@ INSERT INTO public.reason_for_not_using_nearest_facility VALUES
       
 INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allReasonForNotUsingNearestFacilities','"General Household Survey, 2018"','https://open.africa/dataset/general-household-survey-2018/resource/b95c7dfc-a166-4e10-9e8d-95b8d88266d7') on conflict do nothing;
 INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allReasonForNotUsingNearestFacilities','"General Household Survey, 2018"','https://open.africa/dataset/general-household-survey-2018/resource/b95c7dfc-a166-4e10-9e8d-95b8d88266d7') on conflict do nothing;
+
+ALTER TABLE ONLY public.reason_for_not_using_nearest_facility ADD CONSTRAINT pk_reason_for_not_using_nearest_facility PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value, name);

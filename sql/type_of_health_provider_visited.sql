@@ -387,3 +387,5 @@ INSERT INTO public.type_of_health_provider_visited VALUES
       
 INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','KE','allTypeOfHealthProviderVisiteds','"Kenya Integrated Household Budget Survey, 2016"','https://open.africa/dataset/kenya-integrated-household-budget-survey-2016/resource/f7a80bc0-84e9-474d-a922-e4662f7e4bc7') on conflict do nothing;
 INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','KE','allTypeOfHealthProviderVisiteds','"Kenya Integrated Household Budget Survey, 2016"','https://open.africa/dataset/kenya-integrated-household-budget-survey-2016/resource/f7a80bc0-84e9-474d-a922-e4662f7e4bc7') on conflict do nothing;
+
+ALTER TABLE ONLY public.type_of_health_provider_visited ADD CONSTRAINT pk_type_of_health_provider_visited PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value, name);

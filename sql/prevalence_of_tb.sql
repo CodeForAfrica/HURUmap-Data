@@ -71,3 +71,5 @@ INSERT INTO public.prevalence_of_tb VALUES
       
 INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','KE','allPrevalenceOfTbs','"Kenya Integrated Household Budget Survey, 2016"','https://open.africa/dataset/kenya-integrated-household-budget-survey-2016/resource/e9e723f8-d674-4261-a23a-53d7f0771351') on conflict do nothing;
 INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','KE','allPrevalenceOfTbs','"Kenya Integrated Household Budget Survey, 2016"','https://open.africa/dataset/kenya-integrated-household-budget-survey-2016/resource/e9e723f8-d674-4261-a23a-53d7f0771351') on conflict do nothing;
+
+ALTER TABLE ONLY public.prevalence_of_tb ADD CONSTRAINT pk_prevalence_of_tb PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, value, name);

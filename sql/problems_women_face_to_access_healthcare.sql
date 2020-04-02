@@ -77,3 +77,5 @@ INSERT INTO public.problems_women_face_to_access_healthcare VALUES
       
 INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allProblemsWomenFaceToAccessHealthcares','"Demographic and Health Survey, 2016"','https://open.africa/dataset/demographic-and-health-survey-2016-south-africa/resource/9077443b-c590-49f9-9483-0a0b18d9a27b') on conflict do nothing;
 INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allProblemsWomenFaceToAccessHealthcares','"Demographic and Health Survey, 2016"','https://open.africa/dataset/demographic-and-health-survey-2016-south-africa/resource/9077443b-c590-49f9-9483-0a0b18d9a27b') on conflict do nothing;
+
+ALTER TABLE ONLY public.problems_women_face_to_access_healthcare ADD CONSTRAINT pk_problems_women_face_to_access_healthcare PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value, name);

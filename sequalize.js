@@ -80,7 +80,14 @@ ${data
   .join(",\r\n")};
       
 ${Object.values(sources).join("\r\n")}
-`.trim() + `\r\n`
+`.trim() +
+    `\r\n\r\nALTER TABLE ONLY public.${escapeField(
+      tablename
+    )} ADD CONSTRAINT pk_${escapeField(
+      tablename
+    )} PRIMARY KEY (${headers
+      .map(header => escapeField(header))
+      .join(", ")});\r\n`
   );
 };
 

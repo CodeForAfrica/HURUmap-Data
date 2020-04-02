@@ -47,3 +47,5 @@ INSERT INTO public.visit_health_facility_nearest_to_dwelling VALUES
       
 INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allVisitHealthFacilityNearestToDwellings','"General Household Survey, 2018"','https://open.africa/dataset/general-household-survey-2018/resource/e464b246-3812-4d2e-90bd-10fb8898e5d5') on conflict do nothing;
 INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allVisitHealthFacilityNearestToDwellings','"General Household Survey, 2018"','https://open.africa/dataset/general-household-survey-2018/resource/e464b246-3812-4d2e-90bd-10fb8898e5d5') on conflict do nothing;
+
+ALTER TABLE ONLY public.visit_health_facility_nearest_to_dwelling ADD CONSTRAINT pk_visit_health_facility_nearest_to_dwelling PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value, name);

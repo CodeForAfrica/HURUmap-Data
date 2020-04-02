@@ -79,3 +79,5 @@ INSERT INTO public.number_of_hospital_beds VALUES
       
 INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','KE','allNumberOfHospitalBeds','"Kenya Master Health Facility List, 2020"','https://open.africa/dataset/kenya-master-health-facility-list-2020/resource/38b72113-8cd5-40b2-960d-1baefd32c8f1') on conflict do nothing;
 INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','KE','allNumberOfHospitalBeds','"Kenya Master Health Facility List, 2020"','https://open.africa/dataset/kenya-master-health-facility-list-2020/resource/38b72113-8cd5-40b2-960d-1baefd32c8f1') on conflict do nothing;
+
+ALTER TABLE ONLY public.number_of_hospital_beds ADD CONSTRAINT pk_number_of_hospital_beds PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, value, name);

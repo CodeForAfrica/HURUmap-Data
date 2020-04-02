@@ -292,3 +292,5 @@ INSERT INTO public.level_of_formality_by_gender VALUES
       
 INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','KE','allLevelOfFormalityByGenders','"Kenya Population and Housing Census, 2019"','https://open.africa/dataset/2019-kenya-population-and-housing-census') on conflict do nothing;
 INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','KE','allLevelOfFormalityByGenders','"Kenya Population and Housing Census, 2019"','https://open.africa/dataset/2019-kenya-population-and-housing-census') on conflict do nothing;
+
+ALTER TABLE ONLY public.level_of_formality_by_gender ADD CONSTRAINT pk_level_of_formality_by_gender PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable_2, variable_1, value, name);

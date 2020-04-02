@@ -184,3 +184,5 @@ INSERT INTO public.geos VALUES
 ('country','BF','continent','AFR',2009,'Burkina Faso','Burkina Faso',274200),
 ('country','CD','continent','AFR',2009,'Democratic Republic of Congo','Democratic Republic of Congo',2345409),
 ('country','GH','continent','AFR',2009,'Ghana','Ghana',NULL);
+
+ALTER TABLE ONLY public.geos ADD CONSTRAINT pk_geos PRIMARY KEY (geo_level, geo_code, parent_level, parent_code, version, name, long_name, square_kms);

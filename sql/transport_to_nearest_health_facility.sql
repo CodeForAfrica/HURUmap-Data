@@ -107,3 +107,5 @@ INSERT INTO public.transport_to_nearest_health_facility VALUES
       
 INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allTransportToNearestHealthFacilities','"General Household Survey, 2018"','https://open.africa/dataset/general-household-survey-2018/resource/662c4d17-2d15-43d5-a7f8-08e48d0a14bf') on conflict do nothing;
 INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allTransportToNearestHealthFacilities','"General Household Survey, 2018"','https://open.africa/dataset/general-household-survey-2018/resource/662c4d17-2d15-43d5-a7f8-08e48d0a14bf') on conflict do nothing;
+
+ALTER TABLE ONLY public.transport_to_nearest_health_facility ADD CONSTRAINT pk_transport_to_nearest_health_facility PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value, name);

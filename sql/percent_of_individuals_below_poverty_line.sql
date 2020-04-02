@@ -75,3 +75,5 @@ INSERT INTO public.percent_of_individuals_below_poverty_line VALUES
       
 INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','KE','allPercentOfIndividualsBelowPovertyLines','"Exploring Kenya Inequality National Report, 2017"','https://open.africa/dataset/exploring-kenya-inequality-national-report-2017/resource/90e440f3-bbee-416b-a2a5-454d9df9d8ad') on conflict do nothing;
 INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','KE','allPercentOfIndividualsBelowPovertyLines','"Exploring Kenya Inequality National Report, 2017"','https://open.africa/dataset/exploring-kenya-inequality-national-report-2017/resource/90e440f3-bbee-416b-a2a5-454d9df9d8ad') on conflict do nothing;
+
+ALTER TABLE ONLY public.percent_of_individuals_below_poverty_line ADD CONSTRAINT pk_percent_of_individuals_below_poverty_line PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, value, name);
