@@ -29,6 +29,7 @@ INSERT INTO public.prevalence_of_heart_problem VALUES
 ('level1','KE_1_003',2009,'country','KE',0.3,'Kilifi'),
 ('level1','KE_1_004',2009,'country','KE',0.8,'Tana River'),
 ('level1','KE_1_005',2009,'country','KE',0,'Lamu'),
+('level1','KE_1_006',2009,'country','KE',0.1,'Taita Taveta'),
 ('level1','KE_1_007',2009,'country','KE',0,'Garissa'),
 ('level1','KE_1_008',2009,'country','KE',5,'Wajir'),
 ('level1','KE_1_009',2009,'country','KE',0.3,'Mandera'),

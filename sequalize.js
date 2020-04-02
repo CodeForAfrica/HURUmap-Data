@@ -102,9 +102,8 @@ module.exports = ({
     });
 
     if (populateGeoColumns) {
-      const name = row["name"] || row["geography"] || row["province"];
-      const geo = name
-        ? geos.find(geo => `${geo.name} ${geo.long_name}`.includes(name))
+      const geo = row["name"]
+        ? geos.find(geo => geo.name.toLocaleLowerCase() === row["name"].toLocaleLowerCase())
         : geos.find(geo => geo.geo_code === row["geo_code"]);
 
       if (geo) {

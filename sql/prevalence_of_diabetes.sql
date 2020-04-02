@@ -29,6 +29,7 @@ INSERT INTO public.prevalence_of_diabetes VALUES
 ('level1','KE_1_003',2009,'country','KE',1.3,'Kilifi'),
 ('level1','KE_1_004',2009,'country','KE',0,'Tana River'),
 ('level1','KE_1_005',2009,'country','KE',2.2,'Lamu'),
+('level1','KE_1_006',2009,'country','KE',0.8,'Taita Taveta'),
 ('level1','KE_1_007',2009,'country','KE',1.9,'Garissa'),
 ('level1','KE_1_008',2009,'country','KE',2,'Wajir'),
 ('level1','KE_1_009',2009,'country','KE',0.4,'Mandera'),

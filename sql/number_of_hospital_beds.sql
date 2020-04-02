@@ -28,7 +28,7 @@ INSERT INTO public.number_of_hospital_beds VALUES
 ('level1','KE_1_016',2009,'country','KE',913,'Machakos'),
 ('level1','KE_1_017',2009,'country','KE',375,'Makueni'),
 ('level1','KE_1_046',2009,'country','KE',490,'Nyamira'),
-('level1','KE_1_006',2009,'country','KE',111,'Taveta'),
+('level1','KE_1_006',2009,'country','KE',111,'Taita Taveta'),
 ('level1','KE_1_038',2009,'country','KE',290,'Vihiga'),
 ('level1','KE_1_024',2009,'country','KE',191,'West Pokot'),
 ('level1','KE_1_030',2009,'country','KE',820,'Baringo'),
