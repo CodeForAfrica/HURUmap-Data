@@ -1,0 +1,7 @@
+geo_level,geo_code,geo_version,name,variable_1,variable_2,value
+country,KE,,Kenya,Rural,No place to wash hands,86.5
+country,KE,,Kenya,Rural,Not stated,0.3
+country,KE,,Kenya,Rural,Place to wash hands,13.2
+country,KE,,Kenya,Urban,Not stated,0.5
+country,KE,,Kenya,Urban,No place to wash hands,69.2
+country,KE,,Kenya,Urban,Place to wash hands,30.2
