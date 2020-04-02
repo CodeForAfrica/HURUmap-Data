@@ -85,9 +85,7 @@ module.exports = ({
   ]
 }) => {
   const origHeaders = data[0]
-    .join("|")
-    .toLowerCase()
-    .split("|");
+    .map(v => v.trim().toLowerCase());
   const headers = Array.from(
     new Set(
       populateGeoColumns ? defaultHeaders.concat(origHeaders) : origHeaders
@@ -100,7 +98,7 @@ module.exports = ({
   const dataValues = data.slice(1).map(values => {
     const row = {};
     values.forEach((value, index) => {
-      row[origHeaders[index]] = value;
+      row[origHeaders[index]] = value.trim();
     });
 
     if (populateGeoColumns) {
