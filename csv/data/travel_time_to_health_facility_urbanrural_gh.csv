@@ -1,0 +1,15 @@
+geo_level,geo_code,geo_version,name,variable_1,variable_2,value
+country,GH,,Ghana,Urban,151-180,1.4
+country,GH,,Ghana,Urban,91-120,3.4
+country,GH,,Ghana,Urban,<30,39.1
+country,GH,,Ghana,Urban,61-90,6.7
+country,GH,,Ghana,Urban,30-60,45
+country,GH,,Ghana,Urban,121-150,1.1
+country,GH,,Ghana,Urban,181+,3.4
+country,GH,,Ghana,Rural,91-120,7
+country,GH,,Ghana,Rural,151-180,1.6
+country,GH,,Ghana,Rural,<30,39.6
+country,GH,,Ghana,Rural,61-90,7.8
+country,GH,,Ghana,Rural,121-150,1.4
+country,GH,,Ghana,Rural,30-60,38.4
+country,GH,,Ghana,Rural,181+,4.3

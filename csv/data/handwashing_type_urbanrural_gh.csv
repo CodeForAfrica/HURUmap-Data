@@ -1,0 +1,9 @@
+geo_level,geo_code,geo_version,name,variable_1,variable_2,value
+country,GH,,Ghana,Rural,Ash/mud/ sand available,2.3
+country,GH,,Ghana,Rural,Soap available,82.9
+country,GH,,Ghana,Rural,Water and soap available,41.8
+country,GH,,Ghana,Rural,Water available,69.4
+country,GH,,Ghana,Urban,Ash/mud/ sand available,0.2
+country,GH,,Ghana,Urban,Soap available,89
+country,GH,,Ghana,Urban,Water and soap available,56.3
+country,GH,,Ghana,Urban,Water available,80.2

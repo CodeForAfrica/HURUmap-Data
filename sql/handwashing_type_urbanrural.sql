@@ -25,6 +25,14 @@ CREATE TABLE IF NOT EXISTS public.handwashing_type_urbanrural (
 );
 
 INSERT INTO public.handwashing_type_urbanrural VALUES
+('country','GH',2009,'continent','AFR','Ash/mud/ sand available','Rural',2.3,'Ghana'),
+('country','GH',2009,'continent','AFR','Soap available','Rural',82.9,'Ghana'),
+('country','GH',2009,'continent','AFR','Water and soap available','Rural',41.8,'Ghana'),
+('country','GH',2009,'continent','AFR','Water available','Rural',69.4,'Ghana'),
+('country','GH',2009,'continent','AFR','Ash/mud/ sand available','Urban',0.2,'Ghana'),
+('country','GH',2009,'continent','AFR','Soap available','Urban',89,'Ghana'),
+('country','GH',2009,'continent','AFR','Water and soap available','Urban',56.3,'Ghana'),
+('country','GH',2009,'continent','AFR','Water available','Urban',80.2,'Ghana'),
 ('country','ZA',2009,'continent','AFR','Soap and water','Non-urban',34.5,'South Africa'),
 ('country','ZA',2009,'continent','AFR','Water and cleansing agent other than soap only','Non-urban',0.7,'South Africa'),
 ('country','ZA',2009,'continent','AFR','Water only','Non-urban',37.7,'South Africa'),
@@ -38,6 +46,7 @@ INSERT INTO public.handwashing_type_urbanrural VALUES
 ('country','ZA',2009,'continent','AFR','Cleansing agent other than soap only','Urban',0,'South Africa'),
 ('country','ZA',2009,'continent','AFR','"No water, no soap, no other cleansing agent"','Urban',8.8,'South Africa');
       
+INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','GH','allHandwashingTypeUrbanrurals','"Ghana Multiple Indicator Cluster Survey, 2018"','https://open.africa/dataset/ghana-multiple-indicator-cluster-survey/resource/3c4b01d5-f3ab-45a0-a6a5-c4d0409f4551') on conflict do nothing;
 INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allHandwashingTypeUrbanrurals','"Demographic and Health Survey, 2016"','https://open.africa/dataset/demographic-and-health-survey-2016-south-africa/resource/46c842f7-c507-4c4f-b5ca-cdb07355f438') on conflict do nothing;
 
 ALTER TABLE ONLY public.handwashing_type_urbanrural ADD CONSTRAINT pk_handwashing_type_urbanrural PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable_2, variable_1, value, name);

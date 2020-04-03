@@ -1,0 +1,218 @@
+geo_level,geo_code,geo_version,name,variable,value
+country,GH,,Ghana,<30,39.4
+country,GH,,Ghana,61-90,7.3
+country,GH,,Ghana,30-60,41.4
+country,GH,,Ghana,181+,3.9
+country,GH,,Ghana,121-150,1.2
+country,GH,,Ghana,151-180,1.5
+country,GH,,Ghana,91-120,5.3
+region,33,,Western,61-90,8.5
+region,33,,Western,181+,6.3
+region,33,,Western,30-60,33.7
+region,33,,Western,151-180,0.8
+region,33,,Western,<30,40.3
+region,33,,Western,121-150,3.1
+region,33,,Western,<30,43.8
+region,33,,Western,61-90,6.1
+region,33,,Western,151-180,0.9
+region,33,,Western,181+,3.8
+region,33,,Western,91-120,3.6
+region,33,,Western,121-150,0
+region,33,,Western,91-120,0
+region,33,,Western,61-90,1.7
+region,33,,Western,<30,49.9
+region,33,,Western,30-60,37.4
+region,33,,Western,151-180,0.5
+region,33,,Western,181+,7.7
+region,33,,Western,91-120,5.7
+region,33,,Western,30-60,44.1
+region,33,,Western,121-150,2
+region,26,,Central,151-180,0.8
+region,26,,Central,30-60,43.2
+region,26,,Central,61-90,3.8
+region,26,,Central,121-150,1.2
+region,26,,Central,121-150,0
+region,26,,Central,121-150,0.6
+region,26,,Central,61-90,3.5
+region,26,,Central,91-120,8.3
+region,26,,Central,61-90,4.1
+region,26,,Central,91-120,1.5
+region,26,,Central,30-60,40.1
+region,26,,Central,151-180,0
+region,26,,Central,91-120,5.1
+region,26,,Central,181+,1.9
+region,26,,Central,<30,49.9
+region,26,,Central,181+,1.2
+region,26,,Central,151-180,1.5
+region,26,,Central,181+,0.7
+region,26,,Central,<30,44.2
+region,26,,Central,<30,46.8
+region,26,,Central,30-60,41.6
+region,28,,Greater Accra,61-90,0
+region,28,,Greater Accra,181+,4.2
+region,28,,Greater Accra,91-120,8.3
+region,28,,Greater Accra,<30,21.9
+region,28,,Greater Accra,91-120,8.5
+region,28,,Greater Accra,61-90,12.4
+region,28,,Greater Accra,<30,18.5
+region,28,,Greater Accra,121-150,4
+region,28,,Greater Accra,181+,4.9
+region,28,,Greater Accra,61-90,11.5
+region,28,,Greater Accra,181+,4.9
+region,28,,Greater Accra,121-150,3.7
+region,28,,Greater Accra,91-120,11.3
+region,28,,Greater Accra,151-180,3.7
+region,28,,Greater Accra,151-180,3.4
+region,28,,Greater Accra,30-60,48.5
+region,28,,Greater Accra,151-180,0
+region,28,,Greater Accra,121-150,7.1
+region,28,,Greater Accra,<30,63.7
+region,28,,Greater Accra,30-60,45.9
+region,28,,Greater Accra,30-60,13.6
+region,32,,Volta,181+,2.6
+region,32,,Volta,121-150,0.3
+region,32,,Volta,<30,47.7
+region,32,,Volta,181+,2
+region,32,,Volta,91-120,2.5
+region,32,,Volta,30-60,35.8
+region,32,,Volta,151-180,1.5
+region,32,,Volta,30-60,38.5
+region,32,,Volta,91-120,4.8
+region,32,,Volta,151-180,1.3
+region,32,,Volta,61-90,6.2
+region,32,,Volta,61-90,6.3
+region,32,,Volta,91-120,3.9
+region,32,,Volta,<30,49.8
+region,32,,Volta,121-150,0.7
+region,32,,Volta,121-150,0.5
+region,32,,Volta,30-60,37.5
+region,32,,Volta,<30,46.4
+region,32,,Volta,151-180,1.7
+region,32,,Volta,61-90,6.2
+region,32,,Volta,181+,3.7
+region,27,,Eastern,151-180,1.7
+region,27,,Eastern,151-180,1.4
+region,27,,Eastern,91-120,5.5
+region,27,,Eastern,121-150,0
+region,27,,Eastern,91-120,7.8
+region,27,,Eastern,151-180,1.1
+region,27,,Eastern,121-150,0.6
+region,27,,Eastern,121-150,0.3
+region,27,,Eastern,181+,3.3
+region,27,,Eastern,181+,5.6
+region,27,,Eastern,181+,0.3
+region,27,,Eastern,91-120,2.6
+region,27,,Eastern,61-90,7.8
+region,27,,Eastern,30-60,36.7
+region,27,,Eastern,30-60,36.8
+region,27,,Eastern,61-90,4.8
+region,27,,Eastern,<30,53.9
+region,27,,Eastern,<30,46.3
+region,27,,Eastern,61-90,6.5
+region,27,,Eastern,30-60,36.6
+region,27,,Eastern,<30,40.3
+region,24,,Ashanti,61-90,6.3
+region,24,,Ashanti,121-150,0
+region,24,,Ashanti,61-90,4.8
+region,24,,Ashanti,151-180,1.6
+region,24,,Ashanti,<30,41.3
+region,24,,Ashanti,121-150,0
+region,24,,Ashanti,181+,3.7
+region,24,,Ashanti,<30,50.6
+region,24,,Ashanti,30-60,33.2
+region,24,,Ashanti,30-60,48.8
+region,24,,Ashanti,91-120,4.3
+region,24,,Ashanti,181+,3.1
+region,24,,Ashanti,30-60,40.6
+region,24,,Ashanti,121-150,0
+region,24,,Ashanti,151-180,1.1
+region,24,,Ashanti,91-120,2.7
+region,24,,Ashanti,151-180,0.4
+region,24,,Ashanti,91-120,0.9
+region,24,,Ashanti,<30,46.1
+region,24,,Ashanti,61-90,7.8
+region,24,,Ashanti,181+,2.6
+region,25,,Brong Ahafo,30-60,45.9
+region,25,,Brong Ahafo,91-120,4.6
+region,25,,Brong Ahafo,121-150,1.4
+region,25,,Brong Ahafo,121-150,0.7
+region,25,,Brong Ahafo,151-180,1.5
+region,25,,Brong Ahafo,151-180,0
+region,25,,Brong Ahafo,181+,2.6
+region,25,,Brong Ahafo,61-90,10.3
+region,25,,Brong Ahafo,181+,2.6
+region,25,,Brong Ahafo,30-60,48.7
+region,25,,Brong Ahafo,<30,29.2
+region,25,,Brong Ahafo,121-150,1
+region,25,,Brong Ahafo,61-90,7.8
+region,25,,Brong Ahafo,30-60,51.3
+region,25,,Brong Ahafo,<30,39.5
+region,25,,Brong Ahafo,91-120,0.5
+region,25,,Brong Ahafo,<30,34.5
+region,25,,Brong Ahafo,91-120,9.1
+region,25,,Brong Ahafo,151-180,0.7
+region,25,,Brong Ahafo,61-90,5.5
+region,25,,Brong Ahafo,181+,2.6
+region,29,,Northern,<30,35
+region,29,,Northern,151-180,0
+region,29,,Northern,121-150,1.6
+region,29,,Northern,151-180,1.6
+region,29,,Northern,30-60,39.3
+region,29,,Northern,30-60,46.4
+region,29,,Northern,181+,6.7
+region,29,,Northern,61-90,8.3
+region,29,,Northern,121-150,0
+region,29,,Northern,30-60,37
+region,29,,Northern,<30,40.4
+region,29,,Northern,91-120,6.6
+region,29,,Northern,121-150,1.2
+region,29,,Northern,61-90,8.3
+region,29,,Northern,91-120,8.3
+region,29,,Northern,61-90,8.1
+region,29,,Northern,151-180,2.2
+region,29,,Northern,181+,3.9
+region,29,,Northern,181+,7.6
+region,29,,Northern,91-120,1.2
+region,29,,Northern,<30,36.3
+region,30,,Upper East,151-180,2.8
+region,30,,Upper East,<30,25.2
+region,30,,Upper East,181+,5.5
+region,30,,Upper East,181+,3.8
+region,30,,Upper East,<30,35
+region,30,,Upper East,151-180,0.2
+region,30,,Upper East,<30,21.4
+region,30,,Upper East,61-90,11.6
+region,30,,Upper East,61-90,4.4
+region,30,,Upper East,121-150,0.5
+region,30,,Upper East,121-150,1.2
+region,30,,Upper East,61-90,9.6
+region,30,,Upper East,91-120,7.7
+region,30,,Upper East,121-150,1.5
+region,30,,Upper East,30-60,51.8
+region,30,,Upper East,30-60,47.4
+region,30,,Upper East,30-60,50.6
+region,30,,Upper East,151-180,2.1
+region,30,,Upper East,91-120,6.9
+region,30,,Upper East,181+,3.1
+region,30,,Upper East,91-120,7.5
+region,31,,Upper West,181+,4.3
+region,31,,Upper West,91-120,0
+region,31,,Upper West,91-120,6.4
+region,31,,Upper West,<30,38
+region,31,,Upper West,61-90,7.5
+region,31,,Upper West,181+,6.7
+region,31,,Upper West,91-120,5.4
+region,31,,Upper West,61-90,2.8
+region,31,,Upper West,30-60,39.3
+region,31,,Upper West,121-150,1.9
+region,31,,Upper West,30-60,38.5
+region,31,,Upper West,151-180,1.1
+region,31,,Upper West,151-180,0
+region,31,,Upper West,<30,36.1
+region,31,,Upper West,121-150,2.2
+region,31,,Upper West,30-60,43.7
+region,31,,Upper West,151-180,1.3
+region,31,,Upper West,61-90,8.3
+region,31,,Upper West,181+,7.2
+region,31,,Upper West,<30,49.2
+region,31,,Upper West,121-150,0

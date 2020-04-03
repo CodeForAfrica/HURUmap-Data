@@ -1,0 +1,144 @@
+geo_level,geo_code,geo_version,name,variable,value
+region,24,,Ashanti,2004,53.4
+region,24,,Ashanti,2005,53
+region,24,,Ashanti,2006,49
+region,24,,Ashanti,2007,51
+region,24,,Ashanti,2008,54
+region,24,,Ashanti,2009,53
+region,24,,Ashanti,2010,59
+region,24,,Ashanti,2011,63
+region,24,,Ashanti,2012,58
+region,24,,Ashanti,2013,58
+region,24,,Ashanti,2014,55
+region,24,,Ashanti,2015,53
+region,24,,Ashanti,2016,50
+region,25,,Brong Ahafo,2004,32.7
+region,25,,Brong Ahafo,2005,28
+region,25,,Brong Ahafo,2006,31
+region,25,,Brong Ahafo,2007,36
+region,25,,Brong Ahafo,2008,30
+region,25,,Brong Ahafo,2009,38
+region,25,,Brong Ahafo,2010,37
+region,25,,Brong Ahafo,2011,44
+region,25,,Brong Ahafo,2012,43
+region,25,,Brong Ahafo,2013,50
+region,25,,Brong Ahafo,2014,53
+region,25,,Brong Ahafo,2015,54
+region,25,,Brong Ahafo,2016,52
+region,26,,Central,2004,79.6
+region,26,,Central,2005,75
+region,26,,Central,2006,61
+region,26,,Central,2007,69
+region,26,,Central,2008,67
+region,26,,Central,2009,80
+region,26,,Central,2010,73
+region,26,,Central,2011,67
+region,26,,Central,2012,67
+region,26,,Central,2013,62
+region,26,,Central,2014,63
+region,26,,Central,2015,54
+region,26,,Central,2016,53
+region,27,,Eastern,2004,67
+region,27,,Eastern,2005,75
+region,27,,Eastern,2006,72
+region,27,,Eastern,2007,71
+region,27,,Eastern,2008,71
+region,27,,Eastern,2009,80
+region,27,,Eastern,2010,72
+region,27,,Eastern,2011,68
+region,27,,Eastern,2012,65
+region,27,,Eastern,2013,65
+region,27,,Eastern,2014,62
+region,27,,Eastern,2015,56
+region,27,,Eastern,2016,54
+country,GH,,Ghana,2004,56.6
+country,GH,,Ghana,2005,57
+country,GH,,Ghana,2006,57
+country,GH,,Ghana,2007,57
+country,GH,,Ghana,2008,61
+country,GH,,Ghana,2009,64
+country,GH,,Ghana,2010,63
+country,GH,,Ghana,2011,63
+country,GH,,Ghana,2012,61
+country,GH,,Ghana,2013,60
+country,GH,,Ghana,2014,58
+country,GH,,Ghana,2015,56
+country,GH,,Ghana,2016,54
+region,28,,Greater Accra,2004,63.7
+region,28,,Greater Accra,2005,67
+region,28,,Greater Accra,2006,78
+region,28,,Greater Accra,2007,69
+region,28,,Greater Accra,2008,80
+region,28,,Greater Accra,2009,82
+region,28,,Greater Accra,2010,81
+region,28,,Greater Accra,2011,81
+region,28,,Greater Accra,2012,74
+region,28,,Greater Accra,2013,66
+region,28,,Greater Accra,2014,60
+region,28,,Greater Accra,2015,63
+region,28,,Greater Accra,2016,59
+region,29,,Northern,2004,24.1
+region,29,,Northern,2005,18
+region,29,,Northern,2006,20
+region,29,,Northern,2007,25
+region,29,,Northern,2008,31
+region,29,,Northern,2009,24
+region,29,,Northern,2010,22
+region,29,,Northern,2011,27
+region,29,,Northern,2012,24
+region,29,,Northern,2013,24
+region,29,,Northern,2014,26
+region,29,,Northern,2015,30
+region,29,,Northern,2016,24
+region,30,,Upper East,2004,38.5
+region,30,,Upper East,2005,34
+region,30,,Upper East,2006,32
+region,30,,Upper East,2007,51
+region,30,,Upper East,2008,48
+region,30,,Upper East,2009,48
+region,30,,Upper East,2010,63
+region,30,,Upper East,2011,68
+region,30,,Upper East,2012,57
+region,30,,Upper East,2013,65
+region,30,,Upper East,2014,57
+region,30,,Upper East,2015,56
+region,30,,Upper East,2016,53
+region,31,,Upper West,2004,34.8
+region,31,,Upper West,2005,35
+region,31,,Upper West,2006,28
+region,31,,Upper West,2007,29
+region,31,,Upper West,2008,35
+region,31,,Upper West,2009,37
+region,31,,Upper West,2010,38
+region,31,,Upper West,2011,40
+region,31,,Upper West,2012,43
+region,31,,Upper West,2013,44
+region,31,,Upper West,2014,41
+region,31,,Upper West,2015,44
+region,31,,Upper West,2016,48
+region,32,,Volta,2004,69.6
+region,32,,Volta,2005,64
+region,32,,Volta,2006,61
+region,32,,Volta,2007,58
+region,32,,Volta,2008,68
+region,32,,Volta,2009,80
+region,32,,Volta,2010,66
+region,32,,Volta,2011,71
+region,32,,Volta,2012,71
+region,32,,Volta,2013,77
+region,32,,Volta,2014,69
+region,32,,Volta,2015,60
+region,32,,Volta,2016,60
+region,33,,Western,2004,66.6
+region,33,,Western,2005,76
+region,33,,Western,2006,75
+region,33,,Western,2007,73
+region,33,,Western,2008,74
+region,33,,Western,2009,74
+region,33,,Western,2010,76
+region,33,,Western,2011,74
+region,33,,Western,2012,66
+region,33,,Western,2013,70
+region,33,,Western,2014,64
+region,33,,Western,2015,59
+region,33,,Western,2016,56

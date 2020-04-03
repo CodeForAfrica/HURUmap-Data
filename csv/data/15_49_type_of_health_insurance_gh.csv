@@ -1,0 +1,89 @@
+geo_level,geo_code,geo_version,name,variable_1,variable_2,value
+country,GH,,Ghana,National Health Insurance Service,Female,99.5
+country,GH,,Ghana,National Health Insurance Service,Male,98.8
+country,GH,,Ghana,Health insurance through employer,Female,0.6
+country,GH,,Ghana,Health insurance through employer,Male,0.9
+country,GH,,Ghana,Other privately purchased commercial health insurance,Female,0.4
+country,GH,,Ghana,Other privately purchased commercial health insurance,Male,1
+country,GH,,Ghana,Other,Female,0.1
+country,GH,,Ghana,Other,Male,0
+region,24,,Ashanti,National Health Insurance Service,Female,99.2
+region,24,,Ashanti,National Health Insurance Service,Male,98.2
+region,24,,Ashanti,Health insurance through employer,Female,1
+region,24,,Ashanti,Health insurance through employer,Male,0.7
+region,24,,Ashanti,Other privately purchased commercial health insurance,Female,0.7
+region,24,,Ashanti,Other privately purchased commercial health insurance,Male,1.1
+region,24,,Ashanti,Other,Female,0
+region,24,,Ashanti,Other,Male,0
+region,25,,Brong Ahafo,National Health Insurance Service,Female,100
+region,25,,Brong Ahafo,National Health Insurance Service,Male,99.9
+region,25,,Brong Ahafo,Health insurance through employer,Female,0.3
+region,25,,Brong Ahafo,Health insurance through employer,Male,0.2
+region,25,,Brong Ahafo,Other privately purchased commercial health insurance,Female,0.5
+region,25,,Brong Ahafo,Other privately purchased commercial health insurance,Male,0
+region,25,,Brong Ahafo,Other,Female,0
+region,25,,Brong Ahafo,Other,Male,0
+region,26,,Central,National Health Insurance Service,Female,100
+region,26,,Central,National Health Insurance Service,Male,99.5
+region,26,,Central,Health insurance through employer,Female,0.2
+region,26,,Central,Health insurance through employer,Male,0.5
+region,26,,Central,Other privately purchased commercial health insurance,Female,0.1
+region,26,,Central,Other privately purchased commercial health insurance,Male,0
+region,26,,Central,Other,Female,0
+region,26,,Central,Other,Male,0
+region,27,,Eastern,National Health Insurance Service,Male,100
+region,27,,Eastern,National Health Insurance Service,Female,99.7
+region,27,,Eastern,Health insurance through employer,Male,0
+region,27,,Eastern,Health insurance through employer,Female,0.1
+region,27,,Eastern,Other privately purchased commercial health insurance,Male,2.5
+region,27,,Eastern,Other privately purchased commercial health insurance,Female,0.3
+region,27,,Eastern,Other,Male,0
+region,27,,Eastern,Other,Female,0.4
+region,28,,Greater Accra,National Health Insurance Service,Female,98.3
+region,28,,Greater Accra,National Health Insurance Service,Male,96
+region,28,,Greater Accra,Health insurance through employer,Female,1.8
+region,28,,Greater Accra,Health insurance through employer,Male,3.2
+region,28,,Greater Accra,Other privately purchased commercial health insurance,Female,0.5
+region,28,,Greater Accra,Other privately purchased commercial health insurance,Male,1.7
+region,28,,Greater Accra,Other,Female,0.1
+region,28,,Greater Accra,Other,Male,0.3
+region,29,,Northern,National Health Insurance Service,Female,100
+region,29,,Northern,National Health Insurance Service,Male,100
+region,29,,Northern,Health insurance through employer,Female,0
+region,29,,Northern,Health insurance through employer,Male,0.6
+region,29,,Northern,Other privately purchased commercial health insurance,Female,0
+region,29,,Northern,Other privately purchased commercial health insurance,Male,0
+region,29,,Northern,Other,Female,0
+region,29,,Northern,Other,Male,0
+region,30,,Upper East,National Health Insurance Service,Male,100
+region,30,,Upper East,National Health Insurance Service,Female,100
+region,30,,Upper East,Health insurance through employer,Male,0
+region,30,,Upper East,Health insurance through employer,Female,0
+region,30,,Upper East,Other privately purchased commercial health insurance,Male,0
+region,30,,Upper East,Other privately purchased commercial health insurance,Female,0.2
+region,30,,Upper East,Other,Male,0
+region,30,,Upper East,Other,Female,0
+region,31,,Upper West,National Health Insurance Service,Female,100
+region,31,,Upper West,National Health Insurance Service,Male,100
+region,31,,Upper West,Health insurance through employer,Female,0
+region,31,,Upper West,Health insurance through employer,Male,0.8
+region,31,,Upper West,Other privately purchased commercial health insurance,Female,0
+region,31,,Upper West,Other privately purchased commercial health insurance,Male,0
+region,31,,Upper West,Other,Female,0
+region,31,,Upper West,Other,Male,0
+region,32,,Volta,National Health Insurance Service,Female,99.4
+region,32,,Volta,National Health Insurance Service,Male,98.1
+region,32,,Volta,Health insurance through employer,Female,0.3
+region,32,,Volta,Health insurance through employer,Male,1.6
+region,32,,Volta,Other privately purchased commercial health insurance,Female,0.6
+region,32,,Volta,Other privately purchased commercial health insurance,Male,1.6
+region,32,,Volta,Other,Female,0
+region,32,,Volta,Other,Male,0
+region,33,,Western,National Health Insurance Service,Female,100
+region,33,,Western,National Health Insurance Service,Male,98.8
+region,33,,Western,Health insurance through employer,Female,0.9
+region,33,,Western,Health insurance through employer,Male,1.3
+region,33,,Western,Other privately purchased commercial health insurance,Female,0.6
+region,33,,Western,Other privately purchased commercial health insurance,Male,1.2
+region,33,,Western,Other,Female,0
+region,33,,Western,Other,Male,0

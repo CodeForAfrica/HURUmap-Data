@@ -58,9 +58,9 @@ const tables = fs.readdirSync("./csv/data").reduce((merged, filename) => {
   if (!filename.includes(".csv")) {
     return merged;
   }
-  const tablename = filename.match(/_za|_ke/)
+  const tablename = filename.match(/_za|_ke|_gh/)
     ? filename.slice(0, -7)
-    : filename.slice(0, -4); // remove _za.csv or _ke.csv or .csv
+    : filename.slice(0, -4); // remove _za.csv or _ke.csv or _gh.csv or .csv
   if (!merged[tablename]) {
     merged[tablename] = [filename];
   } else {

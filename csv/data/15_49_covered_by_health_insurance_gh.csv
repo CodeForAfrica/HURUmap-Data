@@ -1,0 +1,23 @@
+geo_level,geo_code,geo_version,name,variable,value
+country,GH,,Ghana,Female,55.6
+country,GH,,Ghana,Male,40.2
+region,24,,Ashanti,Female,57.3
+region,24,,Ashanti,Male,41.7
+region,25,,Brong Ahafo,Female,71.8
+region,25,,Brong Ahafo,Male,57.2
+region,26,,Central,Female,47.2
+region,26,,Central,Male,20.8
+region,27,,Eastern,Male,38.7
+region,27,,Eastern,Female,53.6
+region,28,,Greater Accra,Female,50.5
+region,28,,Greater Accra,Male,45.9
+region,29,,Northern,Female,49.6
+region,29,,Northern,Male,46.6
+region,30,,Upper East,Male,59.3
+region,30,,Upper East,Female,63.4
+region,31,,Upper West,Female,55.3
+region,31,,Upper West,Male,45
+region,32,,Volta,Female,59.1
+region,32,,Volta,Male,20.4
+region,33,,Western,Female,54.9
+region,33,,Western,Male,35.8

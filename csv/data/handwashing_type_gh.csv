@@ -1,0 +1,45 @@
+geo_level,geo_code,geo_version,name,variable,value
+region,24,,Ashanti,Ash/mud/ sand available,0.2
+region,24,,Ashanti,Soap available,87.5
+region,24,,Ashanti,Water and soap available,51.7
+region,24,,Ashanti,Water available,77.3
+region,25,,Brong Ahafo,Ash/mud/ sand available,0.1
+region,25,,Brong Ahafo,Soap available,92.4
+region,25,,Brong Ahafo,Water and soap available,38.7
+region,25,,Brong Ahafo,Water available,75.5
+region,26,,Central,Ash/mud/ sand available,0.1
+region,26,,Central,Soap available,88.1
+region,26,,Central,Water and soap available,58.1
+region,26,,Central,Water available,84.2
+region,27,,Eastern,Ash/mud/ sand available,0.3
+region,27,,Eastern,Soap available,94.6
+region,27,,Eastern,Water and soap available,65
+region,27,,Eastern,Water available,87.3
+country,GH,,Ghana,Ash/mud/ sand available,1.3
+country,GH,,Ghana,Soap available,85.8
+country,GH,,Ghana,Water and soap available,48.5
+country,GH,,Ghana,Water available,74.6
+region,28,,Greater Accra,Ash/mud/ sand available,0
+region,28,,Greater Accra,Soap available,91.5
+region,28,,Greater Accra,Water and soap available,49.7
+region,28,,Greater Accra,Water available,76.7
+region,29,,Northern,Ash/mud/ sand available,3.3
+region,29,,Northern,Soap available,69.8
+region,29,,Northern,Water and soap available,31.5
+region,29,,Northern,Water available,50.2
+region,30,,Upper East,Ash/mud/ sand available,4.2
+region,30,,Upper East,Soap available,73.9
+region,30,,Upper East,Water and soap available,34.5
+region,30,,Upper East,Water available,49.1
+region,31,,Upper West,Ash/mud/ sand available,13.7
+region,31,,Upper West,Soap available,55.5
+region,31,,Upper West,Water and soap available,25.8
+region,31,,Upper West,Water available,53.2
+region,32,,Volta,Ash/mud/ sand available,2.4
+region,32,,Volta,Soap available,84.5
+region,32,,Volta,Water and soap available,36.6
+region,32,,Volta,Water available,75.7
+region,33,,Western,Ash/mud/ sand available,0.9
+region,33,,Western,Soap available,90.4
+region,33,,Western,Water and soap available,58.1
+region,33,,Western,Water available,82.9

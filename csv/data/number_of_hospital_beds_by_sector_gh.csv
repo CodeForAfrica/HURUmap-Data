@@ -1,0 +1,45 @@
+geo_level,geo_code,geo_version,name,variable,value
+region,24,,Ashanti,CHAG,1274
+region,24,,Ashanti,Government,1543
+region,24,,Ashanti,Private,879
+region,24,,Ashanti,Quasi-Government,0
+region,25,,Brong Ahafo,CHAG,1611
+region,25,,Brong Ahafo,Government,973
+region,25,,Brong Ahafo,Private,366
+region,25,,Brong Ahafo,Quasi-Government,0
+region,26,,Central,CHAG,491
+region,26,,Central,Government,1357
+region,26,,Central,Private,232
+region,26,,Central,Quasi-Government,0
+region,27,,Eastern,CHAG,895
+region,27,,Eastern,Government,1816
+region,27,,Eastern,Private,1017
+region,27,,Eastern,Quasi-Government,0
+country,GH,,Ghana,CHAG,6980
+country,GH,,Ghana,Government,13564
+country,GH,,Ghana,Private,3181
+country,GH,,Ghana,Quasi-Government,104
+region,28,,Greater Accra,CHAG,68
+region,28,,Greater Accra,Government,1882
+region,28,,Greater Accra,Private,99
+region,28,,Greater Accra,Quasi-Government,0
+region,29,,Northern,CHAG,394
+region,29,,Northern,Government,1452
+region,29,,Northern,Private,0
+region,29,,Northern,Quasi-Government,0
+region,30,,Upper East,CHAG,388
+region,30,,Upper East,Government,925
+region,30,,Upper East,Private,50
+region,30,,Upper East,Quasi-Government,0
+region,31,,Upper West,CHAG,404
+region,31,,Upper West,Government,629
+region,31,,Upper West,Private,0
+region,31,,Upper West,Quasi-Government,0
+region,32,,Volta,CHAG,875
+region,32,,Volta,Government,1500
+region,32,,Volta,Private,60
+region,32,,Volta,Quasi-Government,0
+region,33,,Western,CHAG,580
+region,33,,Western,Government,1487
+region,33,,Western,Private,478
+region,33,,Western,Quasi-Government,104

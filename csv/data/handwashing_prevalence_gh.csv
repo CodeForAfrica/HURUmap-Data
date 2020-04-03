@@ -1,0 +1,45 @@
+geo_level,geo_code,geo_version,name,variable,value
+region,24,,Ashanti,Fixed facility observed,28.4
+region,24,,Ashanti,Mobile object observed,46.9
+region,24,,Ashanti,"No handwashing facility observed in the dwelling, yard, or plot",24.2
+region,24,,Ashanti,No permission to see/ Other,0.4
+region,25,,Brong Ahafo,Fixed facility observed,12.2
+region,25,,Brong Ahafo,Mobile object observed,42.1
+region,25,,Brong Ahafo,"No handwashing facility observed in the dwelling, yard, or plot",45.1
+region,25,,Brong Ahafo,No permission to see/ Other,0.5
+region,26,,Central,Fixed facility observed,30.4
+region,26,,Central,Mobile object observed,45.9
+region,26,,Central,"No handwashing facility observed in the dwelling, yard, or plot",23.7
+region,26,,Central,No permission to see/ Other,0
+region,27,,Eastern,Fixed facility observed,12.9
+region,27,,Eastern,Mobile object observed,65.1
+region,27,,Eastern,"No handwashing facility observed in the dwelling, yard, or plot",21.9
+region,27,,Eastern,No permission to see/ Other,0
+country,GH,,Ghana,Fixed facility observed,23.9
+country,GH,,Ghana,Mobile object observed,48.1
+country,GH,,Ghana,"No handwashing facility observed in the dwelling, yard, or plot",27.7
+country,GH,,Ghana,No permission to see/ Other,0.3
+region,28,,Greater Accra,Fixed facility observed,28.2
+region,28,,Greater Accra,Mobile object observed,38.8
+region,28,,Greater Accra,"No handwashing facility observed in the dwelling, yard, or plot",32.6
+region,28,,Greater Accra,No permission to see/ Other,0.4
+region,29,,Northern,Fixed facility observed,36.8
+region,29,,Northern,Mobile object observed,43.3
+region,29,,Northern,"No handwashing facility observed in the dwelling, yard, or plot",19.5
+region,29,,Northern,No permission to see/ Other,0.4
+region,30,,Upper East,Fixed facility observed,23.8
+region,30,,Upper East,Mobile object observed,59.9
+region,30,,Upper East,"No handwashing facility observed in the dwelling, yard, or plot",15.9
+region,30,,Upper East,No permission to see/ Other,0.4
+region,31,,Upper West,Fixed facility observed,42.8
+region,31,,Upper West,Mobile object observed,36.2
+region,31,,Upper West,"No handwashing facility observed in the dwelling, yard, or plot",20.3
+region,31,,Upper West,No permission to see/ Other,0.6
+region,32,,Volta,Fixed facility observed,9.9
+region,32,,Volta,Mobile object observed,44.1
+region,32,,Volta,"No handwashing facility observed in the dwelling, yard, or plot",45.7
+region,32,,Volta,No permission to see/ Other,0.3
+region,33,,Western,Fixed facility observed,19.3
+region,33,,Western,Mobile object observed,55.3
+region,33,,Western,"No handwashing facility observed in the dwelling, yard, or plot",25.2
+region,33,,Western,No permission to see/ Other,0.2

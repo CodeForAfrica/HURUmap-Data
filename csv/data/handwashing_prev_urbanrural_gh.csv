@@ -1,0 +1,9 @@
+geo_level,geo_code,geo_version,name,variable_1,variable_2,value
+country,GH,,Ghana,Rural,Fixed facility observed,20
+country,GH,,Ghana,Rural,Mobile object observed,49.1
+country,GH,,Ghana,Rural,"No handwashing facility observed in the dwelling, yard, or plot",30.7
+country,GH,,Ghana,Rural,No permission to see/ Other,0.2
+country,GH,,Ghana,Urban,Fixed facility observed,28.4
+country,GH,,Ghana,Urban,Mobile object observed,46.9
+country,GH,,Ghana,Urban,"No handwashing facility observed in the dwelling, yard, or plot",24.2
+country,GH,,Ghana,Urban,No permission to see/ Other,0.5
