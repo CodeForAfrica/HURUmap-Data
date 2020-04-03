@@ -34,7 +34,14 @@ function gqlName(tablename) {
 
 /** */
 
-const sqlString = (tablename, headers, dataTypes, data, sources) => {
+const sqlString = ({
+  tablename,
+  headers,
+  dataTypes,
+  dataValues,
+  dataSources,
+  pkColumns
+}) => {
   return (
     `
 SET statement_timeout = 0;
@@ -65,7 +72,7 @@ ${headers
 );
 
 INSERT INTO public.${escapeField(tablename)} VALUES
-${data
+${dataValues
   .map(
     values =>
       `(${values
@@ -79,13 +86,13 @@ ${data
   )
   .join(",\r\n")};
       
-${Object.values(sources).join("\r\n")}
+${Object.values(dataSources).join("\r\n")}
 `.trim() +
     `\r\n\r\nALTER TABLE ONLY public.${escapeField(
       tablename
-    )} ADD CONSTRAINT pk_${escapeField(
-      tablename
-    )} PRIMARY KEY (${headers
+    )} ADD CONSTRAINT pk_${escapeField(tablename)} PRIMARY KEY (${(
+      pkColumns || headers
+    )
       .map(header => escapeField(header))
       .join(", ")});\r\n`
   );
@@ -104,7 +111,8 @@ module.exports = ({
     "geo_version",
     "parent_level",
     "parent_code"
-  ]
+  ],
+  pkColumns
 }) => {
   if (drop) {
     drop.forEach(table => {
@@ -205,13 +213,14 @@ module.exports = ({
     return rowArray;
   });
 
-  const sql = sqlString(
+  const sql = sqlString({
     tablename,
     headers,
     dataTypes,
-    dataValues.filter(v => v),
-    dataSources
-  );
+    dataValues: dataValues.filter(v => v),
+    dataSources,
+    pkColumns
+  });
 
   fs.writeFileSync(`./sql/${tablename}.sql`, sql);
 };

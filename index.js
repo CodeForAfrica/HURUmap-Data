@@ -58,7 +58,9 @@ const tables = fs.readdirSync("./csv/data").reduce((merged, filename) => {
   if (!filename.includes(".csv")) {
     return merged;
   }
-  const tablename = filename.match(/_za|_ke/) ? filename.slice(0, -7) : filename.slice(0, -4); // remove _za.csv or _ke.csv or .csv
+  const tablename = filename.match(/_za|_ke/)
+    ? filename.slice(0, -7)
+    : filename.slice(0, -4); // remove _za.csv or _ke.csv or .csv
   if (!merged[tablename]) {
     merged[tablename] = [filename];
   } else {
@@ -78,15 +80,32 @@ Object.entries(tables).forEach(([tablename, filenames]) => {
   }
 });
 
-const geosData = csv2Array("./csv/geos.csv");
+sequalize({
+  tablename: "geos",
+  data: csv2Array("./csv/geos.csv"),
+  populateGeoColumns: false,
+  pkColumns: ["geo_level", "geo_code", "version"]
+});
 
-sequalize({ tablename: "geos", data: geosData, populateGeoColumns: false });
+// Wazimap DB Support
+sequalize({
+  tablename: "wazimap_geography",
+  data: csv2Array("./csv/wazimap_geography.csv"),
+  populateGeoColumns: false,
+  pkColumns: ["geo_level", "geo_code", "version"]
+});
 
-const drop = fs.readdirSync("./sql").map( filename => {
-  if (!filename.includes(".sql") || filename.includes("sources") || filename.includes("geos")) {
-    return null;
-  }
-  return filename.replace(".sql", "");
-}).filter(tablename => tablename && !tables[tablename]);
+const drop = fs
+  .readdirSync("./sql")
+  .map(filename => {
+    if (
+      !filename.includes(".sql") ||
+      ["1.sources.sql", "geos.sql", "wazimap_geography.sql"].includes(filename)
+    ) {
+      return null;
+    }
+    return filename.replace(".sql", "");
+  })
+  .filter(tablename => tablename && !tables[tablename]);
 
 sequalize({ drop });

@@ -1663,4 +1663,4 @@ INSERT INTO public.geos VALUES
 ('level2','KE_2_006024','level1','KE_1_006',2009,'Wundanyi','Wundanyi',NULL),
 ('level2','KE_2_016076','level1','KE_1_016',2009,'Yatta','Yatta',1062.4);
 
-ALTER TABLE ONLY public.geos ADD CONSTRAINT pk_geos PRIMARY KEY (geo_level, geo_code, parent_level, parent_code, version, name, long_name, square_kms);
+ALTER TABLE ONLY public.geos ADD CONSTRAINT pk_geos PRIMARY KEY (geo_level, geo_code, version);
