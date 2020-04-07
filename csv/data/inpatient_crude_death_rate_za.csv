@@ -1,0 +1,63 @@
+geo_level,geo_code,geo_version,name,variable,value
+district,244,,Alfred Nzo,Inpatient crude death rate,5.7
+district,525,,Amajuba,Inpatient crude death rate,5
+district,212,,Amathole,Inpatient crude death rate,6.4
+district,637,,Bojanala Platinum,Inpatient crude death rate,6
+municipality,292,,Buffalo City,Inpatient crude death rate,6.2
+district,213,,C Hani,Inpatient crude death rate,6.7
+municipality,191,,Cape Town,Inpatient crude death rate,2.9
+district,102,,Cape Winelands,Inpatient crude death rate,2.8
+district,935,,Capricorn,Inpatient crude death rate,5.5
+district,105,,Central Karoo,Inpatient crude death rate,3.4
+municipality,797,,City of Ekurhuleni,Inpatient crude death rate,4.2
+district,640,,Dr K Kaunda,Inpatient crude death rate,5.7
+province,EC,,Eastern Cape,Inpatient crude death rate,5.8
+district,832,,Ehlanzeni,Inpatient crude death rate,5
+municipality,595,,eThekwini,Inpatient crude death rate,4.2
+district,420,,Fezile Dabi,Inpatient crude death rate,5.9
+district,309,,Frances Baard,Inpatient crude death rate,5.8
+province,FS,,Free State,Inpatient crude death rate,4.3
+district,830,,G Sibande,Inpatient crude death rate,4.4
+,,,Garden Route,Inpatient crude death rate,3.2
+province,GT,,Gauteng,Inpatient crude death rate,4.5
+,,,Harry Gwala,Inpatient crude death rate,4.5
+district,529,,iLembe,Inpatient crude death rate,4.6
+district,214,,Joe Gqabi,Inpatient crude death rate,6.8
+municipality,798,,Johannesburg,Inpatient crude death rate,4.6
+district,345,,JT Gaetsewe,Inpatient crude death rate,5.7
+,,,King Cetshwayo,Inpatient crude death rate,5.4
+province,KZN,,KwaZulu-Natal,Inpatient crude death rate,4.7
+district,418,,Lejweleputswa,Inpatient crude death rate,4.3
+province,LIM,,Limpopo,Inpatient crude death rate,4.8
+municipality,494,,Mangaung,Inpatient crude death rate,3.7
+district,933,,Mopani,Inpatient crude death rate,4.8
+province,MP,,Mpumalanga,Inpatient crude death rate,5
+municipality,2930,,N Mandela Bay,Inpatient crude death rate,4.8
+district,306,,Namakwa,Inpatient crude death rate,3.4
+district,831,,Nkangala,Inpatient crude death rate,5.9
+district,638,,NM Molema,Inpatient crude death rate,5.9
+province,NW,,North West,Inpatient crude death rate,5.9
+province,NC,,Northern Cape,Inpatient crude death rate,5.2
+district,215,,OR Tambo,Inpatient crude death rate,6.2
+district,103,,Overberg,Inpatient crude death rate,2.4
+district,307,,Pixley Ka Seme,Inpatient crude death rate,5.6
+district,639,,RS Mompati,Inpatient crude death rate,5.9
+,,,Sarah Baartman,Inpatient crude death rate,4.7
+district,742,,Sedibeng,Inpatient crude death rate,5.2
+district,947,,Sekhukhune,Inpatient crude death rate,4.3
+country,ZA,,South Africa,Inpatient crude death rate,4.6
+district,419,,T Mofutsanyana,Inpatient crude death rate,4.4
+municipality,799,,Tshwane,Inpatient crude death rate,4.5
+district,521,,Ugu,Inpatient crude death rate,5.3
+district,522,,Umgungundlovu,Inpatient crude death rate,4.9
+district,527,,Umkhanyakude,Inpatient crude death rate,4.5
+district,524,,Umzinyathi,Inpatient crude death rate,5.2
+district,523,,Uthukela,Inpatient crude death rate,5.6
+district,934,,Vhembe,Inpatient crude death rate,4.6
+district,936,,Waterberg,Inpatient crude death rate,4.7
+district,101,,West Coast,Inpatient crude death rate,3.1
+district,748,,West Rand,Inpatient crude death rate,4.3
+province,WC,,Western Cape,Inpatient crude death rate,2.9
+district,416,,Xhariep,Inpatient crude death rate,4.7
+district,308,,ZF Mgcawu,Inpatient crude death rate,4.5
+district,526,,Zululand,Inpatient crude death rate,5

@@ -1,0 +1,63 @@
+geo_level,geo_code,geo_version,name,variable,value
+district,244,,Alfred Nzo,Percent of facilities with ideal clinic status,16.2
+district,525,,Amajuba,Percent of facilities with ideal clinic status,100
+district,212,,Amathole,Percent of facilities with ideal clinic status,37.2
+district,637,,Bojanala,Percent of facilities with ideal clinic status,24.6
+municipality,292,,Buffalo City,Percent of facilities with ideal clinic status,15.2
+district,102,,Cape Winelands,Percent of facilities with ideal clinic status,60
+district,935,,Capricorn,Percent of facilities with ideal clinic status,65
+district,105,,Central Karoo,Percent of facilities with ideal clinic status,100
+district,213,,Chris Hani,Percent of facilities with ideal clinic status,16.4
+municipality,191,,City of Cape Town,Percent of facilities with ideal clinic status,75
+municipality,798,,City of Johannesburg,Percent of facilities with ideal clinic status,74.6
+municipality,799,,City of Tshwane,Percent of facilities with ideal clinic status,98.6
+district,640,,Dr Kenneth Kaunda,Percent of facilities with ideal clinic status,92.5
+district,639,,Dr Ruth Segomotsi Mompati,Percent of facilities with ideal clinic status,59
+province,EC,,Eastern Cape,Percent of facilities with ideal clinic status,32.4
+district,832,,Ehlanzeni,Percent of facilities with ideal clinic status,21.5
+municipality,797,,Ekurhuleni,Percent of facilities with ideal clinic status,100
+municipality,595,,eThekwini,Percent of facilities with ideal clinic status,60.7
+district,420,,Fezile Dabi,Percent of facilities with ideal clinic status,61.9
+district,309,,Frances Baard,Percent of facilities with ideal clinic status,58.6
+province,FS,,Free State,Percent of facilities with ideal clinic status,75.7
+,,,Garden Route,Percent of facilities with ideal clinic status,53.7
+province,GT,,Gauteng,Percent of facilities with ideal clinic status,89.2
+district,830,,Gert Sibande,Percent of facilities with ideal clinic status,89.6
+,,,Harry Gwala,Percent of facilities with ideal clinic status,70
+district,529,,iLembe,Percent of facilities with ideal clinic status,83.3
+district,214,,Joe Gqabi,Percent of facilities with ideal clinic status,46.2
+district,345,,John Taolo Gaetsewe,Percent of facilities with ideal clinic status,52.4
+,,,King Cetshwayo,Percent of facilities with ideal clinic status,56.3
+province,KZN,,KwaZulu-Natal,Percent of facilities with ideal clinic status,76.2
+district,418,,Lejweleputswa,Percent of facilities with ideal clinic status,61.4
+province,LIM,,Limpopo,Percent of facilities with ideal clinic status,34.4
+municipality,494,,Mangaung,Percent of facilities with ideal clinic status,63
+district,933,,Mopani,Percent of facilities with ideal clinic status,10.5
+province,MP,,Mpumalanga,Percent of facilities with ideal clinic status,46.2
+district,306,,Namakwa,Percent of facilities with ideal clinic status,24.2
+municipality,293,,Nelson Mandela Bay,Percent of facilities with ideal clinic status,58.3
+district,638,,Ngaka Modiri Molema,Percent of facilities with ideal clinic status,43.3
+district,831,,Nkangala,Percent of facilities with ideal clinic status,42.2
+province,NW,,North West,Percent of facilities with ideal clinic status,45.6
+province,NC,,Northern Cape,Percent of facilities with ideal clinic status,57.1
+district,215,,O.R.Tambo,Percent of facilities with ideal clinic status,40.4
+district,103,,Overberg,Percent of facilities with ideal clinic status,100
+district,307,,Pixley ka Seme,Percent of facilities with ideal clinic status,80.6
+,,,Sarah Baartman,Percent of facilities with ideal clinic status,53.2
+district,742,,Sedibeng,Percent of facilities with ideal clinic status,100
+district,947,,Sekhukhune,Percent of facilities with ideal clinic status,38.2
+country,ZA,,South Africa,Percent of facilities with ideal clinic status,55.4
+district,419,,Thabo Mofutsanyane,Percent of facilities with ideal clinic status,94.5
+district,521,,Ugu,Percent of facilities with ideal clinic status,62.3
+district,522,,Umgungundlovu,Percent of facilities with ideal clinic status,90.4
+district,527,,Umkhanyakude,Percent of facilities with ideal clinic status,78
+district,524,,Umzinyathi,Percent of facilities with ideal clinic status,100
+district,523,,Uthukela,Percent of facilities with ideal clinic status,81.1
+district,934,,Vhembe,Percent of facilities with ideal clinic status,29.3
+district,936,,Waterberg,Percent of facilities with ideal clinic status,30.2
+district,101,,West Coast,Percent of facilities with ideal clinic status,40.7
+district,748,,West Rand,Percent of facilities with ideal clinic status,81.3
+province,WC,,Western Cape,Percent of facilities with ideal clinic status,68.3
+district,416,,Xhariep,Percent of facilities with ideal clinic status,100
+district,308,,Z F Mgcawu,Percent of facilities with ideal clinic status,76.2
+district,526,,Zululand,Percent of facilities with ideal clinic status,87.5

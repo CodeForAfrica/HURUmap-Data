@@ -1,0 +1,1055 @@
+geo_level,geo_code,geo_version,name,variable,number
+district,244,,Alfred Nzo,Clinical Associates,1.4
+district,244,,Alfred Nzo,Dental practitioners,1.3
+district,244,,Alfred Nzo,Dental specialists,
+district,244,,Alfred Nzo,Dental therapists,
+district,244,,Alfred Nzo,Enrolled nurses,33.6
+district,244,,Alfred Nzo,Environmental health practitioners per 100 000 population,0.1
+district,244,,Alfred Nzo,Medical practitioners,10.4
+district,244,,Alfred Nzo,Medical researchers,
+district,244,,Alfred Nzo,Medical specialists,
+district,244,,Alfred Nzo,Nursing assistants,68.6
+district,244,,Alfred Nzo,Occupational therapists,0.5
+district,244,,Alfred Nzo,Pharmacists,4.1
+district,244,,Alfred Nzo,Physiotherapists,1.5
+district,244,,Alfred Nzo,Professional nurses,104.4
+district,244,,Alfred Nzo,Psychologists,
+district,244,,Alfred Nzo,Radiographers,2.2
+district,244,,Alfred Nzo,Student nurses,
+district,525,,Amajuba,Clinical Associates,2.8
+district,525,,Amajuba,Dental practitioners,1.5
+district,525,,Amajuba,Dental specialists,
+district,525,,Amajuba,Dental therapists,1.1
+district,525,,Amajuba,Enrolled nurses,82.6
+district,525,,Amajuba,Environmental health practitioners per 100 000 population,0.6
+district,525,,Amajuba,Medical practitioners,44.7
+district,525,,Amajuba,Medical researchers,0.2
+district,525,,Amajuba,Medical specialists,2.2
+district,525,,Amajuba,Nursing assistants,69.4
+district,525,,Amajuba,Occupational therapists,2.4
+district,525,,Amajuba,Pharmacists,9
+district,525,,Amajuba,Physiotherapists,3.7
+district,525,,Amajuba,Professional nurses,163.5
+district,525,,Amajuba,Psychologists,0.9
+district,525,,Amajuba,Radiographers,6.3
+district,525,,Amajuba,Student nurses,8.3
+district,212,,Amathole,Clinical Associates,1.9
+district,212,,Amathole,Dental practitioners,2.5
+district,212,,Amathole,Dental specialists,
+district,212,,Amathole,Dental therapists,0.3
+district,212,,Amathole,Enrolled nurses,40.9
+district,212,,Amathole,Environmental health practitioners per 100 000 population,0.4
+district,212,,Amathole,Medical practitioners,10.8
+district,212,,Amathole,Medical researchers,
+district,212,,Amathole,Medical specialists,0.1
+district,212,,Amathole,Nursing assistants,74.6
+district,212,,Amathole,Occupational therapists,1.8
+district,212,,Amathole,Pharmacists,8.3
+district,212,,Amathole,Physiotherapists,1.9
+district,212,,Amathole,Professional nurses,147.6
+district,212,,Amathole,Psychologists,0.2
+district,212,,Amathole,Radiographers,3.8
+district,212,,Amathole,Student nurses,
+district,637,,Bojanala,Clinical Associates,0.1
+district,637,,Bojanala,Dental practitioners,1.5
+district,637,,Bojanala,Dental specialists,
+district,637,,Bojanala,Dental therapists,0.1
+district,637,,Bojanala,Enrolled nurses,19
+district,637,,Bojanala,Environmental health practitioners per 100 000 population,1.1
+district,637,,Bojanala,Medical practitioners,18.2
+district,637,,Bojanala,Medical researchers,
+district,637,,Bojanala,Medical specialists,1.5
+district,637,,Bojanala,Nursing assistants,50.3
+district,637,,Bojanala,Occupational therapists,1.2
+district,637,,Bojanala,Pharmacists,5.8
+district,637,,Bojanala,Physiotherapists,2.1
+district,637,,Bojanala,Professional nurses,99.7
+district,637,,Bojanala,Psychologists,0.6
+district,637,,Bojanala,Radiographers,2.3
+district,637,,Bojanala,Student nurses,1.1
+municipality,292,,Buffalo City,Clinical Associates,0.6
+municipality,292,,Buffalo City,Dental practitioners,3.6
+municipality,292,,Buffalo City,Dental specialists,
+municipality,292,,Buffalo City,Dental therapists,0.9
+municipality,292,,Buffalo City,Enrolled nurses,71.4
+municipality,292,,Buffalo City,Environmental health practitioners per 100 000 population,0.2
+municipality,292,,Buffalo City,Medical practitioners,70.8
+municipality,292,,Buffalo City,Medical researchers,0.2
+municipality,292,,Buffalo City,Medical specialists,8.8
+municipality,292,,Buffalo City,Nursing assistants,116.9
+municipality,292,,Buffalo City,Occupational therapists,3.1
+municipality,292,,Buffalo City,Pharmacists,21
+municipality,292,,Buffalo City,Physiotherapists,4
+municipality,292,,Buffalo City,Professional nurses,254.2
+municipality,292,,Buffalo City,Psychologists,0.9
+municipality,292,,Buffalo City,Radiographers,12.9
+municipality,292,,Buffalo City,Student nurses,
+district,102,,Cape Winelands,Clinical Associates,5.8
+district,102,,Cape Winelands,Dental practitioners,1.5
+district,102,,Cape Winelands,Dental specialists,
+district,102,,Cape Winelands,Dental therapists,46.2
+district,102,,Cape Winelands,Enrolled nurses,
+district,102,,Cape Winelands,Environmental health practitioners per 100 000 population,
+district,102,,Cape Winelands,Medical practitioners,30
+district,102,,Cape Winelands,Medical researchers,
+district,102,,Cape Winelands,Medical specialists,11
+district,102,,Cape Winelands,Nursing assistants,48.2
+district,102,,Cape Winelands,Occupational therapists,1.7
+district,102,,Cape Winelands,Pharmacists,13.7
+district,102,,Cape Winelands,Physiotherapists,1.9
+district,102,,Cape Winelands,Professional nurses,79.4
+district,102,,Cape Winelands,Psychologists,0.6
+district,102,,Cape Winelands,Radiographers,5.5
+district,102,,Cape Winelands,Student nurses,
+district,935,,Capricorn,Clinical Associates,0.2
+district,935,,Capricorn,Dental practitioners,4.5
+district,935,,Capricorn,Dental specialists,0.2
+district,935,,Capricorn,Dental therapists,1.9
+district,935,,Capricorn,Enrolled nurses,84
+district,935,,Capricorn,Environmental health practitioners per 100 000 population,0.7
+district,935,,Capricorn,Medical practitioners,44.1
+district,935,,Capricorn,Medical researchers,0.1
+district,935,,Capricorn,Medical specialists,4.4
+district,935,,Capricorn,Nursing assistants,95
+district,935,,Capricorn,Occupational therapists,5.3
+district,935,,Capricorn,Pharmacists,14.5
+district,935,,Capricorn,Physiotherapists,3.9
+district,935,,Capricorn,Professional nurses,173.7
+district,935,,Capricorn,Psychologists,3.4
+district,935,,Capricorn,Radiographers,5.5
+district,935,,Capricorn,Student nurses,7.1
+district,105,,Central Karoo,Clinical Associates,3
+district,105,,Central Karoo,Dental practitioners,
+district,105,,Central Karoo,Dental specialists,
+district,105,,Central Karoo,Dental therapists,45.5
+district,105,,Central Karoo,Enrolled nurses,
+district,105,,Central Karoo,Environmental health practitioners per 100 000 population,
+district,105,,Central Karoo,Medical practitioners,26.5
+district,105,,Central Karoo,Medical researchers,
+district,105,,Central Karoo,Medical specialists,
+district,105,,Central Karoo,Nursing assistants,81
+district,105,,Central Karoo,Occupational therapists,1.5
+district,105,,Central Karoo,Pharmacists,28
+district,105,,Central Karoo,Physiotherapists,1.5
+district,105,,Central Karoo,Professional nurses,125.2
+district,105,,Central Karoo,Psychologists,
+district,105,,Central Karoo,Radiographers,5.9
+district,105,,Central Karoo,Student nurses,
+district,213,,Chris Hani,Clinical Associates,2.3
+district,213,,Chris Hani,Dental practitioners,2.3
+district,213,,Chris Hani,Dental specialists,
+district,213,,Chris Hani,Dental therapists,
+district,213,,Chris Hani,Enrolled nurses,55.4
+district,213,,Chris Hani,Environmental health practitioners per 100 000 population,0.1
+district,213,,Chris Hani,Medical practitioners,21
+district,213,,Chris Hani,Medical researchers,
+district,213,,Chris Hani,Medical specialists,0.1
+district,213,,Chris Hani,Nursing assistants,90.4
+district,213,,Chris Hani,Occupational therapists,2.2
+district,213,,Chris Hani,Pharmacists,9
+district,213,,Chris Hani,Physiotherapists,2.2
+district,213,,Chris Hani,Professional nurses,198.3
+district,213,,Chris Hani,Psychologists,0.5
+district,213,,Chris Hani,Radiographers,4.5
+district,213,,Chris Hani,Student nurses,
+municipality,1910,,City of Cape Town,Clinical Associates,2.2
+municipality,1910,,City of Cape Town,Dental practitioners,0.7
+municipality,1910,,City of Cape Town,Dental specialists,0.1
+municipality,1910,,City of Cape Town,Dental therapists,56.2
+municipality,1910,,City of Cape Town,Enrolled nurses,
+municipality,1910,,City of Cape Town,Environmental health practitioners per 100 000 population,
+municipality,1910,,City of Cape Town,Medical practitioners,45.5
+municipality,1910,,City of Cape Town,Medical researchers,0.1
+municipality,1910,,City of Cape Town,Medical specialists,35.1
+municipality,1910,,City of Cape Town,Nursing assistants,100
+municipality,1910,,City of Cape Town,Occupational therapists,3.8
+municipality,1910,,City of Cape Town,Pharmacists,17.8
+municipality,1910,,City of Cape Town,Physiotherapists,3.6
+municipality,1910,,City of Cape Town,Professional nurses,115.7
+municipality,1910,,City of Cape Town,Psychologists,2.4
+municipality,1910,,City of Cape Town,Radiographers,11.6
+municipality,1910,,City of Cape Town,Student nurses,
+municipality,798,,City of Johannesburg,Clinical Associates,0.1
+municipality,798,,City of Johannesburg,Dental practitioners,1.5
+municipality,798,,City of Johannesburg,Dental specialists,0.9
+municipality,798,,City of Johannesburg,Dental therapists,0.2
+municipality,798,,City of Johannesburg,Enrolled nurses,62.6
+municipality,798,,City of Johannesburg,Environmental health practitioners per 100 000 population,0.5
+municipality,798,,City of Johannesburg,Medical practitioners,32.4
+municipality,798,,City of Johannesburg,Medical researchers,0.1
+municipality,798,,City of Johannesburg,Medical specialists,21.6
+municipality,798,,City of Johannesburg,Nursing assistants,58.3
+municipality,798,,City of Johannesburg,Occupational therapists,2.2
+municipality,798,,City of Johannesburg,Pharmacists,9
+municipality,798,,City of Johannesburg,Physiotherapists,2.3
+municipality,798,,City of Johannesburg,Professional nurses,114.9
+municipality,798,,City of Johannesburg,Psychologists,2
+municipality,798,,City of Johannesburg,Radiographers,6.9
+municipality,798,,City of Johannesburg,Student nurses,15.3
+municipality,799,,City of Tshwane,Clinical Associates,0.6
+municipality,799,,City of Tshwane,Dental practitioners,5.2
+municipality,799,,City of Tshwane,Dental specialists,2.8
+municipality,799,,City of Tshwane,Dental therapists,0.6
+municipality,799,,City of Tshwane,Enrolled nurses,95.1
+municipality,799,,City of Tshwane,Environmental health practitioners per 100 000 population,0.2
+municipality,799,,City of Tshwane,Medical practitioners,39.9
+municipality,799,,City of Tshwane,Medical researchers,0.1
+municipality,799,,City of Tshwane,Medical specialists,30.7
+municipality,799,,City of Tshwane,Nursing assistants,81
+municipality,799,,City of Tshwane,Occupational therapists,3.9
+municipality,799,,City of Tshwane,Pharmacists,14
+municipality,799,,City of Tshwane,Physiotherapists,3.6
+municipality,799,,City of Tshwane,Professional nurses,172.3
+municipality,799,,City of Tshwane,Psychologists,3.5
+municipality,799,,City of Tshwane,Radiographers,9.9
+municipality,799,,City of Tshwane,Student nurses,2
+district,640,,Dr Kenneth Kaunda,Clinical Associates,1.9
+district,640,,Dr Kenneth Kaunda,Dental practitioners,2.2
+district,640,,Dr Kenneth Kaunda,Dental specialists,
+district,640,,Dr Kenneth Kaunda,Dental therapists,0.3
+district,640,,Dr Kenneth Kaunda,Enrolled nurses,40.4
+district,640,,Dr Kenneth Kaunda,Environmental health practitioners per 100 000 population,1.5
+district,640,,Dr Kenneth Kaunda,Medical practitioners,54.2
+district,640,,Dr Kenneth Kaunda,Medical researchers,
+district,640,,Dr Kenneth Kaunda,Medical specialists,11.6
+district,640,,Dr Kenneth Kaunda,Nursing assistants,134.8
+district,640,,Dr Kenneth Kaunda,Occupational therapists,4
+district,640,,Dr Kenneth Kaunda,Pharmacists,13.1
+district,640,,Dr Kenneth Kaunda,Physiotherapists,4
+district,640,,Dr Kenneth Kaunda,Professional nurses,193.2
+district,640,,Dr Kenneth Kaunda,Psychologists,2.7
+district,640,,Dr Kenneth Kaunda,Radiographers,7.1
+district,640,,Dr Kenneth Kaunda,Student nurses,
+district,639,,Dr Ruth Segomotsi Mompati,Clinical Associates,1.6
+district,639,,Dr Ruth Segomotsi Mompati,Dental practitioners,3.8
+district,639,,Dr Ruth Segomotsi Mompati,Dental specialists,
+district,639,,Dr Ruth Segomotsi Mompati,Dental therapists,0.5
+district,639,,Dr Ruth Segomotsi Mompati,Enrolled nurses,40.1
+district,639,,Dr Ruth Segomotsi Mompati,Environmental health practitioners per 100 000 population,2.2
+district,639,,Dr Ruth Segomotsi Mompati,Medical practitioners,16.4
+district,639,,Dr Ruth Segomotsi Mompati,Medical researchers,
+district,639,,Dr Ruth Segomotsi Mompati,Medical specialists,2
+district,639,,Dr Ruth Segomotsi Mompati,Nursing assistants,96.7
+district,639,,Dr Ruth Segomotsi Mompati,Occupational therapists,1.8
+district,639,,Dr Ruth Segomotsi Mompati,Pharmacists,9.4
+district,639,,Dr Ruth Segomotsi Mompati,Physiotherapists,3.6
+district,639,,Dr Ruth Segomotsi Mompati,Professional nurses,164.6
+district,639,,Dr Ruth Segomotsi Mompati,Psychologists,0.5
+district,639,,Dr Ruth Segomotsi Mompati,Radiographers,2.9
+district,639,,Dr Ruth Segomotsi Mompati,Student nurses,
+province,EC,,Eastern Cape,Clinical Associates,1.3
+province,EC,,Eastern Cape,Dental practitioners,2.4
+province,EC,,Eastern Cape,Dental specialists,
+province,EC,,Eastern Cape,Dental therapists,0.3
+province,EC,,Eastern Cape,Enrolled nurses,50.8
+province,EC,,Eastern Cape,Environmental health practitioners per 100 000 population,0.4
+province,EC,,Eastern Cape,Medical practitioners,30.8
+province,EC,,Eastern Cape,Medical researchers,0
+province,EC,,Eastern Cape,Medical specialists,3
+province,EC,,Eastern Cape,Nursing assistants,81.6
+province,EC,,Eastern Cape,Occupational therapists,2.3
+province,EC,,Eastern Cape,Pharmacists,13
+province,EC,,Eastern Cape,Physiotherapists,2.6
+province,EC,,Eastern Cape,Professional nurses,170.9
+province,EC,,Eastern Cape,Psychologists,1.1
+province,EC,,Eastern Cape,Radiographers,5.9
+province,EC,,Eastern Cape,Student nurses,
+district,832,,Ehlanzeni,Clinical Associates,1.7
+district,832,,Ehlanzeni,Dental practitioners,2.6
+district,832,,Ehlanzeni,Dental specialists,0.1
+district,832,,Ehlanzeni,Dental therapists,0.6
+district,832,,Ehlanzeni,Enrolled nurses,64.6
+district,832,,Ehlanzeni,Environmental health practitioners per 100 000 population,1.9
+district,832,,Ehlanzeni,Medical practitioners,32.3
+district,832,,Ehlanzeni,Medical researchers,
+district,832,,Ehlanzeni,Medical specialists,2.6
+district,832,,Ehlanzeni,Nursing assistants,45.7
+district,832,,Ehlanzeni,Occupational therapists,2.9
+district,832,,Ehlanzeni,Pharmacists,10.2
+district,832,,Ehlanzeni,Physiotherapists,3
+district,832,,Ehlanzeni,Professional nurses,174
+district,832,,Ehlanzeni,Psychologists,1.1
+district,832,,Ehlanzeni,Radiographers,3.7
+district,832,,Ehlanzeni,Student nurses,
+municipality,797,,Ekurhuleni,Clinical Associates,0.1
+municipality,797,,Ekurhuleni,Dental practitioners,1.1
+municipality,797,,Ekurhuleni,Dental specialists,
+municipality,797,,Ekurhuleni,Dental therapists,0.4
+municipality,797,,Ekurhuleni,Enrolled nurses,48.9
+municipality,797,,Ekurhuleni,Environmental health practitioners per 100 000 population,0.9
+municipality,797,,Ekurhuleni,Medical practitioners,31.1
+municipality,797,,Ekurhuleni,Medical researchers,0
+municipality,797,,Ekurhuleni,Medical specialists,3.9
+municipality,797,,Ekurhuleni,Nursing assistants,40.1
+municipality,797,,Ekurhuleni,Occupational therapists,2.1
+municipality,797,,Ekurhuleni,Pharmacists,9.6
+municipality,797,,Ekurhuleni,Physiotherapists,2.1
+municipality,797,,Ekurhuleni,Professional nurses,92.4
+municipality,797,,Ekurhuleni,Psychologists,0.8
+municipality,797,,Ekurhuleni,Radiographers,4
+municipality,797,,Ekurhuleni,Student nurses,1.7
+district,420,,Fezile Dabi,Clinical Associates,1.8
+district,420,,Fezile Dabi,Dental practitioners,2.5
+district,420,,Fezile Dabi,Dental specialists,
+district,420,,Fezile Dabi,Dental therapists,
+district,420,,Fezile Dabi,Enrolled nurses,33.1
+district,420,,Fezile Dabi,Environmental health practitioners per 100 000 population,1.8
+district,420,,Fezile Dabi,Medical practitioners,23.4
+district,420,,Fezile Dabi,Medical researchers,
+district,420,,Fezile Dabi,Medical specialists,0.9
+district,420,,Fezile Dabi,Nursing assistants,60.4
+district,420,,Fezile Dabi,Occupational therapists,2.3
+district,420,,Fezile Dabi,Pharmacists,13.8
+district,420,,Fezile Dabi,Physiotherapists,1.6
+district,420,,Fezile Dabi,Professional nurses,62
+district,420,,Fezile Dabi,Psychologists,0.7
+district,420,,Fezile Dabi,Radiographers,4.1
+district,420,,Fezile Dabi,Student nurses,
+district,309,,Frances Baard,Clinical Associates,
+district,309,,Frances Baard,Dental practitioners,5.9
+district,309,,Frances Baard,Dental specialists,
+district,309,,Frances Baard,Dental therapists,1.6
+district,309,,Frances Baard,Enrolled nurses,26.4
+district,309,,Frances Baard,Environmental health practitioners per 100 000 population,2.2
+district,309,,Frances Baard,Medical practitioners,97.6
+district,309,,Frances Baard,Medical researchers,0.3
+district,309,,Frances Baard,Medical specialists,6.5
+district,309,,Frances Baard,Nursing assistants,99.2
+district,309,,Frances Baard,Occupational therapists,9.3
+district,309,,Frances Baard,Pharmacists,23.6
+district,309,,Frances Baard,Physiotherapists,8.1
+district,309,,Frances Baard,Professional nurses,181.8
+district,309,,Frances Baard,Psychologists,4.4
+district,309,,Frances Baard,Radiographers,14
+district,309,,Frances Baard,Student nurses,
+province,FS,,Free State,Clinical Associates,0.8
+province,FS,,Free State,Dental practitioners,3
+province,FS,,Free State,Dental specialists,0
+province,FS,,Free State,Dental therapists,
+province,FS,,Free State,Enrolled nurses,39.4
+province,FS,,Free State,Environmental health practitioners per 100 000 population,2.6
+province,FS,,Free State,Medical practitioners,27.7
+province,FS,,Free State,Medical researchers,0.2
+province,FS,,Free State,Medical specialists,12.5
+province,FS,,Free State,Nursing assistants,80.6
+province,FS,,Free State,Occupational therapists,3.2
+province,FS,,Free State,Pharmacists,13.8
+province,FS,,Free State,Physiotherapists,3.1
+province,FS,,Free State,Professional nurses,89.7
+province,FS,,Free State,Psychologists,1
+province,FS,,Free State,Radiographers,6.1
+province,FS,,Free State,Student nurses,
+,,,Garden Route,Clinical Associates,2.3
+,,,Garden Route,Dental practitioners,
+,,,Garden Route,Dental specialists,
+,,,Garden Route,Dental therapists,43.8
+,,,Garden Route,Enrolled nurses,
+,,,Garden Route,Environmental health practitioners per 100 000 population,
+,,,Garden Route,Medical practitioners,35
+,,,Garden Route,Medical researchers,
+,,,Garden Route,Medical specialists,9.6
+,,,Garden Route,Nursing assistants,52.3
+,,,Garden Route,Occupational therapists,1.7
+,,,Garden Route,Pharmacists,21.3
+,,,Garden Route,Physiotherapists,2.3
+,,,Garden Route,Professional nurses,94.3
+,,,Garden Route,Psychologists,0.4
+,,,Garden Route,Radiographers,4.7
+,,,Garden Route,Student nurses,
+province,GT,,Gauteng,Clinical Associates,0.4
+province,GT,,Gauteng,Dental practitioners,2.4
+province,GT,,Gauteng,Dental specialists,1
+province,GT,,Gauteng,Dental therapists,0.4
+province,GT,,Gauteng,Enrolled nurses,68.6
+province,GT,,Gauteng,Environmental health practitioners per 100 000 population,1.1
+province,GT,,Gauteng,Medical practitioners,33.7
+province,GT,,Gauteng,Medical researchers,0.1
+province,GT,,Gauteng,Medical specialists,17.2
+province,GT,,Gauteng,Nursing assistants,59.2
+province,GT,,Gauteng,Occupational therapists,2.7
+province,GT,,Gauteng,Pharmacists,11.4
+province,GT,,Gauteng,Physiotherapists,2.6
+province,GT,,Gauteng,Professional nurses,131.6
+province,GT,,Gauteng,Psychologists,2.1
+province,GT,,Gauteng,Radiographers,6.6
+province,GT,,Gauteng,Student nurses,20.8
+district,830,,Gert Sibande,Clinical Associates,2.3
+district,830,,Gert Sibande,Dental practitioners,3.2
+district,830,,Gert Sibande,Dental specialists,
+district,830,,Gert Sibande,Dental therapists,0.6
+district,830,,Gert Sibande,Enrolled nurses,45.4
+district,830,,Gert Sibande,Environmental health practitioners per 100 000 population,1
+district,830,,Gert Sibande,Medical practitioners,22.3
+district,830,,Gert Sibande,Medical researchers,
+district,830,,Gert Sibande,Medical specialists,0.2
+district,830,,Gert Sibande,Nursing assistants,36.4
+district,830,,Gert Sibande,Occupational therapists,2.4
+district,830,,Gert Sibande,Pharmacists,9
+district,830,,Gert Sibande,Physiotherapists,2.5
+district,830,,Gert Sibande,Professional nurses,141.5
+district,830,,Gert Sibande,Psychologists,0.8
+district,830,,Gert Sibande,Radiographers,3.8
+district,830,,Gert Sibande,Student nurses,
+,,,Harry Gwala,Clinical Associates,1
+,,,Harry Gwala,Dental practitioners,1
+,,,Harry Gwala,Dental specialists,
+,,,Harry Gwala,Dental therapists,1.2
+,,,Harry Gwala,Enrolled nurses,78
+,,,Harry Gwala,Environmental health practitioners per 100 000 population,1.4
+,,,Harry Gwala,Medical practitioners,15.9
+,,,Harry Gwala,Medical researchers,
+,,,Harry Gwala,Medical specialists,0.2
+,,,Harry Gwala,Nursing assistants,62.1
+,,,Harry Gwala,Occupational therapists,2
+,,,Harry Gwala,Pharmacists,6.9
+,,,Harry Gwala,Physiotherapists,2.4
+,,,Harry Gwala,Professional nurses,153.8
+,,,Harry Gwala,Psychologists,0.6
+,,,Harry Gwala,Radiographers,3.3
+,,,Harry Gwala,Student nurses,
+district,214,,Joe Gqabi,Clinical Associates,2.8
+district,214,,Joe Gqabi,Dental practitioners,2.2
+district,214,,Joe Gqabi,Dental specialists,
+district,214,,Joe Gqabi,Dental therapists,
+district,214,,Joe Gqabi,Enrolled nurses,46.9
+district,214,,Joe Gqabi,Environmental health practitioners per 100 000 population,0.6
+district,214,,Joe Gqabi,Medical practitioners,19.8
+district,214,,Joe Gqabi,Medical researchers,
+district,214,,Joe Gqabi,Medical specialists,
+district,214,,Joe Gqabi,Nursing assistants,81.5
+district,214,,Joe Gqabi,Occupational therapists,2.2
+district,214,,Joe Gqabi,Pharmacists,8.1
+district,214,,Joe Gqabi,Physiotherapists,1.4
+district,214,,Joe Gqabi,Professional nurses,162.2
+district,214,,Joe Gqabi,Psychologists,
+district,214,,Joe Gqabi,Radiographers,5.9
+district,214,,Joe Gqabi,Student nurses,
+district,345,,John Taolo Gaetsewe,Clinical Associates,0.9
+district,345,,John Taolo Gaetsewe,Dental practitioners,0.9
+district,345,,John Taolo Gaetsewe,Dental specialists,
+district,345,,John Taolo Gaetsewe,Dental therapists,
+district,345,,John Taolo Gaetsewe,Enrolled nurses,10.8
+district,345,,John Taolo Gaetsewe,Environmental health practitioners per 100 000 population,0.9
+district,345,,John Taolo Gaetsewe,Medical practitioners,9.4
+district,345,,John Taolo Gaetsewe,Medical researchers,
+district,345,,John Taolo Gaetsewe,Medical specialists,0.5
+district,345,,John Taolo Gaetsewe,Nursing assistants,54.2
+district,345,,John Taolo Gaetsewe,Occupational therapists,1.9
+district,345,,John Taolo Gaetsewe,Pharmacists,5.7
+district,345,,John Taolo Gaetsewe,Physiotherapists,2.4
+district,345,,John Taolo Gaetsewe,Professional nurses,127.7
+district,345,,John Taolo Gaetsewe,Psychologists,
+district,345,,John Taolo Gaetsewe,Radiographers,3.3
+district,345,,John Taolo Gaetsewe,Student nurses,
+,,,King Cetshwayo,Clinical Associates,0.5
+,,,King Cetshwayo,Dental practitioners,1.6
+,,,King Cetshwayo,Dental specialists,
+,,,King Cetshwayo,Dental therapists,0.4
+,,,King Cetshwayo,Enrolled nurses,118.6
+,,,King Cetshwayo,Environmental health practitioners per 100 000 population,0.9
+,,,King Cetshwayo,Medical practitioners,36.7
+,,,King Cetshwayo,Medical researchers,0.1
+,,,King Cetshwayo,Medical specialists,4
+,,,King Cetshwayo,Nursing assistants,52.7
+,,,King Cetshwayo,Occupational therapists,1.2
+,,,King Cetshwayo,Pharmacists,7.8
+,,,King Cetshwayo,Physiotherapists,1.4
+,,,King Cetshwayo,Professional nurses,175
+,,,King Cetshwayo,Psychologists,0.3
+,,,King Cetshwayo,Radiographers,5
+,,,King Cetshwayo,Student nurses,11
+province,KZN,,KwaZulu-Natal,Clinical Associates,1.2
+province,KZN,,KwaZulu-Natal,Dental practitioners,1.5
+province,KZN,,KwaZulu-Natal,Dental specialists,
+province,KZN,,KwaZulu-Natal,Dental therapists,1
+province,KZN,,KwaZulu-Natal,Enrolled nurses,93.9
+province,KZN,,KwaZulu-Natal,Environmental health practitioners per 100 000 population,0.8
+province,KZN,,KwaZulu-Natal,Medical practitioners,35.8
+province,KZN,,KwaZulu-Natal,Medical researchers,0
+province,KZN,,KwaZulu-Natal,Medical specialists,8.2
+province,KZN,,KwaZulu-Natal,Nursing assistants,58.9
+province,KZN,,KwaZulu-Natal,Occupational therapists,1.8
+province,KZN,,KwaZulu-Natal,Pharmacists,8.6
+province,KZN,,KwaZulu-Natal,Physiotherapists,3.2
+province,KZN,,KwaZulu-Natal,Professional nurses,168.5
+province,KZN,,KwaZulu-Natal,Psychologists,0.8
+province,KZN,,KwaZulu-Natal,Radiographers,6
+province,KZN,,KwaZulu-Natal,Student nurses,6
+district,418,,Lejweleputswa,Clinical Associates,0.7
+district,418,,Lejweleputswa,Dental practitioners,1.8
+district,418,,Lejweleputswa,Dental specialists,
+district,418,,Lejweleputswa,Dental therapists,
+district,418,,Lejweleputswa,Enrolled nurses,40.7
+district,418,,Lejweleputswa,Environmental health practitioners per 100 000 population,1.8
+district,418,,Lejweleputswa,Medical practitioners,18.3
+district,418,,Lejweleputswa,Medical researchers,
+district,418,,Lejweleputswa,Medical specialists,1.2
+district,418,,Lejweleputswa,Nursing assistants,30.9
+district,418,,Lejweleputswa,Occupational therapists,2
+district,418,,Lejweleputswa,Pharmacists,8.9
+district,418,,Lejweleputswa,Physiotherapists,1.3
+district,418,,Lejweleputswa,Professional nurses,70.8
+district,418,,Lejweleputswa,Psychologists,
+district,418,,Lejweleputswa,Radiographers,2.9
+district,418,,Lejweleputswa,Student nurses,
+province,LIM,,Limpopo,Clinical Associates,0.2
+province,LIM,,Limpopo,Dental practitioners,3.4
+province,LIM,,Limpopo,Dental specialists,0
+province,LIM,,Limpopo,Dental therapists,2.5
+province,LIM,,Limpopo,Enrolled nurses,70.4
+province,LIM,,Limpopo,Environmental health practitioners per 100 000 population,1.2
+province,LIM,,Limpopo,Medical practitioners,24.5
+province,LIM,,Limpopo,Medical researchers,0
+province,LIM,,Limpopo,Medical specialists,1.3
+province,LIM,,Limpopo,Nursing assistants,83.5
+province,LIM,,Limpopo,Occupational therapists,4.1
+province,LIM,,Limpopo,Pharmacists,10.8
+province,LIM,,Limpopo,Physiotherapists,3.4
+province,LIM,,Limpopo,Professional nurses,165.2
+province,LIM,,Limpopo,Psychologists,2.2
+province,LIM,,Limpopo,Radiographers,3.5
+province,LIM,,Limpopo,Student nurses,5.2
+municipality,4940,,Mangaung,Clinical Associates,0.6
+municipality,4940,,Mangaung,Dental practitioners,3.7
+municipality,4940,,Mangaung,Dental specialists,0.2
+municipality,4940,,Mangaung,Dental therapists,
+municipality,4940,,Mangaung,Enrolled nurses,58.8
+municipality,4940,,Mangaung,Environmental health practitioners per 100 000 population,2.2
+municipality,4940,,Mangaung,Medical practitioners,46.5
+municipality,4940,,Mangaung,Medical researchers,0.3
+municipality,4940,,Mangaung,Medical specialists,45.1
+municipality,4940,,Mangaung,Nursing assistants,169
+municipality,4940,,Mangaung,Occupational therapists,5.6
+municipality,4940,,Mangaung,Pharmacists,19.7
+municipality,4940,,Mangaung,Physiotherapists,6.2
+municipality,4940,,Mangaung,Professional nurses,161.2
+municipality,4940,,Mangaung,Psychologists,2.5
+municipality,4940,,Mangaung,Radiographers,13
+municipality,4940,,Mangaung,Student nurses,
+district,933,,Mopani,Clinical Associates,0.3
+district,933,,Mopani,Dental practitioners,2.8
+district,933,,Mopani,Dental specialists,
+district,933,,Mopani,Dental therapists,2.3
+district,933,,Mopani,Enrolled nurses,63
+district,933,,Mopani,Environmental health practitioners per 100 000 population,1.3
+district,933,,Mopani,Medical practitioners,17.2
+district,933,,Mopani,Medical researchers,
+district,933,,Mopani,Medical specialists,0.7
+district,933,,Mopani,Nursing assistants,82.1
+district,933,,Mopani,Occupational therapists,3.5
+district,933,,Mopani,Pharmacists,8
+district,933,,Mopani,Physiotherapists,2.9
+district,933,,Mopani,Professional nurses,154
+district,933,,Mopani,Psychologists,2.1
+district,933,,Mopani,Radiographers,2.4
+district,933,,Mopani,Student nurses,12.3
+province,MP,,Mpumalanga,Clinical Associates,1.7
+province,MP,,Mpumalanga,Dental practitioners,2.7
+province,MP,,Mpumalanga,Dental specialists,0
+province,MP,,Mpumalanga,Dental therapists,0.4
+province,MP,,Mpumalanga,Enrolled nurses,46.3
+province,MP,,Mpumalanga,Environmental health practitioners per 100 000 population,1.3
+province,MP,,Mpumalanga,Medical practitioners,26.1
+province,MP,,Mpumalanga,Medical researchers,
+province,MP,,Mpumalanga,Medical specialists,1.9
+province,MP,,Mpumalanga,Nursing assistants,37
+province,MP,,Mpumalanga,Occupational therapists,2.4
+province,MP,,Mpumalanga,Pharmacists,8.1
+province,MP,,Mpumalanga,Physiotherapists,2.7
+province,MP,,Mpumalanga,Professional nurses,142.1
+province,MP,,Mpumalanga,Psychologists,1
+province,MP,,Mpumalanga,Radiographers,3.6
+province,MP,,Mpumalanga,Student nurses,14.6
+district,306,,Namakwa,Clinical Associates,7.5
+district,306,,Namakwa,Dental practitioners,
+district,306,,Namakwa,Dental specialists,0
+district,306,,Namakwa,Dental therapists,32
+district,306,,Namakwa,Enrolled nurses,3.2
+district,306,,Namakwa,Environmental health practitioners per 100 000 population,
+district,306,,Namakwa,Medical practitioners,22.4
+district,306,,Namakwa,Medical researchers,
+district,306,,Namakwa,Medical specialists,
+district,306,,Namakwa,Nursing assistants,89.8
+district,306,,Namakwa,Occupational therapists,7.5
+district,306,,Namakwa,Pharmacists,12.8
+district,306,,Namakwa,Physiotherapists,11.8
+district,306,,Namakwa,Professional nurses,158.2
+district,306,,Namakwa,Psychologists,1.1
+district,306,,Namakwa,Radiographers,10.7
+district,306,,Namakwa,Student nurses,
+municipality,2930,,Nelson Mandela Bay,Clinical Associates,
+municipality,2930,,Nelson Mandela Bay,Dental practitioners,3.4
+municipality,2930,,Nelson Mandela Bay,Dental specialists,
+municipality,2930,,Nelson Mandela Bay,Dental therapists,0.3
+municipality,2930,,Nelson Mandela Bay,Enrolled nurses,45.8
+municipality,2930,,Nelson Mandela Bay,Environmental health practitioners per 100 000 population,0.3
+municipality,2930,,Nelson Mandela Bay,Medical practitioners,49.4
+municipality,2930,,Nelson Mandela Bay,Medical researchers,0.1
+municipality,2930,,Nelson Mandela Bay,Medical specialists,7.5
+municipality,2930,,Nelson Mandela Bay,Nursing assistants,63.9
+municipality,2930,,Nelson Mandela Bay,Occupational therapists,3.6
+municipality,2930,,Nelson Mandela Bay,Pharmacists,17.1
+municipality,2930,,Nelson Mandela Bay,Physiotherapists,4.1
+municipality,2930,,Nelson Mandela Bay,Professional nurses,182.4
+municipality,2930,,Nelson Mandela Bay,Psychologists,3.5
+municipality,2930,,Nelson Mandela Bay,Radiographers,10.3
+municipality,2930,,Nelson Mandela Bay,Student nurses,
+district,638,,Ngaka Modiri Molema,Clinical Associates,1
+district,638,,Ngaka Modiri Molema,Dental practitioners,2.5
+district,638,,Ngaka Modiri Molema,Dental specialists,
+district,638,,Ngaka Modiri Molema,Dental therapists,0.7
+district,638,,Ngaka Modiri Molema,Enrolled nurses,25.8
+district,638,,Ngaka Modiri Molema,Environmental health practitioners per 100 000 population,2.1
+district,638,,Ngaka Modiri Molema,Medical practitioners,22.5
+district,638,,Ngaka Modiri Molema,Medical researchers,
+district,638,,Ngaka Modiri Molema,Medical specialists,1.7
+district,638,,Ngaka Modiri Molema,Nursing assistants,72.9
+district,638,,Ngaka Modiri Molema,Occupational therapists,1.6
+district,638,,Ngaka Modiri Molema,Pharmacists,8.9
+district,638,,Ngaka Modiri Molema,Physiotherapists,3
+district,638,,Ngaka Modiri Molema,Professional nurses,131.5
+district,638,,Ngaka Modiri Molema,Psychologists,1.5
+district,638,,Ngaka Modiri Molema,Radiographers,2.4
+district,638,,Ngaka Modiri Molema,Student nurses,0.8
+district,831,,Nkangala,Clinical Associates,1.2
+district,831,,Nkangala,Dental practitioners,2.3
+district,831,,Nkangala,Dental specialists,
+district,831,,Nkangala,Dental therapists,0.2
+district,831,,Nkangala,Enrolled nurses,25.6
+district,831,,Nkangala,Environmental health practitioners per 100 000 population,0.9
+district,831,,Nkangala,Medical practitioners,21.6
+district,831,,Nkangala,Medical researchers,
+district,831,,Nkangala,Medical specialists,2.3
+district,831,,Nkangala,Nursing assistants,27.4
+district,831,,Nkangala,Occupational therapists,1.7
+district,831,,Nkangala,Pharmacists,5
+district,831,,Nkangala,Physiotherapists,2.5
+district,831,,Nkangala,Professional nurses,101.4
+district,831,,Nkangala,Psychologists,1
+district,831,,Nkangala,Radiographers,3.2
+district,831,,Nkangala,Student nurses,
+province,NW,,North West,Clinical Associates,0.9
+province,NW,,North West,Dental practitioners,2.2
+province,NW,,North West,Dental specialists,
+province,NW,,North West,Dental therapists,0.4
+province,NW,,North West,Enrolled nurses,27.5
+province,NW,,North West,Environmental health practitioners per 100 000 population,1.5
+province,NW,,North West,Medical practitioners,25.9
+province,NW,,North West,Medical researchers,
+province,NW,,North West,Medical specialists,3.5
+province,NW,,North West,Nursing assistants,78.1
+province,NW,,North West,Occupational therapists,1.9
+province,NW,,North West,Pharmacists,8.7
+province,NW,,North West,Physiotherapists,2.9
+province,NW,,North West,Professional nurses,136
+province,NW,,North West,Psychologists,1.2
+province,NW,,North West,Radiographers,3.3
+province,NW,,North West,Student nurses,0.7
+province,NC,,Northern Cape,Clinical Associates,0.2
+province,NC,,Northern Cape,Dental practitioners,3.8
+province,NC,,Northern Cape,Dental specialists,
+province,NC,,Northern Cape,Dental therapists,0.8
+province,NC,,Northern Cape,Enrolled nurses,22.9
+province,NC,,Northern Cape,Environmental health practitioners per 100 000 population,2.5
+province,NC,,Northern Cape,Medical practitioners,42.2
+province,NC,,Northern Cape,Medical researchers,0.2
+province,NC,,Northern Cape,Medical specialists,2.3
+province,NC,,Northern Cape,Nursing assistants,82.6
+province,NC,,Northern Cape,Occupational therapists,5.4
+province,NC,,Northern Cape,Pharmacists,17.2
+province,NC,,Northern Cape,Physiotherapists,5.9
+province,NC,,Northern Cape,Professional nurses,147
+province,NC,,Northern Cape,Psychologists,2
+province,NC,,Northern Cape,Radiographers,8.6
+province,NC,,Northern Cape,Student nurses,
+district,215,,O.R.Tambo,Clinical Associates,0.9
+district,215,,O.R.Tambo,Dental practitioners,1.5
+district,215,,O.R.Tambo,Dental specialists,
+district,215,,O.R.Tambo,Dental therapists,0.3
+district,215,,O.R.Tambo,Enrolled nurses,63.2
+district,215,,O.R.Tambo,Environmental health practitioners per 100 000 population,0.3
+district,215,,O.R.Tambo,Medical practitioners,34.8
+district,215,,O.R.Tambo,Medical researchers,
+district,215,,O.R.Tambo,Medical specialists,3.6
+district,215,,O.R.Tambo,Nursing assistants,92.9
+district,215,,O.R.Tambo,Occupational therapists,1.5
+district,215,,O.R.Tambo,Pharmacists,14.8
+district,215,,O.R.Tambo,Physiotherapists,2.1
+district,215,,O.R.Tambo,Professional nurses,153.5
+district,215,,O.R.Tambo,Psychologists,0.3
+district,215,,O.R.Tambo,Radiographers,4.2
+district,215,,O.R.Tambo,Student nurses,
+district,103,,Overberg,Clinical Associates,1.7
+district,103,,Overberg,Dental practitioners,
+district,103,,Overberg,Dental specialists,
+district,103,,Overberg,Dental therapists,30.5
+district,103,,Overberg,Enrolled nurses,
+district,103,,Overberg,Environmental health practitioners per 100 000 population,
+district,103,,Overberg,Medical practitioners,19.2
+district,103,,Overberg,Medical researchers,0.8
+district,103,,Overberg,Medical specialists,1.6
+district,103,,Overberg,Nursing assistants,31.6
+district,103,,Overberg,Occupational therapists,1.2
+district,103,,Overberg,Pharmacists,16.4
+district,103,,Overberg,Physiotherapists,1.2
+district,103,,Overberg,Professional nurses,71.6
+district,103,,Overberg,Psychologists,0.8
+district,103,,Overberg,Radiographers,4.4
+district,103,,Overberg,Student nurses,
+district,307,,Pixley ka Seme,Clinical Associates,0
+district,307,,Pixley ka Seme,Dental practitioners,3.8
+district,307,,Pixley ka Seme,Dental specialists,
+district,307,,Pixley ka Seme,Dental therapists,
+district,307,,Pixley ka Seme,Enrolled nurses,21.7
+district,307,,Pixley ka Seme,Environmental health practitioners per 100 000 population,2.7
+district,307,,Pixley ka Seme,Medical practitioners,10.9
+district,307,,Pixley ka Seme,Medical researchers,
+district,307,,Pixley ka Seme,Medical specialists,
+district,307,,Pixley ka Seme,Nursing assistants,79.8
+district,307,,Pixley ka Seme,Occupational therapists,3.3
+district,307,,Pixley ka Seme,Pharmacists,17.9
+district,307,,Pixley ka Seme,Physiotherapists,3.3
+district,307,,Pixley ka Seme,Professional nurses,116.2
+district,307,,Pixley ka Seme,Psychologists,1.1
+district,307,,Pixley ka Seme,Radiographers,6.5
+district,307,,Pixley ka Seme,Student nurses,
+,,,Sarah Baartman,Clinical Associates,1.9
+,,,Sarah Baartman,Dental practitioners,3.7
+,,,Sarah Baartman,Dental specialists,
+,,,Sarah Baartman,Dental therapists,0.2
+,,,Sarah Baartman,Enrolled nurses,40.4
+,,,Sarah Baartman,Environmental health practitioners per 100 000 population,1
+,,,Sarah Baartman,Medical practitioners,21.4
+,,,Sarah Baartman,Medical researchers,
+,,,Sarah Baartman,Medical specialists,1
+,,,Sarah Baartman,Nursing assistants,58.1
+,,,Sarah Baartman,Occupational therapists,4.5
+,,,Sarah Baartman,Pharmacists,20.6
+,,,Sarah Baartman,Physiotherapists,3.5
+,,,Sarah Baartman,Professional nurses,168.4
+,,,Sarah Baartman,Psychologists,3.5
+,,,Sarah Baartman,Radiographers,4.5
+,,,Sarah Baartman,Student nurses,
+district,742,,Sedibeng,Clinical Associates,0.9
+district,742,,Sedibeng,Dental practitioners,2.3
+district,742,,Sedibeng,Dental specialists,0.3
+district,742,,Sedibeng,Dental therapists,0.8
+district,742,,Sedibeng,Enrolled nurses,62.3
+district,742,,Sedibeng,Environmental health practitioners per 100 000 population,1
+district,742,,Sedibeng,Medical practitioners,23.5
+district,742,,Sedibeng,Medical researchers,0.1
+district,742,,Sedibeng,Medical specialists,4.3
+district,742,,Sedibeng,Nursing assistants,43
+district,742,,Sedibeng,Occupational therapists,2.8
+district,742,,Sedibeng,Pharmacists,17.8
+district,742,,Sedibeng,Physiotherapists,1.9
+district,742,,Sedibeng,Professional nurses,123.5
+district,742,,Sedibeng,Psychologists,0.6
+district,742,,Sedibeng,Radiographers,4.8
+district,742,,Sedibeng,Student nurses,0.9
+district,947,,Sekhukhune,Clinical Associates,0.3
+district,947,,Sekhukhune,Dental practitioners,2.8
+district,947,,Sekhukhune,Dental specialists,
+district,947,,Sekhukhune,Dental therapists,2.1
+district,947,,Sekhukhune,Enrolled nurses,62.9
+district,947,,Sekhukhune,Environmental health practitioners per 100 000 population,0.9
+district,947,,Sekhukhune,Medical practitioners,15.2
+district,947,,Sekhukhune,Medical researchers,
+district,947,,Sekhukhune,Medical specialists,0.3
+district,947,,Sekhukhune,Nursing assistants,69
+district,947,,Sekhukhune,Occupational therapists,2.8
+district,947,,Sekhukhune,Pharmacists,9.6
+district,947,,Sekhukhune,Physiotherapists,2.8
+district,947,,Sekhukhune,Professional nurses,130.6
+district,947,,Sekhukhune,Psychologists,1.7
+district,947,,Sekhukhune,Radiographers,3
+district,947,,Sekhukhune,Student nurses,0.3
+country,ZA,,South Africa,Clinical Associates,0.8
+country,ZA,,South Africa,Dental practitioners,2.5
+country,ZA,,South Africa,Dental specialists,0.3
+country,ZA,,South Africa,Dental therapists,0.7
+country,ZA,,South Africa,Enrolled nurses,62.7
+country,ZA,,South Africa,Environmental health practitioners per 100 000 population,1
+country,ZA,,South Africa,Medical practitioners,32
+country,ZA,,South Africa,Medical researchers,0.1
+country,ZA,,South Africa,Medical specialists,9.7
+country,ZA,,South Africa,Nursing assistants,68.3
+country,ZA,,South Africa,Occupational therapists,2.6
+country,ZA,,South Africa,Pharmacists,11.6
+country,ZA,,South Africa,Physiotherapists,3
+country,ZA,,South Africa,Professional nurses,144.8
+country,ZA,,South Africa,Psychologists,1.4
+country,ZA,,South Africa,Radiographers,5.8
+country,ZA,,South Africa,Student nurses,7.6
+district,419,,Thabo Mofutsanyane,Clinical Associates,0.1
+district,419,,Thabo Mofutsanyane,Dental practitioners,2.9
+district,419,,Thabo Mofutsanyane,Dental specialists,
+district,419,,Thabo Mofutsanyane,Dental therapists,
+district,419,,Thabo Mofutsanyane,Enrolled nurses,22.8
+district,419,,Thabo Mofutsanyane,Environmental health practitioners per 100 000 population,3
+district,419,,Thabo Mofutsanyane,Medical practitioners,22.4
+district,419,,Thabo Mofutsanyane,Medical researchers,0.1
+district,419,,Thabo Mofutsanyane,Medical specialists,2.3
+district,419,,Thabo Mofutsanyane,Nursing assistants,53.1
+district,419,,Thabo Mofutsanyane,Occupational therapists,1.7
+district,419,,Thabo Mofutsanyane,Pharmacists,10.2
+district,419,,Thabo Mofutsanyane,Physiotherapists,2.3
+district,419,,Thabo Mofutsanyane,Professional nurses,60.2
+district,419,,Thabo Mofutsanyane,Psychologists,0.3
+district,419,,Thabo Mofutsanyane,Radiographers,4.4
+district,419,,Thabo Mofutsanyane,Student nurses,
+district,521,,Ugu,Clinical Associates,1.9
+district,521,,Ugu,Dental practitioners,2.2
+district,521,,Ugu,Dental specialists,
+district,521,,Ugu,Dental therapists,1.8
+district,521,,Ugu,Enrolled nurses,78.1
+district,521,,Ugu,Environmental health practitioners per 100 000 population,0.7
+district,521,,Ugu,Medical practitioners,30.4
+district,521,,Ugu,Medical researchers,
+district,521,,Ugu,Medical specialists,3.5
+district,521,,Ugu,Nursing assistants,57.4
+district,521,,Ugu,Occupational therapists,1.4
+district,521,,Ugu,Pharmacists,10.7
+district,521,,Ugu,Physiotherapists,3
+district,521,,Ugu,Professional nurses,172.1
+district,521,,Ugu,Psychologists,0.7
+district,521,,Ugu,Radiographers,4.7
+district,521,,Ugu,Student nurses,9.7
+district,522,,Umgungundlovu,Clinical Associates,1.5
+district,522,,Umgungundlovu,Dental practitioners,2.4
+district,522,,Umgungundlovu,Dental specialists,
+district,522,,Umgungundlovu,Dental therapists,1.5
+district,522,,Umgungundlovu,Enrolled nurses,110.1
+district,522,,Umgungundlovu,Environmental health practitioners per 100 000 population,0.8
+district,522,,Umgungundlovu,Medical practitioners,60.2
+district,522,,Umgungundlovu,Medical researchers,
+district,522,,Umgungundlovu,Medical specialists,19.2
+district,522,,Umgungundlovu,Nursing assistants,69.6
+district,522,,Umgungundlovu,Occupational therapists,3.9
+district,522,,Umgungundlovu,Pharmacists,10.3
+district,522,,Umgungundlovu,Physiotherapists,4.3
+district,522,,Umgungundlovu,Professional nurses,246.1
+district,522,,Umgungundlovu,Psychologists,3
+district,522,,Umgungundlovu,Radiographers,8
+district,522,,Umgungundlovu,Student nurses,8.5
+district,527,,Umkhanyakude,Clinical Associates,1.3
+district,527,,Umkhanyakude,Dental practitioners,1.3
+district,527,,Umkhanyakude,Dental specialists,
+district,527,,Umkhanyakude,Dental therapists,1.3
+district,527,,Umkhanyakude,Enrolled nurses,119.5
+district,527,,Umkhanyakude,Environmental health practitioners per 100 000 population,2.2
+district,527,,Umkhanyakude,Medical practitioners,11.9
+district,527,,Umkhanyakude,Medical researchers,
+district,527,,Umkhanyakude,Medical specialists,0.3
+district,527,,Umkhanyakude,Nursing assistants,50
+district,527,,Umkhanyakude,Occupational therapists,2.7
+district,527,,Umkhanyakude,Pharmacists,6.6
+district,527,,Umkhanyakude,Physiotherapists,2.5
+district,527,,Umkhanyakude,Professional nurses,145.3
+district,527,,Umkhanyakude,Psychologists,0.3
+district,527,,Umkhanyakude,Radiographers,4.3
+district,527,,Umkhanyakude,Student nurses,0.8
+district,524,,Umzinyathi,Clinical Associates,2
+district,524,,Umzinyathi,Dental practitioners,1.1
+district,524,,Umzinyathi,Dental specialists,
+district,524,,Umzinyathi,Dental therapists,0.6
+district,524,,Umzinyathi,Enrolled nurses,106.3
+district,524,,Umzinyathi,Environmental health practitioners per 100 000 population,0.6
+district,524,,Umzinyathi,Medical practitioners,17.3
+district,524,,Umzinyathi,Medical researchers,0.2
+district,524,,Umzinyathi,Medical specialists,0.2
+district,524,,Umzinyathi,Nursing assistants,54.7
+district,524,,Umzinyathi,Occupational therapists,1.5
+district,524,,Umzinyathi,Pharmacists,6.6
+district,524,,Umzinyathi,Physiotherapists,2
+district,524,,Umzinyathi,Professional nurses,176.3
+district,524,,Umzinyathi,Psychologists,0.2
+district,524,,Umzinyathi,Radiographers,3.3
+district,524,,Umzinyathi,Student nurses,10.8
+district,523,,Uthukela,Clinical Associates,1.4
+district,523,,Uthukela,Dental practitioners,1.4
+district,523,,Uthukela,Dental specialists,
+district,523,,Uthukela,Dental therapists,0.3
+district,523,,Uthukela,Enrolled nurses,70.1
+district,523,,Uthukela,Environmental health practitioners per 100 000 population,0.6
+district,523,,Uthukela,Medical practitioners,22
+district,523,,Uthukela,Medical researchers,0.1
+district,523,,Uthukela,Medical specialists,2.5
+district,523,,Uthukela,Nursing assistants,39
+district,523,,Uthukela,Occupational therapists,1.3
+district,523,,Uthukela,Pharmacists,4.9
+district,523,,Uthukela,Physiotherapists,3.2
+district,523,,Uthukela,Professional nurses,119
+district,523,,Uthukela,Psychologists,0.3
+district,523,,Uthukela,Radiographers,4.3
+district,523,,Uthukela,Student nurses,
+district,934,,Vhembe,Clinical Associates,0.2
+district,934,,Vhembe,Dental practitioners,2.5
+district,934,,Vhembe,Dental specialists,
+district,934,,Vhembe,Dental therapists,3
+district,934,,Vhembe,Enrolled nurses,62.2
+district,934,,Vhembe,Environmental health practitioners per 100 000 population,1.1
+district,934,,Vhembe,Medical practitioners,16.7
+district,934,,Vhembe,Medical researchers,
+district,934,,Vhembe,Medical specialists,0.1
+district,934,,Vhembe,Nursing assistants,81.5
+district,934,,Vhembe,Occupational therapists,4.4
+district,934,,Vhembe,Pharmacists,7.6
+district,934,,Vhembe,Physiotherapists,3.1
+district,934,,Vhembe,Professional nurses,192.1
+district,934,,Vhembe,Psychologists,1.1
+district,934,,Vhembe,Radiographers,2.5
+district,934,,Vhembe,Student nurses,4.4
+district,936,,Waterberg,Clinical Associates,
+district,936,,Waterberg,Dental practitioners,5.5
+district,936,,Waterberg,Dental specialists,
+district,936,,Waterberg,Dental therapists,3.2
+district,936,,Waterberg,Enrolled nurses,88
+district,936,,Waterberg,Environmental health practitioners per 100 000 population,1.5
+district,936,,Waterberg,Medical practitioners,32.9
+district,936,,Waterberg,Medical researchers,
+district,936,,Waterberg,Medical specialists,0.8
+district,936,,Waterberg,Nursing assistants,93.4
+district,936,,Waterberg,Occupational therapists,4.5
+district,936,,Waterberg,Pharmacists,13.9
+district,936,,Waterberg,Physiotherapists,4.7
+district,936,,Waterberg,Professional nurses,172.1
+district,936,,Waterberg,Psychologists,3.5
+district,936,,Waterberg,Radiographers,4.9
+district,936,,Waterberg,Student nurses,
+district,101,,West Coast,Clinical Associates,1.9
+district,101,,West Coast,Dental practitioners,
+district,101,,West Coast,Dental specialists,
+district,101,,West Coast,Dental therapists,37.7
+district,101,,West Coast,Enrolled nurses,
+district,101,,West Coast,Environmental health practitioners per 100 000 population,
+district,101,,West Coast,Medical practitioners,18.8
+district,101,,West Coast,Medical researchers,
+district,101,,West Coast,Medical specialists,1.5
+district,101,,West Coast,Nursing assistants,37.8
+district,101,,West Coast,Occupational therapists,1.5
+district,101,,West Coast,Pharmacists,12.1
+district,101,,West Coast,Physiotherapists,2.3
+district,101,,West Coast,Professional nurses,62.2
+district,101,,West Coast,Psychologists,1
+district,101,,West Coast,Radiographers,3.6
+district,101,,West Coast,Student nurses,
+district,748,,West Rand,Clinical Associates,1
+district,748,,West Rand,Dental practitioners,2.4
+district,748,,West Rand,Dental specialists,
+district,748,,West Rand,Dental therapists,0.7
+district,748,,West Rand,Enrolled nurses,96.6
+district,748,,West Rand,Environmental health practitioners per 100 000 population,1.5
+district,748,,West Rand,Medical practitioners,38.3
+district,748,,West Rand,Medical researchers,
+district,748,,West Rand,Medical specialists,8.6
+district,748,,West Rand,Nursing assistants,83.3
+district,748,,West Rand,Occupational therapists,3.1
+district,748,,West Rand,Pharmacists,15.5
+district,748,,West Rand,Physiotherapists,2.7
+district,748,,West Rand,Professional nurses,183.7
+district,748,,West Rand,Psychologists,4.1
+district,748,,West Rand,Radiographers,5
+district,748,,West Rand,Student nurses,1.3
+province,WC,,Western Cape,Clinical Associates,
+province,WC,,Western Cape,Dental practitioners,3.3
+province,WC,,Western Cape,Dental specialists,0.6
+province,WC,,Western Cape,Dental therapists,0
+province,WC,,Western Cape,Enrolled nurses,50
+province,WC,,Western Cape,Environmental health practitioners per 100 000 population,
+province,WC,,Western Cape,Medical practitioners,38.9
+province,WC,,Western Cape,Medical researchers,0.1
+province,WC,,Western Cape,Medical specialists,25
+province,WC,,Western Cape,Nursing assistants,79.5
+province,WC,,Western Cape,Occupational therapists,2.9
+province,WC,,Western Cape,Pharmacists,18.9
+province,WC,,Western Cape,Physiotherapists,3
+province,WC,,Western Cape,Professional nurses,103.2
+province,WC,,Western Cape,Psychologists,1.7
+province,WC,,Western Cape,Radiographers,9
+province,WC,,Western Cape,Student nurses,
+district,416,,Xhariep,Clinical Associates,1.4
+district,416,,Xhariep,Dental practitioners,5
+district,416,,Xhariep,Dental specialists,
+district,416,,Xhariep,Dental therapists,
+district,416,,Xhariep,Enrolled nurses,37.4
+district,416,,Xhariep,Environmental health practitioners per 100 000 population,5.7
+district,416,,Xhariep,Medical practitioners,23
+district,416,,Xhariep,Medical researchers,0.7
+district,416,,Xhariep,Medical specialists,
+district,416,,Xhariep,Nursing assistants,84.8
+district,416,,Xhariep,Occupational therapists,5
+district,416,,Xhariep,Pharmacists,20.1
+district,416,,Xhariep,Physiotherapists,4.3
+district,416,,Xhariep,Professional nurses,69
+district,416,,Xhariep,Psychologists,
+district,416,,Xhariep,Radiographers,3.6
+district,416,,Xhariep,Student nurses,
+district,308,,Z F Mgcawu,Clinical Associates,
+district,308,,Z F Mgcawu,Dental practitioners,2.2
+district,308,,Z F Mgcawu,Dental specialists,
+district,308,,Z F Mgcawu,Dental therapists,1.3
+district,308,,Z F Mgcawu,Enrolled nurses,26.3
+district,308,,Z F Mgcawu,Environmental health practitioners per 100 000 population,3.1
+district,308,,Z F Mgcawu,Medical practitioners,26.3
+district,308,,Z F Mgcawu,Medical researchers,
+district,308,,Z F Mgcawu,Medical specialists,0.5
+district,308,,Z F Mgcawu,Nursing assistants,85.1
+district,308,,Z F Mgcawu,Occupational therapists,4
+district,308,,Z F Mgcawu,Pharmacists,11.1
+district,308,,Z F Mgcawu,Physiotherapists,5.8
+district,308,,Z F Mgcawu,Professional nurses,111.8
+district,308,,Z F Mgcawu,Psychologists,1.3
+district,308,,Z F Mgcawu,Radiographers,6.7
+district,308,,Z F Mgcawu,Student nurses,
+district,526,,Zululand,Clinical Associates,1.7
+district,526,,Zululand,Dental practitioners,1.4
+district,526,,Zululand,Dental specialists,
+district,526,,Zululand,Dental therapists,0.5
+district,526,,Zululand,Enrolled nurses,84.6
+district,526,,Zululand,Environmental health practitioners per 100 000 population,0.7
+district,526,,Zululand,Medical practitioners,14.3
+district,526,,Zululand,Medical researchers,
+district,526,,Zululand,Medical specialists,0.2
+district,526,,Zululand,Nursing assistants,45.7
+district,526,,Zululand,Occupational therapists,0.9
+district,526,,Zululand,Pharmacists,6.3
+district,526,,Zululand,Physiotherapists,2.2
+district,526,,Zululand,Professional nurses,135.1
+district,526,,Zululand,Psychologists,0
+district,526,,Zululand,Radiographers,3.1
+district,526,,Zululand,Student nurses,5.8
+municipality,595,,eThekwini,Clinical Associates,0.4
+municipality,595,,eThekwini,Dental practitioners,1.2
+municipality,595,,eThekwini,Dental specialists,
+municipality,595,,eThekwini,Dental therapists,1
+municipality,595,,eThekwini,Enrolled nurses,93.3
+municipality,595,,eThekwini,Environmental health practitioners per 100 000 population,0.7
+municipality,595,,eThekwini,Medical practitioners,48.7
+municipality,595,,eThekwini,Medical researchers,
+municipality,595,,eThekwini,Medical specialists,16.3
+municipality,595,,eThekwini,Nursing assistants,69.2
+municipality,595,,eThekwini,Occupational therapists,1.6
+municipality,595,,eThekwini,Pharmacists,10.4
+municipality,595,,eThekwini,Physiotherapists,4.1
+municipality,595,,eThekwini,Professional nurses,173.7
+municipality,595,,eThekwini,Psychologists,0.8
+municipality,595,,eThekwini,Radiographers,8.4
+municipality,595,,eThekwini,Student nurses,6.2
+district,529,,iLembe,Clinical Associates,1.7
+district,529,,iLembe,Dental practitioners,2
+district,529,,iLembe,Dental specialists,
+district,529,,iLembe,Dental therapists,1.2
+district,529,,iLembe,Enrolled nurses,75.6
+district,529,,iLembe,Environmental health practitioners per 100 000 population,0.5
+district,529,,iLembe,Medical practitioners,30.9
+district,529,,iLembe,Medical researchers,
+district,529,,iLembe,Medical specialists,5.7
+district,529,,iLembe,Nursing assistants,43.7
+district,529,,iLembe,Occupational therapists,1.4
+district,529,,iLembe,Pharmacists,7.8
+district,529,,iLembe,Physiotherapists,3.2
+district,529,,iLembe,Professional nurses,133.1
+district,529,,iLembe,Psychologists,0.2
+district,529,,iLembe,Radiographers,5
+district,529,,iLembe,Student nurses,

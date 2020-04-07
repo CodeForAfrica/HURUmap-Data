@@ -1,0 +1,21 @@
+geo_level,geo_code,geo_version,name,variable,value
+province,EC,,Eastern Cape,Natural underlying cause,1341678
+province,EC,,Eastern Cape,Non-natural underlying cause,152516
+province,FS,,Free State,Natural underlying cause,757652
+province,FS,,Free State,Non-natural underlying cause,65068
+province,GT,,Gauteng,Non-natural underlying cause,236310
+province,GT,,Gauteng,Natural underlying cause,1841650
+province,KZN,,KwaZulu-Natal,Non-natural underlying cause,218031
+province,KZN,,KwaZulu-Natal,Natural underlying cause,2050759
+province,LIM,,Limpopo,Non-natural underlying cause,73734
+province,LIM,,Limpopo,Natural underlying cause,821615
+province,MP,,Mpumalanga,Non-natural underlying cause,71580
+province,MP,,Mpumalanga,Natural underlying cause,690261
+province,NW,,North West,Natural underlying cause,696776
+province,NW,,North West,Non-natural underlying cause,61074
+province,NC,,Northern Cape,Non-natural underlying cause,27122
+province,NC,,Northern Cape,Natural underlying cause,248578
+country,ZA,,South Africa,Natural underlying cause,9241354
+country,ZA,,South Africa,Non-natural underlying cause,1036023
+province,WC,,Western Cape,Non-natural underlying cause,129172
+province,WC,,Western Cape,Natural underlying cause,779635

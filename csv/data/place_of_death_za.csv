@@ -1,0 +1,81 @@
+geo_level,geo_code,geo_version,name,variable,value
+province,EC,,Eastern Cape,Hospital,622170
+province,EC,,Eastern Cape,Unknown,44214
+province,EC,,Eastern Cape,Home,358259
+province,EC,,Eastern Cape,Nursing home,23970
+province,EC,,Eastern Cape,Emergency room / Outpatient,30743
+province,EC,,Eastern Cape,Other,45677
+province,EC,,Eastern Cape,Dead on arrival,36915
+province,EC,,Eastern Cape,Unspecified,332246
+province,FS,,Free State,Unspecified,70282
+province,FS,,Free State,Dead on arrival,30847
+province,FS,,Free State,Emergency room / Outpatient,14340
+province,FS,,Free State,Home,281995
+province,FS,,Free State,Nursing home,16766
+province,FS,,Free State,Hospital,359282
+province,FS,,Free State,Unknown,20590
+province,FS,,Free State,Other,28618
+province,GT,,Gauteng,Dead on arrival,29872
+province,GT,,Gauteng,Unknown,47157
+province,GT,,Gauteng,Other,81692
+province,GT,,Gauteng,Nursing home,57736
+province,GT,,Gauteng,Home,423962
+province,GT,,Gauteng,Emergency room / Outpatient,24947
+province,GT,,Gauteng,Unspecified,448739
+province,GT,,Gauteng,Hospital,963855
+province,KZN,,KwaZulu-Natal,Unspecified,314375
+province,KZN,,KwaZulu-Natal,Nursing home,32148
+province,KZN,,KwaZulu-Natal,Hospital,1048616
+province,KZN,,KwaZulu-Natal,Unknown,60292
+province,KZN,,KwaZulu-Natal,Other,90013
+province,KZN,,KwaZulu-Natal,Home,656574
+province,KZN,,KwaZulu-Natal,Emergency room / Outpatient,36475
+province,KZN,,KwaZulu-Natal,Dead on arrival,30297
+province,LIM,,Limpopo,Nursing home,9554
+province,LIM,,Limpopo,Other,25329
+province,LIM,,Limpopo,Home,317019
+province,LIM,,Limpopo,Unknown,24058
+province,LIM,,Limpopo,Unspecified,149754
+province,LIM,,Limpopo,Dead on arrival,6749
+province,LIM,,Limpopo,Emergency room / Outpatient,8505
+province,LIM,,Limpopo,Hospital,354381
+province,MP,,Mpumalanga,Home,275876
+province,MP,,Mpumalanga,Dead on arrival,7355
+province,MP,,Mpumalanga,Hospital,324134
+province,MP,,Mpumalanga,Unknown,16912
+province,MP,,Mpumalanga,Other,30594
+province,MP,,Mpumalanga,Emergency room / Outpatient,9470
+province,MP,,Mpumalanga,Nursing home,10161
+province,MP,,Mpumalanga,Unspecified,87339
+province,NW,,North West,Hospital,269899
+province,NW,,North West,Nursing home,15006
+province,NW,,North West,Emergency room / Outpatient,10977
+province,NW,,North West,Home,264823
+province,NW,,North West,Unspecified,141134
+province,NW,,North West,Dead on arrival,12571
+province,NW,,North West,Other,21734
+province,NW,,North West,Unknown,21706
+province,NC,,Northern Cape,Unknown,9176
+province,NC,,Northern Cape,Nursing home,4687
+province,NC,,Northern Cape,Home,60009
+province,NC,,Northern Cape,Unspecified,33251
+province,NC,,Northern Cape,Dead on arrival,33744
+province,NC,,Northern Cape,Emergency room / Outpatient,8009
+province,NC,,Northern Cape,Hospital,118561
+province,NC,,Northern Cape,Other,8263
+country,ZA,,South Africa,Unknown,271435
+country,ZA,,South Africa,Nursing home,217331
+country,ZA,,South Africa,Unspecified,1727709
+country,ZA,,South Africa,Other,386155
+country,ZA,,South Africa,Home,2827714
+country,ZA,,South Africa,Dead on arrival,235121
+country,ZA,,South Africa,Emergency room / Outpatient,171348
+country,ZA,,South Africa,Hospital,4440564
+province,WC,,Western Cape,Other,53821
+province,WC,,Western Cape,Unspecified,148185
+province,WC,,Western Cape,Home,183463
+province,WC,,Western Cape,Nursing home,47088
+province,WC,,Western Cape,Dead on arrival,46639
+province,WC,,Western Cape,Emergency room / Outpatient,27788
+province,WC,,Western Cape,Unknown,27285
+province,WC,,Western Cape,Hospital,374538

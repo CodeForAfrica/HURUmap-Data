@@ -1,0 +1,201 @@
+geo_level,geo_code,geo_version,name,variable,value
+province,EC,,Eastern Cape,2005,94901
+province,EC,,Eastern Cape,2000,62912
+province,EC,,Eastern Cape,2002,75852
+province,EC,,Eastern Cape,2003,84739
+province,EC,,Eastern Cape,2004,90240
+province,EC,,Eastern Cape,2015,70967
+province,EC,,Eastern Cape,1999,55222
+province,EC,,Eastern Cape,2006,93259
+province,EC,,Eastern Cape,2007,89002
+province,EC,,Eastern Cape,2001,68788
+province,EC,,Eastern Cape,2008,86180
+province,EC,,Eastern Cape,2009,86206
+province,EC,,Eastern Cape,2016,66607
+province,EC,,Eastern Cape,1997,46426
+province,EC,,Eastern Cape,2014,71043
+province,EC,,Eastern Cape,2010,84077
+province,EC,,Eastern Cape,2013,67980
+province,EC,,Eastern Cape,2011,77820
+province,EC,,Eastern Cape,1998,52229
+province,EC,,Eastern Cape,2012,69744
+province,FS,,Free State,2014,34468
+province,FS,,Free State,2001,38189
+province,FS,,Free State,2002,42059
+province,FS,,Free State,2012,36759
+province,FS,,Free State,2003,47256
+province,FS,,Free State,2004,50730
+province,FS,,Free State,2011,42764
+province,FS,,Free State,2005,51810
+province,FS,,Free State,2010,46722
+province,FS,,Free State,2006,53750
+province,FS,,Free State,2009,49283
+province,FS,,Free State,2008,50960
+province,FS,,Free State,2015,33424
+province,FS,,Free State,2007,52489
+province,FS,,Free State,2013,35178
+province,FS,,Free State,1999,32549
+province,FS,,Free State,1998,30613
+province,FS,,Free State,2000,35210
+province,FS,,Free State,1997,25761
+province,FS,,Free State,2016,32746
+province,GT,,Gauteng,2004,117341
+province,GT,,Gauteng,2016,100390
+province,GT,,Gauteng,2003,113303
+province,GT,,Gauteng,2013,102161
+province,GT,,Gauteng,1999,81250
+province,GT,,Gauteng,2015,102497
+province,GT,,Gauteng,1997,70235
+province,GT,,Gauteng,2005,118427
+province,GT,,Gauteng,2002,102830
+province,GT,,Gauteng,2010,109940
+province,GT,,Gauteng,2006,123314
+province,GT,,Gauteng,2011,105380
+province,GT,,Gauteng,2000,87053
+province,GT,,Gauteng,2009,119978
+province,GT,,Gauteng,2007,122485
+province,GT,,Gauteng,2001,93430
+province,GT,,Gauteng,2012,102932
+province,GT,,Gauteng,2014,103071
+province,GT,,Gauteng,2008,122472
+province,GT,,Gauteng,1998,79471
+province,KZN,,KwaZulu-Natal,2004,138721
+province,KZN,,KwaZulu-Natal,2014,95553
+province,KZN,,KwaZulu-Natal,2011,110730
+province,KZN,,KwaZulu-Natal,2005,145246
+province,KZN,,KwaZulu-Natal,2016,87414
+province,KZN,,KwaZulu-Natal,1998,84744
+province,KZN,,KwaZulu-Natal,2006,144168
+province,KZN,,KwaZulu-Natal,2010,121470
+province,KZN,,KwaZulu-Natal,2007,140833
+province,KZN,,KwaZulu-Natal,2008,137224
+province,KZN,,KwaZulu-Natal,2000,100245
+province,KZN,,KwaZulu-Natal,2009,133431
+province,KZN,,KwaZulu-Natal,2003,135402
+province,KZN,,KwaZulu-Natal,2002,122428
+province,KZN,,KwaZulu-Natal,2015,92557
+province,KZN,,KwaZulu-Natal,2013,99051
+province,KZN,,KwaZulu-Natal,1999,89824
+province,KZN,,KwaZulu-Natal,2001,110864
+province,KZN,,KwaZulu-Natal,2012,106778
+province,KZN,,KwaZulu-Natal,1997,72107
+province,LIM,,Limpopo,1999,30093
+province,LIM,,Limpopo,2015,48718
+province,LIM,,Limpopo,2001,36113
+province,LIM,,Limpopo,2011,49104
+province,LIM,,Limpopo,1997,23116
+province,LIM,,Limpopo,2012,51208
+province,LIM,,Limpopo,2009,54595
+province,LIM,,Limpopo,2008,54444
+province,LIM,,Limpopo,2000,32044
+province,LIM,,Limpopo,2007,53855
+province,LIM,,Limpopo,1998,29190
+province,LIM,,Limpopo,2006,53942
+province,LIM,,Limpopo,2016,46880
+province,LIM,,Limpopo,2002,39373
+province,LIM,,Limpopo,2004,47124
+province,LIM,,Limpopo,2010,51661
+province,LIM,,Limpopo,2003,45613
+province,LIM,,Limpopo,2005,48772
+province,LIM,,Limpopo,2013,49425
+province,LIM,,Limpopo,2014,50079
+province,MP,,Mpumalanga,2009,47255
+province,MP,,Mpumalanga,2013,36754
+province,MP,,Mpumalanga,2011,39579
+province,MP,,Mpumalanga,2008,49026
+province,MP,,Mpumalanga,2004,44386
+province,MP,,Mpumalanga,2012,37996
+province,MP,,Mpumalanga,2016,34170
+province,MP,,Mpumalanga,2003,42242
+province,MP,,Mpumalanga,2000,29130
+province,MP,,Mpumalanga,1997,20176
+province,MP,,Mpumalanga,2010,43160
+province,MP,,Mpumalanga,2007,49596
+province,MP,,Mpumalanga,2001,32336
+province,MP,,Mpumalanga,1999,26543
+province,MP,,Mpumalanga,2015,35620
+province,MP,,Mpumalanga,1998,23922
+province,MP,,Mpumalanga,2014,36268
+province,MP,,Mpumalanga,2002,36274
+province,MP,,Mpumalanga,2006,49989
+province,MP,,Mpumalanga,2005,47419
+province,NW,,North West,2010,41462
+province,NW,,North West,2013,36899
+province,NW,,North West,2012,37392
+province,NW,,North West,2011,39248
+province,NW,,North West,1997,23044
+province,NW,,North West,2000,31678
+province,NW,,North West,2006,44011
+province,NW,,North West,2003,44143
+province,NW,,North West,2009,42077
+province,NW,,North West,2005,44569
+province,NW,,North West,2015,36163
+province,NW,,North West,2002,39544
+province,NW,,North West,2016,36454
+province,NW,,North West,1999,29084
+province,NW,,North West,2001,35808
+province,NW,,North West,2004,44297
+province,NW,,North West,2014,36531
+province,NW,,North West,1998,26714
+province,NW,,North West,2008,44361
+province,NW,,North West,2007,44371
+province,NC,,Northern Cape,2002,13119
+province,NC,,Northern Cape,2016,14229
+province,NC,,Northern Cape,2001,12242
+province,NC,,Northern Cape,2000,11544
+province,NC,,Northern Cape,2012,14490
+province,NC,,Northern Cape,2003,14031
+province,NC,,Northern Cape,1997,9380
+province,NC,,Northern Cape,2009,15592
+province,NC,,Northern Cape,2013,14167
+province,NC,,Northern Cape,2015,14180
+province,NC,,Northern Cape,1999,10677
+province,NC,,Northern Cape,2005,14640
+province,NC,,Northern Cape,2011,15259
+province,NC,,Northern Cape,2006,15467
+province,NC,,Northern Cape,2007,15412
+province,NC,,Northern Cape,2010,15700
+province,NC,,Northern Cape,2008,15624
+province,NC,,Northern Cape,2014,14497
+province,NC,,Northern Cape,1998,10557
+province,NC,,Northern Cape,2004,14893
+country,ZA,,South Africa,2014,490802
+country,ZA,,South Africa,2013,491277
+country,ZA,,South Africa,2015,486819
+country,ZA,,South Africa,2006,626337
+country,ZA,,South Africa,2016,468321
+country,ZA,,South Africa,2012,508649
+country,ZA,,South Africa,1997,323753
+country,ZA,,South Africa,1998,374200
+country,ZA,,South Africa,1999,394471
+country,ZA,,South Africa,2000,429619
+country,ZA,,South Africa,2001,470167
+country,ZA,,South Africa,2002,516357
+country,ZA,,South Africa,2003,572712
+country,ZA,,South Africa,2005,612874
+country,ZA,,South Africa,2007,618580
+country,ZA,,South Africa,2004,593664
+country,ZA,,South Africa,2008,611426
+country,ZA,,South Africa,2011,528045
+country,ZA,,South Africa,2010,562010
+country,ZA,,South Africa,2009,597294
+province,WC,,Western Cape,2012,49051
+province,WC,,Western Cape,1998,36748
+province,WC,,Western Cape,1999,39204
+province,WC,,Western Cape,2011,48052
+province,WC,,Western Cape,2000,39773
+province,WC,,Western Cape,2016,49378
+province,WC,,Western Cape,2001,42367
+province,WC,,Western Cape,2014,48242
+province,WC,,Western Cape,2002,44849
+province,WC,,Western Cape,2010,47741
+province,WC,,Western Cape,2003,45942
+province,WC,,Western Cape,2004,45872
+province,WC,,Western Cape,2013,48091
+province,WC,,Western Cape,2005,47021
+province,WC,,Western Cape,2015,52347
+province,WC,,Western Cape,2009,47757
+province,WC,,Western Cape,2006,45960
+province,WC,,Western Cape,2007,48192
+province,WC,,Western Cape,2008,48732
+province,WC,,Western Cape,1997,33488

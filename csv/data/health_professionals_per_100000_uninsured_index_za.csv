@@ -1,0 +1,311 @@
+geo_level,geo_code,geo_version,name,variable,value
+district,244,,Alfred Nzo,Health worker density,6.7
+district,244,,Alfred Nzo,Medical practitioners,3.5
+district,244,,Alfred Nzo,Medical practitioners (Hogan index),11.6
+district,244,,Alfred Nzo,Pharmacists,8.3
+district,244,,Alfred Nzo,Professional nurses,10.4
+district,525,,Amajuba,Health worker density,16.4
+district,525,,Amajuba,Medical practitioners,14.9
+district,525,,Amajuba,Medical practitioners (Hogan index),49.7
+district,525,,Amajuba,Pharmacists,18
+district,525,,Amajuba,Professional nurses,16.4
+district,212,,Amathole,Health worker density,9.6
+district,212,,Amathole,Medical practitioners,3.6
+district,212,,Amathole,Medical practitioners (Hogan index),12
+district,212,,Amathole,Pharmacists,16.7
+district,212,,Amathole,Professional nurses,14.8
+district,637,,Bojanala,Health worker density,8.9
+district,637,,Bojanala,Medical practitioners,6.1
+district,637,,Bojanala,Medical practitioners (Hogan index),20.2
+district,637,,Bojanala,Pharmacists,11.5
+district,637,,Bojanala,Professional nurses,10
+municipality,292,,Buffalo City,Health worker density,29.3
+municipality,292,,Buffalo City,Medical practitioners,23.6
+municipality,292,,Buffalo City,Medical practitioners (Hogan index),78.7
+municipality,292,,Buffalo City,Pharmacists,41.9
+municipality,292,,Buffalo City,Professional nurses,25.4
+district,102,,Cape Winelands,Health worker density,13
+district,102,,Cape Winelands,Medical practitioners,10
+district,102,,Cape Winelands,Medical practitioners (Hogan index),33.3
+district,102,,Cape Winelands,Pharmacists,27.4
+district,102,,Cape Winelands,Professional nurses,7.9
+district,935,,Capricorn,Health worker density,19.5
+district,935,,Capricorn,Medical practitioners,14.7
+district,935,,Capricorn,Medical practitioners (Hogan index),49
+district,935,,Capricorn,Pharmacists,28.9
+district,935,,Capricorn,Professional nurses,17.4
+district,105,,Central Karoo,Health worker density,18.4
+district,105,,Central Karoo,Medical practitioners,8.8
+district,105,,Central Karoo,Medical practitioners (Hogan index),29.5
+district,105,,Central Karoo,Pharmacists,56
+district,105,,Central Karoo,Professional nurses,12.5
+district,213,,Chris Hani,Health worker density,13.5
+district,213,,Chris Hani,Medical practitioners,7
+district,213,,Chris Hani,Medical practitioners (Hogan index),23.3
+district,213,,Chris Hani,Pharmacists,17.9
+district,213,,Chris Hani,Professional nurses,19.8
+municipality,1910,,City of Cape Town,Health worker density,18.4
+municipality,1910,,City of Cape Town,Medical practitioners,15.2
+municipality,1910,,City of Cape Town,Medical practitioners (Hogan index),50.6
+municipality,1910,,City of Cape Town,Pharmacists,35.7
+municipality,1910,,City of Cape Town,Professional nurses,11.6
+municipality,798,,City of Johannesburg,Health worker density,13.1
+municipality,798,,City of Johannesburg,Medical practitioners,10.8
+municipality,798,,City of Johannesburg,Medical practitioners (Hogan index),36.1
+municipality,798,,City of Johannesburg,Pharmacists,18
+municipality,798,,City of Johannesburg,Professional nurses,11.5
+municipality,799,,City of Tshwane,Health worker density,18.6
+municipality,799,,City of Tshwane,Medical practitioners,13.3
+municipality,799,,City of Tshwane,Medical practitioners (Hogan index),44.4
+municipality,799,,City of Tshwane,Pharmacists,28.1
+municipality,799,,City of Tshwane,Professional nurses,17.2
+district,640,,Dr Kenneth Kaunda,Health worker density,20.9
+district,640,,Dr Kenneth Kaunda,Medical practitioners,18.1
+district,640,,Dr Kenneth Kaunda,Medical practitioners (Hogan index),60.2
+district,640,,Dr Kenneth Kaunda,Pharmacists,26.1
+district,640,,Dr Kenneth Kaunda,Professional nurses,19.3
+district,639,,Dr Ruth Segomotsi Mompati,Health worker density,11.9
+district,639,,Dr Ruth Segomotsi Mompati,Medical practitioners,5.5
+district,639,,Dr Ruth Segomotsi Mompati,Medical practitioners (Hogan index),18.2
+district,639,,Dr Ruth Segomotsi Mompati,Pharmacists,18.8
+district,639,,Dr Ruth Segomotsi Mompati,Professional nurses,16.5
+province,EC,,Eastern Cape,Health worker density,16.6
+province,EC,,Eastern Cape,Medical practitioners,10.3
+province,EC,,Eastern Cape,Medical practitioners (Hogan index),34.2
+province,EC,,Eastern Cape,Pharmacists,25.9
+province,EC,,Eastern Cape,Professional nurses,17.1
+district,832,,Ehlanzeni,Health worker density,15.6
+district,832,,Ehlanzeni,Medical practitioners,10.8
+district,832,,Ehlanzeni,Medical practitioners (Hogan index),35.8
+district,832,,Ehlanzeni,Pharmacists,20.3
+district,832,,Ehlanzeni,Professional nurses,17.4
+municipality,797,,Ekurhuleni,Health worker density,12.2
+,797,,Ekurhuleni,Medical practitioners,10.4
+,797,,Ekurhuleni,Medical practitioners (Hogan index),34.5
+,797,,Ekurhuleni,Pharmacists,19.1
+,797,,Ekurhuleni,Professional nurses,9.2
+district,420,,Fezile Dabi,Health worker density,11
+district,420,,Fezile Dabi,Medical practitioners,7.8
+district,420,,Fezile Dabi,Medical practitioners (Hogan index),26
+district,420,,Fezile Dabi,Pharmacists,27.7
+district,420,,Fezile Dabi,Professional nurses,6.2
+district,309,,Frances Baard,Health worker density,30.3
+district,309,,Frances Baard,Medical practitioners,32.5
+district,309,,Frances Baard,Medical practitioners (Hogan index),100
+district,309,,Frances Baard,Pharmacists,47.2
+district,309,,Frances Baard,Professional nurses,18.2
+province,FS,,Free State,Health worker density,13.2
+province,FS,,Free State,Medical practitioners,9.2
+province,FS,,Free State,Medical practitioners (Hogan index),30.8
+province,FS,,Free State,Pharmacists,27.7
+province,FS,,Free State,Professional nurses,9
+,,,Garden Route,Health worker density,16.7
+,,,Garden Route,Medical practitioners,11.7
+,,,Garden Route,Medical practitioners (Hogan index),38.9
+,,,Garden Route,Pharmacists,42.5
+,,,Garden Route,Professional nurses,9.4
+province,GT,,Gauteng,Health worker density,15
+province,GT,,Gauteng,Medical practitioners,11.2
+province,GT,,Gauteng,Medical practitioners (Hogan index),37.5
+province,GT,,Gauteng,Pharmacists,22.8
+province,GT,,Gauteng,Professional nurses,13.2
+district,830,,Gert Sibande,Health worker density,12.4
+district,830,,Gert Sibande,Medical practitioners,7.4
+district,830,,Gert Sibande,Medical practitioners (Hogan index),24.7
+district,830,,Gert Sibande,Pharmacists,18
+district,830,,Gert Sibande,Professional nurses,14.1
+,,,Harry Gwala,Health worker density,10.4
+,,,Harry Gwala,Medical practitioners,5.3
+,,,Harry Gwala,Medical practitioners (Hogan index),17.6
+,,,Harry Gwala,Pharmacists,13.8
+,,,Harry Gwala,Professional nurses,15.4
+district,214,,Joe Gqabi,Health worker density,12
+district,214,,Joe Gqabi,Medical practitioners,6.6
+district,214,,Joe Gqabi,Medical practitioners (Hogan index),22
+district,214,,Joe Gqabi,Pharmacists,16.2
+district,214,,Joe Gqabi,Professional nurses,16.2
+district,345,,John Taolo Gaetsewe,Health worker density,7.7
+district,345,,John Taolo Gaetsewe,Medical practitioners,3.1
+district,345,,John Taolo Gaetsewe,Medical practitioners (Hogan index),10.5
+district,345,,John Taolo Gaetsewe,Pharmacists,11.3
+district,345,,John Taolo Gaetsewe,Professional nurses,12.8
+,,,King Cetshwayo,Health worker density,15
+,,,King Cetshwayo,Medical practitioners,12.2
+,,,King Cetshwayo,Medical practitioners (Hogan index),40.8
+,,,King Cetshwayo,Pharmacists,15.6
+,,,King Cetshwayo,Professional nurses,17.5
+province,KZN,,KwaZulu-Natal,Health worker density,15.1
+province,KZN,,KwaZulu-Natal,Medical practitioners,11.9
+province,KZN,,KwaZulu-Natal,Medical practitioners (Hogan index),39.8
+province,KZN,,KwaZulu-Natal,Pharmacists,17.2
+province,KZN,,KwaZulu-Natal,Professional nurses,16.9
+district,418,,Lejweleputswa,Health worker density,9.2
+district,418,,Lejweleputswa,Medical practitioners,6.1
+district,418,,Lejweleputswa,Medical practitioners (Hogan index),20.3
+district,418,,Lejweleputswa,Pharmacists,17.8
+district,418,,Lejweleputswa,Professional nurses,7.1
+province,LIM,,Limpopo,Health worker density,14.3
+province,LIM,,Limpopo,Medical practitioners,8.2
+province,LIM,,Limpopo,Medical practitioners (Hogan index),27.2
+province,LIM,,Limpopo,Pharmacists,21.6
+province,LIM,,Limpopo,Professional nurses,16.5
+municipality,494,,Mangaung,Health worker density,21.4
+municipality,494,,Mangaung,Medical practitioners,15.5
+municipality,494,,Mangaung,Medical practitioners (Hogan index),51.7
+municipality,494,,Mangaung,Pharmacists,39.4
+municipality,494,,Mangaung,Professional nurses,16.1
+district,933,,Mopani,Health worker density,11.2
+district,933,,Mopani,Medical practitioners,5.7
+district,933,,Mopani,Medical practitioners (Hogan index),19.1
+district,933,,Mopani,Pharmacists,15.9
+district,933,,Mopani,Professional nurses,15.4
+province,MP,,Mpumalanga,Health worker density,12.6
+province,MP,,Mpumalanga,Medical practitioners,8.7
+province,MP,,Mpumalanga,Medical practitioners (Hogan index),29
+province,MP,,Mpumalanga,Pharmacists,16.2
+province,MP,,Mpumalanga,Professional nurses,14.2
+district,306,,Namakwa,Health worker density,14.5
+district,306,,Namakwa,Medical practitioners,7.5
+district,306,,Namakwa,Medical practitioners (Hogan index),24.9
+district,306,,Namakwa,Pharmacists,25.6
+district,306,,Namakwa,Professional nurses,15.8
+municipality,2930,,Nelson Mandela Bay,Health worker density,21.7
+municipality,2930,,Nelson Mandela Bay,Medical practitioners,16.5
+municipality,2930,,Nelson Mandela Bay,Medical practitioners (Hogan index),54.9
+municipality,2930,,Nelson Mandela Bay,Pharmacists,34.2
+municipality,2930,,Nelson Mandela Bay,Professional nurses,18.2
+district,638,,Ngaka Modiri Molema,Health worker density,12.1
+district,638,,Ngaka Modiri Molema,Medical practitioners,7.5
+district,638,,Ngaka Modiri Molema,Medical practitioners (Hogan index),25
+district,638,,Ngaka Modiri Molema,Pharmacists,17.8
+district,638,,Ngaka Modiri Molema,Professional nurses,13.1
+district,831,,Nkangala,Health worker density,9
+district,831,,Nkangala,Medical practitioners,7.2
+district,831,,Nkangala,Medical practitioners (Hogan index),24
+district,831,,Nkangala,Pharmacists,10.1
+district,831,,Nkangala,Professional nurses,10.1
+province,NW,,North West,Health worker density,12.7
+province,NW,,North West,Medical practitioners,8.7
+province,NW,,North West,Medical practitioners (Hogan index),28.8
+province,NW,,North West,Pharmacists,17.3
+province,NW,,North West,Professional nurses,13.6
+province,NC,,Northern Cape,Health worker density,19.2
+province,NC,,Northern Cape,Medical practitioners,14.1
+province,NC,,Northern Cape,Medical practitioners (Hogan index),46.9
+province,NC,,Northern Cape,Pharmacists,34.4
+province,NC,,Northern Cape,Professional nurses,14.7
+district,215,,O.R.Tambo,Health worker density,17.4
+district,215,,O.R.Tambo,Medical practitioners,11.6
+district,215,,O.R.Tambo,Medical practitioners (Hogan index),38.7
+district,215,,O.R.Tambo,Pharmacists,29.7
+district,215,,O.R.Tambo,Professional nurses,15.3
+district,103,,Overberg,Health worker density,11.4
+district,103,,Overberg,Medical practitioners,6.4
+district,103,,Overberg,Medical practitioners (Hogan index),21.3
+district,103,,Overberg,Pharmacists,32.8
+district,103,,Overberg,Professional nurses,7.2
+district,307,,Pixley ka Seme,Health worker density,11.5
+district,307,,Pixley ka Seme,Medical practitioners,3.6
+district,307,,Pixley ka Seme,Medical practitioners (Hogan index),12.1
+district,307,,Pixley ka Seme,Pharmacists,35.8
+district,307,,Pixley ka Seme,Professional nurses,11.6
+district,,,Sarah Baartman,Health worker density,17.1
+district,,,Sarah Baartman,Medical practitioners,7.1
+district,,,Sarah Baartman,Medical practitioners (Hogan index),23.8
+district,,,Sarah Baartman,Pharmacists,41.2
+district,,,Sarah Baartman,Professional nurses,16.8
+district,742,,Sedibeng,Health worker density,15.1
+district,742,,Sedibeng,Medical practitioners,7.8
+district,742,,Sedibeng,Medical practitioners (Hogan index),26.1
+district,742,,Sedibeng,Pharmacists,35.5
+district,742,,Sedibeng,Professional nurses,12.4
+district,947,,Sekhukhune,Health worker density,10.8
+district,947,,Sekhukhune,Medical practitioners,5.1
+district,947,,Sekhukhune,Medical practitioners (Hogan index),16.9
+district,947,,Sekhukhune,Pharmacists,19.1
+district,947,,Sekhukhune,Professional nurses,13.1
+country,ZA,,South Africa,Health worker density,15.3
+country,ZA,,South Africa,Medical practitioners,10.7
+country,ZA,,South Africa,Medical practitioners (Hogan index),35.6
+country,ZA,,South Africa,Pharmacists,23.1
+country,ZA,,South Africa,Professional nurses,14.5
+district,419,,Thabo Mofutsanyane,Health worker density,9.7
+district,419,,Thabo Mofutsanyane,Medical practitioners,7.5
+district,419,,Thabo Mofutsanyane,Medical practitioners (Hogan index),24.9
+district,419,,Thabo Mofutsanyane,Pharmacists,20.5
+district,419,,Thabo Mofutsanyane,Professional nurses,6
+district,521,,Ugu,Health worker density,15.5
+district,521,,Ugu,Medical practitioners,10.1
+district,521,,Ugu,Medical practitioners (Hogan index),33.8
+district,521,,Ugu,Pharmacists,21.4
+district,521,,Ugu,Professional nurses,17.2
+district,522,,Umgungundlovu,Health worker density,21.7
+district,522,,Umgungundlovu,Medical practitioners,20.1
+district,522,,Umgungundlovu,Medical practitioners (Hogan index),66.9
+district,522,,Umgungundlovu,Pharmacists,20.7
+district,522,,Umgungundlovu,Professional nurses,24.6
+district,527,,Umkhanyakude,Health worker density,9.1
+district,527,,Umkhanyakude,Medical practitioners,4
+district,527,,Umkhanyakude,Medical practitioners (Hogan index),13.3
+district,527,,Umkhanyakude,Pharmacists,13.1
+district,527,,Umkhanyakude,Professional nurses,14.5
+district,524,,Umzinyathi,Health worker density,11
+district,524,,Umzinyathi,Medical practitioners,5.8
+district,524,,Umzinyathi,Medical practitioners (Hogan index),19.2
+district,524,,Umzinyathi,Pharmacists,13.2
+district,524,,Umzinyathi,Professional nurses,17.6
+district,523,,Uthukela,Health worker density,9.5
+district,523,,Uthukela,Medical practitioners,7.3
+district,523,,Uthukela,Medical practitioners (Hogan index),24.4
+district,523,,Uthukela,Pharmacists,9.7
+district,523,,Uthukela,Professional nurses,11.9
+district,934,,Vhembe,Health worker density,11.8
+district,934,,Vhembe,Medical practitioners,5.6
+district,934,,Vhembe,Medical practitioners (Hogan index),18.6
+district,934,,Vhembe,Pharmacists,15.2
+district,934,,Vhembe,Professional nurses,19.2
+district,936,,Waterberg,Health worker density,17.4
+district,936,,Waterberg,Medical practitioners,11
+district,936,,Waterberg,Medical practitioners (Hogan index),36.6
+district,936,,Waterberg,Pharmacists,27.9
+district,936,,Waterberg,Professional nurses,17.2
+district,101,,West Coast,Health worker density,9.8
+district,101,,West Coast,Medical practitioners,6.3
+district,101,,West Coast,Medical practitioners (Hogan index),20.9
+district,101,,West Coast,Pharmacists,24.2
+district,101,,West Coast,Professional nurses,6.2
+district,748,,West Rand,Health worker density,19.4
+district,748,,West Rand,Medical practitioners,12.8
+district,748,,West Rand,Medical practitioners (Hogan index),42.6
+district,748,,West Rand,Pharmacists,31.1
+district,748,,West Rand,Professional nurses,18.4
+province,WC,,Western Cape,Health worker density,17.2
+province,WC,,Western Cape,Medical practitioners,13
+province,WC,,Western Cape,Medical practitioners (Hogan index),43.2
+province,WC,,Western Cape,Pharmacists,37.8
+province,WC,,Western Cape,Professional nurses,10.3
+district,416,,Xhariep,Health worker density,12.9
+district,416,,Xhariep,Medical practitioners,7.7
+district,416,,Xhariep,Medical practitioners (Hogan index),25.6
+district,416,,Xhariep,Pharmacists,40.2
+district,416,,Xhariep,Professional nurses,6.9
+district,308,,Z F Mgcawu,Health worker density,13
+district,308,,Z F Mgcawu,Medical practitioners,8.8
+district,308,,Z F Mgcawu,Medical practitioners (Hogan index),29.2
+district,308,,Z F Mgcawu,Pharmacists,22.3
+district,308,,Z F Mgcawu,Professional nurses,11.2
+district,526,,Zululand,Health worker density,9.3
+district,526,,Zululand,Medical practitioners,4.8
+district,526,,Zululand,Medical practitioners (Hogan index),15.9
+district,526,,Zululand,Pharmacists,12.5
+district,526,,Zululand,Professional nurses,13.5
+municipality,595,,eThekwini,Health worker density,18
+municipality,595,,eThekwini,Medical practitioners,16.2
+municipality,595,,eThekwini,Medical practitioners (Hogan index),54.2
+municipality,595,,eThekwini,Pharmacists,20.8
+municipality,595,,eThekwini,Professional nurses,17.4
+district,529,,iLembe,Health worker density,12.9
+district,529,,iLembe,Medical practitioners,10.3
+district,529,,iLembe,Medical practitioners (Hogan index),34.3
+district,529,,iLembe,Pharmacists,15.6
+district,529,,iLembe,Professional nurses,13.3

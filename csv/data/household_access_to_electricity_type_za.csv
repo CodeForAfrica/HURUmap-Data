@@ -1,0 +1,2638 @@
+geo_level,geo_code,geo_version,name,variable,value
+municipality,3084,,Kheis,Battery,0
+municipality,3084,,Kheis,Connected to other source which household is not paying for,0
+municipality,3084,,Kheis,Connected to other source which household pays for (e.g. con,37.43295
+municipality,3084,,Kheis,Generator,4.277056
+municipality,3084,,Kheis,In-house conventional meter,3327.398
+municipality,3084,,Kheis,In-house prepaid meter,9239.131
+municipality,3084,,Kheis,No access to electricity,1388.619
+municipality,3084,,Kheis,Other,5.152611
+municipality,3084,,Kheis,Solar home system,2563.882
+municipality,5263,,Abaqulusi,Battery,0
+municipality,5263,,Abaqulusi,Connected to other source which household is not paying for,548.9625
+municipality,5263,,Abaqulusi,Connected to other source which household pays for (e.g. con,285.8874
+municipality,5263,,Abaqulusi,Generator,166.8086
+municipality,5263,,Abaqulusi,In-house conventional meter,16044
+municipality,5263,,Abaqulusi,In-house prepaid meter,183904.8
+municipality,5263,,Abaqulusi,No access to electricity,42127.45
+municipality,5263,,Abaqulusi,Other,574.5223
+municipality,5263,,Abaqulusi,Solar home system,142.2004
+municipality,5238,,Alfred Duma,Battery,195.7697
+municipality,5238,,Alfred Duma,Connected to other source which household is not paying for,40.17793
+municipality,5238,,Alfred Duma,Connected to other source which household pays for (e.g. con,271.3624
+municipality,5238,,Alfred Duma,Generator,705.6509
+municipality,5238,,Alfred Duma,In-house conventional meter,23288.48
+municipality,5238,,Alfred Duma,In-house prepaid meter,271542.1
+municipality,5238,,Alfred Duma,No access to electricity,51932.36
+municipality,5238,,Alfred Duma,Other,1142.181
+municipality,5238,,Alfred Duma,Solar home system,7156.372
+district,244,,Alfred Nzo,Battery,401.7483
+district,244,,Alfred Nzo,Connected to other source which household is not paying for,1212.294
+district,244,,Alfred Nzo,Connected to other source which household pays for (e.g. con,3639.366
+district,244,,Alfred Nzo,Generator,1205.403
+district,244,,Alfred Nzo,In-house conventional meter,50689.05
+district,244,,Alfred Nzo,In-house prepaid meter,511415.8
+district,244,,Alfred Nzo,No access to electricity,230859.7
+district,244,,Alfred Nzo,Other,2427.152
+district,244,,Alfred Nzo,Solar home system,66013.55
+municipality,2124,,Amahlathi,Battery,0
+municipality,2124,,Amahlathi,Connected to other source which household is not paying for,18.0633
+municipality,2124,,Amahlathi,Connected to other source which household pays for (e.g. con,113.8925
+municipality,2124,,Amahlathi,Generator,0.452182
+municipality,2124,,Amahlathi,In-house conventional meter,2977.972
+municipality,2124,,Amahlathi,In-house prepaid meter,94388.5
+municipality,2124,,Amahlathi,No access to electricity,4213.032
+municipality,2124,,Amahlathi,Other,92.42999
+municipality,2124,,Amahlathi,Solar home system,21.19966
+district,525,,Amajuba,Battery,0
+district,525,,Amajuba,Connected to other source which household is not paying for,666.6867
+district,525,,Amajuba,Connected to other source which household pays for (e.g. con,784.5057
+district,525,,Amajuba,Generator,174.6017
+district,525,,Amajuba,In-house conventional meter,55737.85
+district,525,,Amajuba,In-house prepaid meter,431631.1
+district,525,,Amajuba,No access to electricity,40923.56
+district,525,,Amajuba,Other,956.5896
+district,525,,Amajuba,Solar home system,451.9489
+district,212,,Amathole,Battery,99.22524
+district,212,,Amathole,Connected to other source which household is not paying for,310.2954
+district,212,,Amathole,Connected to other source which household pays for (e.g. con,1360.108
+district,212,,Amathole,Generator,523.0208
+district,212,,Amathole,In-house conventional meter,38634.1
+district,212,,Amathole,In-house prepaid meter,695106.4
+district,212,,Amathole,No access to electricity,125311
+district,212,,Amathole,Other,1334.636
+district,212,,Amathole,Solar home system,18111.57
+municipality,9334,,Ba-Phalaborwa,Battery,0
+municipality,9334,,Ba-Phalaborwa,Connected to other source which household is not paying for,344.3001
+municipality,9334,,Ba-Phalaborwa,Connected to other source which household pays for (e.g. con,475.2367
+municipality,9334,,Ba-Phalaborwa,Generator,0
+municipality,9334,,Ba-Phalaborwa,In-house conventional meter,9038.15
+municipality,9334,,Ba-Phalaborwa,In-house prepaid meter,157578.2
+municipality,9334,,Ba-Phalaborwa,No access to electricity,1344.157
+municipality,9334,,Ba-Phalaborwa,Other,156.6166
+municipality,9334,,Ba-Phalaborwa,Solar home system,0
+municipality,1053,,Beaufort West,Battery,38.13386
+municipality,1053,,Beaufort West,Connected to other source which household is not paying for,19.02652
+municipality,1053,,Beaufort West,Connected to other source which household pays for (e.g. con,70.92189
+municipality,1053,,Beaufort West,Generator,0
+municipality,1053,,Beaufort West,In-house conventional meter,4283.692
+municipality,1053,,Beaufort West,In-house prepaid meter,45496.44
+municipality,1053,,Beaufort West,No access to electricity,758.9415
+municipality,1053,,Beaufort West,Other,138.6046
+municipality,1053,,Beaufort West,Solar home system,274.2264
+municipality,9366,,Bela-Bela,Battery,0
+municipality,9366,,Bela-Bela,Connected to other source which household is not paying for,613.968
+municipality,9366,,Bela-Bela,Connected to other source which household pays for (e.g. con,46.87413
+municipality,9366,,Bela-Bela,Generator,35.33035
+municipality,9366,,Bela-Bela,In-house conventional meter,9195.096
+municipality,9366,,Bela-Bela,In-house prepaid meter,56785.45
+municipality,9366,,Bela-Bela,No access to electricity,8994.833
+municipality,9366,,Bela-Bela,Other,243.9584
+municipality,9366,,Bela-Bela,Solar home system,380.5703
+municipality,1013,,Bergrivier,Battery,0
+municipality,1013,,Bergrivier,Connected to other source which household is not paying for,199.3582
+municipality,1013,,Bergrivier,Connected to other source which household pays for (e.g. con,2885.755
+municipality,1013,,Bergrivier,Generator,0
+municipality,1013,,Bergrivier,In-house conventional meter,11664.42
+municipality,1013,,Bergrivier,In-house prepaid meter,51381.05
+municipality,1013,,Bergrivier,No access to electricity,867.9744
+municipality,1013,,Bergrivier,Other,475.2757
+municipality,1013,,Bergrivier,Solar home system,0
+municipality,5276,,Big Five Hlabisa,Battery,0
+municipality,5276,,Big Five Hlabisa,Connected to other source which household is not paying for,9686.577
+municipality,5276,,Big Five Hlabisa,Connected to other source which household pays for (e.g. con,1609.57
+municipality,5276,,Big Five Hlabisa,Generator,0
+municipality,5276,,Big Five Hlabisa,In-house conventional meter,2038.654
+municipality,5276,,Big Five Hlabisa,In-house prepaid meter,76834.07
+municipality,5276,,Big Five Hlabisa,No access to electricity,21830.21
+municipality,5276,,Big Five Hlabisa,Other,602.0289
+municipality,5276,,Big Five Hlabisa,Solar home system,4020.585
+municipality,1047,,Bitou,Battery,119.4104
+municipality,1047,,Bitou,Connected to other source which household is not paying for,29.98155
+municipality,1047,,Bitou,Connected to other source which household pays for (e.g. con,331.1032
+municipality,1047,,Bitou,Generator,0
+municipality,1047,,Bitou,In-house conventional meter,10869.63
+municipality,1047,,Bitou,In-house prepaid meter,46667.53
+municipality,1047,,Bitou,No access to electricity,225.5377
+municipality,1047,,Bitou,Other,448.812
+municipality,1047,,Bitou,Solar home system,465.1771
+municipality,9351,,Blouberg,Battery,0
+municipality,9351,,Blouberg,Connected to other source which household is not paying for,28.6127
+municipality,9351,,Blouberg,Connected to other source which household pays for (e.g. con,185.8774
+municipality,9351,,Blouberg,Generator,12.61259
+municipality,9351,,Blouberg,In-house conventional meter,3440.135
+municipality,9351,,Blouberg,In-house prepaid meter,164739.2
+municipality,9351,,Blouberg,No access to electricity,3776.506
+municipality,9351,,Blouberg,Other,264.0697
+municipality,9351,,Blouberg,Solar home system,154.4585
+municipality,2102,,Blue Crane Route,Battery,0
+municipality,2102,,Blue Crane Route,Connected to other source which household is not paying for,269.2655
+municipality,2102,,Blue Crane Route,Connected to other source which household pays for (e.g. con,323.8532
+municipality,2102,,Blue Crane Route,Generator,0
+municipality,2102,,Blue Crane Route,In-house conventional meter,901.5179
+municipality,2102,,Blue Crane Route,In-house prepaid meter,33040.47
+municipality,2102,,Blue Crane Route,No access to electricity,1342.78
+municipality,2102,,Blue Crane Route,Other,185.3768
+municipality,2102,,Blue Crane Route,Solar home system,0
+district,637,,Bojanala,Battery,242.5386
+district,637,,Bojanala,Connected to other source which household is not paying for,5902.773
+district,637,,Bojanala,Connected to other source which household pays for (e.g. con,28529.96
+district,637,,Bojanala,Generator,1079.875
+district,637,,Bojanala,In-house conventional meter,122954.1
+district,637,,Bojanala,In-house prepaid meter,1363691
+district,637,,Bojanala,No access to electricity,126079.2
+district,637,,Bojanala,Other,7095.099
+district,637,,Bojanala,Solar home system,1573.708
+municipality,1025,,Breede Valley,Battery,0
+municipality,1025,,Breede Valley,Connected to other source which household is not paying for,2244.24
+municipality,1025,,Breede Valley,Connected to other source which household pays for (e.g. con,5856.247
+municipality,1025,,Breede Valley,Generator,302.2477
+municipality,1025,,Breede Valley,In-house conventional meter,27416.2
+municipality,1025,,Breede Valley,In-house prepaid meter,130332.4
+municipality,1025,,Breede Valley,No access to electricity,7119.442
+municipality,1025,,Breede Valley,Other,3237.906
+municipality,1025,,Breede Valley,Solar home system,69.76258
+municipality,292,,Buffalo City,Battery,237.0478
+municipality,2920,,Buffalo City,Battery,237.0478
+municipality,292,,Buffalo City,Battery,237.0478
+municipality,2920,,Buffalo City,Battery,237.0478
+municipality,292,,Buffalo City,Connected to other source which household is not paying for,21669.84
+municipality,2920,,Buffalo City,Connected to other source which household is not paying for,21669.84
+municipality,292,,Buffalo City,Connected to other source which household is not paying for,21669.84
+municipality,2920,,Buffalo City,Connected to other source which household is not paying for,21669.84
+municipality,292,,Buffalo City,Connected to other source which household pays for (e.g. con,9315.228
+municipality,2920,,Buffalo City,Connected to other source which household pays for (e.g. con,9315.228
+municipality,292,,Buffalo City,Connected to other source which household pays for (e.g. con,9315.228
+municipality,2920,,Buffalo City,Connected to other source which household pays for (e.g. con,9315.228
+municipality,292,,Buffalo City,Generator,593.1994
+municipality,2920,,Buffalo City,Generator,593.1994
+municipality,292,,Buffalo City,Generator,593.1994
+municipality,2920,,Buffalo City,Generator,593.1994
+municipality,292,,Buffalo City,In-house conventional meter,71220.96
+municipality,2920,,Buffalo City,In-house conventional meter,71220.96
+municipality,292,,Buffalo City,In-house conventional meter,71220.96
+municipality,2920,,Buffalo City,In-house conventional meter,71220.96
+municipality,292,,Buffalo City,In-house prepaid meter,647788.1
+municipality,2920,,Buffalo City,In-house prepaid meter,647788.1
+municipality,292,,Buffalo City,In-house prepaid meter,647788.1
+municipality,2920,,Buffalo City,In-house prepaid meter,647788.1
+municipality,292,,Buffalo City,No access to electricity,77341.46
+municipality,2920,,Buffalo City,No access to electricity,77341.46
+municipality,292,,Buffalo City,No access to electricity,77341.46
+municipality,2920,,Buffalo City,No access to electricity,77341.46
+municipality,292,,Buffalo City,Other,6556.271
+municipality,2920,,Buffalo City,Other,6556.271
+municipality,292,,Buffalo City,Other,6556.271
+municipality,2920,,Buffalo City,Other,6556.271
+municipality,292,,Buffalo City,Solar home system,274.9862
+municipality,2920,,Buffalo City,Solar home system,274.9862
+municipality,292,,Buffalo City,Solar home system,274.9862
+municipality,2920,,Buffalo City,Solar home system,274.9862
+municipality,8325,,Bushbuckridge,Battery,254.5842
+municipality,8325,,Bushbuckridge,Connected to other source which household is not paying for,4087.357
+municipality,8325,,Bushbuckridge,Connected to other source which household pays for (e.g. con,2599.425
+municipality,8325,,Bushbuckridge,Generator,258.6243
+municipality,8325,,Bushbuckridge,In-house conventional meter,29878.97
+municipality,8325,,Bushbuckridge,In-house prepaid meter,497891.7
+municipality,8325,,Bushbuckridge,No access to electricity,9962.83
+municipality,8325,,Bushbuckridge,Other,1183.524
+municipality,8325,,Bushbuckridge,Solar home system,98.41383
+district,210,,Cacadu,Battery,0
+district,210,,Cacadu,Connected to other source which household is not paying for,5419.322
+district,210,,Cacadu,Connected to other source which household pays for (e.g. con,6228.263
+district,210,,Cacadu,Generator,1418.315
+district,210,,Cacadu,In-house conventional meter,61851.02
+district,210,,Cacadu,In-house prepaid meter,376766.9
+district,210,,Cacadu,No access to electricity,25706.45
+district,210,,Cacadu,Other,1704.289
+district,210,,Cacadu,Solar home system,828.2774
+municipality,1033,,Cape Agulhas,Battery,0
+municipality,1033,,Cape Agulhas,Connected to other source which household is not paying for,198.1522
+municipality,1033,,Cape Agulhas,Connected to other source which household pays for (e.g. con,678.246
+municipality,1033,,Cape Agulhas,Generator,0
+municipality,1033,,Cape Agulhas,In-house conventional meter,11367.87
+municipality,1033,,Cape Agulhas,In-house prepaid meter,22992.42
+municipality,1033,,Cape Agulhas,No access to electricity,268.5922
+municipality,1033,,Cape Agulhas,Other,494.6479
+municipality,1033,,Cape Agulhas,Solar home system,0
+district,102,,Cape Winelands,Battery,73.32571
+district,102,,Cape Winelands,Connected to other source which household is not paying for,7755.984
+district,102,,Cape Winelands,Connected to other source which household pays for (e.g. con,33082.83
+district,102,,Cape Winelands,Generator,362.1736
+district,102,,Cape Winelands,In-house conventional meter,146156.8
+district,102,,Cape Winelands,In-house prepaid meter,634151
+district,102,,Cape Winelands,No access to electricity,27868.23
+district,102,,Cape Winelands,Other,15918.08
+district,102,,Cape Winelands,Solar home system,632.2599
+district,935,,Capricorn,Battery,283.88
+district,935,,Capricorn,Connected to other source which household is not paying for,4603.406
+district,935,,Capricorn,Connected to other source which household pays for (e.g. con,5819.485
+district,935,,Capricorn,Generator,125.1539
+district,935,,Capricorn,In-house conventional meter,74891.18
+district,935,,Capricorn,In-house prepaid meter,1205797
+district,935,,Capricorn,No access to electricity,34671.63
+district,935,,Capricorn,Other,3409.341
+district,935,,Capricorn,Solar home system,834.4866
+municipality,1012,,Cederberg,Battery,0
+municipality,1012,,Cederberg,Connected to other source which household is not paying for,1143.584
+municipality,1012,,Cederberg,Connected to other source which household pays for (e.g. con,2810.055
+municipality,1012,,Cederberg,Generator,0
+municipality,1012,,Cederberg,In-house conventional meter,4122.36
+municipality,1012,,Cederberg,In-house prepaid meter,41972.23
+municipality,1012,,Cederberg,No access to electricity,2343.533
+municipality,1012,,Cederberg,Other,430.498
+municipality,1012,,Cederberg,Solar home system,126.8637
+district,105,,Central Karoo,Battery,38.13386
+district,105,,Central Karoo,Connected to other source which household is not paying for,71.58388
+district,105,,Central Karoo,Connected to other source which household pays for (e.g. con,103.8236
+district,105,,Central Karoo,Generator,0
+district,105,,Central Karoo,In-house conventional meter,5924.745
+district,105,,Central Karoo,In-house prepaid meter,65855.45
+district,105,,Central Karoo,No access to electricity,960.8143
+district,105,,Central Karoo,Other,673.3381
+district,105,,Central Karoo,Solar home system,619.3503
+municipality,8301,,Chief Albert Luthuli,Battery,33.95184
+municipality,8301,,Chief Albert Luthuli,Connected to other source which household is not paying for,165.187
+municipality,8301,,Chief Albert Luthuli,Connected to other source which household pays for (e.g. con,482.87
+municipality,8301,,Chief Albert Luthuli,Generator,0
+municipality,8301,,Chief Albert Luthuli,In-house conventional meter,13280.96
+municipality,8301,,Chief Albert Luthuli,In-house prepaid meter,167860.2
+municipality,8301,,Chief Albert Luthuli,No access to electricity,5165.423
+municipality,8301,,Chief Albert Luthuli,Other,495.9806
+municipality,8301,,Chief Albert Luthuli,Solar home system,144.8812
+district,213,,Chris Hani,Battery,131.6766
+district,213,,Chris Hani,Connected to other source which household is not paying for,4711.491
+district,213,,Chris Hani,Connected to other source which household pays for (e.g. con,8733.045
+district,213,,Chris Hani,Generator,159.1234
+district,213,,Chris Hani,In-house conventional meter,60456.43
+district,213,,Chris Hani,In-house prepaid meter,717021.6
+district,213,,Chris Hani,No access to electricity,40965.88
+district,213,,Chris Hani,Other,2215.819
+district,213,,Chris Hani,Solar home system,5659.525
+municipality,191,,City of Cape Town,Battery,0
+municipality,1910,,City of Cape Town,Battery,0
+municipality,191,,City of Cape Town,Battery,0
+municipality,1910,,City of Cape Town,Battery,0
+municipality,191,,City of Cape Town,Connected to other source which household is not paying for,9525.475
+municipality,1910,,City of Cape Town,Connected to other source which household is not paying for,9525.475
+municipality,191,,City of Cape Town,Connected to other source which household is not paying for,9525.475
+municipality,1910,,City of Cape Town,Connected to other source which household is not paying for,9525.475
+municipality,191,,City of Cape Town,Connected to other source which household pays for (e.g. con,93075.37
+municipality,1910,,City of Cape Town,Connected to other source which household pays for (e.g. con,93075.37
+municipality,191,,City of Cape Town,Connected to other source which household pays for (e.g. con,93075.37
+municipality,1910,,City of Cape Town,Connected to other source which household pays for (e.g. con,93075.37
+municipality,191,,City of Cape Town,Generator,388.6092
+municipality,1910,,City of Cape Town,Generator,388.6092
+municipality,191,,City of Cape Town,Generator,388.6092
+municipality,1910,,City of Cape Town,Generator,388.6092
+municipality,191,,City of Cape Town,In-house conventional meter,663702.8
+municipality,1910,,City of Cape Town,In-house conventional meter,663702.8
+municipality,191,,City of Cape Town,In-house conventional meter,663702.8
+municipality,1910,,City of Cape Town,In-house conventional meter,663702.8
+municipality,191,,City of Cape Town,In-house prepaid meter,3172370
+municipality,1910,,City of Cape Town,In-house prepaid meter,3172370
+municipality,191,,City of Cape Town,In-house prepaid meter,3172370
+municipality,1910,,City of Cape Town,In-house prepaid meter,3172370
+municipality,191,,City of Cape Town,No access to electricity,51653.05
+municipality,1910,,City of Cape Town,No access to electricity,51653.05
+municipality,191,,City of Cape Town,No access to electricity,51653.05
+municipality,1910,,City of Cape Town,No access to electricity,51653.05
+municipality,191,,City of Cape Town,Other,13768.8
+municipality,1910,,City of Cape Town,Other,13768.8
+municipality,191,,City of Cape Town,Other,13768.8
+municipality,1910,,City of Cape Town,Other,13768.8
+municipality,191,,City of Cape Town,Solar home system,531.2118
+municipality,1910,,City of Cape Town,Solar home system,531.2118
+municipality,191,,City of Cape Town,Solar home system,531.2118
+municipality,1910,,City of Cape Town,Solar home system,531.2118
+municipality,798,,City of Johannesburg,Battery,723.1787
+municipality,7980,,City of Johannesburg,Battery,723.1787
+municipality,798,,City of Johannesburg,Battery,723.1787
+municipality,7980,,City of Johannesburg,Battery,723.1787
+municipality,798,,City of Johannesburg,Connected to other source which household is not paying for,44163.7
+municipality,7980,,City of Johannesburg,Connected to other source which household is not paying for,44163.7
+municipality,798,,City of Johannesburg,Connected to other source which household is not paying for,44163.7
+municipality,7980,,City of Johannesburg,Connected to other source which household is not paying for,44163.7
+municipality,798,,City of Johannesburg,Connected to other source which household pays for (e.g. con,127705.8
+municipality,7980,,City of Johannesburg,Connected to other source which household pays for (e.g. con,127705.8
+municipality,798,,City of Johannesburg,Connected to other source which household pays for (e.g. con,127705.8
+municipality,7980,,City of Johannesburg,Connected to other source which household pays for (e.g. con,127705.8
+municipality,798,,City of Johannesburg,Generator,1770.656
+municipality,7980,,City of Johannesburg,Generator,1770.656
+municipality,798,,City of Johannesburg,Generator,1770.656
+municipality,7980,,City of Johannesburg,Generator,1770.656
+municipality,798,,City of Johannesburg,In-house conventional meter,1714916
+municipality,7980,,City of Johannesburg,In-house conventional meter,1714916
+municipality,798,,City of Johannesburg,In-house conventional meter,1714916
+municipality,7980,,City of Johannesburg,In-house conventional meter,1714916
+municipality,798,,City of Johannesburg,In-house prepaid meter,2690877
+municipality,7980,,City of Johannesburg,In-house prepaid meter,2690877
+municipality,798,,City of Johannesburg,In-house prepaid meter,2690877
+municipality,7980,,City of Johannesburg,In-house prepaid meter,2690877
+municipality,798,,City of Johannesburg,No access to electricity,314910.2
+municipality,7980,,City of Johannesburg,No access to electricity,314910.2
+municipality,798,,City of Johannesburg,No access to electricity,314910.2
+municipality,7980,,City of Johannesburg,No access to electricity,314910.2
+municipality,798,,City of Johannesburg,Other,51728.17
+municipality,7980,,City of Johannesburg,Other,51728.17
+municipality,798,,City of Johannesburg,Other,51728.17
+municipality,7980,,City of Johannesburg,Other,51728.17
+municipality,798,,City of Johannesburg,Solar home system,2551.671
+municipality,7980,,City of Johannesburg,Solar home system,2551.671
+municipality,798,,City of Johannesburg,Solar home system,2551.671
+municipality,7980,,City of Johannesburg,Solar home system,2551.671
+municipality,6403,,City of Matlosana,Battery,17.10935
+municipality,6403,,City of Matlosana,Connected to other source which household is not paying for,534.5611
+municipality,6403,,City of Matlosana,Connected to other source which household pays for (e.g. con,4648.283
+municipality,6403,,City of Matlosana,Generator,175.605
+municipality,6403,,City of Matlosana,In-house conventional meter,71675.03
+municipality,6403,,City of Matlosana,In-house prepaid meter,324038.7
+municipality,6403,,City of Matlosana,No access to electricity,15522.63
+municipality,6403,,City of Matlosana,Other,664.5409
+municipality,6403,,City of Matlosana,Solar home system,5.661775
+municipality,8326,,City of Mbombela,Battery,0
+municipality,8326,,City of Mbombela,Connected to other source which household is not paying for,8824.078
+municipality,8326,,City of Mbombela,Connected to other source which household pays for (e.g. con,7452.112
+municipality,8326,,City of Mbombela,Generator,418.0621
+municipality,8326,,City of Mbombela,In-house conventional meter,39175.25
+municipality,8326,,City of Mbombela,In-house prepaid meter,617092.1
+municipality,8326,,City of Mbombela,No access to electricity,20867.48
+municipality,8326,,City of Mbombela,Other,1353.305
+municipality,8326,,City of Mbombela,Solar home system,730.6059
+municipality,799,,City of Tshwane,Battery,312.5959
+municipality,7990,,City of Tshwane,Battery,312.5959
+municipality,799,,City of Tshwane,Battery,312.5959
+municipality,7990,,City of Tshwane,Battery,312.5959
+municipality,799,,City of Tshwane,Connected to other source which household is not paying for,16394.13
+municipality,7990,,City of Tshwane,Connected to other source which household is not paying for,16394.13
+municipality,799,,City of Tshwane,Connected to other source which household is not paying for,16394.13
+municipality,7990,,City of Tshwane,Connected to other source which household is not paying for,16394.13
+municipality,799,,City of Tshwane,Connected to other source which household pays for (e.g. con,51651.51
+municipality,7990,,City of Tshwane,Connected to other source which household pays for (e.g. con,51651.51
+municipality,799,,City of Tshwane,Connected to other source which household pays for (e.g. con,51651.51
+municipality,7990,,City of Tshwane,Connected to other source which household pays for (e.g. con,51651.51
+municipality,799,,City of Tshwane,Generator,2345.216
+municipality,7990,,City of Tshwane,Generator,2345.216
+municipality,799,,City of Tshwane,Generator,2345.216
+municipality,7990,,City of Tshwane,Generator,2345.216
+municipality,799,,City of Tshwane,In-house conventional meter,869307.7
+municipality,7990,,City of Tshwane,In-house conventional meter,869307.7
+municipality,799,,City of Tshwane,In-house conventional meter,869307.7
+municipality,7990,,City of Tshwane,In-house conventional meter,869307.7
+municipality,799,,City of Tshwane,In-house prepaid meter,2137743
+municipality,7990,,City of Tshwane,In-house prepaid meter,2137743
+municipality,799,,City of Tshwane,In-house prepaid meter,2137743
+municipality,7990,,City of Tshwane,In-house prepaid meter,2137743
+municipality,799,,City of Tshwane,No access to electricity,171329.2
+municipality,7990,,City of Tshwane,No access to electricity,171329.2
+municipality,799,,City of Tshwane,No access to electricity,171329.2
+municipality,7990,,City of Tshwane,No access to electricity,171329.2
+municipality,799,,City of Tshwane,Other,22692.1
+municipality,7990,,City of Tshwane,Other,22692.1
+municipality,799,,City of Tshwane,Other,22692.1
+municipality,7990,,City of Tshwane,Other,22692.1
+municipality,799,,City of Tshwane,Solar home system,3376.37
+municipality,7990,,City of Tshwane,Solar home system,3376.37
+municipality,799,,City of Tshwane,Solar home system,3376.37
+municipality,7990,,City of Tshwane,Solar home system,3376.37
+municipality,5254,,Dannhauser,Battery,0
+municipality,5254,,Dannhauser,Connected to other source which household is not paying for,173.9349
+municipality,5254,,Dannhauser,Connected to other source which household pays for (e.g. con,34.81502
+municipality,5254,,Dannhauser,Generator,7.407919
+municipality,5254,,Dannhauser,In-house conventional meter,4435.866
+municipality,5254,,Dannhauser,In-house prepaid meter,93391.22
+municipality,5254,,Dannhauser,No access to electricity,7081.174
+municipality,5254,,Dannhauser,Other,82.98454
+municipality,5254,,Dannhauser,Solar home system,133.8344
+municipality,3087,,Dawid Kruiper,Battery,73.98386
+municipality,3087,,Dawid Kruiper,Connected to other source which household is not paying for,74.92302
+municipality,3087,,Dawid Kruiper,Connected to other source which household pays for (e.g. con,470.4758
+municipality,3087,,Dawid Kruiper,Generator,120.625
+municipality,3087,,Dawid Kruiper,In-house conventional meter,21701.64
+municipality,3087,,Dawid Kruiper,In-house prepaid meter,78615.85
+municipality,3087,,Dawid Kruiper,No access to electricity,3321.966
+municipality,3087,,Dawid Kruiper,Other,2119.288
+municipality,3087,,Dawid Kruiper,Solar home system,662.4874
+municipality,4192,,Dihlabeng,Battery,0
+municipality,4192,,Dihlabeng,Connected to other source which household is not paying for,697.4779
+municipality,4192,,Dihlabeng,Connected to other source which household pays for (e.g. con,4365.953
+municipality,4192,,Dihlabeng,Generator,71.73406
+municipality,4192,,Dihlabeng,In-house conventional meter,8813.504
+municipality,4192,,Dihlabeng,In-house prepaid meter,111857.4
+municipality,4192,,Dihlabeng,No access to electricity,13698.86
+municipality,4192,,Dihlabeng,Other,351.298
+municipality,4192,,Dihlabeng,Solar home system,187.5026
+municipality,3092,,Dikgatlong,Battery,0
+municipality,3092,,Dikgatlong,Connected to other source which household is not paying for,223.3237
+municipality,3092,,Dikgatlong,Connected to other source which household pays for (e.g. con,238.6108
+municipality,3092,,Dikgatlong,Generator,0
+municipality,3092,,Dikgatlong,In-house conventional meter,3688.434
+municipality,3092,,Dikgatlong,In-house prepaid meter,38618.05
+municipality,3092,,Dikgatlong,No access to electricity,5303.904
+municipality,3092,,Dikgatlong,Other,319.8777
+municipality,3092,,Dikgatlong,Solar home system,81.19319
+municipality,8306,,Dipaleseng,Battery,54.0573
+municipality,8306,,Dipaleseng,Connected to other source which household is not paying for,91.69102
+municipality,8306,,Dipaleseng,Connected to other source which household pays for (e.g. con,72.06934
+municipality,8306,,Dipaleseng,Generator,221.1709
+municipality,8306,,Dipaleseng,In-house conventional meter,5538.643
+municipality,8306,,Dipaleseng,In-house prepaid meter,32257.74
+municipality,8306,,Dipaleseng,No access to electricity,6897.102
+municipality,8306,,Dipaleseng,Other,0
+municipality,8306,,Dipaleseng,Solar home system,99.55003
+municipality,6384,,Ditsobotla,Battery,0
+municipality,6384,,Ditsobotla,Connected to other source which household is not paying for,553.3913
+municipality,6384,,Ditsobotla,Connected to other source which household pays for (e.g. con,1577.625
+municipality,6384,,Ditsobotla,Generator,53.94204
+municipality,6384,,Ditsobotla,In-house conventional meter,10292.59
+municipality,6384,,Ditsobotla,In-house prepaid meter,154206.8
+municipality,6384,,Ditsobotla,No access to electricity,14765.08
+municipality,6384,,Ditsobotla,Other,360.6108
+municipality,6384,,Ditsobotla,Solar home system,54.75246
+municipality,2101,,Dr Beyers Naude,Battery,0
+municipality,2101,,Dr Beyers Naude,Connected to other source which household is not paying for,659.2691
+municipality,2101,,Dr Beyers Naude,Connected to other source which household pays for (e.g. con,1307.492
+municipality,2101,,Dr Beyers Naude,Generator,737.1584
+municipality,2101,,Dr Beyers Naude,In-house conventional meter,22256.92
+municipality,2101,,Dr Beyers Naude,In-house prepaid meter,55274.03
+municipality,2101,,Dr Beyers Naude,No access to electricity,1567.819
+municipality,2101,,Dr Beyers Naude,Other,96.19538
+municipality,2101,,Dr Beyers Naude,Solar home system,297.8275
+municipality,8316,,Dr JS Moroka,Battery,0
+municipality,8316,,Dr JS Moroka,Connected to other source which household is not paying for,4297.388
+municipality,8316,,Dr JS Moroka,Connected to other source which household pays for (e.g. con,300.3132
+municipality,8316,,Dr JS Moroka,Generator,0
+municipality,8316,,Dr JS Moroka,In-house conventional meter,7624.673
+municipality,8316,,Dr JS Moroka,In-house prepaid meter,231952.7
+municipality,8316,,Dr JS Moroka,No access to electricity,1695.415
+municipality,8316,,Dr JS Moroka,Other,145.2368
+municipality,8316,,Dr JS Moroka,Solar home system,0
+district,640,,Dr Kenneth Kaunda,Battery,35.21166
+district,640,,Dr Kenneth Kaunda,Connected to other source which household is not paying for,2180.291
+district,640,,Dr Kenneth Kaunda,Connected to other source which household pays for (e.g. con,10017.02
+district,640,,Dr Kenneth Kaunda,Generator,401.3193
+district,640,,Dr Kenneth Kaunda,In-house conventional meter,112480.4
+district,640,,Dr Kenneth Kaunda,In-house prepaid meter,576544.4
+district,640,,Dr Kenneth Kaunda,No access to electricity,38013.59
+district,640,,Dr Kenneth Kaunda,Other,2945.965
+district,640,,Dr Kenneth Kaunda,Solar home system,203.1937
+municipality,5436,,Dr Nkosazana Dlamini Zuma,Battery,0
+municipality,5436,,Dr Nkosazana Dlamini Zuma,Connected to other source which household is not paying for,364.7485
+municipality,5436,,Dr Nkosazana Dlamini Zuma,Connected to other source which household pays for (e.g. con,1084.293
+municipality,5436,,Dr Nkosazana Dlamini Zuma,Generator,0
+municipality,5436,,Dr Nkosazana Dlamini Zuma,In-house conventional meter,5748.422
+municipality,5436,,Dr Nkosazana Dlamini Zuma,In-house prepaid meter,90884.56
+municipality,5436,,Dr Nkosazana Dlamini Zuma,No access to electricity,19857.36
+municipality,5436,,Dr Nkosazana Dlamini Zuma,Other,152.0003
+municipality,5436,,Dr Nkosazana Dlamini Zuma,Solar home system,388.6641
+municipality,8304,,Dr Pixley Ka Isaka Seme,Battery,12.65735
+municipality,8304,,Dr Pixley Ka Isaka Seme,Connected to other source which household is not paying for,196.323
+municipality,8304,,Dr Pixley Ka Isaka Seme,Connected to other source which household pays for (e.g. con,167.6413
+municipality,8304,,Dr Pixley Ka Isaka Seme,Generator,0
+municipality,8304,,Dr Pixley Ka Isaka Seme,In-house conventional meter,18636.43
+municipality,8304,,Dr Pixley Ka Isaka Seme,In-house prepaid meter,54967.93
+municipality,8304,,Dr Pixley Ka Isaka Seme,No access to electricity,11087.05
+municipality,8304,,Dr Pixley Ka Isaka Seme,Other,311.3147
+municipality,8304,,Dr Pixley Ka Isaka Seme,Solar home system,15.47763
+district,639,,Dr Ruth Segomotsi Mompati,Battery,86.15417
+district,639,,Dr Ruth Segomotsi Mompati,Connected to other source which household is not paying for,446.9076
+district,639,,Dr Ruth Segomotsi Mompati,Connected to other source which household pays for (e.g. con,3801.745
+district,639,,Dr Ruth Segomotsi Mompati,Generator,159.5062
+district,639,,Dr Ruth Segomotsi Mompati,In-house conventional meter,40719.19
+district,639,,Dr Ruth Segomotsi Mompati,In-house prepaid meter,372520.1
+district,639,,Dr Ruth Segomotsi Mompati,No access to electricity,36203.54
+district,639,,Dr Ruth Segomotsi Mompati,Other,4494.745
+district,639,,Dr Ruth Segomotsi Mompati,Solar home system,925.5343
+municipality,1023,,Drakenstein,Battery,73.32571
+municipality,1023,,Drakenstein,Connected to other source which household is not paying for,1866.22
+municipality,1023,,Drakenstein,Connected to other source which household pays for (e.g. con,7760.163
+municipality,1023,,Drakenstein,Generator,0
+municipality,1023,,Drakenstein,In-house conventional meter,55991.66
+municipality,1023,,Drakenstein,In-house prepaid meter,204782.6
+municipality,1023,,Drakenstein,No access to electricity,5450.244
+municipality,1023,,Drakenstein,Other,4088.971
+municipality,1023,,Drakenstein,Solar home system,181.5815
+province,EC,,Eastern Cape,Battery,1994.466
+province,EC,,Eastern Cape,Connected to other source which household is not paying for,71378.9
+province,EC,,Eastern Cape,Connected to other source which household pays for (e.g. con,58423.88
+province,EC,,Eastern Cape,Generator,4921.233
+province,EC,,Eastern Cape,In-house conventional meter,519215.4
+province,EC,,Eastern Cape,In-house prepaid meter,5447294
+province,EC,,Eastern Cape,No access to electricity,764884.2
+province,EC,,Eastern Cape,Other,33175.69
+province,EC,,Eastern Cape,Solar home system,95688.1
+district,104,,Eden,Battery,161.691
+district,104,,Eden,Connected to other source which household is not paying for,2404.435
+district,104,,Eden,Connected to other source which household pays for (e.g. con,16031.45
+district,104,,Eden,Generator,626.1156
+district,104,,Eden,In-house conventional meter,82773.35
+district,104,,Eden,In-house prepaid meter,487977.7
+district,104,,Eden,No access to electricity,14597.59
+district,104,,Eden,Other,4028.932
+district,104,,Eden,Solar home system,2676.47
+district,832,,Ehlanzeni,Battery,271.022
+district,832,,Ehlanzeni,Connected to other source which household is not paying for,14389.8
+district,832,,Ehlanzeni,Connected to other source which household pays for (e.g. con,15579.24
+district,832,,Ehlanzeni,Generator,729.7765
+district,832,,Ehlanzeni,In-house conventional meter,99063.26
+district,832,,Ehlanzeni,In-house prepaid meter,1571582
+district,832,,Ehlanzeni,No access to electricity,48260.08
+district,832,,Ehlanzeni,Other,4137.709
+district,832,,Ehlanzeni,Solar home system,917.6612
+municipality,797,,Ekurhuleni,Battery,1118.693
+municipality,7970,,Ekurhuleni,Battery,1118.693
+municipality,797,,Ekurhuleni,Battery,1118.693
+municipality,7970,,Ekurhuleni,Battery,1118.693
+municipality,797,,Ekurhuleni,Connected to other source which household is not paying for,14901.31
+municipality,7970,,Ekurhuleni,Connected to other source which household is not paying for,14901.31
+municipality,797,,Ekurhuleni,Connected to other source which household is not paying for,14901.31
+municipality,7970,,Ekurhuleni,Connected to other source which household is not paying for,14901.31
+municipality,797,,Ekurhuleni,Connected to other source which household pays for (e.g. con,44908.45
+municipality,7970,,Ekurhuleni,Connected to other source which household pays for (e.g. con,44908.45
+municipality,797,,Ekurhuleni,Connected to other source which household pays for (e.g. con,44908.45
+municipality,7970,,Ekurhuleni,Connected to other source which household pays for (e.g. con,44908.45
+municipality,797,,Ekurhuleni,Generator,2133.781
+municipality,7970,,Ekurhuleni,Generator,2133.781
+municipality,797,,Ekurhuleni,Generator,2133.781
+municipality,7970,,Ekurhuleni,Generator,2133.781
+municipality,797,,Ekurhuleni,In-house conventional meter,723507.6
+municipality,7970,,Ekurhuleni,In-house conventional meter,723507.6
+municipality,797,,Ekurhuleni,In-house conventional meter,723507.6
+municipality,7970,,Ekurhuleni,In-house conventional meter,723507.6
+municipality,797,,Ekurhuleni,In-house prepaid meter,2217176
+municipality,7970,,Ekurhuleni,In-house prepaid meter,2217176
+municipality,797,,Ekurhuleni,In-house prepaid meter,2217176
+municipality,7970,,Ekurhuleni,In-house prepaid meter,2217176
+municipality,797,,Ekurhuleni,No access to electricity,343704.4
+municipality,7970,,Ekurhuleni,No access to electricity,343704.4
+municipality,797,,Ekurhuleni,No access to electricity,343704.4
+municipality,7970,,Ekurhuleni,No access to electricity,343704.4
+municipality,797,,Ekurhuleni,Other,15992.63
+municipality,7970,,Ekurhuleni,Other,15992.63
+municipality,797,,Ekurhuleni,Other,15992.63
+municipality,7970,,Ekurhuleni,Other,15992.63
+municipality,797,,Ekurhuleni,Solar home system,15661.05
+municipality,7970,,Ekurhuleni,Solar home system,15661.05
+municipality,797,,Ekurhuleni,Solar home system,15661.05
+municipality,7970,,Ekurhuleni,Solar home system,15661.05
+municipality,9472,,Elias Motsoaledi,Battery,0
+municipality,9472,,Elias Motsoaledi,Connected to other source which household is not paying for,606.4943
+municipality,9472,,Elias Motsoaledi,Connected to other source which household pays for (e.g. con,1103.752
+municipality,9472,,Elias Motsoaledi,Generator,89.04598
+municipality,9472,,Elias Motsoaledi,In-house conventional meter,8795.142
+municipality,9472,,Elias Motsoaledi,In-house prepaid meter,246011.4
+municipality,9472,,Elias Motsoaledi,No access to electricity,10161.95
+municipality,9472,,Elias Motsoaledi,Other,1069.769
+municipality,9472,,Elias Motsoaledi,Solar home system,418.5023
+municipality,2141,,Elundini,Battery,0
+municipality,2141,,Elundini,Connected to other source which household is not paying for,0
+municipality,2141,,Elundini,Connected to other source which household pays for (e.g. con,24.22446
+municipality,2141,,Elundini,Generator,170.0358
+municipality,2141,,Elundini,In-house conventional meter,6165.011
+municipality,2141,,Elundini,In-house prepaid meter,87741.49
+municipality,2141,,Elundini,No access to electricity,44847.14
+municipality,2141,,Elundini,Other,3658.616
+municipality,2141,,Elundini,Solar home system,2322.465
+municipality,5253,,Emadlangeni,Battery,0
+municipality,5253,,Emadlangeni,Connected to other source which household is not paying for,0
+municipality,5253,,Emadlangeni,Connected to other source which household pays for (e.g. con,0
+municipality,5253,,Emadlangeni,Generator,22.59715
+municipality,5253,,Emadlangeni,In-house conventional meter,2313.437
+municipality,5253,,Emadlangeni,In-house prepaid meter,15329.91
+municipality,5253,,Emadlangeni,No access to electricity,18907.3
+municipality,5253,,Emadlangeni,Other,41.71407
+municipality,5253,,Emadlangeni,Solar home system,253.9965
+municipality,8314,,Emakhazeni,Battery,0
+municipality,8314,,Emakhazeni,Connected to other source which household is not paying for,119.8722
+municipality,8314,,Emakhazeni,Connected to other source which household pays for (e.g. con,704.7935
+municipality,8314,,Emakhazeni,Generator,44.92114
+municipality,8314,,Emakhazeni,In-house conventional meter,2815.701
+municipality,8314,,Emakhazeni,In-house prepaid meter,35579.44
+municipality,8314,,Emakhazeni,No access to electricity,8229.419
+municipality,8314,,Emakhazeni,Other,578.0574
+municipality,8314,,Emakhazeni,Solar home system,76.85251
+municipality,2136,,Emalahleni,Battery,0
+municipality,8312,,Emalahleni,Battery,0
+municipality,2136,,Emalahleni,Battery,5.578824
+municipality,8312,,Emalahleni,Battery,5.578824
+municipality,2136,,Emalahleni,Connected to other source which household is not paying for,47.21265
+municipality,8312,,Emalahleni,Connected to other source which household is not paying for,47.21265
+municipality,2136,,Emalahleni,Connected to other source which household is not paying for,1883.783
+municipality,8312,,Emalahleni,Connected to other source which household is not paying for,1883.783
+municipality,2136,,Emalahleni,Connected to other source which household pays for (e.g. con,6724.489
+municipality,8312,,Emalahleni,Connected to other source which household pays for (e.g. con,6724.489
+municipality,2136,,Emalahleni,Connected to other source which household pays for (e.g. con,96.75968
+municipality,8312,,Emalahleni,Connected to other source which household pays for (e.g. con,96.75968
+municipality,2136,,Emalahleni,Generator,2289.592
+municipality,8312,,Emalahleni,Generator,2289.592
+municipality,2136,,Emalahleni,Generator,3.248671
+municipality,8312,,Emalahleni,Generator,3.248671
+municipality,2136,,Emalahleni,In-house conventional meter,3514.276
+municipality,8312,,Emalahleni,In-house conventional meter,3514.276
+municipality,2136,,Emalahleni,In-house conventional meter,84668.24
+municipality,8312,,Emalahleni,In-house conventional meter,84668.24
+municipality,2136,,Emalahleni,In-house prepaid meter,262723
+municipality,8312,,Emalahleni,In-house prepaid meter,262723
+municipality,2136,,Emalahleni,In-house prepaid meter,115991.2
+municipality,8312,,Emalahleni,In-house prepaid meter,115991.2
+municipality,2136,,Emalahleni,No access to electricity,4812.912
+municipality,8312,,Emalahleni,No access to electricity,4812.912
+municipality,2136,,Emalahleni,No access to electricity,90943.71
+municipality,8312,,Emalahleni,No access to electricity,90943.71
+municipality,2136,,Emalahleni,Other,61.09789
+municipality,8312,,Emalahleni,Other,61.09789
+municipality,2136,,Emalahleni,Other,5724.889
+municipality,8312,,Emalahleni,Other,5724.889
+municipality,2136,,Emalahleni,Solar home system,270.0735
+municipality,8312,,Emalahleni,Solar home system,270.0735
+municipality,2136,,Emalahleni,Solar home system,0
+municipality,8312,,Emalahleni,Solar home system,0
+municipality,7421,,Emfuleni,Battery,146.2089
+municipality,7421,,Emfuleni,Connected to other source which household is not paying for,8938.035
+municipality,7421,,Emfuleni,Connected to other source which household pays for (e.g. con,7742.961
+municipality,7421,,Emfuleni,Generator,204.982
+municipality,7421,,Emfuleni,In-house conventional meter,120744.8
+municipality,7421,,Emfuleni,In-house prepaid meter,568464.4
+municipality,7421,,Emfuleni,No access to electricity,22343.7
+municipality,7421,,Emfuleni,Other,4766.324
+municipality,7421,,Emfuleni,Solar home system,93.35303
+municipality,3073,,Emthanjeni,Battery,0
+municipality,3073,,Emthanjeni,Connected to other source which household is not paying for,34.50137
+municipality,3073,,Emthanjeni,Connected to other source which household pays for (e.g. con,277.5536
+municipality,3073,,Emthanjeni,Generator,37.07354
+municipality,3073,,Emthanjeni,In-house conventional meter,2465.24
+municipality,3073,,Emthanjeni,In-house prepaid meter,40136.34
+municipality,3073,,Emthanjeni,No access to electricity,1547.096
+municipality,3073,,Emthanjeni,Other,721.3308
+municipality,3073,,Emthanjeni,Solar home system,185.3385
+municipality,5241,,Endumeni,Battery,0
+municipality,5241,,Endumeni,Connected to other source which household is not paying for,2132.431
+municipality,5241,,Endumeni,Connected to other source which household pays for (e.g. con,1438.321
+municipality,5241,,Endumeni,Generator,0
+municipality,5241,,Endumeni,In-house conventional meter,13688.26
+municipality,5241,,Endumeni,In-house prepaid meter,47759.77
+municipality,5241,,Endumeni,No access to electricity,6721.429
+municipality,5241,,Endumeni,Other,2631.516
+municipality,5241,,Endumeni,Solar home system,2267.14
+municipality,2137,,Engcobo,Battery,0
+municipality,2137,,Engcobo,Connected to other source which household is not paying for,1569.9
+municipality,2137,,Engcobo,Connected to other source which household pays for (e.g. con,3198.838
+municipality,2137,,Engcobo,Generator,0
+municipality,2137,,Engcobo,In-house conventional meter,18021.77
+municipality,2137,,Engcobo,In-house prepaid meter,123497
+municipality,2137,,Engcobo,No access to electricity,9983.551
+municipality,2137,,Engcobo,Other,566.9342
+municipality,2137,,Engcobo,Solar home system,5175.701
+municipality,2139,,Enoch Mgijima,Battery,126.0978
+municipality,2139,,Enoch Mgijima,Connected to other source which household is not paying for,293.0865
+municipality,2139,,Enoch Mgijima,Connected to other source which household pays for (e.g. con,1488.219
+municipality,2139,,Enoch Mgijima,Generator,10.04026
+municipality,2139,,Enoch Mgijima,In-house conventional meter,28934.93
+municipality,2139,,Enoch Mgijima,In-house prepaid meter,223967.9
+municipality,2139,,Enoch Mgijima,No access to electricity,10776.2
+municipality,2139,,Enoch Mgijima,Other,1085.818
+municipality,2139,,Enoch Mgijima,Solar home system,328.9166
+municipality,9471,,Ephraim Mogale,Battery,0
+municipality,9471,,Ephraim Mogale,Connected to other source which household is not paying for,101.9241
+municipality,9471,,Ephraim Mogale,Connected to other source which household pays for (e.g. con,802.094
+municipality,9471,,Ephraim Mogale,Generator,0
+municipality,9471,,Ephraim Mogale,In-house conventional meter,5434.105
+municipality,9471,,Ephraim Mogale,In-house prepaid meter,119288.1
+municipality,9471,,Ephraim Mogale,No access to electricity,1420.01
+municipality,9471,,Ephraim Mogale,Other,122.2646
+municipality,9471,,Ephraim Mogale,Solar home system,0
+district,420,,Fezile Dabi,Battery,43.53177
+district,420,,Fezile Dabi,Connected to other source which household is not paying for,1097.403
+district,420,,Fezile Dabi,Connected to other source which household pays for (e.g. con,6986.149
+district,420,,Fezile Dabi,Generator,52.831
+district,420,,Fezile Dabi,In-house conventional meter,54029.99
+district,420,,Fezile Dabi,In-house prepaid meter,397373.2
+district,420,,Fezile Dabi,No access to electricity,32081.02
+district,420,,Fezile Dabi,Other,2681.843
+district,420,,Fezile Dabi,Solar home system,430.8816
+district,309,,Frances Baard,Battery,0
+district,309,,Frances Baard,Connected to other source which household is not paying for,1077.741
+district,309,,Frances Baard,Connected to other source which household pays for (e.g. con,2166.503
+district,309,,Frances Baard,Generator,1059.502
+district,309,,Frances Baard,In-house conventional meter,40881.41
+district,309,,Frances Baard,In-house prepaid meter,313005
+district,309,,Frances Baard,No access to electricity,28359.53
+district,309,,Frances Baard,Other,936.1534
+district,309,,Frances Baard,Solar home system,255.4409
+province,FS,,Free State,Battery,424.5692
+province,FS,,Free State,Connected to other source which household is not paying for,6082.579
+province,FS,,Free State,Connected to other source which household pays for (e.g. con,42333.61
+province,FS,,Free State,Generator,640.2704
+province,FS,,Free State,In-house conventional meter,310504.9
+province,FS,,Free State,In-house prepaid meter,2325719
+province,FS,,Free State,No access to electricity,134750.5
+province,FS,,Free State,Other,11815.57
+province,FS,,Free State,Solar home system,2443.393
+municipality,3452,,Ga-Segonyana,Battery,107.5722
+municipality,3452,,Ga-Segonyana,Connected to other source which household is not paying for,51.49407
+municipality,3452,,Ga-Segonyana,Connected to other source which household pays for (e.g. con,678.3496
+municipality,3452,,Ga-Segonyana,Generator,133.4654
+municipality,3452,,Ga-Segonyana,In-house conventional meter,5352.96
+municipality,3452,,Ga-Segonyana,In-house prepaid meter,89248.72
+municipality,3452,,Ga-Segonyana,No access to electricity,8287.61
+municipality,3452,,Ga-Segonyana,Other,154.5618
+municipality,3452,,Ga-Segonyana,Solar home system,393.243
+municipality,3453,,Gamagara,Battery,0
+municipality,3453,,Gamagara,Connected to other source which household is not paying for,23.7573
+municipality,3453,,Gamagara,Connected to other source which household pays for (e.g. con,298.5576
+municipality,3453,,Gamagara,Generator,0
+municipality,3453,,Gamagara,In-house conventional meter,4855.211
+municipality,3453,,Gamagara,In-house prepaid meter,44025.44
+municipality,3453,,Gamagara,No access to electricity,4202.34
+municipality,3453,,Gamagara,Other,103.3781
+municipality,3453,,Gamagara,Solar home system,147.0447
+province,GT,,Gauteng,Battery,2815.583
+province,GT,,Gauteng,Connected to other source which household is not paying for,90496.38
+province,GT,,Gauteng,Connected to other source which household pays for (e.g. con,261604.2
+province,GT,,Gauteng,Generator,7671.482
+province,GT,,Gauteng,In-house conventional meter,3700356
+province,GT,,Gauteng,In-house prepaid meter,8218956
+province,GT,,Gauteng,No access to electricity,986533.4
+province,GT,,Gauteng,Other,107632.2
+province,GT,,Gauteng,Solar home system,23658.87
+municipality,1044,,George,Battery,27.55633
+municipality,1044,,George,Connected to other source which household is not paying for,692.3091
+municipality,1044,,George,Connected to other source which household pays for (e.g. con,9496.484
+municipality,1044,,George,Generator,77.1189
+municipality,1044,,George,In-house conventional meter,21620.49
+municipality,1044,,George,In-house prepaid meter,172648.2
+municipality,1044,,George,No access to electricity,2305.089
+municipality,1044,,George,Other,1049.098
+municipality,1044,,George,Solar home system,320.4685
+district,830,,Gert Sibande,Battery,268.7607
+district,830,,Gert Sibande,Connected to other source which household is not paying for,855.8845
+district,830,,Gert Sibande,Connected to other source which household pays for (e.g. con,3412.469
+district,830,,Gert Sibande,Generator,1020.588
+district,830,,Gert Sibande,In-house conventional meter,145050
+district,830,,Gert Sibande,In-house prepaid meter,863818.8
+district,830,,Gert Sibande,No access to electricity,108857.2
+district,830,,Gert Sibande,Other,10252.51
+district,830,,Gert Sibande,Solar home system,1873.162
+municipality,8307,,Govan Mbeki,Battery,135.0129
+municipality,8307,,Govan Mbeki,Connected to other source which household is not paying for,0
+municipality,8307,,Govan Mbeki,Connected to other source which household pays for (e.g. con,695.7491
+municipality,8307,,Govan Mbeki,Generator,175.2269
+municipality,8307,,Govan Mbeki,In-house conventional meter,63806
+municipality,8307,,Govan Mbeki,In-house prepaid meter,259371.5
+municipality,8307,,Govan Mbeki,No access to electricity,14479.25
+municipality,8307,,Govan Mbeki,Other,1016.516
+municipality,8307,,Govan Mbeki,Solar home system,411.6327
+municipality,2123,,Great Kei,Battery,0
+municipality,2123,,Great Kei,Connected to other source which household is not paying for,106.4346
+municipality,2123,,Great Kei,Connected to other source which household pays for (e.g. con,111.867
+municipality,2123,,Great Kei,Generator,23.01777
+municipality,2123,,Great Kei,In-house conventional meter,4595.108
+municipality,2123,,Great Kei,In-house prepaid meter,20221.78
+municipality,2123,,Great Kei,No access to electricity,6513.885
+municipality,2123,,Great Kei,Other,85.48754
+municipality,2123,,Great Kei,Solar home system,34.48824
+municipality,9331,,Greater Giyani,Battery,0
+municipality,9331,,Greater Giyani,Connected to other source which household is not paying for,0
+municipality,9331,,Greater Giyani,Connected to other source which household pays for (e.g. con,77.79472
+municipality,9331,,Greater Giyani,Generator,108.3834
+municipality,9331,,Greater Giyani,In-house conventional meter,10867.32
+municipality,9331,,Greater Giyani,In-house prepaid meter,234820.3
+municipality,9331,,Greater Giyani,No access to electricity,9564.609
+municipality,9331,,Greater Giyani,Other,688.3949
+municipality,9331,,Greater Giyani,Solar home system,0
+municipality,5433,,Greater Kokstad,Battery,0
+municipality,5433,,Greater Kokstad,Connected to other source which household is not paying for,164.1021
+municipality,5433,,Greater Kokstad,Connected to other source which household pays for (e.g. con,2125.968
+municipality,5433,,Greater Kokstad,Generator,70.15724
+municipality,5433,,Greater Kokstad,In-house conventional meter,3267.391
+municipality,5433,,Greater Kokstad,In-house prepaid meter,65498.63
+municipality,5433,,Greater Kokstad,No access to electricity,5567.049
+municipality,5433,,Greater Kokstad,Other,0
+municipality,5433,,Greater Kokstad,Solar home system,59.55488
+municipality,9332,,Greater Letaba,Battery,66.58271
+municipality,9332,,Greater Letaba,Connected to other source which household is not paying for,540.789
+municipality,9332,,Greater Letaba,Connected to other source which household pays for (e.g. con,1124.398
+municipality,9332,,Greater Letaba,Generator,0
+municipality,9332,,Greater Letaba,In-house conventional meter,11891.65
+municipality,9332,,Greater Letaba,In-house prepaid meter,198587.1
+municipality,9332,,Greater Letaba,No access to electricity,5465.523
+municipality,9332,,Greater Letaba,Other,353.5695
+municipality,9332,,Greater Letaba,Solar home system,0
+municipality,6394,,Greater Taung,Battery,0
+municipality,6394,,Greater Taung,Connected to other source which household is not paying for,87.61814
+municipality,6394,,Greater Taung,Connected to other source which household pays for (e.g. con,497.1551
+municipality,6394,,Greater Taung,Generator,17.53866
+municipality,6394,,Greater Taung,In-house conventional meter,7295.77
+municipality,6394,,Greater Taung,In-house prepaid meter,152870.9
+municipality,6394,,Greater Taung,No access to electricity,6983.04
+municipality,6394,,Greater Taung,Other,70.33039
+municipality,6394,,Greater Taung,Solar home system,4.933471
+municipality,9476,,Greater Tubatse/Fetakgomo,Battery,0
+municipality,9476,,Greater Tubatse/Fetakgomo,Connected to other source which household is not paying for,6335.708
+municipality,9476,,Greater Tubatse/Fetakgomo,Connected to other source which household pays for (e.g. con,5179.251
+municipality,9476,,Greater Tubatse/Fetakgomo,Generator,171.2749
+municipality,9476,,Greater Tubatse/Fetakgomo,In-house conventional meter,23643.42
+municipality,9476,,Greater Tubatse/Fetakgomo,In-house prepaid meter,402273.6
+municipality,9476,,Greater Tubatse/Fetakgomo,No access to electricity,49200.71
+municipality,9476,,Greater Tubatse/Fetakgomo,Other,1158.127
+municipality,9476,,Greater Tubatse/Fetakgomo,Solar home system,1940.324
+municipality,9333,,Greater Tzaneen,Battery,0
+municipality,9333,,Greater Tzaneen,Connected to other source which household is not paying for,3118.304
+municipality,9333,,Greater Tzaneen,Connected to other source which household pays for (e.g. con,17291.18
+municipality,9333,,Greater Tzaneen,Generator,0
+municipality,9333,,Greater Tzaneen,In-house conventional meter,46131.5
+municipality,9333,,Greater Tzaneen,In-house prepaid meter,332118.6
+municipality,9333,,Greater Tzaneen,No access to electricity,16366.09
+municipality,9333,,Greater Tzaneen,Other,998.1598
+municipality,9333,,Greater Tzaneen,Solar home system,122.5124
+municipality,3065,,Hantam,Battery,40.40918
+municipality,3065,,Hantam,Connected to other source which household is not paying for,48.25976
+municipality,3065,,Hantam,Connected to other source which household pays for (e.g. con,215.0827
+municipality,3065,,Hantam,Generator,23.72028
+municipality,3065,,Hantam,In-house conventional meter,1520.193
+municipality,3065,,Hantam,In-house prepaid meter,17433.59
+municipality,3065,,Hantam,No access to electricity,705.5879
+municipality,3065,,Hantam,Other,163.7361
+municipality,3065,,Hantam,Solar home system,1389.807
+municipality,1042,,Hessequa,Battery,0
+municipality,1042,,Hessequa,Connected to other source which household is not paying for,292.8068
+municipality,1042,,Hessequa,Connected to other source which household pays for (e.g. con,602.595
+municipality,1042,,Hessequa,Generator,0
+municipality,1042,,Hessequa,In-house conventional meter,8391.431
+municipality,1042,,Hessequa,In-house prepaid meter,43640.35
+municipality,1042,,Hessequa,No access to electricity,304.038
+municipality,1042,,Hessequa,Other,833.9748
+municipality,1042,,Hessequa,Solar home system,171.6834
+municipality,5224,,Impendle,Battery,0
+municipality,5224,,Impendle,Connected to other source which household is not paying for,166.9173
+municipality,5224,,Impendle,Connected to other source which household pays for (e.g. con,365.53
+municipality,5224,,Impendle,Generator,0
+municipality,5224,,Impendle,In-house conventional meter,1483.079
+municipality,5224,,Impendle,In-house prepaid meter,26544.47
+municipality,5224,,Impendle,No access to electricity,900.538
+municipality,5224,,Impendle,Other,0
+municipality,5224,,Impendle,Solar home system,65.18736
+municipality,5237,,Inkosi Langalibalele,Battery,41.57581
+municipality,5237,,Inkosi Langalibalele,Connected to other source which household is not paying for,954.4446
+municipality,5237,,Inkosi Langalibalele,Connected to other source which household pays for (e.g. con,8302.797
+municipality,5237,,Inkosi Langalibalele,Generator,97.69443
+municipality,5237,,Inkosi Langalibalele,In-house conventional meter,7254.936
+municipality,5237,,Inkosi Langalibalele,In-house prepaid meter,172323.7
+municipality,5237,,Inkosi Langalibalele,No access to electricity,24097.25
+municipality,5237,,Inkosi Langalibalele,Other,390.8062
+municipality,5237,,Inkosi Langalibalele,Solar home system,1718.427
+municipality,2135,,Intsika Yethu,Battery,0
+municipality,2135,,Intsika Yethu,Connected to other source which household is not paying for,2497.823
+municipality,2135,,Intsika Yethu,Connected to other source which household pays for (e.g. con,1189.261
+municipality,2135,,Intsika Yethu,Generator,62.51945
+municipality,2135,,Intsika Yethu,In-house conventional meter,1967.761
+municipality,2135,,Intsika Yethu,In-house prepaid meter,134607.2
+municipality,2135,,Intsika Yethu,No access to electricity,11445.28
+municipality,2135,,Intsika Yethu,Other,368.9219
+municipality,2135,,Intsika Yethu,Solar home system,19.80204
+municipality,2131,,Inxuba Yethemba,Battery,0
+municipality,2131,,Inxuba Yethemba,Connected to other source which household is not paying for,271.4294
+municipality,2131,,Inxuba Yethemba,Connected to other source which household pays for (e.g. con,2734.926
+municipality,2131,,Inxuba Yethemba,Generator,50.763
+municipality,2131,,Inxuba Yethemba,In-house conventional meter,6493.565
+municipality,2131,,Inxuba Yethemba,In-house prepaid meter,58778.44
+municipality,2131,,Inxuba Yethemba,No access to electricity,2017.466
+municipality,2131,,Inxuba Yethemba,Other,84.80701
+municipality,2131,,Inxuba Yethemba,Solar home system,61.24081
+district,214,,Joe Gqabi,Battery,0
+district,214,,Joe Gqabi,Connected to other source which household is not paying for,128.4823
+district,214,,Joe Gqabi,Connected to other source which household pays for (e.g. con,2198.736
+district,214,,Joe Gqabi,Generator,361.6391
+district,214,,Joe Gqabi,In-house conventional meter,21713.53
+district,214,,Joe Gqabi,In-house prepaid meter,283755.8
+district,214,,Joe Gqabi,No access to electricity,57715.14
+district,214,,Joe Gqabi,Other,4206.217
+district,214,,Joe Gqabi,Solar home system,2832.225
+municipality,3451,,Joe Morolong,Battery,0
+municipality,3451,,Joe Morolong,Connected to other source which household is not paying for,58.67837
+municipality,3451,,Joe Morolong,Connected to other source which household pays for (e.g. con,83.44686
+municipality,3451,,Joe Morolong,Generator,0
+municipality,3451,,Joe Morolong,In-house conventional meter,2594.004
+municipality,3451,,Joe Morolong,In-house prepaid meter,72592.53
+municipality,3451,,Joe Morolong,No access to electricity,8616.461
+municipality,3451,,Joe Morolong,Other,242.719
+municipality,3451,,Joe Morolong,Solar home system,12.90024
+district,345,,John Taolo Gaetsewe,Battery,107.5722
+district,345,,John Taolo Gaetsewe,Connected to other source which household is not paying for,133.9297
+district,345,,John Taolo Gaetsewe,Connected to other source which household pays for (e.g. con,1060.354
+district,345,,John Taolo Gaetsewe,Generator,133.4654
+district,345,,John Taolo Gaetsewe,In-house conventional meter,12802.18
+district,345,,John Taolo Gaetsewe,In-house prepaid meter,205866.7
+district,345,,John Taolo Gaetsewe,No access to electricity,21106.41
+district,345,,John Taolo Gaetsewe,Other,500.6589
+district,345,,John Taolo Gaetsewe,Solar home system,553.188
+municipality,5272,,Jozini,Battery,724.1217
+municipality,5272,,Jozini,Connected to other source which household is not paying for,267.1984
+municipality,5272,,Jozini,Connected to other source which household pays for (e.g. con,4732.091
+municipality,5272,,Jozini,Generator,739.6104
+municipality,5272,,Jozini,In-house conventional meter,15792.39
+municipality,5272,,Jozini,In-house prepaid meter,52755.51
+municipality,5272,,Jozini,No access to electricity,108348.8
+municipality,5272,,Jozini,Other,6333.937
+municipality,5272,,Jozini,Solar home system,8521.455
+municipality,6397,,Kagisano/Molopo,Battery,0
+municipality,6397,,Kagisano/Molopo,Connected to other source which household is not paying for,158.2951
+municipality,6397,,Kagisano/Molopo,Connected to other source which household pays for (e.g. con,706.648
+municipality,6397,,Kagisano/Molopo,Generator,23.67104
+municipality,6397,,Kagisano/Molopo,In-house conventional meter,9018.769
+municipality,6397,,Kagisano/Molopo,In-house prepaid meter,80806.28
+municipality,6397,,Kagisano/Molopo,No access to electricity,11750.38
+municipality,6397,,Kagisano/Molopo,Other,115.4998
+municipality,6397,,Kagisano/Molopo,Solar home system,123.0871
+municipality,3082,,Kai Garib,Battery,123.524
+municipality,3082,,Kai Garib,Connected to other source which household is not paying for,525.0526
+municipality,3082,,Kai Garib,Connected to other source which household pays for (e.g. con,2309.735
+municipality,3082,,Kai Garib,Generator,0
+municipality,3082,,Kai Garib,In-house conventional meter,13225.87
+municipality,3082,,Kai Garib,In-house prepaid meter,42746.79
+municipality,3082,,Kai Garib,No access to electricity,7198.971
+municipality,3082,,Kai Garib,Other,2085.395
+municipality,3082,,Kai Garib,Solar home system,713.4999
+municipality,3064,,Kamiesberg,Battery,0
+municipality,3064,,Kamiesberg,Connected to other source which household is not paying for,0
+municipality,3064,,Kamiesberg,Connected to other source which household pays for (e.g. con,42.50938
+municipality,3064,,Kamiesberg,Generator,38.39444
+municipality,3064,,Kamiesberg,In-house conventional meter,480.0019
+municipality,3064,,Kamiesberg,In-house prepaid meter,8634.112
+municipality,3064,,Kamiesberg,No access to electricity,86.64714
+municipality,3064,,Kamiesberg,Other,8.431553
+municipality,3064,,Kamiesberg,Solar home system,315.2181
+municipality,1041,,Kannaland,Battery,0
+municipality,1041,,Kannaland,Connected to other source which household is not paying for,21.14596
+municipality,1041,,Kannaland,Connected to other source which household pays for (e.g. con,726.867
+municipality,1041,,Kannaland,Generator,0
+municipality,1041,,Kannaland,In-house conventional meter,4117.72
+municipality,1041,,Kannaland,In-house prepaid meter,17577.59
+municipality,1041,,Kannaland,No access to electricity,1185.409
+municipality,1041,,Kannaland,Other,471.9076
+municipality,1041,,Kannaland,Solar home system,67.12383
+municipality,3074,,Kareeberg,Battery,0
+municipality,3074,,Kareeberg,Connected to other source which household is not paying for,0
+municipality,3074,,Kareeberg,Connected to other source which household pays for (e.g. con,90.54076
+municipality,3074,,Kareeberg,Generator,0
+municipality,3074,,Kareeberg,In-house conventional meter,946.9833
+municipality,3074,,Kareeberg,In-house prepaid meter,10101.78
+municipality,3074,,Kareeberg,No access to electricity,1129.086
+municipality,3074,,Kareeberg,Other,0
+municipality,3074,,Kareeberg,Solar home system,503.4882
+municipality,3066,,Karoo Hoogland,Battery,28.6386
+municipality,3066,,Karoo Hoogland,Connected to other source which household is not paying for,0
+municipality,3066,,Karoo Hoogland,Connected to other source which household pays for (e.g. con,101.2046
+municipality,3066,,Karoo Hoogland,Generator,125.9574
+municipality,3066,,Karoo Hoogland,In-house conventional meter,855.8265
+municipality,3066,,Karoo Hoogland,In-house prepaid meter,8808.724
+municipality,3066,,Karoo Hoogland,No access to electricity,444.0084
+municipality,3066,,Karoo Hoogland,Other,0
+municipality,3066,,Karoo Hoogland,Solar home system,2645.109
+municipality,3086,,Kgatelopele,Battery,0
+municipality,3086,,Kgatelopele,Connected to other source which household is not paying for,1.145689
+municipality,3086,,Kgatelopele,Connected to other source which household pays for (e.g. con,190.9978
+municipality,3086,,Kgatelopele,Generator,0
+municipality,3086,,Kgatelopele,In-house conventional meter,5342.216
+municipality,3086,,Kgatelopele,In-house prepaid meter,14448.05
+municipality,3086,,Kgatelopele,No access to electricity,596.0281
+municipality,3086,,Kgatelopele,Other,112.6427
+municipality,3086,,Kgatelopele,Solar home system,0
+municipality,6374,,Kgetlengrivier,Battery,228.8122
+municipality,6374,,Kgetlengrivier,Connected to other source which household is not paying for,799.6416
+municipality,6374,,Kgetlengrivier,Connected to other source which household pays for (e.g. con,846.9786
+municipality,6374,,Kgetlengrivier,Generator,0
+municipality,6374,,Kgetlengrivier,In-house conventional meter,15306.4
+municipality,6374,,Kgetlengrivier,In-house prepaid meter,37903.75
+municipality,6374,,Kgetlengrivier,No access to electricity,3846.471
+municipality,6374,,Kgetlengrivier,Other,52.4204
+municipality,6374,,Kgetlengrivier,Solar home system,577.5029
+municipality,3067,,Khâi-Ma,Battery,0
+municipality,3067,,Khâi-Ma,Connected to other source which household is not paying for,0
+municipality,3067,,Khâi-Ma,Connected to other source which household pays for (e.g. con,104.1795
+municipality,3067,,Khâi-Ma,Generator,0
+municipality,3067,,Khâi-Ma,In-house conventional meter,1802.896
+municipality,3067,,Khâi-Ma,In-house prepaid meter,9637.877
+municipality,3067,,Khâi-Ma,No access to electricity,487.9639
+municipality,3067,,Khâi-Ma,Other,184.8806
+municipality,3067,,Khâi-Ma,Solar home system,115.4978
+municipality,2157,,King Sabata Dalindyebo,Battery,809.2443
+municipality,2157,,King Sabata Dalindyebo,Connected to other source which household is not paying for,11601.6
+municipality,2157,,King Sabata Dalindyebo,Connected to other source which household pays for (e.g. con,2472.47
+municipality,2157,,King Sabata Dalindyebo,Generator,94.92498
+municipality,2157,,King Sabata Dalindyebo,In-house conventional meter,34283.09
+municipality,2157,,King Sabata Dalindyebo,In-house prepaid meter,371424.3
+municipality,2157,,King Sabata Dalindyebo,No access to electricity,64054.81
+municipality,2157,,King Sabata Dalindyebo,Other,3176.626
+municipality,2157,,King Sabata Dalindyebo,Solar home system,431.6125
+municipality,1048,,Knysna,Battery,0
+municipality,1048,,Knysna,Connected to other source which household is not paying for,777.0836
+municipality,1048,,Knysna,Connected to other source which household pays for (e.g. con,2562.005
+municipality,1048,,Knysna,Generator,22.87116
+municipality,1048,,Knysna,In-house conventional meter,9733.165
+municipality,1048,,Knysna,In-house prepaid meter,56912.04
+municipality,1048,,Knysna,No access to electricity,3319.065
+municipality,1048,,Knysna,Other,343.0931
+municipality,1048,,Knysna,Solar home system,165.7466
+municipality,4162,,Kopanong,Battery,0
+municipality,4162,,Kopanong,Connected to other source which household is not paying for,117.1777
+municipality,4162,,Kopanong,Connected to other source which household pays for (e.g. con,564.7438
+municipality,4162,,Kopanong,Generator,103.9298
+municipality,4162,,Kopanong,In-house conventional meter,3732.403
+municipality,4162,,Kopanong,In-house prepaid meter,43268.45
+municipality,4162,,Kopanong,No access to electricity,1584.342
+municipality,4162,,Kopanong,Other,578.5652
+municipality,4162,,Kopanong,Solar home system,49.62627
+municipality,2109,,Kou-Kamma,Battery,0
+municipality,2109,,Kou-Kamma,Connected to other source which household is not paying for,304.6436
+municipality,2109,,Kou-Kamma,Connected to other source which household pays for (e.g. con,828.2093
+municipality,2109,,Kou-Kamma,Generator,0
+municipality,2109,,Kou-Kamma,In-house conventional meter,4098.278
+municipality,2109,,Kou-Kamma,In-house prepaid meter,36662.52
+municipality,2109,,Kou-Kamma,No access to electricity,1518.68
+municipality,2109,,Kou-Kamma,Other,0
+municipality,2109,,Kou-Kamma,Solar home system,276.1268
+municipality,2108,,Kouga,Battery,0
+municipality,2108,,Kouga,Connected to other source which household is not paying for,347.4107
+municipality,2108,,Kouga,Connected to other source which household pays for (e.g. con,2598.783
+municipality,2108,,Kouga,Generator,390.1885
+municipality,2108,,Kouga,In-house conventional meter,12472.35
+municipality,2108,,Kouga,In-house prepaid meter,85567.74
+municipality,2108,,Kouga,No access to electricity,10821.11
+municipality,2108,,Kouga,Other,743.7179
+municipality,2108,,Kouga,Solar home system,0
+municipality,5292,,KwaDukuza,Battery,0
+municipality,5292,,KwaDukuza,Connected to other source which household is not paying for,2905.84
+municipality,5292,,KwaDukuza,Connected to other source which household pays for (e.g. con,8498.183
+municipality,5292,,KwaDukuza,Generator,0
+municipality,5292,,KwaDukuza,In-house conventional meter,49671.31
+municipality,5292,,KwaDukuza,In-house prepaid meter,206847.6
+municipality,5292,,KwaDukuza,No access to electricity,7836.598
+municipality,5292,,KwaDukuza,Other,818.7248
+municipality,5292,,KwaDukuza,Solar home system,140.3874
+province,KZN,,KwaZulu-Natal,Battery,3692.682
+province,KZN,,KwaZulu-Natal,Connected to other source which household is not paying for,121399.3
+province,KZN,,KwaZulu-Natal,Connected to other source which household pays for (e.g. con,129188.6
+province,KZN,,KwaZulu-Natal,Generator,9621.2
+province,KZN,,KwaZulu-Natal,In-house conventional meter,1992248
+province,KZN,,KwaZulu-Natal,In-house prepaid meter,7497095
+province,KZN,,KwaZulu-Natal,No access to electricity,1170578
+province,KZN,,KwaZulu-Natal,Other,85916.84
+province,KZN,,KwaZulu-Natal,Solar home system,55500.81
+municipality,1051,,Laingsburg,Battery,0
+municipality,1051,,Laingsburg,Connected to other source which household is not paying for,39.15065
+municipality,1051,,Laingsburg,Connected to other source which household pays for (e.g. con,24.26367
+municipality,1051,,Laingsburg,Generator,0
+municipality,1051,,Laingsburg,In-house conventional meter,708.1703
+municipality,1051,,Laingsburg,In-house prepaid meter,7541.363
+municipality,1051,,Laingsburg,No access to electricity,125.1754
+municipality,1051,,Laingsburg,Other,194.702
+municipality,1051,,Laingsburg,Solar home system,262.5708
+municipality,1026,,Langeberg,Battery,0
+municipality,1026,,Langeberg,Connected to other source which household is not paying for,747.559
+municipality,1026,,Langeberg,Connected to other source which household pays for (e.g. con,6237.501
+municipality,1026,,Langeberg,Generator,0
+municipality,1026,,Langeberg,In-house conventional meter,17232.28
+municipality,1026,,Langeberg,In-house prepaid meter,74074.65
+municipality,1026,,Langeberg,No access to electricity,2370.201
+municipality,1026,,Langeberg,Other,4724.012
+municipality,1026,,Langeberg,Solar home system,96.86376
+district,418,,Lejweleputswa,Battery,275.1047
+district,418,,Lejweleputswa,Connected to other source which household is not paying for,1471.177
+district,418,,Lejweleputswa,Connected to other source which household pays for (e.g. con,10464.57
+district,418,,Lejweleputswa,Generator,160.3485
+district,418,,Lejweleputswa,In-house conventional meter,95616.12
+district,418,,Lejweleputswa,In-house prepaid meter,509955.6
+district,418,,Lejweleputswa,No access to electricity,25854.28
+district,418,,Lejweleputswa,Other,2808.248
+district,418,,Lejweleputswa,Solar home system,314.4744
+municipality,8305,,Lekwa,Battery,0
+municipality,8305,,Lekwa,Connected to other source which household is not paying for,80.35262
+municipality,8305,,Lekwa,Connected to other source which household pays for (e.g. con,1350.384
+municipality,8305,,Lekwa,Generator,0
+municipality,8305,,Lekwa,In-house conventional meter,7601.293
+municipality,8305,,Lekwa,In-house prepaid meter,103986.9
+municipality,8305,,Lekwa,No access to electricity,9741.707
+municipality,8305,,Lekwa,Other,598.1342
+municipality,8305,,Lekwa,Solar home system,59.76781
+municipality,6396,,Lekwa-Teemane,Battery,70.54653
+municipality,6396,,Lekwa-Teemane,Connected to other source which household is not paying for,165.3941
+municipality,6396,,Lekwa-Teemane,Connected to other source which household pays for (e.g. con,1166.992
+municipality,6396,,Lekwa-Teemane,Generator,118.2965
+municipality,6396,,Lekwa-Teemane,In-house conventional meter,8677.496
+municipality,6396,,Lekwa-Teemane,In-house prepaid meter,41716.98
+municipality,6396,,Lekwa-Teemane,No access to electricity,1194.868
+municipality,6396,,Lekwa-Teemane,Other,2381.388
+municipality,6396,,Lekwa-Teemane,Solar home system,532.8941
+municipality,9355,,Lepele-Nkumpi,Battery,0
+municipality,9355,,Lepele-Nkumpi,Connected to other source which household is not paying for,4235.572
+municipality,9355,,Lepele-Nkumpi,Connected to other source which household pays for (e.g. con,327.6244
+municipality,9355,,Lepele-Nkumpi,Generator,6.100442
+municipality,9355,,Lepele-Nkumpi,In-house conventional meter,5258.769
+municipality,9355,,Lepele-Nkumpi,In-house prepaid meter,221163.8
+municipality,9355,,Lepele-Nkumpi,No access to electricity,4252.355
+municipality,9355,,Lepele-Nkumpi,Other,136.1213
+municipality,9355,,Lepele-Nkumpi,Solar home system,0
+municipality,9362,,Lephalale,Battery,0
+municipality,9362,,Lephalale,Connected to other source which household is not paying for,1173.981
+municipality,9362,,Lephalale,Connected to other source which household pays for (e.g. con,3935.903
+municipality,9362,,Lephalale,Generator,198.8352
+municipality,9362,,Lephalale,In-house conventional meter,21733.75
+municipality,9362,,Lephalale,In-house prepaid meter,98462.51
+municipality,9362,,Lephalale,No access to electricity,12857.81
+municipality,9362,,Lephalale,Other,1855.148
+municipality,9362,,Lephalale,Solar home system,21.75039
+municipality,7423,,Lesedi,Battery,131.2556
+municipality,7423,,Lesedi,Connected to other source which household is not paying for,516.8291
+municipality,7423,,Lesedi,Connected to other source which household pays for (e.g. con,1682.902
+municipality,7423,,Lesedi,Generator,2.79022
+municipality,7423,,Lesedi,In-house conventional meter,30552.53
+municipality,7423,,Lesedi,In-house prepaid meter,71390.73
+municipality,7423,,Lesedi,No access to electricity,5628.92
+municipality,7423,,Lesedi,Other,2245.346
+municipality,7423,,Lesedi,Solar home system,320.7945
+municipality,4161,,Letsemeng,Battery,0
+municipality,4161,,Letsemeng,Connected to other source which household is not paying for,523.98
+municipality,4161,,Letsemeng,Connected to other source which household pays for (e.g. con,1233.759
+municipality,4161,,Letsemeng,Generator,0
+municipality,4161,,Letsemeng,In-house conventional meter,5323.888
+municipality,4161,,Letsemeng,In-house prepaid meter,31727.69
+municipality,4161,,Letsemeng,No access to electricity,942.2354
+municipality,4161,,Letsemeng,Other,183.3102
+municipality,4161,,Letsemeng,Solar home system,109.4426
+province,LIM,,Limpopo,Battery,366.6726
+province,LIM,,Limpopo,Connected to other source which household is not paying for,41873.3
+province,LIM,,Limpopo,Connected to other source which household pays for (e.g. con,47941.93
+province,LIM,,Limpopo,Generator,1184.288
+province,LIM,,Limpopo,In-house conventional meter,361406
+province,LIM,,Limpopo,In-house prepaid meter,5075589
+province,LIM,,Limpopo,No access to electricity,245803.8
+province,LIM,,Limpopo,Other,18875.14
+province,LIM,,Limpopo,Solar home system,6049.914
+municipality,6372,,Local Municipality of Madibeng,Battery,0
+municipality,6372,,Local Municipality of Madibeng,Connected to other source which household is not paying for,2056.708
+municipality,6372,,Local Municipality of Madibeng,Connected to other source which household pays for (e.g. con,9067.891
+municipality,6372,,Local Municipality of Madibeng,Generator,3.555794
+municipality,6372,,Local Municipality of Madibeng,In-house conventional meter,40544.79
+municipality,6372,,Local Municipality of Madibeng,In-house prepaid meter,440429.6
+municipality,6372,,Local Municipality of Madibeng,No access to electricity,41869.7
+municipality,6372,,Local Municipality of Madibeng,Other,1745.628
+municipality,6372,,Local Municipality of Madibeng,Solar home system,392.0471
+municipality,6383,,Mafikeng,Battery,0
+municipality,6383,,Mafikeng,Connected to other source which household is not paying for,98.73049
+municipality,6383,,Mafikeng,Connected to other source which household pays for (e.g. con,1544.871
+municipality,6383,,Mafikeng,Generator,0
+municipality,6383,,Mafikeng,In-house conventional meter,27933.36
+municipality,6383,,Mafikeng,In-house prepaid meter,268167.1
+municipality,6383,,Mafikeng,No access to electricity,15755.53
+municipality,6383,,Mafikeng,Other,793.4134
+municipality,6383,,Mafikeng,Solar home system,100.8391
+municipality,4205,,Mafube,Battery,0
+municipality,4205,,Mafube,Connected to other source which household is not paying for,61.56277
+municipality,4205,,Mafube,Connected to other source which household pays for (e.g. con,639.6328
+municipality,4205,,Mafube,Generator,52.831
+municipality,4205,,Mafube,In-house conventional meter,8823.898
+municipality,4205,,Mafube,In-house prepaid meter,45669.33
+municipality,4205,,Mafube,No access to electricity,2113.227
+municipality,4205,,Mafube,Other,105.4345
+municipality,4205,,Mafube,Solar home system,108.1941
+municipality,3093,,Magareng,Battery,0
+municipality,3093,,Magareng,Connected to other source which household is not paying for,0
+municipality,3093,,Magareng,Connected to other source which household pays for (e.g. con,0
+municipality,3093,,Magareng,Generator,0
+municipality,3093,,Magareng,In-house conventional meter,2022.155
+municipality,3093,,Magareng,In-house prepaid meter,20923.54
+municipality,3093,,Magareng,No access to electricity,1088.93
+municipality,3093,,Magareng,Other,24.79009
+municipality,3093,,Magareng,Solar home system,0
+municipality,2104,,Makana,Battery,0
+municipality,2104,,Makana,Connected to other source which household is not paying for,46.98007
+municipality,2104,,Makana,Connected to other source which household pays for (e.g. con,249.7622
+municipality,2104,,Makana,Generator,38.85403
+municipality,2104,,Makana,In-house conventional meter,9764.645
+municipality,2104,,Makana,In-house prepaid meter,69948.5
+municipality,2104,,Makana,No access to electricity,1613.805
+municipality,2104,,Makana,Other,215.5319
+municipality,2104,,Makana,Solar home system,181.9742
+municipality,9344,,Makhado,Battery,0
+municipality,9344,,Makhado,Connected to other source which household is not paying for,266.4017
+municipality,9344,,Makhado,Connected to other source which household pays for (e.g. con,1404.198
+municipality,9344,,Makhado,Generator,195.5717
+municipality,9344,,Makhado,In-house conventional meter,25367.83
+municipality,9344,,Makhado,In-house prepaid meter,377099
+municipality,9344,,Makhado,No access to electricity,8879.558
+municipality,9344,,Makhado,Other,2256.659
+municipality,9344,,Makhado,Solar home system,1258.845
+municipality,9473,,Makhuduthamaga,Battery,0
+municipality,9473,,Makhuduthamaga,Connected to other source which household is not paying for,15767.97
+municipality,9473,,Makhuduthamaga,Connected to other source which household pays for (e.g. con,607.655
+municipality,9473,,Makhuduthamaga,Generator,100.0689
+municipality,9473,,Makhuduthamaga,In-house conventional meter,13494.15
+municipality,9473,,Makhuduthamaga,In-house prepaid meter,244564
+municipality,9473,,Makhuduthamaga,No access to electricity,9736.95
+municipality,9473,,Makhuduthamaga,Other,148.1033
+municipality,9473,,Makhuduthamaga,Solar home system,16.10436
+municipality,4194,,Maluti a Phofung,Battery,58.07146
+municipality,4194,,Maluti a Phofung,Connected to other source which household is not paying for,232.3807
+municipality,4194,,Maluti a Phofung,Connected to other source which household pays for (e.g. con,5376.681
+municipality,4194,,Maluti a Phofung,Generator,42.58188
+municipality,4194,,Maluti a Phofung,In-house conventional meter,43212.32
+municipality,4194,,Maluti a Phofung,In-house prepaid meter,288807.8
+municipality,4194,,Maluti a Phofung,No access to electricity,13757.42
+municipality,4194,,Maluti a Phofung,Other,1905.651
+municipality,4194,,Maluti a Phofung,Solar home system,59.2223
+municipality,6393,,Mamusa,Battery,15.60763
+municipality,6393,,Mamusa,Connected to other source which household is not paying for,0
+municipality,6393,,Mamusa,Connected to other source which household pays for (e.g. con,254.4835
+municipality,6393,,Mamusa,Generator,0
+municipality,6393,,Mamusa,In-house conventional meter,5726.391
+municipality,6393,,Mamusa,In-house prepaid meter,50763.83
+municipality,6393,,Mamusa,No access to electricity,5772.466
+municipality,6393,,Mamusa,Other,1456.153
+municipality,6393,,Mamusa,Solar home system,10.83891
+municipality,5291,,Mandeni,Battery,0
+municipality,5291,,Mandeni,Connected to other source which household is not paying for,2931.656
+municipality,5291,,Mandeni,Connected to other source which household pays for (e.g. con,2384.479
+municipality,5291,,Mandeni,Generator,0
+municipality,5291,,Mandeni,In-house conventional meter,8115.934
+municipality,5291,,Mandeni,In-house prepaid meter,119483.6
+municipality,5291,,Mandeni,No access to electricity,14098.81
+municipality,5291,,Mandeni,Other,727.2613
+municipality,5291,,Mandeni,Solar home system,66.00629
+municipality,494,,Mangaung,Battery,14.02839
+municipality,4940,,Mangaung,Battery,14.02839
+municipality,494,,Mangaung,Battery,14.02839
+municipality,4940,,Mangaung,Battery,14.02839
+municipality,494,,Mangaung,Connected to other source which household is not paying for,1054.979
+municipality,4940,,Mangaung,Connected to other source which household is not paying for,1054.979
+municipality,494,,Mangaung,Connected to other source which household is not paying for,1054.979
+municipality,4940,,Mangaung,Connected to other source which household is not paying for,1054.979
+municipality,494,,Mangaung,Connected to other source which household pays for (e.g. con,5723.002
+municipality,4940,,Mangaung,Connected to other source which household pays for (e.g. con,5723.002
+municipality,494,,Mangaung,Connected to other source which household pays for (e.g. con,5723.002
+municipality,4940,,Mangaung,Connected to other source which household pays for (e.g. con,5723.002
+municipality,494,,Mangaung,Generator,85.46388
+municipality,4940,,Mangaung,Generator,85.46388
+municipality,494,,Mangaung,Generator,85.46388
+municipality,4940,,Mangaung,Generator,85.46388
+municipality,494,,Mangaung,In-house conventional meter,64980.65
+municipality,4940,,Mangaung,In-house conventional meter,64980.65
+municipality,494,,Mangaung,In-house conventional meter,64980.65
+municipality,4940,,Mangaung,In-house conventional meter,64980.65
+municipality,494,,Mangaung,In-house prepaid meter,689422.7
+municipality,4940,,Mangaung,In-house prepaid meter,689422.7
+municipality,494,,Mangaung,In-house prepaid meter,689422.7
+municipality,4940,,Mangaung,In-house prepaid meter,689422.7
+municipality,494,,Mangaung,No access to electricity,24616.85
+municipality,4940,,Mangaung,No access to electricity,24616.85
+municipality,494,,Mangaung,No access to electricity,24616.85
+municipality,4940,,Mangaung,No access to electricity,24616.85
+municipality,494,,Mangaung,Other,1510.125
+municipality,4940,,Mangaung,Other,1510.125
+municipality,494,,Mangaung,Other,1510.125
+municipality,4940,,Mangaung,Other,1510.125
+municipality,494,,Mangaung,Solar home system,395.5631
+municipality,4940,,Mangaung,Solar home system,395.5631
+municipality,494,,Mangaung,Solar home system,395.5631
+municipality,4940,,Mangaung,Solar home system,395.5631
+municipality,4196,,Mantsopa,Battery,0
+municipality,4196,,Mantsopa,Connected to other source which household is not paying for,492.5796
+municipality,4196,,Mantsopa,Connected to other source which household pays for (e.g. con,2425.57
+municipality,4196,,Mantsopa,Generator,0
+municipality,4196,,Mantsopa,In-house conventional meter,4974.848
+municipality,4196,,Mantsopa,In-house prepaid meter,43263.94
+municipality,4196,,Mantsopa,No access to electricity,2126.956
+municipality,4196,,Mantsopa,Other,125.0685
+municipality,4196,,Mantsopa,Solar home system,116.3719
+municipality,5294,,Maphumulo,Battery,178.0118
+municipality,5294,,Maphumulo,Connected to other source which household is not paying for,140.6696
+municipality,5294,,Maphumulo,Connected to other source which household pays for (e.g. con,404.934
+municipality,5294,,Maphumulo,Generator,91.50375
+municipality,5294,,Maphumulo,In-house conventional meter,2405.526
+municipality,5294,,Maphumulo,In-house prepaid meter,48958.87
+municipality,5294,,Maphumulo,No access to electricity,35050.99
+municipality,5294,,Maphumulo,Other,2014.992
+municipality,5294,,Maphumulo,Solar home system,723.5913
+municipality,6404,,Maquassi Hills,Battery,0
+municipality,6404,,Maquassi Hills,Connected to other source which household is not paying for,214.5732
+municipality,6404,,Maquassi Hills,Connected to other source which household pays for (e.g. con,1544.441
+municipality,6404,,Maquassi Hills,Generator,0
+municipality,6404,,Maquassi Hills,In-house conventional meter,3300.237
+municipality,6404,,Maquassi Hills,In-house prepaid meter,72435.98
+municipality,6404,,Maquassi Hills,No access to electricity,4492.827
+municipality,6404,,Maquassi Hills,Other,24.22635
+municipality,6404,,Maquassi Hills,Solar home system,0
+municipality,9335,,Maruleng,Battery,0
+municipality,9335,,Maruleng,Connected to other source which household is not paying for,86.25772
+municipality,9335,,Maruleng,Connected to other source which household pays for (e.g. con,344.8702
+municipality,9335,,Maruleng,Generator,34.2161
+municipality,9335,,Maruleng,In-house conventional meter,10408.71
+municipality,9335,,Maruleng,In-house prepaid meter,86746.58
+municipality,9335,,Maruleng,No access to electricity,2079.767
+municipality,9335,,Maruleng,Other,227.2149
+municipality,9335,,Maruleng,Solar home system,18.38865
+municipality,4181,,Masilonyana,Battery,88.87798
+municipality,4181,,Masilonyana,Connected to other source which household is not paying for,152.5584
+municipality,4181,,Masilonyana,Connected to other source which household pays for (e.g. con,817.7371
+municipality,4181,,Masilonyana,Generator,0
+municipality,4181,,Masilonyana,In-house conventional meter,7356.421
+municipality,4181,,Masilonyana,In-house prepaid meter,50681.57
+municipality,4181,,Masilonyana,No access to electricity,3460.569
+municipality,4181,,Masilonyana,Other,212.2366
+municipality,4181,,Masilonyana,Solar home system,0
+municipality,2441,,Matatiele,Battery,86.06157
+municipality,2441,,Matatiele,Connected to other source which household is not paying for,417.2785
+municipality,2441,,Matatiele,Connected to other source which household pays for (e.g. con,1617.899
+municipality,2441,,Matatiele,Generator,664.7005
+municipality,2441,,Matatiele,In-house conventional meter,27721.73
+municipality,2441,,Matatiele,In-house prepaid meter,105412.9
+municipality,2441,,Matatiele,No access to electricity,63703.24
+municipality,2441,,Matatiele,Other,724.5466
+municipality,2441,,Matatiele,Solar home system,19099.04
+municipality,4184,,Matjhabeng,Battery,186.2267
+municipality,4184,,Matjhabeng,Connected to other source which household is not paying for,455.6397
+municipality,4184,,Matjhabeng,Connected to other source which household pays for (e.g. con,5428.636
+municipality,4184,,Matjhabeng,Generator,160.3485
+municipality,4184,,Matjhabeng,In-house conventional meter,70483.27
+municipality,4184,,Matjhabeng,In-house prepaid meter,338376.9
+municipality,4184,,Matjhabeng,No access to electricity,13006.55
+municipality,4184,,Matjhabeng,Other,763.7883
+municipality,4184,,Matjhabeng,Solar home system,251.7113
+municipality,1011,,Matzikama,Battery,0
+municipality,1011,,Matzikama,Connected to other source which household is not paying for,447.701
+municipality,1011,,Matzikama,Connected to other source which household pays for (e.g. con,2314.23
+municipality,1011,,Matzikama,Generator,0
+municipality,1011,,Matzikama,In-house conventional meter,5920.763
+municipality,1011,,Matzikama,In-house prepaid meter,61003.63
+municipality,1011,,Matzikama,No access to electricity,937.3611
+municipality,1011,,Matzikama,Other,332.367
+municipality,1011,,Matzikama,Solar home system,89.35445
+municipality,2121,,Mbhashe,Battery,99.22524
+municipality,2121,,Mbhashe,Connected to other source which household is not paying for,77.00641
+municipality,2121,,Mbhashe,Connected to other source which household pays for (e.g. con,243.9155
+municipality,2121,,Mbhashe,Generator,307.2354
+municipality,2121,,Mbhashe,In-house conventional meter,4235.221
+municipality,2121,,Mbhashe,In-house prepaid meter,176360.9
+municipality,2121,,Mbhashe,No access to electricity,77433.52
+municipality,2121,,Mbhashe,Other,554.0025
+municipality,2121,,Mbhashe,Solar home system,17938.71
+municipality,2443,,Mbizana,Battery,261.3319
+municipality,2443,,Mbizana,Connected to other source which household is not paying for,144.0538
+municipality,2443,,Mbizana,Connected to other source which household pays for (e.g. con,623.4761
+municipality,2443,,Mbizana,Generator,153.6839
+municipality,2443,,Mbizana,In-house conventional meter,5912.301
+municipality,2443,,Mbizana,In-house prepaid meter,227406.2
+municipality,2443,,Mbizana,No access to electricity,57858.57
+municipality,2443,,Mbizana,Other,363.2321
+municipality,2443,,Mbizana,Solar home system,27225.17
+municipality,7484,,Merafong City,Battery,184.6277
+municipality,7484,,Merafong City,Connected to other source which household is not paying for,1325.472
+municipality,7484,,Merafong City,Connected to other source which household pays for (e.g. con,8469.275
+municipality,7484,,Merafong City,Generator,34.22902
+municipality,7484,,Merafong City,In-house conventional meter,43032.42
+municipality,7484,,Merafong City,In-house prepaid meter,111621.7
+municipality,7484,,Merafong City,No access to electricity,20458.93
+municipality,7484,,Merafong City,Other,3230.348
+municipality,7484,,Merafong City,Solar home system,485.7978
+municipality,4204,,Metsimaholo,Battery,0
+municipality,4204,,Metsimaholo,Connected to other source which household is not paying for,72.72211
+municipality,4204,,Metsimaholo,Connected to other source which household pays for (e.g. con,1515.706
+municipality,4204,,Metsimaholo,Generator,0
+municipality,4204,,Metsimaholo,In-house conventional meter,21777.37
+municipality,4204,,Metsimaholo,In-house prepaid meter,117752.9
+municipality,4204,,Metsimaholo,No access to electricity,20654.01
+municipality,4204,,Metsimaholo,Other,1791.482
+municipality,4204,,Metsimaholo,Solar home system,0
+municipality,5281,,Mfolozi,Battery,0
+municipality,5281,,Mfolozi,Connected to other source which household is not paying for,253.996
+municipality,5281,,Mfolozi,Connected to other source which household pays for (e.g. con,843.5308
+municipality,5281,,Mfolozi,Generator,0
+municipality,5281,,Mfolozi,In-house conventional meter,11218.07
+municipality,5281,,Mfolozi,In-house prepaid meter,129962.4
+municipality,5281,,Mfolozi,No access to electricity,1823.339
+municipality,5281,,Mfolozi,Other,261.3494
+municipality,5281,,Mfolozi,Solar home system,0
+municipality,2156,,Mhlontlo,Battery,0
+municipality,2156,,Mhlontlo,Connected to other source which household is not paying for,0
+municipality,2156,,Mhlontlo,Connected to other source which household pays for (e.g. con,61.12589
+municipality,2156,,Mhlontlo,Generator,7.690795
+municipality,2156,,Mhlontlo,In-house conventional meter,7552.794
+municipality,2156,,Mhlontlo,In-house prepaid meter,160391
+municipality,2156,,Mhlontlo,No access to electricity,20118.3
+municipality,2156,,Mhlontlo,Other,1041.254
+municipality,2156,,Mhlontlo,Solar home system,3.682191
+municipality,7422,,Midvaal,Battery,0
+municipality,7422,,Midvaal,Connected to other source which household is not paying for,356.9061
+municipality,7422,,Midvaal,Connected to other source which household pays for (e.g. con,4457.208
+municipality,7422,,Midvaal,Generator,172.1855
+municipality,7422,,Midvaal,In-house conventional meter,42608.67
+municipality,7422,,Midvaal,In-house prepaid meter,48719.16
+municipality,7422,,Midvaal,No access to electricity,14095.75
+municipality,7422,,Midvaal,Other,797.0474
+municipality,7422,,Midvaal,Solar home system,404.669
+municipality,5226,,Mkhambathini,Battery,0
+municipality,5226,,Mkhambathini,Connected to other source which household is not paying for,662.6222
+municipality,5226,,Mkhambathini,Connected to other source which household pays for (e.g. con,881.6318
+municipality,5226,,Mkhambathini,Generator,55.57975
+municipality,5226,,Mkhambathini,In-house conventional meter,3019.851
+municipality,5226,,Mkhambathini,In-house prepaid meter,48929.2
+municipality,5226,,Mkhambathini,No access to electricity,3317.742
+municipality,5226,,Mkhambathini,Other,197.5028
+municipality,5226,,Mkhambathini,Solar home system,11.12115
+municipality,8303,,Mkhondo,Battery,0
+municipality,8303,,Mkhondo,Connected to other source which household is not paying for,0
+municipality,8303,,Mkhondo,Connected to other source which household pays for (e.g. con,19.27233
+municipality,8303,,Mkhondo,Generator,97.78547
+municipality,8303,,Mkhondo,In-house conventional meter,12531.13
+municipality,8303,,Mkhondo,In-house prepaid meter,134938.9
+municipality,8303,,Mkhondo,No access to electricity,40162.38
+municipality,8303,,Mkhondo,Other,982.3563
+municipality,8303,,Mkhondo,Solar home system,303.8676
+municipality,2122,,Mnquma,Battery,0
+municipality,2122,,Mnquma,Connected to other source which household is not paying for,74.33206
+municipality,2122,,Mnquma,Connected to other source which household pays for (e.g. con,203.3239
+municipality,2122,,Mnquma,Generator,42.68015
+municipality,2122,,Mnquma,In-house conventional meter,14355.14
+municipality,2122,,Mnquma,In-house prepaid meter,198081.4
+municipality,2122,,Mnquma,No access to electricity,33884.6
+municipality,2122,,Mnquma,Other,54.72753
+municipality,2122,,Mnquma,Solar home system,117.1733
+municipality,9368,,Modimolle/Mookgophong,Battery,0
+municipality,9368,,Modimolle/Mookgophong,Connected to other source which household is not paying for,129.3207
+municipality,9368,,Modimolle/Mookgophong,Connected to other source which household pays for (e.g. con,1022.981
+municipality,9368,,Modimolle/Mookgophong,Generator,0
+municipality,9368,,Modimolle/Mookgophong,In-house conventional meter,14916.02
+municipality,9368,,Modimolle/Mookgophong,In-house prepaid meter,79985.43
+municipality,9368,,Modimolle/Mookgophong,No access to electricity,10858.22
+municipality,9368,,Modimolle/Mookgophong,Other,786.8092
+municipality,9368,,Modimolle/Mookgophong,Solar home system,0
+municipality,9367,,Mogalakwena,Battery,0
+municipality,9367,,Mogalakwena,Connected to other source which household is not paying for,204.1338
+municipality,9367,,Mogalakwena,Connected to other source which household pays for (e.g. con,241.2827
+municipality,9367,,Mogalakwena,Generator,0
+municipality,9367,,Mogalakwena,In-house conventional meter,17143.65
+municipality,9367,,Mogalakwena,In-house prepaid meter,292756.4
+municipality,9367,,Mogalakwena,No access to electricity,14275.23
+municipality,9367,,Mogalakwena,Other,638.4995
+municipality,9367,,Mogalakwena,Solar home system,31.99788
+municipality,7481,,Mogale City,Battery,35.11055
+municipality,7481,,Mogale City,Connected to other source which household is not paying for,1293.371
+municipality,7481,,Mogale City,Connected to other source which household pays for (e.g. con,10302.63
+municipality,7481,,Mogale City,Generator,124.294
+municipality,7481,,Mogale City,In-house conventional meter,110780.4
+municipality,7481,,Mogale City,In-house prepaid meter,216742.7
+municipality,7481,,Mogale City,No access to electricity,41245.15
+municipality,7481,,Mogale City,Other,3197.899
+municipality,7481,,Mogale City,Solar home system,142.7901
+municipality,4163,,Mohokare,Battery,0
+municipality,4163,,Mohokare,Connected to other source which household is not paying for,28.29759
+municipality,4163,,Mohokare,Connected to other source which household pays for (e.g. con,394.0954
+municipality,4163,,Mohokare,Generator,0
+municipality,4163,,Mohokare,In-house conventional meter,12709.92
+municipality,4163,,Mohokare,In-house prepaid meter,20814.49
+municipality,4163,,Mohokare,No access to electricity,1542.256
+municipality,4163,,Mohokare,Other,351.2844
+municipality,4163,,Mohokare,Solar home system,0
+municipality,9353,,Molemole,Battery,0
+municipality,9353,,Molemole,Connected to other source which household is not paying for,37.40496
+municipality,9353,,Molemole,Connected to other source which household pays for (e.g. con,1715.464
+municipality,9353,,Molemole,Generator,0
+municipality,9353,,Molemole,In-house conventional meter,4005.302
+municipality,9353,,Molemole,In-house prepaid meter,117903.7
+municipality,9353,,Molemole,No access to electricity,1575.186
+municipality,9353,,Molemole,Other,90.25249
+municipality,9353,,Molemole,Solar home system,0
+district,933,,Mopani,Battery,66.58271
+district,933,,Mopani,Connected to other source which household is not paying for,4089.651
+district,933,,Mopani,Connected to other source which household pays for (e.g. con,19313.48
+district,933,,Mopani,Generator,142.5995
+district,933,,Mopani,In-house conventional meter,88337.33
+district,933,,Mopani,In-house prepaid meter,1009851
+district,933,,Mopani,No access to electricity,34820.14
+district,933,,Mopani,Other,2423.956
+district,933,,Mopani,Solar home system,140.901
+municipality,4201,,Moqhaka,Battery,43.53177
+municipality,4201,,Moqhaka,Connected to other source which household is not paying for,440.0934
+municipality,4201,,Moqhaka,Connected to other source which household pays for (e.g. con,4218.348
+municipality,4201,,Moqhaka,Generator,0
+municipality,4201,,Moqhaka,In-house conventional meter,15744.43
+municipality,4201,,Moqhaka,In-house prepaid meter,129101.4
+municipality,4201,,Moqhaka,No access to electricity,4458.061
+municipality,4201,,Moqhaka,Other,566.0977
+municipality,4201,,Moqhaka,Solar home system,159.7307
+municipality,6371,,Moretele,Battery,0
+municipality,6371,,Moretele,Connected to other source which household is not paying for,419.4495
+municipality,6371,,Moretele,Connected to other source which household pays for (e.g. con,446.9218
+municipality,6371,,Moretele,Generator,0
+municipality,6371,,Moretele,In-house conventional meter,3267.919
+municipality,6371,,Moretele,In-house prepaid meter,184894.6
+municipality,6371,,Moretele,No access to electricity,2176.15
+municipality,6371,,Moretele,Other,98.74374
+municipality,6371,,Moretele,Solar home system,2.240474
+municipality,6375,,Moses Kotane,Battery,0
+municipality,6375,,Moses Kotane,Connected to other source which household is not paying for,222.8239
+municipality,6375,,Moses Kotane,Connected to other source which household pays for (e.g. con,553.6075
+municipality,6375,,Moses Kotane,Generator,60.18929
+municipality,6375,,Moses Kotane,In-house conventional meter,14477.39
+municipality,6375,,Moses Kotane,In-house prepaid meter,220249.9
+municipality,6375,,Moses Kotane,No access to electricity,7831.156
+municipality,6375,,Moses Kotane,Other,212.0487
+municipality,6375,,Moses Kotane,Solar home system,41.35546
+municipality,1043,,Mossel Bay,Battery,0
+municipality,1043,,Mossel Bay,Connected to other source which household is not paying for,287.9461
+municipality,1043,,Mossel Bay,Connected to other source which household pays for (e.g. con,790.3362
+municipality,1043,,Mossel Bay,Generator,104.737
+municipality,1043,,Mossel Bay,In-house conventional meter,12136.43
+municipality,1043,,Mossel Bay,In-house prepaid meter,78417.94
+municipality,1043,,Mossel Bay,No access to electricity,2200.556
+municipality,1043,,Mossel Bay,Other,197.4303
+municipality,1043,,Mossel Bay,Solar home system,0
+municipality,5223,,Mpofana,Battery,0
+municipality,5223,,Mpofana,Connected to other source which household is not paying for,0
+municipality,5223,,Mpofana,Connected to other source which household pays for (e.g. con,0
+municipality,5223,,Mpofana,Generator,513.3008
+municipality,5223,,Mpofana,In-house conventional meter,3691.006
+municipality,5223,,Mpofana,In-house prepaid meter,26453.25
+municipality,5223,,Mpofana,No access to electricity,6694.335
+municipality,5223,,Mpofana,Other,39.14813
+municipality,5223,,Mpofana,Solar home system,0
+province,MP,,Mpumalanga,Battery,567.0773
+province,MP,,Mpumalanga,Connected to other source which household is not paying for,26041.25
+province,MP,,Mpumalanga,Connected to other source which household pays for (e.g. con,35087.95
+province,MP,,Mpumalanga,Generator,4241.98
+province,MP,,Mpumalanga,In-house conventional meter,416613.8
+province,MP,,Mpumalanga,In-house prepaid meter,3531211
+province,MP,,Mpumalanga,No access to electricity,294078.5
+province,MP,,Mpumalanga,Other,24644.08
+province,MP,,Mpumalanga,Solar home system,3478.449
+municipality,5244,,Msinga,Battery,524.137
+municipality,5244,,Msinga,Connected to other source which household is not paying for,170.0229
+municipality,5244,,Msinga,Connected to other source which household pays for (e.g. con,565.5859
+municipality,5244,,Msinga,Generator,357.023
+municipality,5244,,Msinga,In-house conventional meter,4928.424
+municipality,5244,,Msinga,In-house prepaid meter,97211.85
+municipality,5244,,Msinga,No access to electricity,66145.71
+municipality,5244,,Msinga,Other,10783.53
+municipality,5244,,Msinga,Solar home system,3808.123
+municipality,8302,,Msukaligwa,Battery,33.0813
+municipality,8302,,Msukaligwa,Connected to other source which household is not paying for,322.3309
+municipality,8302,,Msukaligwa,Connected to other source which household pays for (e.g. con,624.4837
+municipality,8302,,Msukaligwa,Generator,526.4045
+municipality,8302,,Msukaligwa,In-house conventional meter,23655.55
+municipality,8302,,Msukaligwa,In-house prepaid meter,110435.5
+municipality,8302,,Msukaligwa,No access to electricity,21324.27
+municipality,8302,,Msukaligwa,Other,6848.207
+municipality,8302,,Msukaligwa,Solar home system,837.9854
+municipality,5285,,Mthonjaneni,Battery,224.4851
+municipality,5285,,Mthonjaneni,Connected to other source which household is not paying for,566.4446
+municipality,5285,,Mthonjaneni,Connected to other source which household pays for (e.g. con,426.7958
+municipality,5285,,Mthonjaneni,Generator,0
+municipality,5285,,Mthonjaneni,In-house conventional meter,791.9099
+municipality,5285,,Mthonjaneni,In-house prepaid meter,67501.22
+municipality,5285,,Mthonjaneni,No access to electricity,9037.031
+municipality,5285,,Mthonjaneni,Other,335.5913
+municipality,5285,,Mthonjaneni,Solar home system,0
+municipality,5275,,Mtubatuba,Battery,128.8294
+municipality,5275,,Mtubatuba,Connected to other source which household is not paying for,2067.226
+municipality,5275,,Mtubatuba,Connected to other source which household pays for (e.g. con,3430.375
+municipality,5275,,Mtubatuba,Generator,107.4507
+municipality,5275,,Mtubatuba,In-house conventional meter,18419.2
+municipality,5275,,Mtubatuba,In-house prepaid meter,145457.2
+municipality,5275,,Mtubatuba,No access to electricity,24462.66
+municipality,5275,,Mtubatuba,Other,5941.835
+municipality,5275,,Mtubatuba,Solar home system,2161.691
+municipality,9341,,Musina,Battery,0
+municipality,9341,,Musina,Connected to other source which household is not paying for,2363.984
+municipality,9341,,Musina,Connected to other source which household pays for (e.g. con,2677.214
+municipality,9341,,Musina,Generator,75.91572
+municipality,9341,,Musina,In-house conventional meter,8151.461
+municipality,9341,,Musina,In-house prepaid meter,110887
+municipality,9341,,Musina,No access to electricity,7219.225
+municipality,9341,,Musina,Other,610.9546
+municipality,9341,,Musina,Solar home system,23.40849
+municipality,4185,,Nala,Battery,0
+municipality,4185,,Nala,Connected to other source which household is not paying for,326.6049
+municipality,4185,,Nala,Connected to other source which household pays for (e.g. con,1252.389
+municipality,4185,,Nala,Generator,0
+municipality,4185,,Nala,In-house conventional meter,10639.71
+municipality,4185,,Nala,In-house prepaid meter,58832.14
+municipality,4185,,Nala,No access to electricity,5905.501
+municipality,4185,,Nala,Other,1527.052
+municipality,4185,,Nala,Solar home system,31.76194
+municipality,6392,,Naledi,Battery,0
+municipality,6392,,Naledi,Connected to other source which household is not paying for,35.60024
+municipality,6392,,Naledi,Connected to other source which household pays for (e.g. con,1176.467
+municipality,6392,,Naledi,Generator,0
+municipality,6392,,Naledi,In-house conventional meter,10000.77
+municipality,6392,,Naledi,In-house prepaid meter,46362.14
+municipality,6392,,Naledi,No access to electricity,10502.79
+municipality,6392,,Naledi,Other,471.3729
+municipality,6392,,Naledi,Solar home system,253.7807
+municipality,3062,,Nama Khoi,Battery,0
+municipality,3062,,Nama Khoi,Connected to other source which household is not paying for,41.71637
+municipality,3062,,Nama Khoi,Connected to other source which household pays for (e.g. con,160.7249
+municipality,3062,,Nama Khoi,Generator,1.592376
+municipality,3062,,Nama Khoi,In-house conventional meter,3356.098
+municipality,3062,,Nama Khoi,In-house prepaid meter,41870.41
+municipality,3062,,Nama Khoi,No access to electricity,672.4388
+municipality,3062,,Nama Khoi,Other,94.50341
+municipality,3062,,Nama Khoi,Solar home system,314.6909
+district,306,,Namakwa,Battery,69.04778
+district,306,,Namakwa,Connected to other source which household is not paying for,109.1142
+district,306,,Namakwa,Connected to other source which household pays for (e.g. con,623.701
+district,306,,Namakwa,Generator,189.6645
+district,306,,Namakwa,In-house conventional meter,8865.087
+district,306,,Namakwa,In-house prepaid meter,96978.03
+district,306,,Namakwa,No access to electricity,2571.215
+district,306,,Namakwa,Other,1208.322
+district,306,,Namakwa,Solar home system,4873.404
+municipality,2105,,Ndlambe,Battery,0
+municipality,2105,,Ndlambe,Connected to other source which household is not paying for,173.5405
+municipality,2105,,Ndlambe,Connected to other source which household pays for (e.g. con,176.385
+municipality,2105,,Ndlambe,Generator,213.2148
+municipality,2105,,Ndlambe,In-house conventional meter,9847.673
+municipality,2105,,Ndlambe,In-house prepaid meter,47978.36
+municipality,2105,,Ndlambe,No access to electricity,4408.878
+municipality,2105,,Ndlambe,Other,382.3297
+municipality,2105,,Ndlambe,Solar home system,0
+municipality,5293,,Ndwedwe,Battery,0
+municipality,5293,,Ndwedwe,Connected to other source which household is not paying for,739.2493
+municipality,5293,,Ndwedwe,Connected to other source which household pays for (e.g. con,937.8826
+municipality,5293,,Ndwedwe,Generator,141.847
+municipality,5293,,Ndwedwe,In-house conventional meter,12244.72
+municipality,5293,,Ndwedwe,In-house prepaid meter,83684.03
+municipality,5293,,Ndwedwe,No access to electricity,43340.18
+municipality,5293,,Ndwedwe,Other,2028.981
+municipality,5293,,Ndwedwe,Solar home system,0
+municipality,293,,Nelson Mandela Bay,Battery,16.34113
+municipality,2930,,Nelson Mandela Bay,Battery,16.34113
+municipality,293,,Nelson Mandela Bay,Battery,16.34113
+municipality,2930,,Nelson Mandela Bay,Battery,16.34113
+municipality,293,,Nelson Mandela Bay,Connected to other source which household is not paying for,10130.97
+municipality,2930,,Nelson Mandela Bay,Connected to other source which household is not paying for,10130.97
+municipality,293,,Nelson Mandela Bay,Connected to other source which household is not paying for,10130.97
+municipality,2930,,Nelson Mandela Bay,Connected to other source which household is not paying for,10130.97
+municipality,293,,Nelson Mandela Bay,Connected to other source which household pays for (e.g. con,14732.62
+municipality,2930,,Nelson Mandela Bay,Connected to other source which household pays for (e.g. con,14732.62
+municipality,293,,Nelson Mandela Bay,Connected to other source which household pays for (e.g. con,14732.62
+municipality,2930,,Nelson Mandela Bay,Connected to other source which household pays for (e.g. con,14732.62
+municipality,293,,Nelson Mandela Bay,Generator,34.13914
+municipality,2930,,Nelson Mandela Bay,Generator,34.13914
+municipality,293,,Nelson Mandela Bay,Generator,34.13914
+municipality,2930,,Nelson Mandela Bay,Generator,34.13914
+municipality,293,,Nelson Mandela Bay,In-house conventional meter,140882.2
+municipality,2930,,Nelson Mandela Bay,In-house conventional meter,140882.2
+municipality,293,,Nelson Mandela Bay,In-house conventional meter,140882.2
+municipality,2930,,Nelson Mandela Bay,In-house conventional meter,140882.2
+municipality,293,,Nelson Mandela Bay,In-house prepaid meter,1059565
+municipality,2930,,Nelson Mandela Bay,In-house prepaid meter,1059565
+municipality,293,,Nelson Mandela Bay,In-house prepaid meter,1059565
+municipality,2930,,Nelson Mandela Bay,In-house prepaid meter,1059565
+municipality,293,,Nelson Mandela Bay,No access to electricity,28616.8
+municipality,2930,,Nelson Mandela Bay,No access to electricity,28616.8
+municipality,293,,Nelson Mandela Bay,No access to electricity,28616.8
+municipality,2930,,Nelson Mandela Bay,No access to electricity,28616.8
+municipality,293,,Nelson Mandela Bay,Other,8378.717
+municipality,2930,,Nelson Mandela Bay,Other,8378.717
+municipality,293,,Nelson Mandela Bay,Other,8378.717
+municipality,2930,,Nelson Mandela Bay,Other,8378.717
+municipality,293,,Nelson Mandela Bay,Solar home system,694.5409
+municipality,2930,,Nelson Mandela Bay,Solar home system,694.5409
+municipality,293,,Nelson Mandela Bay,Solar home system,694.5409
+municipality,2930,,Nelson Mandela Bay,Solar home system,694.5409
+municipality,9345,,Collins Chabane,Battery,16.20987
+municipality,9345,,Collins Chabane,Connected to other source which household is not paying for,3245.262
+municipality,9345,,Collins Chabane,Connected to other source which household pays for (e.g. con,400.6364
+municipality,9345,,Collins Chabane,Generator,31.57594
+municipality,9345,,Collins Chabane,In-house conventional meter,14486.64
+municipality,9345,,Collins Chabane,In-house prepaid meter,312563.5
+municipality,9345,,Collins Chabane,No access to electricity,15826.79
+municipality,9345,,Collins Chabane,Other,635.631
+municipality,9345,,Collins Chabane,Solar home system,768.1525
+municipality,5252,,Newcastle,Battery,0
+municipality,5252,,Newcastle,Connected to other source which household is not paying for,492.7518
+municipality,5252,,Newcastle,Connected to other source which household pays for (e.g. con,749.6906
+municipality,5252,,Newcastle,Generator,144.5966
+municipality,5252,,Newcastle,In-house conventional meter,48988.54
+municipality,5252,,Newcastle,In-house prepaid meter,322909.9
+municipality,5252,,Newcastle,No access to electricity,14935.09
+municipality,5252,,Newcastle,Other,831.891
+municipality,5252,,Newcastle,Solar home system,64.11797
+district,638,,Ngaka Modiri Molema,Battery,91.56143
+district,638,,Ngaka Modiri Molema,Connected to other source which household is not paying for,964.9647
+district,638,,Ngaka Modiri Molema,Connected to other source which household pays for (e.g. con,6078.476
+district,638,,Ngaka Modiri Molema,Generator,390.0962
+district,638,,Ngaka Modiri Molema,In-house conventional meter,48979.6
+district,638,,Ngaka Modiri Molema,In-house prepaid meter,767400.5
+district,638,,Ngaka Modiri Molema,No access to electricity,62545.5
+district,638,,Ngaka Modiri Molema,Other,2339.665
+district,638,,Ngaka Modiri Molema,Solar home system,318.0322
+municipality,2126,,Ngqushwa,Battery,0
+municipality,2126,,Ngqushwa,Connected to other source which household is not paying for,23.45456
+municipality,2126,,Ngqushwa,Connected to other source which household pays for (e.g. con,205.2023
+municipality,2126,,Ngqushwa,Generator,0
+municipality,2126,,Ngqushwa,In-house conventional meter,933.9135
+municipality,2126,,Ngqushwa,In-house prepaid meter,61464.8
+municipality,2126,,Ngqushwa,No access to electricity,899.4582
+municipality,2126,,Ngqushwa,Other,167.3212
+municipality,2126,,Ngqushwa,Solar home system,0
+municipality,2153,,Ngquza Hill,Battery,167.8675
+municipality,2153,,Ngquza Hill,Connected to other source which household is not paying for,5397.605
+municipality,2153,,Ngquza Hill,Connected to other source which household pays for (e.g. con,7047.615
+municipality,2153,,Ngquza Hill,Generator,177.2276
+municipality,2153,,Ngquza Hill,In-house conventional meter,15786.1
+municipality,2153,,Ngquza Hill,In-house prepaid meter,238994.6
+municipality,2153,,Ngquza Hill,No access to electricity,34381.71
+municipality,2153,,Ngquza Hill,Other,746.4348
+municipality,2153,,Ngquza Hill,Solar home system,679.8036
+municipality,4203,,Ngwathe,Battery,0
+municipality,4203,,Ngwathe,Connected to other source which household is not paying for,523.0244
+municipality,4203,,Ngwathe,Connected to other source which household pays for (e.g. con,612.4622
+municipality,4203,,Ngwathe,Generator,0
+municipality,4203,,Ngwathe,In-house conventional meter,7684.288
+municipality,4203,,Ngwathe,In-house prepaid meter,104849.5
+municipality,4203,,Ngwathe,No access to electricity,4855.722
+municipality,4203,,Ngwathe,Other,218.8295
+municipality,4203,,Ngwathe,Solar home system,162.9568
+municipality,5286,,Nkandla,Battery,56.05522
+municipality,5286,,Nkandla,Connected to other source which household is not paying for,2378.513
+municipality,5286,,Nkandla,Connected to other source which household pays for (e.g. con,365.5484
+municipality,5286,,Nkandla,Generator,408.1279
+municipality,5286,,Nkandla,In-house conventional meter,4010.429
+municipality,5286,,Nkandla,In-house prepaid meter,85671.71
+municipality,5286,,Nkandla,No access to electricity,20929.45
+municipality,5286,,Nkandla,Other,60.61198
+municipality,5286,,Nkandla,Solar home system,403.4937
+district,831,,Nkangala,Battery,27.29458
+district,831,,Nkangala,Connected to other source which household is not paying for,10795.57
+district,831,,Nkangala,Connected to other source which household pays for (e.g. con,16096.24
+district,831,,Nkangala,Generator,2491.616
+district,831,,Nkangala,In-house conventional meter,172500.5
+district,831,,Nkangala,In-house prepaid meter,1095810
+district,831,,Nkangala,No access to electricity,136961.2
+district,831,,Nkangala,Other,10253.86
+district,831,,Nkangala,Solar home system,687.6251
+municipality,4193,,Nketoana,Battery,0
+municipality,4193,,Nketoana,Connected to other source which household is not paying for,122.757
+municipality,4193,,Nketoana,Connected to other source which household pays for (e.g. con,597.5212
+municipality,4193,,Nketoana,Generator,0
+municipality,4193,,Nketoana,In-house conventional meter,4807.18
+municipality,4193,,Nketoana,In-house prepaid meter,55092.42
+municipality,4193,,Nketoana,No access to electricity,3960.486
+municipality,4193,,Nketoana,Other,124.903
+municipality,4193,,Nketoana,Solar home system,188.0081
+municipality,8324,,Nkomazi,Battery,0
+municipality,8324,,Nkomazi,Connected to other source which household is not paying for,585.6284
+municipality,8324,,Nkomazi,Connected to other source which household pays for (e.g. con,1921.664
+municipality,8324,,Nkomazi,Generator,0
+municipality,8324,,Nkomazi,In-house conventional meter,15218.78
+municipality,8324,,Nkomazi,In-house prepaid meter,384277.6
+municipality,8324,,Nkomazi,No access to electricity,7604.362
+municipality,8324,,Nkomazi,Other,1257.115
+municipality,8324,,Nkomazi,Solar home system,41.69179
+municipality,5265,,Nongoma,Battery,213.707
+municipality,5265,,Nongoma,Connected to other source which household is not paying for,143.3849
+municipality,5265,,Nongoma,Connected to other source which household pays for (e.g. con,285.4577
+municipality,5265,,Nongoma,Generator,55.54954
+municipality,5265,,Nongoma,In-house conventional meter,7659.001
+municipality,5265,,Nongoma,In-house prepaid meter,177037.7
+municipality,5265,,Nongoma,No access to electricity,24884.35
+municipality,5265,,Nongoma,Other,252.1465
+municipality,5265,,Nongoma,Solar home system,1361.19
+province,NW,,North West,Battery,455.4659
+province,NW,,North West,Connected to other source which household is not paying for,9494.936
+province,NW,,North West,Connected to other source which household pays for (e.g. con,48427.19
+province,NW,,North West,Generator,2030.797
+province,NW,,North West,In-house conventional meter,325133.3
+province,NW,,North West,In-house prepaid meter,3080156
+province,NW,,North West,No access to electricity,262841.8
+province,NW,,North West,Other,16875.47
+province,NW,,North West,Solar home system,3020.469
+province,NC,,Northern Cape,Battery,374.1278
+province,NC,,Northern Cape,Connected to other source which household is not paying for,3602.181
+province,NC,,Northern Cape,Connected to other source which household pays for (e.g. con,8735.809
+province,NC,,Northern Cape,Generator,1729.151
+province,NC,,Northern Cape,In-house conventional meter,125627.3
+province,NC,,Northern Cape,In-house prepaid meter,953855.2
+province,NC,,Northern Cape,No access to electricity,79621.6
+province,NC,,Northern Cape,Other,7990.66
+province,NC,,Northern Cape,Solar home system,12244.37
+municipality,5242,,Nqutu,Battery,415.4896
+municipality,5242,,Nqutu,Connected to other source which household is not paying for,149.7761
+municipality,5242,,Nqutu,Connected to other source which household pays for (e.g. con,5740.561
+municipality,5242,,Nqutu,Generator,829.0041
+municipality,5242,,Nqutu,In-house conventional meter,8670.446
+municipality,5242,,Nqutu,In-house prepaid meter,116958.5
+municipality,5242,,Nqutu,No access to electricity,22119.76
+municipality,5242,,Nqutu,Other,8851.148
+municipality,5242,,Nqutu,Solar home system,7590.513
+municipality,2444,,Ntabankulu,Battery,54.35485
+municipality,2444,,Ntabankulu,Connected to other source which household is not paying for,166.9609
+municipality,2444,,Ntabankulu,Connected to other source which household pays for (e.g. con,646.1678
+municipality,2444,,Ntabankulu,Generator,158.8943
+municipality,2444,,Ntabankulu,In-house conventional meter,2180.25
+municipality,2444,,Ntabankulu,In-house prepaid meter,60074.04
+municipality,2444,,Ntabankulu,No access to electricity,56742.08
+municipality,2444,,Ntabankulu,Other,1077.93
+municipality,2444,,Ntabankulu,Solar home system,7747.801
+municipality,2155,,Nyandeni,Battery,21.93795
+municipality,2155,,Nyandeni,Connected to other source which household is not paying for,6411.432
+municipality,2155,,Nyandeni,Connected to other source which household pays for (e.g. con,2493.726
+municipality,2155,,Nyandeni,Generator,263.9621
+municipality,2155,,Nyandeni,In-house conventional meter,13538.4
+municipality,2155,,Nyandeni,In-house prepaid meter,251151.1
+municipality,2155,,Nyandeni,No access to electricity,34494.38
+municipality,2155,,Nyandeni,Other,1213.001
+municipality,2155,,Nyandeni,Solar home system,113.9433
+district,215,,O.R.Tambo,Battery,1108.427
+district,215,,O.R.Tambo,Connected to other source which household is not paying for,27796.21
+district,215,,O.R.Tambo,Connected to other source which household pays for (e.g. con,12216.52
+district,215,,O.R.Tambo,Generator,626.3931
+district,215,,O.R.Tambo,In-house conventional meter,73768.14
+district,215,,O.R.Tambo,In-house prepaid meter,1155875
+district,215,,O.R.Tambo,No access to electricity,178367.8
+district,215,,O.R.Tambo,Other,6352.585
+district,215,,O.R.Tambo,Solar home system,1273.425
+municipality,5235,,Okhahlamba,Battery,25.26166
+municipality,5235,,Okhahlamba,Connected to other source which household is not paying for,1714.825
+municipality,5235,,Okhahlamba,Connected to other source which household pays for (e.g. con,2159.246
+municipality,5235,,Okhahlamba,Generator,0
+municipality,5235,,Okhahlamba,In-house conventional meter,12935.96
+municipality,5235,,Okhahlamba,In-house prepaid meter,100184
+municipality,5235,,Okhahlamba,No access to electricity,7523.334
+municipality,5235,,Okhahlamba,Other,6814.471
+municipality,5235,,Okhahlamba,Solar home system,3774.843
+municipality,1045,,Oudtshoorn,Battery,14.72431
+municipality,1045,,Oudtshoorn,Connected to other source which household is not paying for,303.1621
+municipality,1045,,Oudtshoorn,Connected to other source which household pays for (e.g. con,1522.061
+municipality,1045,,Oudtshoorn,Generator,421.3885
+municipality,1045,,Oudtshoorn,In-house conventional meter,15904.48
+municipality,1045,,Oudtshoorn,In-house prepaid meter,72113.98
+municipality,1045,,Oudtshoorn,No access to electricity,5057.896
+municipality,1045,,Oudtshoorn,Other,684.6158
+municipality,1045,,Oudtshoorn,Solar home system,1486.27
+district,103,,Overberg,Battery,3.382471
+district,103,,Overberg,Connected to other source which household is not paying for,3653.272
+district,103,,Overberg,Connected to other source which household pays for (e.g. con,5696.106
+district,103,,Overberg,Generator,102.2466
+district,103,,Overberg,In-house conventional meter,67523.93
+district,103,,Overberg,In-house prepaid meter,198221.8
+district,103,,Overberg,No access to electricity,8332.734
+district,103,,Overberg,Other,3252.883
+district,103,,Overberg,Solar home system,0
+municipality,1032,,Overstrand,Battery,0
+municipality,1032,,Overstrand,Connected to other source which household is not paying for,155.5667
+municipality,1032,,Overstrand,Connected to other source which household pays for (e.g. con,2181.625
+municipality,1032,,Overstrand,Generator,0
+municipality,1032,,Overstrand,In-house conventional meter,23295.63
+municipality,1032,,Overstrand,In-house prepaid meter,65499.77
+municipality,1032,,Overstrand,No access to electricity,2064.707
+municipality,1032,,Overstrand,Other,210.1884
+municipality,1032,,Overstrand,Solar home system,0
+municipality,3094,,Phokwane,Battery,0
+municipality,3094,,Phokwane,Connected to other source which household is not paying for,28.47978
+municipality,3094,,Phokwane,Connected to other source which household pays for (e.g. con,621.1358
+municipality,3094,,Phokwane,Generator,67.8377
+municipality,3094,,Phokwane,In-house conventional meter,6251.964
+municipality,3094,,Phokwane,In-house prepaid meter,49057.88
+municipality,3094,,Phokwane,No access to electricity,4120.732
+municipality,3094,,Phokwane,Other,19.52985
+municipality,3094,,Phokwane,Solar home system,0
+municipality,4195,,Phumelela,Battery,33.83293
+municipality,4195,,Phumelela,Connected to other source which household is not paying for,12.99127
+municipality,4195,,Phumelela,Connected to other source which household pays for (e.g. con,174.0008
+municipality,4195,,Phumelela,Generator,113.3678
+municipality,4195,,Phumelela,In-house conventional meter,4196.981
+municipality,4195,,Phumelela,In-house prepaid meter,36700.87
+municipality,4195,,Phumelela,No access to electricity,8133.902
+municipality,4195,,Phumelela,Other,456.5773
+municipality,4195,,Phumelela,Solar home system,231.0037
+district,307,,Pixley ka Seme,Battery,0
+district,307,,Pixley ka Seme,Connected to other source which household is not paying for,1583.862
+district,307,,Pixley ka Seme,Connected to other source which household pays for (e.g. con,1462.154
+district,307,,Pixley ka Seme,Generator,215.241
+district,307,,Pixley ka Seme,In-house conventional meter,17526.97
+district,307,,Pixley ka Seme,In-house prepaid meter,160312.1
+district,307,,Pixley ka Seme,No access to electricity,11394.97
+district,307,,Pixley ka Seme,Other,811.884
+district,307,,Pixley ka Seme,Solar home system,2287.863
+municipality,9354,,Polokwane,Battery,283.88
+municipality,9354,,Polokwane,Connected to other source which household is not paying for,301.8169
+municipality,9354,,Polokwane,Connected to other source which household pays for (e.g. con,3590.519
+municipality,9354,,Polokwane,Generator,106.4409
+municipality,9354,,Polokwane,In-house conventional meter,62186.97
+municipality,9354,,Polokwane,In-house prepaid meter,701990.8
+municipality,9354,,Polokwane,No access to electricity,25067.58
+municipality,9354,,Polokwane,Other,2918.898
+municipality,9354,,Polokwane,Solar home system,680.0281
+municipality,2154,,Port St Johns,Battery,109.3774
+municipality,2154,,Port St Johns,Connected to other source which household is not paying for,4385.568
+municipality,2154,,Port St Johns,Connected to other source which household pays for (e.g. con,141.5808
+municipality,2154,,Port St Johns,Generator,82.58755
+municipality,2154,,Port St Johns,In-house conventional meter,2607.767
+municipality,2154,,Port St Johns,In-house prepaid meter,133913.8
+municipality,2154,,Port St Johns,No access to electricity,25318.57
+municipality,2154,,Port St Johns,Other,175.2695
+municipality,2154,,Port St Johns,Solar home system,44.38359
+municipality,1052,,Prince Albert,Battery,0
+municipality,1052,,Prince Albert,Connected to other source which household is not paying for,13.40672
+municipality,1052,,Prince Albert,Connected to other source which household pays for (e.g. con,8.638044
+municipality,1052,,Prince Albert,Generator,0
+municipality,1052,,Prince Albert,In-house conventional meter,932.8831
+municipality,1052,,Prince Albert,In-house prepaid meter,12817.65
+municipality,1052,,Prince Albert,No access to electricity,76.69742
+municipality,1052,,Prince Albert,Other,340.0315
+municipality,1052,,Prince Albert,Solar home system,82.55317
+municipality,6385,,Ramotshere Moiloa,Battery,22.82829
+municipality,6385,,Ramotshere Moiloa,Connected to other source which household is not paying for,132.5854
+municipality,6385,,Ramotshere Moiloa,Connected to other source which household pays for (e.g. con,624.6817
+municipality,6385,,Ramotshere Moiloa,Generator,174.7003
+municipality,6385,,Ramotshere Moiloa,In-house conventional meter,5176.759
+municipality,6385,,Ramotshere Moiloa,In-house prepaid meter,140402.6
+municipality,6385,,Ramotshere Moiloa,No access to electricity,10134.35
+municipality,6385,,Ramotshere Moiloa,Other,913.1173
+municipality,6385,,Ramotshere Moiloa,Solar home system,108.1573
+municipality,7485,,Rand West City,Battery,163.9131
+municipality,7485,,Rand West City,Connected to other source which household is not paying for,2606.626
+municipality,7485,,Rand West City,Connected to other source which household pays for (e.g. con,4683.523
+municipality,7485,,Rand West City,Generator,883.3483
+municipality,7485,,Rand West City,In-house conventional meter,44905.76
+municipality,7485,,Rand West City,In-house prepaid meter,156221.5
+municipality,7485,,Rand West City,No access to electricity,52817.21
+municipality,7485,,Rand West City,Other,2982.336
+municipality,7485,,Rand West City,Solar home system,622.3707
+municipality,6381,,Ratlou,Battery,68.73314
+municipality,6381,,Ratlou,Connected to other source which household is not paying for,180.2575
+municipality,6381,,Ratlou,Connected to other source which household pays for (e.g. con,497.6358
+municipality,6381,,Ratlou,Generator,161.4538
+municipality,6381,,Ratlou,In-house conventional meter,1220.951
+municipality,6381,,Ratlou,In-house prepaid meter,94170.53
+municipality,6381,,Ratlou,No access to electricity,9616.406
+municipality,6381,,Ratlou,Other,178.6427
+municipality,6381,,Ratlou,Solar home system,13.40412
+municipality,5216,,Ray Nkonyeni,Battery,0
+municipality,5216,,Ray Nkonyeni,Connected to other source which household is not paying for,900.6357
+municipality,5216,,Ray Nkonyeni,Connected to other source which household pays for (e.g. con,2952.617
+municipality,5216,,Ray Nkonyeni,Generator,0
+municipality,5216,,Ray Nkonyeni,In-house conventional meter,70673.48
+municipality,5216,,Ray Nkonyeni,In-house prepaid meter,256293.5
+municipality,5216,,Ray Nkonyeni,No access to electricity,17235.75
+municipality,5216,,Ray Nkonyeni,Other,433.6481
+municipality,5216,,Ray Nkonyeni,Solar home system,43.75914
+municipality,2129,,Raymond Mhlaba,Battery,0
+municipality,2129,,Raymond Mhlaba,Connected to other source which household is not paying for,11.00447
+municipality,2129,,Raymond Mhlaba,Connected to other source which household pays for (e.g. con,481.9064
+municipality,2129,,Raymond Mhlaba,Generator,149.6354
+municipality,2129,,Raymond Mhlaba,In-house conventional meter,11536.74
+municipality,2129,,Raymond Mhlaba,In-house prepaid meter,144589
+municipality,2129,,Raymond Mhlaba,No access to electricity,2366.518
+municipality,2129,,Raymond Mhlaba,Other,380.667
+municipality,2129,,Raymond Mhlaba,Solar home system,0
+municipality,3075,,Renosterberg,Battery,0
+municipality,3075,,Renosterberg,Connected to other source which household is not paying for,0
+municipality,3075,,Renosterberg,Connected to other source which household pays for (e.g. con,85.95561
+municipality,3075,,Renosterberg,Generator,0
+municipality,3075,,Renosterberg,In-house conventional meter,2864.664
+municipality,3075,,Renosterberg,In-house prepaid meter,7754.152
+municipality,3075,,Renosterberg,No access to electricity,1113.376
+municipality,3075,,Renosterberg,Other,0
+municipality,3075,,Renosterberg,Solar home system,0
+municipality,5227,,Richmond,Battery,0
+municipality,5227,,Richmond,Connected to other source which household is not paying for,269.9451
+municipality,5227,,Richmond,Connected to other source which household pays for (e.g. con,499.8541
+municipality,5227,,Richmond,Generator,0
+municipality,5227,,Richmond,In-house conventional meter,5478.408
+municipality,5227,,Richmond,In-house prepaid meter,60607.58
+municipality,5227,,Richmond,No access to electricity,4150.969
+municipality,5227,,Richmond,Other,93.02066
+municipality,5227,,Richmond,Solar home system,222.0408
+municipality,3061,,Richtersveld,Battery,0
+municipality,3061,,Richtersveld,Connected to other source which household is not paying for,19.13806
+municipality,3061,,Richtersveld,Connected to other source which household pays for (e.g. con,0
+municipality,3061,,Richtersveld,Generator,0
+municipality,3061,,Richtersveld,In-house conventional meter,850.0717
+municipality,3061,,Richtersveld,In-house prepaid meter,10593.32
+municipality,3061,,Richtersveld,No access to electricity,174.5684
+municipality,3061,,Richtersveld,Other,756.7702
+municipality,3061,,Richtersveld,Solar home system,93.08154
+municipality,6373,,Rustenburg,Battery,13.72647
+municipality,6373,,Rustenburg,Connected to other source which household is not paying for,2404.15
+municipality,6373,,Rustenburg,Connected to other source which household pays for (e.g. con,17614.56
+municipality,6373,,Rustenburg,Generator,1016.13
+municipality,6373,,Rustenburg,In-house conventional meter,49357.63
+municipality,6373,,Rustenburg,In-house prepaid meter,480213.1
+municipality,6373,,Rustenburg,No access to electricity,70355.7
+municipality,6373,,Rustenburg,Other,4986.258
+municipality,6373,,Rustenburg,Solar home system,560.5623
+municipality,2138,,Sakhisizwe,Battery,0
+municipality,2138,,Sakhisizwe,Connected to other source which household is not paying for,32.0385
+municipality,2138,,Sakhisizwe,Connected to other source which household pays for (e.g. con,25.04201
+municipality,2138,,Sakhisizwe,Generator,32.55203
+municipality,2138,,Sakhisizwe,In-house conventional meter,1524.128
+municipality,2138,,Sakhisizwe,In-house prepaid meter,60179.97
+municipality,2138,,Sakhisizwe,No access to electricity,1930.467
+municipality,2138,,Sakhisizwe,Other,48.2395
+municipality,2138,,Sakhisizwe,Solar home system,73.86441
+municipality,1014,,Saldanha Bay,Battery,0
+municipality,1014,,Saldanha Bay,Connected to other source which household is not paying for,28.57011
+municipality,1014,,Saldanha Bay,Connected to other source which household pays for (e.g. con,1499.401
+municipality,1014,,Saldanha Bay,Generator,0
+municipality,1014,,Saldanha Bay,In-house conventional meter,26100.77
+municipality,1014,,Saldanha Bay,In-house prepaid meter,75078.57
+municipality,1014,,Saldanha Bay,No access to electricity,8224.205
+municipality,1014,,Saldanha Bay,Other,206.4709
+municipality,1014,,Saldanha Bay,Solar home system,34.6576
+district,742,,Sedibeng,Battery,277.4645
+district,742,,Sedibeng,Connected to other source which household is not paying for,9811.77
+district,742,,Sedibeng,Connected to other source which household pays for (e.g. con,13883.07
+district,742,,Sedibeng,Generator,379.9577
+district,742,,Sedibeng,In-house conventional meter,193906
+district,742,,Sedibeng,In-house prepaid meter,688574.3
+district,742,,Sedibeng,No access to electricity,42068.38
+district,742,,Sedibeng,Other,7808.718
+district,742,,Sedibeng,Solar home system,818.8165
+district,947,,Sekhukhune,Battery,0
+district,947,,Sekhukhune,Connected to other source which household is not paying for,22812.1
+district,947,,Sekhukhune,Connected to other source which household pays for (e.g. con,7692.753
+district,947,,Sekhukhune,Generator,360.3898
+district,947,,Sekhukhune,In-house conventional meter,51366.81
+district,947,,Sekhukhune,In-house prepaid meter,1012137
+district,947,,Sekhukhune,No access to electricity,70519.62
+district,947,,Sekhukhune,Other,2498.263
+district,947,,Sekhukhune,Solar home system,2374.931
+municipality,2142,,Senqu,Battery,0
+municipality,2142,,Senqu,Connected to other source which household is not paying for,0
+municipality,2142,,Senqu,Connected to other source which household pays for (e.g. con,272.8979
+municipality,2142,,Senqu,Generator,0
+municipality,2142,,Senqu,In-house conventional meter,3087.834
+municipality,2142,,Senqu,In-house prepaid meter,131726.8
+municipality,2142,,Senqu,No access to electricity,5077.604
+municipality,2142,,Senqu,Other,324.5722
+municipality,2142,,Senqu,Solar home system,230.0709
+municipality,4191,,Setsoto,Battery,0
+municipality,4191,,Setsoto,Connected to other source which household is not paying for,231.3793
+municipality,4191,,Setsoto,Connected to other source which household pays for (e.g. con,4027.572
+municipality,4191,,Setsoto,Generator,10.01348
+municipality,4191,,Setsoto,In-house conventional meter,8107.064
+municipality,4191,,Setsoto,In-house prepaid meter,97434.09
+municipality,4191,,Setsoto,No access to electricity,6451.878
+municipality,4191,,Setsoto,Other,738.6992
+municipality,4191,,Setsoto,Solar home system,361.2963
+district,543,,Sisonke,Battery,0
+district,543,,Sisonke,Connected to other source which household is not paying for,942.649
+district,543,,Sisonke,Connected to other source which household pays for (e.g. con,4295.48
+district,543,,Sisonke,Generator,375.4445
+district,543,,Sisonke,In-house conventional meter,17878.65
+district,543,,Sisonke,In-house prepaid meter,404447.7
+district,543,,Sisonke,No access to electricity,80165.79
+district,543,,Sisonke,Other,816.0818
+district,543,,Sisonke,Solar home system,1943.305
+municipality,3078,,Siyancuma,Battery,0
+municipality,3078,,Siyancuma,Connected to other source which household is not paying for,577.0329
+municipality,3078,,Siyancuma,Connected to other source which household pays for (e.g. con,413.001
+municipality,3078,,Siyancuma,Generator,0
+municipality,3078,,Siyancuma,In-house conventional meter,3757.408
+municipality,3078,,Siyancuma,In-house prepaid meter,28557.72
+municipality,3078,,Siyancuma,No access to electricity,1807.881
+municipality,3078,,Siyancuma,Other,16.67982
+municipality,3078,,Siyancuma,Solar home system,811.3842
+municipality,3077,,Siyathemba,Battery,0
+municipality,3077,,Siyathemba,Connected to other source which household is not paying for,334.4063
+municipality,3077,,Siyathemba,Connected to other source which household pays for (e.g. con,44.38687
+municipality,3077,,Siyathemba,Generator,53.61756
+municipality,3077,,Siyathemba,In-house conventional meter,1510.009
+municipality,3077,,Siyathemba,In-house prepaid meter,19381.69
+municipality,3077,,Siyathemba,No access to electricity,1208.228
+municipality,3077,,Siyathemba,Other,0
+municipality,3077,,Siyathemba,Solar home system,542.7281
+municipality,3091,,Sol Plaatjie,Battery,0
+municipality,3091,,Sol Plaatjie,Connected to other source which household is not paying for,825.9372
+municipality,3091,,Sol Plaatjie,Connected to other source which household pays for (e.g. con,1306.756
+municipality,3091,,Sol Plaatjie,Generator,991.6647
+municipality,3091,,Sol Plaatjie,In-house conventional meter,28918.86
+municipality,3091,,Sol Plaatjie,In-house prepaid meter,204405.5
+municipality,3091,,Sol Plaatjie,No access to electricity,17845.97
+municipality,3091,,Sol Plaatjie,Other,571.9558
+municipality,3091,,Sol Plaatjie,Solar home system,174.2477
+country,ZA,,South Africa,Battery,10967.18
+country,ZA,,South Africa,Connected to other source which household is not paying for,396231.6
+country,ZA,,South Africa,Connected to other source which household pays for (e.g. con,794425.7
+country,ZA,,South Africa,Generator,33519.55
+country,ZA,,South Africa,In-house conventional meter,8810812
+country,ZA,,South Africa,In-house prepaid meter,40998571
+country,ZA,,South Africa,No access to electricity,4055298
+country,ZA,,South Africa,Other,346965
+country,ZA,,South Africa,Solar home system,206865.3
+municipality,1024,,Stellenbosch,Battery,0
+municipality,1024,,Stellenbosch,Connected to other source which household is not paying for,323.6631
+municipality,1024,,Stellenbosch,Connected to other source which household pays for (e.g. con,5592.858
+municipality,1024,,Stellenbosch,Generator,37.83893
+municipality,1024,,Stellenbosch,In-house conventional meter,25436.18
+municipality,1024,,Stellenbosch,In-house prepaid meter,129672.5
+municipality,1024,,Stellenbosch,No access to electricity,9009.011
+municipality,1024,,Stellenbosch,Other,2960.848
+municipality,1024,,Stellenbosch,Solar home system,164.0595
+municipality,8313,,Steve Tshwete,Battery,0
+municipality,8313,,Steve Tshwete,Connected to other source which household is not paying for,650.3139
+municipality,8313,,Steve Tshwete,Connected to other source which household pays for (e.g. con,6801.534
+municipality,8313,,Steve Tshwete,Generator,0
+municipality,8313,,Steve Tshwete,In-house conventional meter,47576.09
+municipality,8313,,Steve Tshwete,In-house prepaid meter,194181.6
+municipality,8313,,Steve Tshwete,No access to electricity,27208.01
+municipality,8313,,Steve Tshwete,Other,2013.61
+municipality,8313,,Steve Tshwete,Solar home system,318.2085
+municipality,2106,,Sundays River Valley,Battery,0
+municipality,2106,,Sundays River Valley,Connected to other source which household is not paying for,3618.213
+municipality,2106,,Sundays River Valley,Connected to other source which household pays for (e.g. con,743.778
+municipality,2106,,Sundays River Valley,Generator,38.89906
+municipality,2106,,Sundays River Valley,In-house conventional meter,2509.639
+municipality,2106,,Sundays River Valley,In-house prepaid meter,48295.31
+municipality,2106,,Sundays River Valley,No access to electricity,4433.374
+municipality,2106,,Sundays River Valley,Other,81.13709
+municipality,2106,,Sundays River Valley,Solar home system,72.34888
+municipality,1015,,Swartland,Battery,0
+municipality,1015,,Swartland,Connected to other source which household is not paying for,632.7808
+municipality,1015,,Swartland,Connected to other source which household pays for (e.g. con,5183.46
+municipality,1015,,Swartland,Generator,0
+municipality,1015,,Swartland,In-house conventional meter,45817.21
+municipality,1015,,Swartland,In-house prepaid meter,80684.58
+municipality,1015,,Swartland,No access to electricity,420.4409
+municipality,1015,,Swartland,Other,952.6869
+municipality,1015,,Swartland,Solar home system,70.78566
+municipality,1034,,Swellendam,Battery,3.382471
+municipality,1034,,Swellendam,Connected to other source which household is not paying for,0
+municipality,1034,,Swellendam,Connected to other source which household pays for (e.g. con,528.5863
+municipality,1034,,Swellendam,Generator,0
+municipality,1034,,Swellendam,In-house conventional meter,6886.828
+municipality,1034,,Swellendam,In-house prepaid meter,32095
+municipality,1034,,Swellendam,No access to electricity,494.7875
+municipality,1034,,Swellendam,Other,202.8923
+municipality,1034,,Swellendam,Solar home system,0
+municipality,8321,,Thaba Chweu,Battery,16.43778
+municipality,8321,,Thaba Chweu,Connected to other source which household is not paying for,892.7328
+municipality,8321,,Thaba Chweu,Connected to other source which household pays for (e.g. con,3606.037
+municipality,8321,,Thaba Chweu,Generator,53.09009
+municipality,8321,,Thaba Chweu,In-house conventional meter,14790.27
+municipality,8321,,Thaba Chweu,In-house prepaid meter,72320.65
+municipality,8321,,Thaba Chweu,No access to electricity,9825.411
+municipality,8321,,Thaba Chweu,Other,343.7644
+municipality,8321,,Thaba Chweu,Solar home system,46.94973
+municipality,9361,,Thabazimbi,Battery,0
+municipality,9361,,Thabazimbi,Connected to other source which household is not paying for,1124.543
+municipality,9361,,Thabazimbi,Connected to other source which household pays for (e.g. con,3590.286
+municipality,9361,,Thabazimbi,Generator,0
+municipality,9361,,Thabazimbi,In-house conventional meter,21497.81
+municipality,9361,,Thabazimbi,In-house prepaid meter,50630.86
+municipality,9361,,Thabazimbi,No access to electricity,16480.75
+municipality,9361,,Thabazimbi,Other,2813.338
+municipality,9361,,Thabazimbi,Solar home system,94.38976
+district,419,,Thabo Mofutsanyane,Battery,91.90439
+district,419,,Thabo Mofutsanyane,Connected to other source which household is not paying for,1789.566
+district,419,,Thabo Mofutsanyane,Connected to other source which household pays for (e.g. con,16967.3
+district,419,,Thabo Mofutsanyane,Generator,237.6972
+district,419,,Thabo Mofutsanyane,In-house conventional meter,74111.9
+district,419,,Thabo Mofutsanyane,In-house prepaid meter,633156.5
+district,419,,Thabo Mofutsanyane,No access to electricity,48129.51
+district,419,,Thabo Mofutsanyane,Other,3702.197
+district,419,,Thabo Mofutsanyane,Solar home system,1143.405
+municipality,5225,,The Msunduzi,Battery,238.9119
+municipality,5225,,The Msunduzi,Connected to other source which household is not paying for,6154.928
+municipality,5225,,The Msunduzi,Connected to other source which household pays for (e.g. con,10557.2
+municipality,5225,,The Msunduzi,Generator,298.9187
+municipality,5225,,The Msunduzi,In-house conventional meter,197317.9
+municipality,5225,,The Msunduzi,In-house prepaid meter,448235.9
+municipality,5225,,The Msunduzi,No access to electricity,13671.27
+municipality,5225,,The Msunduzi,Other,2356.857
+municipality,5225,,The Msunduzi,Solar home system,207.3105
+municipality,1031,,Theewaterskloof,Battery,0
+municipality,1031,,Theewaterskloof,Connected to other source which household is not paying for,3299.553
+municipality,1031,,Theewaterskloof,Connected to other source which household pays for (e.g. con,2307.649
+municipality,1031,,Theewaterskloof,Generator,102.2466
+municipality,1031,,Theewaterskloof,In-house conventional meter,25973.6
+municipality,1031,,Theewaterskloof,In-house prepaid meter,77634.57
+municipality,1031,,Theewaterskloof,No access to electricity,5504.647
+municipality,1031,,Theewaterskloof,Other,2345.155
+municipality,1031,,Theewaterskloof,Solar home system,0
+municipality,3076,,Thembelihle,Battery,0
+municipality,3076,,Thembelihle,Connected to other source which household is not paying for,110.1368
+municipality,3076,,Thembelihle,Connected to other source which household pays for (e.g. con,0
+municipality,3076,,Thembelihle,Generator,124.5499
+municipality,3076,,Thembelihle,In-house conventional meter,2420.209
+municipality,3076,,Thembelihle,In-house prepaid meter,11669.96
+municipality,3076,,Thembelihle,No access to electricity,1811.913
+municipality,3076,,Thembelihle,Other,73.87338
+municipality,3076,,Thembelihle,Solar home system,19.8273
+municipality,8315,,Thembisile,Battery,0
+municipality,8315,,Thembisile,Connected to other source which household is not paying for,3273.164
+municipality,8315,,Thembisile,Connected to other source which household pays for (e.g. con,453.0516
+municipality,8315,,Thembisile,Generator,13.12141
+municipality,8315,,Thembisile,In-house conventional meter,6648.936
+municipality,8315,,Thembisile,In-house prepaid meter,317531.5
+municipality,8315,,Thembisile,No access to electricity,4650.219
+municipality,8315,,Thembisile,Other,738.788
+municipality,8315,,Thembisile,Solar home system,22.49053
+municipality,9343,,Thulamela,Battery,0
+municipality,9343,,Thulamela,Connected to other source which household is not paying for,1246.558
+municipality,9343,,Thulamela,Connected to other source which household pays for (e.g. con,1796.84
+municipality,9343,,Thulamela,Generator,18.91583
+municipality,9343,,Thulamela,In-house conventional meter,14318.41
+municipality,9343,,Thulamela,In-house prepaid meter,468633.6
+municipality,9343,,Thulamela,No access to electricity,10400.03
+municipality,9343,,Thulamela,Other,702.5862
+municipality,9343,,Thulamela,Solar home system,120.4814
+municipality,4182,,Tokologo,Battery,0
+municipality,4182,,Tokologo,Connected to other source which household is not paying for,192.0913
+municipality,4182,,Tokologo,Connected to other source which household pays for (e.g. con,442.3964
+municipality,4182,,Tokologo,Generator,0
+municipality,4182,,Tokologo,In-house conventional meter,3622.543
+municipality,4182,,Tokologo,In-house prepaid meter,23131.56
+municipality,4182,,Tokologo,No access to electricity,1496.578
+municipality,4182,,Tokologo,Other,232.5273
+municipality,4182,,Tokologo,Solar home system,31.00119
+municipality,3085,,Tsantsabane,Battery,0
+municipality,3085,,Tsantsabane,Connected to other source which household is not paying for,96.41246
+municipality,3085,,Tsantsabane,Connected to other source which household pays for (e.g. con,414.4559
+municipality,3085,,Tsantsabane,Generator,6.375856
+municipality,3085,,Tsantsabane,In-house conventional meter,1954.503
+municipality,3085,,Tsantsabane,In-house prepaid meter,32643.55
+municipality,3085,,Tsantsabane,No access to electricity,3683.894
+municipality,3085,,Tsantsabane,Other,211.1634
+municipality,3085,,Tsantsabane,Solar home system,334.6056
+municipality,6382,,Tswaing,Battery,0
+municipality,6382,,Tswaing,Connected to other source which household is not paying for,0
+municipality,6382,,Tswaing,Connected to other source which household pays for (e.g. con,1833.663
+municipality,6382,,Tswaing,Generator,0
+municipality,6382,,Tswaing,In-house conventional meter,4355.947
+municipality,6382,,Tswaing,In-house prepaid meter,110453.5
+municipality,6382,,Tswaing,No access to electricity,12274.14
+municipality,6382,,Tswaing,Other,93.8811
+municipality,6382,,Tswaing,Solar home system,40.87927
+municipality,4183,,Tswelopele,Battery,0
+municipality,4183,,Tswelopele,Connected to other source which household is not paying for,344.2824
+municipality,4183,,Tswelopele,Connected to other source which household pays for (e.g. con,2523.409
+municipality,4183,,Tswelopele,Generator,0
+municipality,4183,,Tswelopele,In-house conventional meter,3514.18
+municipality,4183,,Tswelopele,In-house prepaid meter,38933.42
+municipality,4183,,Tswelopele,No access to electricity,1985.077
+municipality,4183,,Tswelopele,Other,72.6438
+municipality,4183,,Tswelopele,Solar home system,0
+municipality,5434,,Ubuhlebezwe,Battery,0
+municipality,5434,,Ubuhlebezwe,Connected to other source which household is not paying for,312.5606
+municipality,5434,,Ubuhlebezwe,Connected to other source which household pays for (e.g. con,117.2439
+municipality,5434,,Ubuhlebezwe,Generator,216.0617
+municipality,5434,,Ubuhlebezwe,In-house conventional meter,3682.685
+municipality,5434,,Ubuhlebezwe,In-house prepaid meter,89598.38
+municipality,5434,,Ubuhlebezwe,No access to electricity,23869.2
+municipality,5434,,Ubuhlebezwe,Other,289.8999
+municipality,5434,,Ubuhlebezwe,Solar home system,260.3856
+municipality,3071,,Ubuntu,Battery,0
+municipality,3071,,Ubuntu,Connected to other source which household is not paying for,87.66529
+municipality,3071,,Ubuntu,Connected to other source which household pays for (e.g. con,62.3249
+municipality,3071,,Ubuntu,Generator,0
+municipality,3071,,Ubuntu,In-house conventional meter,1332.317
+municipality,3071,,Ubuntu,In-house prepaid meter,16482.8
+municipality,3071,,Ubuntu,No access to electricity,1286.222
+municipality,3071,,Ubuntu,Other,0
+municipality,3071,,Ubuntu,Solar home system,220.0822
+district,521,,Ugu,Battery,180.0877
+district,521,,Ugu,Connected to other source which household is not paying for,10785.92
+district,521,,Ugu,Connected to other source which household pays for (e.g. con,7579.036
+district,521,,Ugu,Generator,147.9125
+district,521,,Ugu,In-house conventional meter,94846.53
+district,521,,Ugu,In-house prepaid meter,541596
+district,521,,Ugu,No access to electricity,94116.56
+district,521,,Ugu,Other,3351.896
+district,521,,Ugu,Solar home system,732.1076
+municipality,5266,,Ulundi,Battery,0
+municipality,5266,,Ulundi,Connected to other source which household is not paying for,0
+municipality,5266,,Ulundi,Connected to other source which household pays for (e.g. con,675.3263
+municipality,5266,,Ulundi,Generator,0
+municipality,5266,,Ulundi,In-house conventional meter,8529.242
+municipality,5266,,Ulundi,In-house prepaid meter,166100.3
+municipality,5266,,Ulundi,No access to electricity,29808.34
+municipality,5266,,Ulundi,Other,555.4744
+municipality,5266,,Ulundi,Solar home system,93.09411
+municipality,5212,,Umdoni,Battery,0
+municipality,5212,,Umdoni,Connected to other source which household is not paying for,5748.954
+municipality,5212,,Umdoni,Connected to other source which household pays for (e.g. con,3468.587
+municipality,5212,,Umdoni,Generator,52.66048
+municipality,5212,,Umdoni,In-house conventional meter,17913.96
+municipality,5212,,Umdoni,In-house prepaid meter,87939.84
+municipality,5212,,Umdoni,No access to electricity,28324.48
+municipality,5212,,Umdoni,Other,1102.07
+municipality,5212,,Umdoni,Solar home system,0
+district,522,,Umgungundlovu,Battery,238.9119
+district,522,,Umgungundlovu,Connected to other source which household is not paying for,8391.654
+district,522,,Umgungundlovu,Connected to other source which household pays for (e.g. con,13876.08
+district,522,,Umgungundlovu,Generator,1586.531
+district,522,,Umgungundlovu,In-house conventional meter,252062.1
+district,522,,Umgungundlovu,In-house prepaid meter,761929.6
+district,522,,Umgungundlovu,No access to electricity,51159.29
+district,522,,Umgungundlovu,Other,5014.381
+district,522,,Umgungundlovu,Solar home system,1606.098
+municipality,5271,,Umhlabuyalingana,Battery,315.251
+municipality,5271,,Umhlabuyalingana,Connected to other source which household is not paying for,1492.098
+municipality,5271,,Umhlabuyalingana,Connected to other source which household pays for (e.g. con,2545.828
+municipality,5271,,Umhlabuyalingana,Generator,508.6244
+municipality,5271,,Umhlabuyalingana,In-house conventional meter,11600.76
+municipality,5271,,Umhlabuyalingana,In-house prepaid meter,15422.13
+municipality,5271,,Umhlabuyalingana,No access to electricity,131740.8
+municipality,5271,,Umhlabuyalingana,Other,2745.503
+municipality,5271,,Umhlabuyalingana,Solar home system,5706.051
+district,527,,Umkhanyakude,Battery,1168.202
+district,527,,Umkhanyakude,Connected to other source which household is not paying for,13513.1
+district,527,,Umkhanyakude,Connected to other source which household pays for (e.g. con,12317.86
+district,527,,Umkhanyakude,Generator,1355.686
+district,527,,Umkhanyakude,In-house conventional meter,47851
+district,527,,Umkhanyakude,In-house prepaid meter,290468.9
+district,527,,Umkhanyakude,No access to electricity,286382.4
+district,527,,Umkhanyakude,Other,15623.3
+district,527,,Umkhanyakude,Solar home system,20409.78
+municipality,3072,,Umsobomvu,Battery,0
+municipality,3072,,Umsobomvu,Connected to other source which household is not paying for,440.1196
+municipality,3072,,Umsobomvu,Connected to other source which household pays for (e.g. con,488.3908
+municipality,3072,,Umsobomvu,Generator,0
+municipality,3072,,Umsobomvu,In-house conventional meter,2230.139
+municipality,3072,,Umsobomvu,In-house prepaid meter,26227.68
+municipality,3072,,Umsobomvu,No access to electricity,1491.166
+municipality,3072,,Umsobomvu,Other,0
+municipality,3072,,Umsobomvu,Solar home system,5.014751
+municipality,5245,,Umvoti,Battery,0
+municipality,5245,,Umvoti,Connected to other source which household is not paying for,250.6315
+municipality,5245,,Umvoti,Connected to other source which household pays for (e.g. con,1510.743
+municipality,5245,,Umvoti,Generator,424.1305
+municipality,5245,,Umvoti,In-house conventional meter,8923.773
+municipality,5245,,Umvoti,In-house prepaid meter,83043.31
+municipality,5245,,Umvoti,No access to electricity,27599.22
+municipality,5245,,Umvoti,Other,400.1415
+municipality,5245,,Umvoti,Solar home system,271.4067
+municipality,5435,,Umzimkhulu,Battery,0
+municipality,5435,,Umzimkhulu,Connected to other source which household is not paying for,101.2378
+municipality,5435,,Umzimkhulu,Connected to other source which household pays for (e.g. con,967.975
+municipality,5435,,Umzimkhulu,Generator,89.22554
+municipality,5435,,Umzimkhulu,In-house conventional meter,5180.15
+municipality,5435,,Umzimkhulu,In-house prepaid meter,158466.1
+municipality,5435,,Umzimkhulu,No access to electricity,30872.19
+municipality,5435,,Umzimkhulu,Other,374.1816
+municipality,5435,,Umzimkhulu,Solar home system,1234.701
+municipality,2442,,Umzimvubu,Battery,0
+municipality,2442,,Umzimvubu,Connected to other source which household is not paying for,484.0006
+municipality,2442,,Umzimvubu,Connected to other source which household pays for (e.g. con,751.8229
+municipality,2442,,Umzimvubu,Generator,228.1248
+municipality,2442,,Umzimvubu,In-house conventional meter,14874.76
+municipality,2442,,Umzimvubu,In-house prepaid meter,118522.6
+municipality,2442,,Umzimvubu,No access to electricity,52555.79
+municipality,2442,,Umzimvubu,Other,261.4434
+municipality,2442,,Umzimvubu,Solar home system,11941.53
+district,524,,Umzinyathi,Battery,939.6267
+district,524,,Umzinyathi,Connected to other source which household is not paying for,2702.862
+district,524,,Umzinyathi,Connected to other source which household pays for (e.g. con,9255.211
+district,524,,Umzinyathi,Generator,1610.158
+district,524,,Umzinyathi,In-house conventional meter,36210.9
+district,524,,Umzinyathi,In-house prepaid meter,344973.4
+district,524,,Umzinyathi,No access to electricity,122586.1
+district,524,,Umzinyathi,Other,22666.34
+district,524,,Umzinyathi,Solar home system,13937.18
+municipality,5213,,Umzumbe,Battery,165.9375
+municipality,5213,,Umzumbe,Connected to other source which household is not paying for,4116.536
+municipality,5213,,Umzumbe,Connected to other source which household pays for (e.g. con,942.4773
+municipality,5213,,Umzumbe,Generator,95.25198
+municipality,5213,,Umzumbe,In-house conventional meter,785.3142
+municipality,5213,,Umzumbe,In-house prepaid meter,103501.4
+municipality,5213,,Umzumbe,No access to electricity,40651.85
+municipality,5213,,Umzumbe,Other,729.202
+municipality,5213,,Umzumbe,Solar home system,688.3485
+district,523,,Uthukela,Battery,262.6072
+district,523,,Uthukela,Connected to other source which household is not paying for,2709.447
+district,523,,Uthukela,Connected to other source which household pays for (e.g. con,10733.41
+district,523,,Uthukela,Generator,803.3453
+district,523,,Uthukela,In-house conventional meter,43479.38
+district,523,,Uthukela,In-house prepaid meter,544049.8
+district,523,,Uthukela,No access to electricity,83552.94
+district,523,,Uthukela,Other,8347.458
+district,523,,Uthukela,Solar home system,12649.64
+district,528,,Uthungulu,Battery,437.0284
+district,528,,Uthungulu,Connected to other source which household is not paying for,14291.89
+district,528,,Uthungulu,Connected to other source which household pays for (e.g. con,4331.172
+district,528,,Uthungulu,Generator,1393.842
+district,528,,Uthungulu,In-house conventional meter,42899.5
+district,528,,Uthungulu,In-house prepaid meter,837520.4
+district,528,,Uthungulu,No access to electricity,68124.98
+district,528,,Uthungulu,Other,1635.078
+district,528,,Uthungulu,Solar home system,500.7454
+municipality,6405,,Ventersdorp/Tlokwe,Battery,18.10231
+municipality,6405,,Ventersdorp/Tlokwe,Connected to other source which household is not paying for,1431.157
+municipality,6405,,Ventersdorp/Tlokwe,Connected to other source which household pays for (e.g. con,3824.292
+municipality,6405,,Ventersdorp/Tlokwe,Generator,225.7143
+municipality,6405,,Ventersdorp/Tlokwe,In-house conventional meter,37505.12
+municipality,6405,,Ventersdorp/Tlokwe,In-house prepaid meter,180069.7
+municipality,6405,,Ventersdorp/Tlokwe,No access to electricity,17998.13
+municipality,6405,,Ventersdorp/Tlokwe,Other,2257.198
+municipality,6405,,Ventersdorp/Tlokwe,Solar home system,197.5319
+district,934,,Vhembe,Battery,16.20987
+district,934,,Vhembe,Connected to other source which household is not paying for,7122.205
+district,934,,Vhembe,Connected to other source which household pays for (e.g. con,6278.887
+district,934,,Vhembe,Generator,321.9792
+district,934,,Vhembe,In-house conventional meter,62324.35
+district,934,,Vhembe,In-house prepaid meter,1269183
+district,934,,Vhembe,No access to electricity,42325.61
+district,934,,Vhembe,Other,4205.831
+district,934,,Vhembe,Solar home system,2170.887
+municipality,8311,,Victor Khanye,Battery,27.29458
+municipality,8311,,Victor Khanye,Connected to other source which household is not paying for,571.0462
+municipality,8311,,Victor Khanye,Connected to other source which household pays for (e.g. con,1112.055
+municipality,8311,,Victor Khanye,Generator,143.9816
+municipality,8311,,Victor Khanye,In-house conventional meter,23166.85
+municipality,8311,,Victor Khanye,In-house prepaid meter,53841.67
+municipality,8311,,Victor Khanye,No access to electricity,4234.44
+municipality,8311,,Victor Khanye,Other,1053.277
+municipality,8311,,Victor Khanye,Solar home system,0
+municipality,2145,,Walter Sisulu,Battery,0
+municipality,2145,,Walter Sisulu,Connected to other source which household is not paying for,128.4823
+municipality,2145,,Walter Sisulu,Connected to other source which household pays for (e.g. con,1901.614
+municipality,2145,,Walter Sisulu,Generator,191.6033
+municipality,2145,,Walter Sisulu,In-house conventional meter,12460.69
+municipality,2145,,Walter Sisulu,In-house prepaid meter,64287.52
+municipality,2145,,Walter Sisulu,No access to electricity,7790.39
+municipality,2145,,Walter Sisulu,Other,223.0293
+municipality,2145,,Walter Sisulu,Solar home system,279.689
+district,936,,Waterberg,Battery,0
+district,936,,Waterberg,Connected to other source which household is not paying for,3245.947
+district,936,,Waterberg,Connected to other source which household pays for (e.g. con,8837.327
+district,936,,Waterberg,Generator,234.1656
+district,936,,Waterberg,In-house conventional meter,84486.32
+district,936,,Waterberg,In-house prepaid meter,578620.7
+district,936,,Waterberg,No access to electricity,63466.84
+district,936,,Waterberg,Other,6337.753
+district,936,,Waterberg,Solar home system,528.7083
+district,101,,West Coast,Battery,0
+district,101,,West Coast,Connected to other source which household is not paying for,2451.994
+district,101,,West Coast,Connected to other source which household pays for (e.g. con,14692.9
+district,101,,West Coast,Generator,0
+district,101,,West Coast,In-house conventional meter,93625.52
+district,101,,West Coast,In-house prepaid meter,310120.1
+district,101,,West Coast,No access to electricity,12793.51
+district,101,,West Coast,Other,2397.299
+district,101,,West Coast,Solar home system,321.6614
+district,748,,West Rand,Battery,383.6514
+district,748,,West Rand,Connected to other source which household is not paying for,5225.469
+district,748,,West Rand,Connected to other source which household pays for (e.g. con,23455.42
+district,748,,West Rand,Generator,1041.871
+district,748,,West Rand,In-house conventional meter,198718.6
+district,748,,West Rand,In-house prepaid meter,484585.9
+district,748,,West Rand,No access to electricity,114521.3
+district,748,,West Rand,Other,9410.583
+district,748,,West Rand,Solar home system,1250.959
+province,WC,,Western Cape,Battery,276.533
+province,WC,,Western Cape,Connected to other source which household is not paying for,25862.75
+province,WC,,Western Cape,Connected to other source which household pays for (e.g. con,162682.5
+province,WC,,Western Cape,Generator,1479.145
+province,WC,,Western Cape,In-house conventional meter,1059707
+province,WC,,Western Cape,In-house prepaid meter,4868696
+province,WC,,Western Cape,No access to electricity,116205.9
+province,WC,,Western Cape,Other,40039.33
+province,WC,,Western Cape,Solar home system,4780.953
+municipality,1022,,Witzenberg,Battery,0
+municipality,1022,,Witzenberg,Connected to other source which household is not paying for,2574.302
+municipality,1022,,Witzenberg,Connected to other source which household pays for (e.g. con,7636.064
+municipality,1022,,Witzenberg,Generator,22.087
+municipality,1022,,Witzenberg,In-house conventional meter,20080.51
+municipality,1022,,Witzenberg,In-house prepaid meter,95288.9
+municipality,1022,,Witzenberg,No access to electricity,3919.331
+municipality,1022,,Witzenberg,Other,906.345
+municipality,1022,,Witzenberg,Solar home system,119.9926
+district,416,,Xhariep,Battery,0
+district,416,,Xhariep,Connected to other source which household is not paying for,669.4552
+district,416,,Xhariep,Connected to other source which household pays for (e.g. con,2192.598
+district,416,,Xhariep,Generator,103.9298
+district,416,,Xhariep,In-house conventional meter,21766.21
+district,416,,Xhariep,In-house prepaid meter,95810.62
+district,416,,Xhariep,No access to electricity,4068.833
+district,416,,Xhariep,Other,1113.16
+district,416,,Xhariep,Solar home system,159.0688
+district,308,,Z F Mgcawu,Battery,197.5078
+district,308,,Z F Mgcawu,Connected to other source which household is not paying for,697.5338
+district,308,,Z F Mgcawu,Connected to other source which household pays for (e.g. con,3423.097
+district,308,,Z F Mgcawu,Generator,131.2779
+district,308,,Z F Mgcawu,In-house conventional meter,45551.63
+district,308,,Z F Mgcawu,In-house prepaid meter,177693.4
+district,308,,Z F Mgcawu,No access to electricity,16189.48
+district,308,,Z F Mgcawu,Other,4533.642
+district,308,,Z F Mgcawu,Solar home system,4274.475
+district,526,,Zululand,Battery,213.707
+district,526,,Zululand,Connected to other source which household is not paying for,933.8352
+district,526,,Zululand,Connected to other source which household pays for (e.g. con,2513.137
+district,526,,Zululand,Generator,591.4843
+district,526,,Zululand,In-house conventional meter,54104.56
+district,526,,Zululand,In-house prepaid meter,697034.6
+district,526,,Zululand,No access to electricity,132191.9
+district,526,,Zululand,Other,2804.001
+district,526,,Zululand,Solar home system,1922.533
+municipality,5261,,eDumbe,Battery,0
+municipality,5261,,eDumbe,Connected to other source which household is not paying for,104.6024
+municipality,5261,,eDumbe,Connected to other source which household pays for (e.g. con,538.3583
+municipality,5261,,eDumbe,Generator,369.1262
+municipality,5261,,eDumbe,In-house conventional meter,6482.516
+municipality,5261,,eDumbe,In-house prepaid meter,57467.22
+municipality,5261,,eDumbe,No access to electricity,23301.83
+municipality,5261,,eDumbe,Other,1070.907
+municipality,5261,,eDumbe,Solar home system,279.6656
+municipality,595,,eThekwini,Battery,74.49918
+municipality,5950,,eThekwini,Battery,74.49918
+municipality,595,,eThekwini,Battery,74.49918
+municipality,5950,,eThekwini,Battery,74.49918
+municipality,595,,eThekwini,Connected to other source which household is not paying for,59743.85
+municipality,5950,,eThekwini,Connected to other source which household is not paying for,59743.85
+municipality,595,,eThekwini,Connected to other source which household is not paying for,59743.85
+municipality,5950,,eThekwini,Connected to other source which household is not paying for,59743.85
+municipality,595,,eThekwini,Connected to other source which household pays for (e.g. con,51277.26
+municipality,5950,,eThekwini,Connected to other source which household pays for (e.g. con,51277.26
+municipality,595,,eThekwini,Connected to other source which household pays for (e.g. con,51277.26
+municipality,5950,,eThekwini,Connected to other source which household pays for (e.g. con,51277.26
+municipality,595,,eThekwini,Generator,1348.845
+municipality,5950,,eThekwini,Generator,1348.845
+municipality,595,,eThekwini,Generator,1348.845
+municipality,5950,,eThekwini,Generator,1348.845
+municipality,595,,eThekwini,In-house conventional meter,1274740
+municipality,5950,,eThekwini,In-house conventional meter,1274740
+municipality,595,,eThekwini,In-house conventional meter,1274740
+municipality,5950,,eThekwini,In-house conventional meter,1274740
+municipality,595,,eThekwini,In-house prepaid meter,2184470
+municipality,5950,,eThekwini,In-house prepaid meter,2184470
+municipality,595,,eThekwini,In-house prepaid meter,2184470
+municipality,5950,,eThekwini,In-house prepaid meter,2184470
+municipality,595,,eThekwini,No access to electricity,111047.7
+municipality,5950,,eThekwini,No access to electricity,111047.7
+municipality,595,,eThekwini,No access to electricity,111047.7
+municipality,5950,,eThekwini,No access to electricity,111047.7
+municipality,595,,eThekwini,Other,19111.75
+municipality,5950,,eThekwini,Other,19111.75
+municipality,595,,eThekwini,Other,19111.75
+municipality,5950,,eThekwini,Other,19111.75
+municipality,595,,eThekwini,Solar home system,417.4764
+municipality,5950,,eThekwini,Solar home system,417.4764
+municipality,595,,eThekwini,Solar home system,417.4764
+municipality,5950,,eThekwini,Solar home system,417.4764
+district,529,,iLembe,Battery,178.0118
+district,529,,iLembe,Connected to other source which household is not paying for,6717.415
+district,529,,iLembe,Connected to other source which household pays for (e.g. con,12225.48
+district,529,,iLembe,Generator,233.3508
+district,529,,iLembe,In-house conventional meter,72437.5
+district,529,,iLembe,In-house prepaid meter,458974.1
+district,529,,iLembe,No access to electricity,100326.6
+district,529,,iLembe,Other,5589.959
+district,529,,iLembe,Solar home system,929.985
+municipality,5282,,uMhlathuze,Battery,0
+municipality,5282,,uMhlathuze,Connected to other source which household is not paying for,2731.688
+municipality,5282,,uMhlathuze,Connected to other source which household pays for (e.g. con,1934.111
+municipality,5282,,uMhlathuze,Generator,0
+municipality,5282,,uMhlathuze,In-house conventional meter,20198.34
+municipality,5282,,uMhlathuze,In-house prepaid meter,383144.6
+municipality,5282,,uMhlathuze,No access to electricity,2309.192
+municipality,5282,,uMhlathuze,Other,129.3996
+municipality,5282,,uMhlathuze,Solar home system,17.25031
+municipality,5284,,uMlalazi,Battery,156.4881
+municipality,5284,,uMlalazi,Connected to other source which household is not paying for,8361.248
+municipality,5284,,uMlalazi,Connected to other source which household pays for (e.g. con,761.1868
+municipality,5284,,uMlalazi,Generator,985.7142
+municipality,5284,,uMlalazi,In-house conventional meter,6680.755
+municipality,5284,,uMlalazi,In-house prepaid meter,171240.5
+municipality,5284,,uMlalazi,No access to electricity,34025.97
+municipality,5284,,uMlalazi,Other,848.1255
+municipality,5284,,uMlalazi,Solar home system,80.00145
+municipality,5222,,uMngeni,Battery,0
+municipality,5222,,uMngeni,Connected to other source which household is not paying for,1004.51
+municipality,5222,,uMngeni,Connected to other source which household pays for (e.g. con,651.8815
+municipality,5222,,uMngeni,Generator,160.9062
+municipality,5222,,uMngeni,In-house conventional meter,26503.97
+municipality,5222,,uMngeni,In-house prepaid meter,73449.42
+municipality,5222,,uMngeni,No access to electricity,6758.766
+municipality,5222,,uMngeni,Other,1240.805
+municipality,5222,,uMngeni,Solar home system,96.51535
+municipality,5221,,uMshwathi,Battery,0
+municipality,5221,,uMshwathi,Connected to other source which household is not paying for,132.7313
+municipality,5221,,uMshwathi,Connected to other source which household pays for (e.g. con,919.9801
+municipality,5221,,uMshwathi,Generator,557.8255
+municipality,5221,,uMshwathi,In-house conventional meter,14567.85
+municipality,5221,,uMshwathi,In-house prepaid meter,77709.81
+municipality,5221,,uMshwathi,No access to electricity,15665.67
+municipality,5221,,uMshwathi,Other,1087.047
+municipality,5221,,uMshwathi,Solar home system,1003.923
+municipality,5214,,uMuziwabantu,Battery,14.15021
+municipality,5214,,uMuziwabantu,Connected to other source which household is not paying for,19.7917
+municipality,5214,,uMuziwabantu,Connected to other source which household pays for (e.g. con,215.3546
+municipality,5214,,uMuziwabantu,Generator,0
+municipality,5214,,uMuziwabantu,In-house conventional meter,5473.786
+municipality,5214,,uMuziwabantu,In-house prepaid meter,93861.24
+municipality,5214,,uMuziwabantu,No access to electricity,7904.475
+municipality,5214,,uMuziwabantu,Other,1086.976
+municipality,5214,,uMuziwabantu,Solar home system,0
+municipality,5262,,uPhongolo,Battery,0
+municipality,5262,,uPhongolo,Connected to other source which household is not paying for,136.8854
+municipality,5262,,uPhongolo,Connected to other source which household pays for (e.g. con,728.1074
+municipality,5262,,uPhongolo,Generator,0
+municipality,5262,,uPhongolo,In-house conventional meter,15389.81
+municipality,5262,,uPhongolo,In-house prepaid meter,112524.6
+municipality,5262,,uPhongolo,No access to electricity,12069.93
+municipality,5262,,uPhongolo,Other,350.9502
+municipality,5262,,uPhongolo,Solar home system,46.38326

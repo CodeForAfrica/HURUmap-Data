@@ -1,0 +1,111 @@
+geo_level,geo_code,geo_version,name,variable,value
+province,EC,,Eastern Cape,Unspecified,80714.26381
+province,EC,,Eastern Cape,Minibus taxi/sedan taxi/bakkie taxi,109120.5378
+province,EC,,Eastern Cape,Bus,27714.59306
+province,EC,,Eastern Cape,Own car or other private vehicle,106567.7597
+province,EC,,Eastern Cape,Bicycle/motorcycle,15731.13633
+province,EC,,Eastern Cape,Not applicable,4369811.217
+province,EC,,Eastern Cape,Other,0
+province,EC,,Eastern Cape,Vehicle hired by a group of parents,213662.8452
+province,EC,,Eastern Cape,Minibus/bus provided by institution/government and not paid for,96316.74065
+province,EC,,Eastern Cape,Walking,1484833.603
+province,EC,,Eastern Cape,Train,3664.831967
+province,FS,,Free State,Vehicle hired by a group of parents,36889.84823
+province,FS,,Free State,Bus,13086.79077
+province,FS,,Free State,Not applicable,1996466.262
+province,FS,,Free State,Unspecified,33700.47456
+province,FS,,Free State,Other,1193.06502
+province,FS,,Free State,Own car or other private vehicle,82521.49708
+province,FS,,Free State,Bicycle/motorcycle,14103.76353
+province,FS,,Free State,Minibus taxi/sedan taxi/bakkie taxi,63482.90718
+province,FS,,Free State,Minibus/bus provided by institution/government and not paid for,13328.87013
+province,FS,,Free State,Walking,634702.6444
+province,FS,,Free State,Train,1771.956644
+province,GT,,Gauteng,Minibus taxi/sedan taxi/bakkie taxi,301196.3906
+province,GT,,Gauteng,Not applicable,11038641.14
+province,GT,,Gauteng,Minibus/bus provided by institution/government and not paid for,105696.0182
+province,GT,,Gauteng,Bicycle/motorcycle,30160.02992
+province,GT,,Gauteng,Bus,147064.4713
+province,GT,,Gauteng,Unspecified,310425.2637
+province,GT,,Gauteng,Own car or other private vehicle,520186.1973
+province,GT,,Gauteng,Walking,1610255.796
+province,GT,,Gauteng,Other,21092.55844
+province,GT,,Gauteng,Vehicle hired by a group of parents,550743.9405
+province,GT,,Gauteng,Train,25282.69087
+province,KZN,,KwaZulu-Natal,Minibus/bus provided by institution/government and not paid for,58985.2141
+province,KZN,,KwaZulu-Natal,Own car or other private vehicle,206440.087
+province,KZN,,KwaZulu-Natal,Other,4762.913215
+province,KZN,,KwaZulu-Natal,Vehicle hired by a group of parents,438032.5682
+province,KZN,,KwaZulu-Natal,Not applicable,7727455.333
+province,KZN,,KwaZulu-Natal,Train,8067.493577
+province,KZN,,KwaZulu-Natal,Minibus taxi/sedan taxi/bakkie taxi,218361.9743
+province,KZN,,KwaZulu-Natal,Walking,2313828.52
+province,KZN,,KwaZulu-Natal,Unspecified,107208.3226
+province,KZN,,KwaZulu-Natal,Bus,105399.9049
+province,KZN,,KwaZulu-Natal,Bicycle/motorcycle,26675.26224
+province,LIM,,Limpopo,Bus,49219.91239
+province,LIM,,Limpopo,Unspecified,80328.98576
+province,LIM,,Limpopo,Minibus taxi/sedan taxi/bakkie taxi,140346.5427
+province,LIM,,Limpopo,Vehicle hired by a group of parents,178572.1786
+province,LIM,,Limpopo,Bicycle/motorcycle,13676.12351
+province,LIM,,Limpopo,Other,2687.676707
+province,LIM,,Limpopo,Train,0
+province,LIM,,Limpopo,Own car or other private vehicle,49268.55701
+province,LIM,,Limpopo,Walking,1495911.816
+province,LIM,,Limpopo,Minibus/bus provided by institution/government and not paid for,25781.80496
+province,LIM,,Limpopo,Not applicable,3817962.493
+province,MP,,Mpumalanga,Bicycle/motorcycle,7733.787315
+province,MP,,Mpumalanga,Unspecified,50608.6779
+province,MP,,Mpumalanga,Own car or other private vehicle,52101.97001
+province,MP,,Mpumalanga,Vehicle hired by a group of parents,117692.2052
+province,MP,,Mpumalanga,Walking,964429.6295
+province,MP,,Mpumalanga,Bus,56911.28677
+province,MP,,Mpumalanga,Not applicable,3168025.259
+province,MP,,Mpumalanga,Minibus/bus provided by institution/government and not paid for,52708.29418
+province,MP,,Mpumalanga,Minibus taxi/sedan taxi/bakkie taxi,50879.85108
+province,MP,,Mpumalanga,Train,503.1478578
+province,MP,,Mpumalanga,Other,1839.374248
+province,NW,,North West,Train,853.3691813
+province,NW,,North West,Bus,46080.60882
+province,NW,,North West,Own car or other private vehicle,70667.31592
+province,NW,,North West,Not applicable,2801835.099
+province,NW,,North West,Bicycle/motorcycle,8386.429309
+province,NW,,North West,Minibus taxi/sedan taxi/bakkie taxi,73735.86558
+province,NW,,North West,Other,571.4801915
+province,NW,,North West,Minibus/bus provided by institution/government and not paid for,22306.11979
+province,NW,,North West,Unspecified,42981.97573
+province,NW,,North West,Vehicle hired by a group of parents,112241.6938
+province,NW,,North West,Walking,745558.3801
+province,NC,,Northern Cape,Other,204.0487088
+province,NC,,Northern Cape,Walking,220782.6489
+province,NC,,Northern Cape,Train,0
+province,NC,,Northern Cape,Bicycle/motorcycle,2225.438697
+province,NC,,Northern Cape,Bus,10396.78305
+province,NC,,Northern Cape,Own car or other private vehicle,30816.71378
+province,NC,,Northern Cape,Unspecified,4478.954661
+province,NC,,Northern Cape,Minibus/bus provided by institution/government and not paid for,20020.82221
+province,NC,,Northern Cape,Vehicle hired by a group of parents,20770.29827
+province,NC,,Northern Cape,Not applicable,898981.0681
+province,NC,,Northern Cape,Minibus taxi/sedan taxi/bakkie taxi,21117.62212
+country,ZA,,South Africa,Not applicable,40927437.38
+country,ZA,,South Africa,Unspecified,760725.7203
+country,ZA,,South Africa,Walking,10185408.38
+country,ZA,,South Africa,Own car or other private vehicle,1421026.291
+country,ZA,,South Africa,Vehicle hired by a group of parents,1828380.81
+country,ZA,,South Africa,Bicycle/motorcycle,132814.3271
+country,ZA,,South Africa,Minibus/bus provided by institution/government and not paid for,462315.0721
+country,ZA,,South Africa,Train,55395.64659
+country,ZA,,South Africa,Other,34230.94652
+country,ZA,,South Africa,Minibus taxi/sedan taxi/bakkie taxi,1078678.745
+country,ZA,,South Africa,Bus,571397.6926
+province,WC,,Western Cape,Not applicable,5108259.51
+province,WC,,Western Cape,Bicycle/motorcycle,14122.3563
+province,WC,,Western Cape,Minibus taxi/sedan taxi/bakkie taxi,100437.0538
+province,WC,,Western Cape,Train,15252.15649
+province,WC,,Western Cape,Unspecified,50278.80155
+province,WC,,Western Cape,Minibus/bus provided by institution/government and not paid for,67171.18787
+province,WC,,Western Cape,Vehicle hired by a group of parents,159775.2321
+province,WC,,Western Cape,Own car or other private vehicle,302456.1932
+province,WC,,Western Cape,Other,1879.829988
+province,WC,,Western Cape,Bus,115523.3415
+province,WC,,Western Cape,Walking,715105.3434
