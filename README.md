@@ -16,7 +16,8 @@ Note: If the table names are similar and separated by country code e.g. `_za.csv
 
 ### Generating SQL
 
-- Run the command `yarn sequalize` or `node index.js` and all the sql files will appear in the `sql` folder
+- Run the command `yarn sequalize` or `node index.js` and all the sql files will appear in the `sql` folder.
+- The `yarn sequalize` command will skip recently sequalized files, to reporcess the files run `yarn sequalize --reprocess`.
 
 ## Graphql
 

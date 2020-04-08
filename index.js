@@ -8,17 +8,17 @@ function csv2Array(path) {
     .readFileSync(path)
     .toString()
     .split("\r\n")
-    .map(values => values.split(/,(?=(?:(?:[^"]*"){2})*[^"]*$)/));
+    .map((values) => values.split(/,(?=(?:(?:[^"]*"){2})*[^"]*$)/));
 }
 
 function rows2ObjectsArray(data) {
   const columns = data.shift();
 
-  return data.map(row =>
+  return data.map((row) =>
     columns.reduce(
       (geo, column) => ({
         ...geo,
-        [column]: row[columns.indexOf(column)]
+        [column]: row[columns.indexOf(column)],
       }),
       {}
     )
@@ -29,7 +29,7 @@ function csv2OjectsArray(path) {
   return rows2ObjectsArray(csv2Array(path));
 }
 
-const transpose = a => a[0].map((_, c) => a.map(r => r[c]));
+const transpose = (a) => a[0].map((_, c) => a.map((r) => r[c]));
 
 function combineCSVData(filenames) {
   return filenames.reduce((combinedData, filename) => {
@@ -38,10 +38,10 @@ function combineCSVData(filenames) {
       .toString()
       .replace(/_[za|ke],/gi, ",")
       .split("\r\n")
-      .map(values => values.split(/,(?=(?:(?:[^"]*"){2})*[^"]*$)/));
+      .map((values) => values.split(/,(?=(?:(?:[^"]*"){2})*[^"]*$)/));
 
     // ensure column names have no spaces have no spaces
-    data[0] = data[0].map(x => x.toLowerCase().replace(/ _| /, "_"));
+    data[0] = data[0].map((x) => x.toLowerCase().replace(/ _| /, "_"));
 
     // Order data by column name
     data = transpose(transpose(data).sort((a, b) => (a[0] < b[0] ? 1 : -1)));
@@ -54,26 +54,46 @@ function combineCSVData(filenames) {
 
 const geos = csv2OjectsArray("./csv/geos.csv");
 
-const tables = fs.readdirSync("./csv/data").reduce((merged, filename) => {
-  if (!filename.includes(".csv")) {
-    return merged;
-  }
-  const tablename = filename.match(/_za|_ke|_gh/)
-    ? filename.slice(0, -7)
-    : filename.slice(0, -4); // remove _za.csv or _ke.csv or _gh.csv or .csv
-  if (!merged[tablename]) {
-    merged[tablename] = [filename];
-  } else {
-    merged[tablename].push(filename);
-  }
+const tables = fs.readdirSync("./csv/data").reduce(
+  (merged, filename) => {
+    if (!filename.includes(".csv")) {
+      return merged;
+    }
 
-  return merged;
-}, {});
+    const tablename = filename.match(/_za|_ke|_gh/)
+      ? filename.slice(0, -7)
+      : filename.slice(0, -4); // remove _za.csv or _ke.csv or _gh.csv or .csv
+
+    // Skip files that have already been sequalize
+    if (
+      fs.existsSync(`./sql/${tablename}.sql`) &&
+      !process.argv.includes("--reprocess")
+    ) {
+      const { mtime: mtimeCSV } = fs.statSync(`./csv/data/${filename}`);
+      const { mtime: mtimeSQL } = fs.statSync(`./sql/${tablename}.sql`);
+
+      const diff = (mtimeSQL.getTime() - mtimeCSV.getTime()) / 1000;
+      if (diff > 0) {
+        merged.skip.push(tablename);
+        return merged;
+      }
+    }
+
+    if (!merged[tablename]) {
+      merged[tablename] = [filename];
+    } else {
+      merged[tablename].push(filename);
+    }
+
+    return merged;
+  },
+  { skip: [] }
+);
 
 const sources = rows2ObjectsArray(combineCSVData(tables["source"]));
 
 Object.entries(tables).forEach(([tablename, filenames]) => {
-  if (!["source"].includes(tablename)) {
+  if (!["source", "skip"].includes(tablename)) {
     const data = combineCSVData(filenames);
 
     sequalize({ tablename, data, geos, sources });
@@ -84,7 +104,7 @@ sequalize({
   tablename: "geos",
   data: csv2Array("./csv/geos.csv"),
   populateGeoColumns: false,
-  pkColumns: ["geo_level", "geo_code", "version"]
+  pkColumns: ["geo_level", "geo_code", "version"],
 });
 
 // Wazimap DB Support
@@ -92,12 +112,12 @@ sequalize({
   tablename: "wazimap_geography",
   data: csv2Array("./csv/wazimap_geography.csv"),
   populateGeoColumns: false,
-  pkColumns: ["geo_level", "geo_code", "version"]
+  pkColumns: ["geo_level", "geo_code", "version"],
 });
 
 const drop = fs
   .readdirSync("./sql")
-  .map(filename => {
+  .map((filename) => {
     if (
       !filename.includes(".sql") ||
       ["1.sources.sql", "geos.sql", "wazimap_geography.sql"].includes(filename)
@@ -106,6 +126,9 @@ const drop = fs
     }
     return filename.replace(".sql", "");
   })
-  .filter(tablename => tablename && !tables[tablename]);
+  .filter(
+    (tablename) =>
+      tablename && !tables[tablename] && !tables.skip.includes(tablename)
+  );
 
 sequalize({ drop });
