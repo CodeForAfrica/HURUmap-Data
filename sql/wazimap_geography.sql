@@ -24,6 +24,8 @@ CREATE TABLE IF NOT EXISTS public.wazimap_geography (
 	square_kms NUMERIC
 );
 
+ALTER TABLE ONLY public.wazimap_geography ADD CONSTRAINT pk_wazimap_geography PRIMARY KEY (geo_level, geo_code, version);
+
 INSERT INTO public.wazimap_geography VALUES
 (1,'continent','AFR',NULL,NULL,2009,'Africa','Africa',NULL),
 (2,'country','NG','continent','AFR',2009,'Nigeria','Nigeria',923768),
@@ -1707,10 +1709,8 @@ INSERT INTO public.wazimap_geography VALUES
 (1680,'level2','MA_2_0027','level1','MA_1_009',2009,'Khénifra','Khénifra',NULL),
 (1681,'level2','MA_2_0028','level1','MA_1_009',2009,'Meknès','Meknès',NULL),
 (1682,'level2','MA_2_0029','level1','MA_1_010',2009,'Berkane Taourirt','Berkane Taourirt',NULL),
-(1683,'level2','MA_2_0029','level1','MA_1_010',2009,'Berkane Taourirt','Berkane Taourirt',NULL),
 (1684,'level2','MA_2_0030','level1','MA_1_010',2009,'Figuig','Figuig',NULL),
 (1685,'level2','MA_2_0031','level1','MA_1_010',2009,'Jerada','Jerada',NULL),
-(1686,'level2','MA_2_0031','level1','MA_1_010',2009,'Jerada','Jerada',NULL),
 (1687,'level2','MA_2_0032','level1','MA_1_010',2009,'Nador','Nador',NULL),
 (1688,'level2','MA_2_0033','level1','MA_1_010',2009,'Oujda Angad','Oujda Angad',NULL),
 (1689,'level2','MA_2_0034','level1','MA_1_011',2009,'Khémisset','Khémisset',NULL),
@@ -2134,6 +2134,4 @@ INSERT INTO public.wazimap_geography VALUES
 (2107,'level3','MA_3_00397','level2','MA_2_0054',2009,'Tahla','Tahla',NULL),
 (2108,'level3','MA_3_00398','level2','MA_2_0054',2009,'Tainaste','Tainaste',NULL),
 (2109,'level3','MA_3_00399','level2','MA_2_0054',2009,'Taza','Taza',NULL),
-(2110,'country','MA','continent','AFR',2009,'Morocco','Morocco',NULL);
-
-ALTER TABLE ONLY public.wazimap_geography ADD CONSTRAINT pk_wazimap_geography PRIMARY KEY (geo_level, geo_code, version);
+(2110,'country','MA','continent','AFR',2009,'Morocco','Morocco',NULL) ON CONFLICT DO NOTHING;

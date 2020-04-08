@@ -65,6 +65,14 @@ ${headers
   .join(",\r\n")}
 );
 
+ALTER TABLE ONLY public.${escapeField(
+      tablename
+    )} ADD CONSTRAINT pk_${escapeField(tablename)} PRIMARY KEY (${(
+      pkColumns || headers
+    )
+      .map((header) => escapeField(header))
+      .join(", ")});
+
 INSERT INTO public.${escapeField(tablename)} VALUES
 ${dataValues
   .map(
@@ -78,17 +86,10 @@ ${dataValues
         })
         .join(",")})`
   )
-  .join(",\r\n")};
+  .join(",\r\n")} ON CONFLICT DO NOTHING;
       
 ${Object.values(dataSources).join("\r\n")}
-`.trim() +
-    `\r\n\r\nALTER TABLE ONLY public.${escapeField(
-      tablename
-    )} ADD CONSTRAINT pk_${escapeField(tablename)} PRIMARY KEY (${(
-      pkColumns || headers
-    )
-      .map((header) => escapeField(header))
-      .join(", ")});\r\n`
+`.trim() + `\n`
   );
 };
 
@@ -177,7 +178,7 @@ module.exports = ({
             dataSources[
               `${row["geo_level"]}-${countryCode}`
             ] = formatSQL(
-              `INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES(?,?,?,?,?) on conflict do nothing;`,
+              `INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES(?,?,?,?,?) ON CONFLICT DO NOTHING;`,
               [row["geo_level"], countryCode, gqlName(tablename), title, link]
             );
           }

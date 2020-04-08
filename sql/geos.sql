@@ -23,6 +23,8 @@ CREATE TABLE IF NOT EXISTS public.geos (
 	square_kms NUMERIC
 );
 
+ALTER TABLE ONLY public.geos ADD CONSTRAINT pk_geos PRIMARY KEY (geo_level, geo_code, version);
+
 INSERT INTO public.geos VALUES
 ('continent','AFR',NULL,NULL,2009,'Africa','Africa',NULL),
 ('country','NG','continent','AFR',2009,'Nigeria','Nigeria',923768),
@@ -2133,6 +2135,4 @@ INSERT INTO public.geos VALUES
 ('level3','MA_3_00397','level2','MA_2_0054',2009,'Tahla','Tahla',NULL),
 ('level3','MA_3_00398','level2','MA_2_0054',2009,'Tainaste','Tainaste',NULL),
 ('level3','MA_3_00399','level2','MA_2_0054',2009,'Taza','Taza',NULL),
-('country','MA','continent','AFR',2009,'Morocco','Morocco',NULL);
-
-ALTER TABLE ONLY public.geos ADD CONSTRAINT pk_geos PRIMARY KEY (geo_level, geo_code, version);
+('country','MA','continent','AFR',2009,'Morocco','Morocco',NULL) ON CONFLICT DO NOTHING;
