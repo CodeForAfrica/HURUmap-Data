@@ -23,6 +23,8 @@ CREATE TABLE IF NOT EXISTS public.refuse_removal (
 	name TEXT
 );
 
+ALTER TABLE ONLY public.refuse_removal ADD CONSTRAINT pk_refuse_removal PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, number, name);
+
 INSERT INTO public.refuse_removal VALUES
 ('level3','ZA_3_003084',2009,'level2','ZA_2_00308','Communal container/central collection point',0,'Kheis'),
 ('level3','ZA_3_003084',2009,'level2','ZA_2_00308','Communal refuse dump',428.6288,'Kheis'),
@@ -2067,9 +2069,7 @@ INSERT INTO public.refuse_removal VALUES
 ('level3','ZA_3_005262',2009,'level2','ZA_2_00526','Other',1409.141,'uPhongolo'),
 ('level3','ZA_3_005262',2009,'level2','ZA_2_00526','Own refuse dump',93163.46,'uPhongolo'),
 ('level3','ZA_3_005262',2009,'level2','ZA_2_00526','Removed by local authority/private company/community members at least once a week',30361.3,'uPhongolo'),
-('level3','ZA_3_005262',2009,'level2','ZA_2_00526','Removed by local authority/private company/community members less often than once a week',1133.743,'uPhongolo');
+('level3','ZA_3_005262',2009,'level2','ZA_2_00526','Removed by local authority/private company/community members less often than once a week',1133.743,'uPhongolo') ON CONFLICT DO NOTHING;
       
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allRefuseRemovals','"Community Survey, 2016"','https://open.africa/dataset/community-survey-south-africa-2016/resource/e4d89d6c-f704-457d-92c2-846b201c9c1e') on conflict do nothing;
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allRefuseRemovals','"Community Survey, 2016"','https://open.africa/dataset/community-survey-south-africa-2016/resource/e4d89d6c-f704-457d-92c2-846b201c9c1e') on conflict do nothing;
-
-ALTER TABLE ONLY public.refuse_removal ADD CONSTRAINT pk_refuse_removal PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, number, name);
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allRefuseRemovals','"Community Survey, 2016"','https://open.africa/dataset/community-survey-south-africa-2016/resource/e4d89d6c-f704-457d-92c2-846b201c9c1e') ON CONFLICT DO NOTHING;
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allRefuseRemovals','"Community Survey, 2016"','https://open.africa/dataset/community-survey-south-africa-2016/resource/e4d89d6c-f704-457d-92c2-846b201c9c1e') ON CONFLICT DO NOTHING;

@@ -23,6 +23,8 @@ CREATE TABLE IF NOT EXISTS public.inpatient_bed_utilisation_rate (
 	name TEXT
 );
 
+ALTER TABLE ONLY public.inpatient_bed_utilisation_rate ADD CONSTRAINT pk_inpatient_bed_utilisation_rate PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value, name);
+
 INSERT INTO public.inpatient_bed_utilisation_rate VALUES
 ('level2','ZA_2_00244',2009,'level1','ZA_1_002','Inpatient bed utilisation rate',63.2,'Alfred Nzo'),
 ('level2','ZA_2_00525',2009,'level1','ZA_1_005','Inpatient bed utilisation rate',65.4,'Amajuba'),
@@ -79,9 +81,7 @@ INSERT INTO public.inpatient_bed_utilisation_rate VALUES
 ('level1','ZA_1_001',2009,'country','ZA','Inpatient bed utilisation rate',88.3,'Western Cape'),
 ('level2','ZA_2_00416',2009,'level1','ZA_1_004','Inpatient bed utilisation rate',56.8,'Xhariep'),
 ('level2','ZA_2_00526',2009,'level1','ZA_1_005','Inpatient bed utilisation rate',61.2,'Zululand'),
-('level2','ZA_2_00308',2009,'level1','ZA_1_003','Inpatient bed utilisation rate',45.5,'Z F Mgcawu');
+('level2','ZA_2_00308',2009,'level1','ZA_1_003','Inpatient bed utilisation rate',45.5,'Z F Mgcawu') ON CONFLICT DO NOTHING;
       
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allInpatientBedUtilisationRates','"District Health Barometer, 2018/19"','https://open.africa/dataset/district-health-barometer-2018-19/resource/0381062b-e65d-4967-8cf1-24998775eeb0') on conflict do nothing;
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allInpatientBedUtilisationRates','"District Health Barometer, 2018/19"','https://open.africa/dataset/district-health-barometer-2018-19/resource/0381062b-e65d-4967-8cf1-24998775eeb0') on conflict do nothing;
-
-ALTER TABLE ONLY public.inpatient_bed_utilisation_rate ADD CONSTRAINT pk_inpatient_bed_utilisation_rate PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value, name);
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allInpatientBedUtilisationRates','"District Health Barometer, 2018/19"','https://open.africa/dataset/district-health-barometer-2018-19/resource/0381062b-e65d-4967-8cf1-24998775eeb0') ON CONFLICT DO NOTHING;
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allInpatientBedUtilisationRates','"District Health Barometer, 2018/19"','https://open.africa/dataset/district-health-barometer-2018-19/resource/0381062b-e65d-4967-8cf1-24998775eeb0') ON CONFLICT DO NOTHING;

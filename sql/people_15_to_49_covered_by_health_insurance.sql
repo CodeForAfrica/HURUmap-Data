@@ -23,6 +23,8 @@ CREATE TABLE IF NOT EXISTS public.people_15_to_49_covered_by_health_insurance (
 	name TEXT
 );
 
+ALTER TABLE ONLY public.people_15_to_49_covered_by_health_insurance ADD CONSTRAINT pk_people_15_to_49_covered_by_health_insurance PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value, name);
+
 INSERT INTO public.people_15_to_49_covered_by_health_insurance VALUES
 ('country','GH',2009,'continent','AFR','Female',55.6,'Ghana'),
 ('country','GH',2009,'continent','AFR','Male',40.2,'Ghana'),
@@ -45,9 +47,7 @@ INSERT INTO public.people_15_to_49_covered_by_health_insurance VALUES
 ('level1','GH_1_032',2009,'country','GH','Female',59.1,'Volta'),
 ('level1','GH_1_032',2009,'country','GH','Male',20.4,'Volta'),
 ('level1','GH_1_033',2009,'country','GH','Female',54.9,'Western'),
-('level1','GH_1_033',2009,'country','GH','Male',35.8,'Western');
+('level1','GH_1_033',2009,'country','GH','Male',35.8,'Western') ON CONFLICT DO NOTHING;
       
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','GH','allPeople15To49CoveredByHealthInsurances','"Ghana Multiple Indicator Cluster Survey, 2017/18"','https://open.africa/dataset/ghana-multiple-indicator-cluster-survey/resource/5343369d-68d3-42ba-94b9-36a4c688a663') on conflict do nothing;
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','GH','allPeople15To49CoveredByHealthInsurances','"Ghana Multiple Indicator Cluster Survey, 2017/18"','https://open.africa/dataset/ghana-multiple-indicator-cluster-survey/resource/5343369d-68d3-42ba-94b9-36a4c688a663') on conflict do nothing;
-
-ALTER TABLE ONLY public.people_15_to_49_covered_by_health_insurance ADD CONSTRAINT pk_people_15_to_49_covered_by_health_insurance PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value, name);
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','GH','allPeople15To49CoveredByHealthInsurances','"Ghana Multiple Indicator Cluster Survey, 2017/18"','https://open.africa/dataset/ghana-multiple-indicator-cluster-survey/resource/5343369d-68d3-42ba-94b9-36a4c688a663') ON CONFLICT DO NOTHING;
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','GH','allPeople15To49CoveredByHealthInsurances','"Ghana Multiple Indicator Cluster Survey, 2017/18"','https://open.africa/dataset/ghana-multiple-indicator-cluster-survey/resource/5343369d-68d3-42ba-94b9-36a4c688a663') ON CONFLICT DO NOTHING;

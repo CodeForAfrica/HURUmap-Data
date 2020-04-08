@@ -23,6 +23,8 @@ CREATE TABLE IF NOT EXISTS public.skip_meal_for_5_or_more_days_in_past_30_days (
 	name TEXT
 );
 
+ALTER TABLE ONLY public.skip_meal_for_5_or_more_days_in_past_30_days ADD CONSTRAINT pk_skip_meal_for_5_or_more_days_in_past_30_days PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value, name);
+
 INSERT INTO public.skip_meal_for_5_or_more_days_in_past_30_days VALUES
 ('level3','ZA_3_003084',2009,'level2','ZA_2_00308','Do not know',0,'Kheis'),
 ('level3','ZA_3_003084',2009,'level2','ZA_2_00308','No',2091.909,'Kheis'),
@@ -1488,9 +1490,7 @@ INSERT INTO public.skip_meal_for_5_or_more_days_in_past_30_days VALUES
 ('level3','ZA_3_005262',2009,'level2','ZA_2_00526','No',14498.37,'uPhongolo'),
 ('level3','ZA_3_005262',2009,'level2','ZA_2_00526','Not applicable',95011.62,'uPhongolo'),
 ('level3','ZA_3_005262',2009,'level2','ZA_2_00526','Unspecified',0,'uPhongolo'),
-('level3','ZA_3_005262',2009,'level2','ZA_2_00526','Yes',31445.05,'uPhongolo');
+('level3','ZA_3_005262',2009,'level2','ZA_2_00526','Yes',31445.05,'uPhongolo') ON CONFLICT DO NOTHING;
       
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allSkipMealFor5OrMoreDaysInPast30Days','"Community Survey, 2016"','https://open.africa/dataset/community-survey-south-africa-2016/resource/ca10f99d-06ff-48bb-aab9-e7ac85816077') on conflict do nothing;
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allSkipMealFor5OrMoreDaysInPast30Days','"Community Survey, 2016"','https://open.africa/dataset/community-survey-south-africa-2016/resource/ca10f99d-06ff-48bb-aab9-e7ac85816077') on conflict do nothing;
-
-ALTER TABLE ONLY public.skip_meal_for_5_or_more_days_in_past_30_days ADD CONSTRAINT pk_skip_meal_for_5_or_more_days_in_past_30_days PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value, name);
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allSkipMealFor5OrMoreDaysInPast30Days','"Community Survey, 2016"','https://open.africa/dataset/community-survey-south-africa-2016/resource/ca10f99d-06ff-48bb-aab9-e7ac85816077') ON CONFLICT DO NOTHING;
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allSkipMealFor5OrMoreDaysInPast30Days','"Community Survey, 2016"','https://open.africa/dataset/community-survey-south-africa-2016/resource/ca10f99d-06ff-48bb-aab9-e7ac85816077') ON CONFLICT DO NOTHING;

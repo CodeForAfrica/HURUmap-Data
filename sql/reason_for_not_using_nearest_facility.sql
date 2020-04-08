@@ -23,6 +23,8 @@ CREATE TABLE IF NOT EXISTS public.reason_for_not_using_nearest_facility (
 	name TEXT
 );
 
+ALTER TABLE ONLY public.reason_for_not_using_nearest_facility ADD CONSTRAINT pk_reason_for_not_using_nearest_facility PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value, name);
+
 INSERT INTO public.reason_for_not_using_nearest_facility VALUES
 ('level1','ZA_1_002',2009,'country','ZA','Unspecified',33867.6,'Eastern Cape'),
 ('level1','ZA_1_002',2009,'country','ZA','Prefer to use a state/provincial health institution',14580.02,'Eastern Cape'),
@@ -153,9 +155,7 @@ INSERT INTO public.reason_for_not_using_nearest_facility VALUES
 ('level1','ZA_1_001',2009,'country','ZA','Long waiting time',151456.68,'Western Cape'),
 ('level1','ZA_1_001',2009,'country','ZA','Prefer to use a private health institution',444796.13,'Western Cape'),
 ('level1','ZA_1_001',2009,'country','ZA','Not on medical aid scheme list of facilities',18995.65,'Western Cape'),
-('level1','ZA_1_001',2009,'country','ZA','Facilities not clean',3042.04,'Western Cape');
+('level1','ZA_1_001',2009,'country','ZA','Facilities not clean',3042.04,'Western Cape') ON CONFLICT DO NOTHING;
       
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allReasonForNotUsingNearestFacilities','"General Household Survey, 2018"','https://open.africa/dataset/general-household-survey-2018/resource/b95c7dfc-a166-4e10-9e8d-95b8d88266d7') on conflict do nothing;
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allReasonForNotUsingNearestFacilities','"General Household Survey, 2018"','https://open.africa/dataset/general-household-survey-2018/resource/b95c7dfc-a166-4e10-9e8d-95b8d88266d7') on conflict do nothing;
-
-ALTER TABLE ONLY public.reason_for_not_using_nearest_facility ADD CONSTRAINT pk_reason_for_not_using_nearest_facility PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value, name);
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allReasonForNotUsingNearestFacilities','"General Household Survey, 2018"','https://open.africa/dataset/general-household-survey-2018/resource/b95c7dfc-a166-4e10-9e8d-95b8d88266d7') ON CONFLICT DO NOTHING;
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allReasonForNotUsingNearestFacilities','"General Household Survey, 2018"','https://open.africa/dataset/general-household-survey-2018/resource/b95c7dfc-a166-4e10-9e8d-95b8d88266d7') ON CONFLICT DO NOTHING;

@@ -23,6 +23,8 @@ CREATE TABLE IF NOT EXISTS public.means_of_transport (
 	name TEXT
 );
 
+ALTER TABLE ONLY public.means_of_transport ADD CONSTRAINT pk_means_of_transport PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value, name);
+
 INSERT INTO public.means_of_transport VALUES
 ('level1','ZA_1_002',2009,'country','ZA','Unspecified',80714.26381,'Eastern Cape'),
 ('level1','ZA_1_002',2009,'country','ZA','Minibus taxi/sedan taxi/bakkie taxi',109120.5378,'Eastern Cape'),
@@ -133,9 +135,7 @@ INSERT INTO public.means_of_transport VALUES
 ('level1','ZA_1_001',2009,'country','ZA','Own car or other private vehicle',302456.1932,'Western Cape'),
 ('level1','ZA_1_001',2009,'country','ZA','Other',1879.829988,'Western Cape'),
 ('level1','ZA_1_001',2009,'country','ZA','Bus',115523.3415,'Western Cape'),
-('level1','ZA_1_001',2009,'country','ZA','Walking',715105.3434,'Western Cape');
+('level1','ZA_1_001',2009,'country','ZA','Walking',715105.3434,'Western Cape') ON CONFLICT DO NOTHING;
       
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allMeansOfTransports','"General Household Survey, 2018"','https://open.africa/dataset/general-household-survey-2018/resource/f2853276-1066-49e7-979b-f1175f9b1531') on conflict do nothing;
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allMeansOfTransports','"General Household Survey, 2018"','https://open.africa/dataset/general-household-survey-2018/resource/f2853276-1066-49e7-979b-f1175f9b1531') on conflict do nothing;
-
-ALTER TABLE ONLY public.means_of_transport ADD CONSTRAINT pk_means_of_transport PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value, name);
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allMeansOfTransports','"General Household Survey, 2018"','https://open.africa/dataset/general-household-survey-2018/resource/f2853276-1066-49e7-979b-f1175f9b1531') ON CONFLICT DO NOTHING;
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allMeansOfTransports','"General Household Survey, 2018"','https://open.africa/dataset/general-household-survey-2018/resource/f2853276-1066-49e7-979b-f1175f9b1531') ON CONFLICT DO NOTHING;

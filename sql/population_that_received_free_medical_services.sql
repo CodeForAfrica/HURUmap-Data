@@ -23,6 +23,8 @@ CREATE TABLE IF NOT EXISTS public.population_that_received_free_medical_services
 	name TEXT
 );
 
+ALTER TABLE ONLY public.population_that_received_free_medical_services ADD CONSTRAINT pk_population_that_received_free_medical_services PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value, name);
+
 INSERT INTO public.population_that_received_free_medical_services VALUES
 ('level1','KE_1_030',2009,'country','KE','Tuberculosis Treatment',0,'Baringo'),
 ('level1','KE_1_030',2009,'country','KE','HIV/AIDS',0,'Baringo'),
@@ -338,9 +340,7 @@ INSERT INTO public.population_that_received_free_medical_services VALUES
 ('level1','KE_1_024',2009,'country','KE','Maternal & Child Health Care (MCH)',43.7,'West Pokot'),
 ('level1','KE_1_024',2009,'country','KE','HIV/AIDS',0.1,'West Pokot'),
 ('level1','KE_1_024',2009,'country','KE','Malaria',6,'West Pokot'),
-('level1','KE_1_024',2009,'country','KE','Tuberculosis Treatment',0,'West Pokot');
+('level1','KE_1_024',2009,'country','KE','Tuberculosis Treatment',0,'West Pokot') ON CONFLICT DO NOTHING;
       
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','KE','allPopulationThatReceivedFreeMedicalServices','"Kenya Integrated Household Budget Survey, 2016"','https://open.africa/dataset/kenya-integrated-household-budget-survey-2016/resource/4492472d-62b3-4721-8bb9-dd51bb5e960d') on conflict do nothing;
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','KE','allPopulationThatReceivedFreeMedicalServices','"Kenya Integrated Household Budget Survey, 2016"','https://open.africa/dataset/kenya-integrated-household-budget-survey-2016/resource/4492472d-62b3-4721-8bb9-dd51bb5e960d') on conflict do nothing;
-
-ALTER TABLE ONLY public.population_that_received_free_medical_services ADD CONSTRAINT pk_population_that_received_free_medical_services PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value, name);
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','KE','allPopulationThatReceivedFreeMedicalServices','"Kenya Integrated Household Budget Survey, 2016"','https://open.africa/dataset/kenya-integrated-household-budget-survey-2016/resource/4492472d-62b3-4721-8bb9-dd51bb5e960d') ON CONFLICT DO NOTHING;
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','KE','allPopulationThatReceivedFreeMedicalServices','"Kenya Integrated Household Budget Survey, 2016"','https://open.africa/dataset/kenya-integrated-household-budget-survey-2016/resource/4492472d-62b3-4721-8bb9-dd51bb5e960d') ON CONFLICT DO NOTHING;

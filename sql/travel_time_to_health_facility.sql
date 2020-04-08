@@ -23,6 +23,8 @@ CREATE TABLE IF NOT EXISTS public.travel_time_to_health_facility (
 	name TEXT
 );
 
+ALTER TABLE ONLY public.travel_time_to_health_facility ADD CONSTRAINT pk_travel_time_to_health_facility PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value, name);
+
 INSERT INTO public.travel_time_to_health_facility VALUES
 ('country','GH',2009,'continent','AFR','<30',39.4,'Ghana'),
 ('country','GH',2009,'continent','AFR','61-90',7.3,'Ghana'),
@@ -300,11 +302,9 @@ INSERT INTO public.travel_time_to_health_facility VALUES
 ('level1','ZA_1_001',2009,'country','ZA','30-89 minutes',400100.17,'Western Cape'),
 ('level1','ZA_1_001',2009,'country','ZA','15-29 minutes',1994595.63,'Western Cape'),
 ('level1','ZA_1_001',2009,'country','ZA','Unspecified',33608.1,'Western Cape'),
-('level1','ZA_1_001',2009,'country','ZA','Less than 15 minutes',4206015.36,'Western Cape');
+('level1','ZA_1_001',2009,'country','ZA','Less than 15 minutes',4206015.36,'Western Cape') ON CONFLICT DO NOTHING;
       
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','GH','allTravelTimeToHealthFacilities','"Ghana Living Standards Survey (GLSS 7), 2017"','https://open.africa/dataset/ghana-living-standards-survey-glss-7-2017/resource/3946b512-fff0-4851-929f-02c0a91627f5') on conflict do nothing;
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','GH','allTravelTimeToHealthFacilities','"Ghana Living Standards Survey (GLSS 7), 2017"','https://open.africa/dataset/ghana-living-standards-survey-glss-7-2017/resource/3946b512-fff0-4851-929f-02c0a91627f5') on conflict do nothing;
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allTravelTimeToHealthFacilities','"General Household Survey, 2018"','https://open.africa/dataset/general-household-survey-2018/resource/7960887d-2c72-4119-a97e-5e9967dd1246') on conflict do nothing;
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allTravelTimeToHealthFacilities','"General Household Survey, 2018"','https://open.africa/dataset/general-household-survey-2018/resource/7960887d-2c72-4119-a97e-5e9967dd1246') on conflict do nothing;
-
-ALTER TABLE ONLY public.travel_time_to_health_facility ADD CONSTRAINT pk_travel_time_to_health_facility PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value, name);
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','GH','allTravelTimeToHealthFacilities','"Ghana Living Standards Survey (GLSS 7), 2017"','https://open.africa/dataset/ghana-living-standards-survey-glss-7-2017/resource/3946b512-fff0-4851-929f-02c0a91627f5') ON CONFLICT DO NOTHING;
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','GH','allTravelTimeToHealthFacilities','"Ghana Living Standards Survey (GLSS 7), 2017"','https://open.africa/dataset/ghana-living-standards-survey-glss-7-2017/resource/3946b512-fff0-4851-929f-02c0a91627f5') ON CONFLICT DO NOTHING;
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allTravelTimeToHealthFacilities','"General Household Survey, 2018"','https://open.africa/dataset/general-household-survey-2018/resource/7960887d-2c72-4119-a97e-5e9967dd1246') ON CONFLICT DO NOTHING;
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allTravelTimeToHealthFacilities','"General Household Survey, 2018"','https://open.africa/dataset/general-household-survey-2018/resource/7960887d-2c72-4119-a97e-5e9967dd1246') ON CONFLICT DO NOTHING;

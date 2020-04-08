@@ -23,6 +23,8 @@ CREATE TABLE IF NOT EXISTS public.household_size (
 	name TEXT
 );
 
+ALTER TABLE ONLY public.household_size ADD CONSTRAINT pk_household_size PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value, name);
+
 INSERT INTO public.household_size VALUES
 ('level2','ZA_2_00292',2009,'level1','ZA_1_002',1,60798.7,'Buffalo City'),
 ('level2','ZA_2_00292',2009,'level1','ZA_1_002',1,60798.7,'Buffalo City'),
@@ -9367,9 +9369,7 @@ INSERT INTO public.household_size VALUES
 ('country','ZA',2009,'continent','AFR',6,5921658,'South Africa'),
 ('country','ZA',2009,'continent','AFR',7,4091446,'South Africa'),
 ('country','ZA',2009,'continent','AFR',8,2722334,'South Africa'),
-('country','ZA',2009,'continent','AFR',9,1849840,'South Africa');
+('country','ZA',2009,'continent','AFR',9,1849840,'South Africa') ON CONFLICT DO NOTHING;
       
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allHouseholdSizes','"Community Survey, 2016"','https://open.africa/dataset/community-survey-south-africa-2016/resource/f9b9b0dc-2298-4aac-958c-465875266bb5') on conflict do nothing;
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allHouseholdSizes','"Community Survey, 2016"','https://open.africa/dataset/community-survey-south-africa-2016/resource/f9b9b0dc-2298-4aac-958c-465875266bb5') on conflict do nothing;
-
-ALTER TABLE ONLY public.household_size ADD CONSTRAINT pk_household_size PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value, name);
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allHouseholdSizes','"Community Survey, 2016"','https://open.africa/dataset/community-survey-south-africa-2016/resource/f9b9b0dc-2298-4aac-958c-465875266bb5') ON CONFLICT DO NOTHING;
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allHouseholdSizes','"Community Survey, 2016"','https://open.africa/dataset/community-survey-south-africa-2016/resource/f9b9b0dc-2298-4aac-958c-465875266bb5') ON CONFLICT DO NOTHING;

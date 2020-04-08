@@ -24,6 +24,8 @@ CREATE TABLE IF NOT EXISTS public.run_out_of_money_to_buy_food_in_past_12_months
 	goe_version NUMERIC
 );
 
+ALTER TABLE ONLY public.run_out_of_money_to_buy_food_in_past_12_months ADD CONSTRAINT pk_run_out_of_money_to_buy_food_in_past_12_months PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value, name, goe_version);
+
 INSERT INTO public.run_out_of_money_to_buy_food_in_past_12_months VALUES
 ('level2','ZA_2_00292',2009,'level1','ZA_1_002','Do not know',808.4682,'Buffalo City',NULL),
 ('level2','ZA_2_00292',2009,'level1','ZA_1_002','Do not know',808.4682,'Buffalo City',NULL),
@@ -1192,9 +1194,7 @@ INSERT INTO public.run_out_of_money_to_buy_food_in_past_12_months VALUES
 ('country','ZA',2009,'continent','AFR','Do not know',173109.5,'South Africa',NULL),
 ('country','ZA',2009,'continent','AFR','No',42628826,'South Africa',NULL),
 ('country','ZA',2009,'continent','AFR','Unspecified',33900.35,'South Africa',NULL),
-('country','ZA',2009,'continent','AFR','Yes',12817819,'South Africa',NULL);
+('country','ZA',2009,'continent','AFR','Yes',12817819,'South Africa',NULL) ON CONFLICT DO NOTHING;
       
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allRunOutOfMoneyToBuyFoodInPast12Months','"Community Survey, 2016"','https://open.africa/dataset/community-survey-south-africa-2016/resource/0ac091dd-4008-43bd-81d1-8ab370457aa8') on conflict do nothing;
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allRunOutOfMoneyToBuyFoodInPast12Months','"Community Survey, 2016"','https://open.africa/dataset/community-survey-south-africa-2016/resource/0ac091dd-4008-43bd-81d1-8ab370457aa8') on conflict do nothing;
-
-ALTER TABLE ONLY public.run_out_of_money_to_buy_food_in_past_12_months ADD CONSTRAINT pk_run_out_of_money_to_buy_food_in_past_12_months PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value, name, goe_version);
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allRunOutOfMoneyToBuyFoodInPast12Months','"Community Survey, 2016"','https://open.africa/dataset/community-survey-south-africa-2016/resource/0ac091dd-4008-43bd-81d1-8ab370457aa8') ON CONFLICT DO NOTHING;
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allRunOutOfMoneyToBuyFoodInPast12Months','"Community Survey, 2016"','https://open.africa/dataset/community-survey-south-africa-2016/resource/0ac091dd-4008-43bd-81d1-8ab370457aa8') ON CONFLICT DO NOTHING;

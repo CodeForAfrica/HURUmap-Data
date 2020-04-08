@@ -23,6 +23,8 @@ CREATE TABLE IF NOT EXISTS public.average_annual_household_and_per _capita _inco
 	name TEXT
 );
 
+ALTER TABLE ONLY public.average_annual_household_and_per _capita _income ADD CONSTRAINT pk_average_annual_household_and_per _capita _income PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value, name);
+
 INSERT INTO public.average_annual_household_and_per _capita _income VALUES
 ('level1','GH_1_024',2009,'country','GH','Mean annual per capita income',56664,'Ashanti'),
 ('level1','GH_1_024',2009,'country','GH','Mean annual household income',72491,'Ashanti'),
@@ -45,9 +47,7 @@ INSERT INTO public.average_annual_household_and_per _capita _income VALUES
 ('level1','GH_1_032',2009,'country','GH','Mean annual per capita income',7394,'Volta'),
 ('level1','GH_1_032',2009,'country','GH','Mean annual household income',31612,'Volta'),
 ('level1','GH_1_033',2009,'country','GH','Mean annual per capita income',9058,'Western'),
-('level1','GH_1_033',2009,'country','GH','Mean annual household income',30862,'Western');
+('level1','GH_1_033',2009,'country','GH','Mean annual household income',30862,'Western') ON CONFLICT DO NOTHING;
       
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','GH','allAverageAnnualHouseholdAndPer Capita Incomes','"Ghana Living Standards Survey (GLSS 7), 2017"','https://open.africa/dataset/ghana-living-standards-survey-glss-7-2017/resource/34c81b4f-c17d-4417-839f-08236abf712b') on conflict do nothing;
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','GH','allAverageAnnualHouseholdAndPer Capita Incomes','"Ghana Living Standards Survey (GLSS 7), 2017"','https://open.africa/dataset/ghana-living-standards-survey-glss-7-2017/resource/34c81b4f-c17d-4417-839f-08236abf712b') on conflict do nothing;
-
-ALTER TABLE ONLY public.average_annual_household_and_per _capita _income ADD CONSTRAINT pk_average_annual_household_and_per _capita _income PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value, name);
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','GH','allAverageAnnualHouseholdAndPer Capita Incomes','"Ghana Living Standards Survey (GLSS 7), 2017"','https://open.africa/dataset/ghana-living-standards-survey-glss-7-2017/resource/34c81b4f-c17d-4417-839f-08236abf712b') ON CONFLICT DO NOTHING;
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','GH','allAverageAnnualHouseholdAndPer Capita Incomes','"Ghana Living Standards Survey (GLSS 7), 2017"','https://open.africa/dataset/ghana-living-standards-survey-glss-7-2017/resource/34c81b4f-c17d-4417-839f-08236abf712b') ON CONFLICT DO NOTHING;

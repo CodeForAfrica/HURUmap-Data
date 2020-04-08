@@ -23,6 +23,8 @@ CREATE TABLE IF NOT EXISTS public.health_professionals_per_100000_uninsured_inde
 	name TEXT
 );
 
+ALTER TABLE ONLY public.health_professionals_per_100000_uninsured_index ADD CONSTRAINT pk_health_professionals_per_100000_uninsured_index PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value, name);
+
 INSERT INTO public.health_professionals_per_100000_uninsured_index VALUES
 ('level2','ZA_2_00244',2009,'level1','ZA_1_002','Health worker density',6.7,'Alfred Nzo'),
 ('level2','ZA_2_00244',2009,'level1','ZA_1_002','Medical practitioners',3.5,'Alfred Nzo'),
@@ -313,9 +315,7 @@ INSERT INTO public.health_professionals_per_100000_uninsured_index VALUES
 ('level2','ZA_2_00529',2009,'level1','ZA_1_005','Medical practitioners',10.3,'iLembe'),
 ('level2','ZA_2_00529',2009,'level1','ZA_1_005','Medical practitioners (Hogan index)',34.3,'iLembe'),
 ('level2','ZA_2_00529',2009,'level1','ZA_1_005','Pharmacists',15.6,'iLembe'),
-('level2','ZA_2_00529',2009,'level1','ZA_1_005','Professional nurses',13.3,'iLembe');
+('level2','ZA_2_00529',2009,'level1','ZA_1_005','Professional nurses',13.3,'iLembe') ON CONFLICT DO NOTHING;
       
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allHealthProfessionalsPer100000UninsuredIndices','"South African Health Review, 2019"','https://open.africa/dataset/south-african-health-review-2019/resource/a06be69c-dd59-4b1e-a444-560b96de5972') on conflict do nothing;
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allHealthProfessionalsPer100000UninsuredIndices','"South African Health Review, 2019"','https://open.africa/dataset/south-african-health-review-2019/resource/a06be69c-dd59-4b1e-a444-560b96de5972') on conflict do nothing;
-
-ALTER TABLE ONLY public.health_professionals_per_100000_uninsured_index ADD CONSTRAINT pk_health_professionals_per_100000_uninsured_index PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value, name);
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allHealthProfessionalsPer100000UninsuredIndices','"South African Health Review, 2019"','https://open.africa/dataset/south-african-health-review-2019/resource/a06be69c-dd59-4b1e-a444-560b96de5972') ON CONFLICT DO NOTHING;
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allHealthProfessionalsPer100000UninsuredIndices','"South African Health Review, 2019"','https://open.africa/dataset/south-african-health-review-2019/resource/a06be69c-dd59-4b1e-a444-560b96de5972') ON CONFLICT DO NOTHING;

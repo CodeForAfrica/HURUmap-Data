@@ -23,6 +23,8 @@ CREATE TABLE IF NOT EXISTS public.tb_cases_per_100000_population (
 	name TEXT
 );
 
+ALTER TABLE ONLY public.tb_cases_per_100000_population ADD CONSTRAINT pk_tb_cases_per_100000_population PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value, name);
+
 INSERT INTO public.tb_cases_per_100000_population VALUES
 ('level1','GH_1_024',2009,'country','GH',2004,53.4,'Ashanti'),
 ('level1','GH_1_024',2009,'country','GH',2005,53,'Ashanti'),
@@ -166,9 +168,7 @@ INSERT INTO public.tb_cases_per_100000_population VALUES
 ('level1','GH_1_033',2009,'country','GH',2013,70,'Western'),
 ('level1','GH_1_033',2009,'country','GH',2014,64,'Western'),
 ('level1','GH_1_033',2009,'country','GH',2015,59,'Western'),
-('level1','GH_1_033',2009,'country','GH',2016,56,'Western');
+('level1','GH_1_033',2009,'country','GH',2016,56,'Western') ON CONFLICT DO NOTHING;
       
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','GH','allTbCasesPer100000Populations','"The Health Sector In Ghana Facts And Figures, 2018"','https://open.africa/dataset/the-health-sector-in-ghana-facts-and-figures-2018/resource/00208ad8-dbcd-4209-8e5d-01af22023d88') on conflict do nothing;
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','GH','allTbCasesPer100000Populations','"The Health Sector In Ghana Facts And Figures, 2018"','https://open.africa/dataset/the-health-sector-in-ghana-facts-and-figures-2018/resource/00208ad8-dbcd-4209-8e5d-01af22023d88') on conflict do nothing;
-
-ALTER TABLE ONLY public.tb_cases_per_100000_population ADD CONSTRAINT pk_tb_cases_per_100000_population PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value, name);
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','GH','allTbCasesPer100000Populations','"The Health Sector In Ghana Facts And Figures, 2018"','https://open.africa/dataset/the-health-sector-in-ghana-facts-and-figures-2018/resource/00208ad8-dbcd-4209-8e5d-01af22023d88') ON CONFLICT DO NOTHING;
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','GH','allTbCasesPer100000Populations','"The Health Sector In Ghana Facts And Figures, 2018"','https://open.africa/dataset/the-health-sector-in-ghana-facts-and-figures-2018/resource/00208ad8-dbcd-4209-8e5d-01af22023d88') ON CONFLICT DO NOTHING;

@@ -23,6 +23,8 @@ CREATE TABLE IF NOT EXISTS public.facilities_with_90_percent_of_tracer_medicines
 	name TEXT
 );
 
+ALTER TABLE ONLY public.facilities_with_90_percent_of_tracer_medicines_available ADD CONSTRAINT pk_facilities_with_90_percent_of_tracer_medicines_available PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value, name);
+
 INSERT INTO public.facilities_with_90_percent_of_tracer_medicines_available VALUES
 ('level2','ZA_2_00244',2009,'level1','ZA_1_002','Percentage of fixed PHC facilities with 90% of tracer medicines available',83.8,'Alfred Nzo'),
 ('level2','ZA_2_00525',2009,'level1','ZA_1_005','Percentage of fixed PHC facilities with 90% of tracer medicines available',100,'Amajuba'),
@@ -81,6 +83,4 @@ INSERT INTO public.facilities_with_90_percent_of_tracer_medicines_available VALU
 ('level1','ZA_1_001',2009,'country','ZA','Percentage of fixed PHC facilities with 90% of tracer medicines available',92.1,'Western Cape'),
 ('level2','ZA_2_00416',2009,'level1','ZA_1_004','Percentage of fixed PHC facilities with 90% of tracer medicines available',100,'Xhariep'),
 ('level2','ZA_2_00308',2009,'level1','ZA_1_003','Percentage of fixed PHC facilities with 90% of tracer medicines available',95.2,'Z F Mgcawu'),
-('level2','ZA_2_00526',2009,'level1','ZA_1_005','Percentage of fixed PHC facilities with 90% of tracer medicines available',95.8,'Zululand');
-
-ALTER TABLE ONLY public.facilities_with_90_percent_of_tracer_medicines_available ADD CONSTRAINT pk_facilities_with_90_percent_of_tracer_medicines_available PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value, name);
+('level2','ZA_2_00526',2009,'level1','ZA_1_005','Percentage of fixed PHC facilities with 90% of tracer medicines available',95.8,'Zululand') ON CONFLICT DO NOTHING;

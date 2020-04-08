@@ -23,6 +23,8 @@ CREATE TABLE IF NOT EXISTS public.health_insurance_provider (
 	name TEXT
 );
 
+ALTER TABLE ONLY public.health_insurance_provider ADD CONSTRAINT pk_health_insurance_provider PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value, name);
+
 INSERT INTO public.health_insurance_provider VALUES
 ('level1','KE_1_030',2009,'country','KE','Employer Contributory',4,'Baringo'),
 ('level1','KE_1_030',2009,'country','KE','Private- Non Contributory',0,'Baringo'),
@@ -293,9 +295,7 @@ INSERT INTO public.health_insurance_provider VALUES
 ('level1','KE_1_024',2009,'country','KE','Other',0,'West Pokot'),
 ('level1','KE_1_024',2009,'country','KE','Employer Contributory',0.9,'West Pokot'),
 ('level1','KE_1_024',2009,'country','KE','Private- Non Contributory',4.4,'West Pokot'),
-('level1','KE_1_024',2009,'country','KE','NHIF',99.6,'West Pokot');
+('level1','KE_1_024',2009,'country','KE','NHIF',99.6,'West Pokot') ON CONFLICT DO NOTHING;
       
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','KE','allHealthInsuranceProviders','"Kenya Integrated Household Budget Survey, 2016"','https://open.africa/dataset/kenya-integrated-household-budget-survey-2016/resource/a0451f5f-dd39-49f1-bd9e-86a0fe7ff118') on conflict do nothing;
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','KE','allHealthInsuranceProviders','"Kenya Integrated Household Budget Survey, 2016"','https://open.africa/dataset/kenya-integrated-household-budget-survey-2016/resource/a0451f5f-dd39-49f1-bd9e-86a0fe7ff118') on conflict do nothing;
-
-ALTER TABLE ONLY public.health_insurance_provider ADD CONSTRAINT pk_health_insurance_provider PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value, name);
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','KE','allHealthInsuranceProviders','"Kenya Integrated Household Budget Survey, 2016"','https://open.africa/dataset/kenya-integrated-household-budget-survey-2016/resource/a0451f5f-dd39-49f1-bd9e-86a0fe7ff118') ON CONFLICT DO NOTHING;
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','KE','allHealthInsuranceProviders','"Kenya Integrated Household Budget Survey, 2016"','https://open.africa/dataset/kenya-integrated-household-budget-survey-2016/resource/a0451f5f-dd39-49f1-bd9e-86a0fe7ff118') ON CONFLICT DO NOTHING;

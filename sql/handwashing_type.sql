@@ -23,6 +23,8 @@ CREATE TABLE IF NOT EXISTS public.handwashing_type (
 	name TEXT
 );
 
+ALTER TABLE ONLY public.handwashing_type ADD CONSTRAINT pk_handwashing_type PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value, name);
+
 INSERT INTO public.handwashing_type VALUES
 ('level1','GH_1_024',2009,'country','GH','Ash/mud/ sand available',0.2,'Ashanti'),
 ('level1','GH_1_024',2009,'country','GH','Soap available',87.5,'Ashanti'),
@@ -127,11 +129,9 @@ INSERT INTO public.handwashing_type VALUES
 ('level1','ZA_1_001',2009,'country','ZA','Soap but no water',0,'Western Cape'),
 ('level1','ZA_1_001',2009,'country','ZA','Water only',12,'Western Cape'),
 ('level1','ZA_1_001',2009,'country','ZA','Water and cleansing agent other than soap only',1,'Western Cape'),
-('level1','ZA_1_001',2009,'country','ZA','Soap and water',86.1,'Western Cape');
+('level1','ZA_1_001',2009,'country','ZA','Soap and water',86.1,'Western Cape') ON CONFLICT DO NOTHING;
       
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','GH','allHandwashingTypes','"Ghana Multiple Indicator Cluster Survey, 2018"','https://open.africa/dataset/ghana-multiple-indicator-cluster-survey/resource/3c4b01d5-f3ab-45a0-a6a5-c4d0409f4551') on conflict do nothing;
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','GH','allHandwashingTypes','"Ghana Multiple Indicator Cluster Survey, 2018"','https://open.africa/dataset/ghana-multiple-indicator-cluster-survey/resource/3c4b01d5-f3ab-45a0-a6a5-c4d0409f4551') on conflict do nothing;
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allHandwashingTypes','"Demographic and Health Survey, 2016"','https://open.africa/dataset/demographic-and-health-survey-2016-south-africa/resource/46c842f7-c507-4c4f-b5ca-cdb07355f438') on conflict do nothing;
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allHandwashingTypes','"Demographic and Health Survey, 2016"','https://open.africa/dataset/demographic-and-health-survey-2016-south-africa/resource/46c842f7-c507-4c4f-b5ca-cdb07355f438') on conflict do nothing;
-
-ALTER TABLE ONLY public.handwashing_type ADD CONSTRAINT pk_handwashing_type PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value, name);
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','GH','allHandwashingTypes','"Ghana Multiple Indicator Cluster Survey, 2018"','https://open.africa/dataset/ghana-multiple-indicator-cluster-survey/resource/3c4b01d5-f3ab-45a0-a6a5-c4d0409f4551') ON CONFLICT DO NOTHING;
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','GH','allHandwashingTypes','"Ghana Multiple Indicator Cluster Survey, 2018"','https://open.africa/dataset/ghana-multiple-indicator-cluster-survey/resource/3c4b01d5-f3ab-45a0-a6a5-c4d0409f4551') ON CONFLICT DO NOTHING;
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allHandwashingTypes','"Demographic and Health Survey, 2016"','https://open.africa/dataset/demographic-and-health-survey-2016-south-africa/resource/46c842f7-c507-4c4f-b5ca-cdb07355f438') ON CONFLICT DO NOTHING;
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allHandwashingTypes','"Demographic and Health Survey, 2016"','https://open.africa/dataset/demographic-and-health-survey-2016-south-africa/resource/46c842f7-c507-4c4f-b5ca-cdb07355f438') ON CONFLICT DO NOTHING;

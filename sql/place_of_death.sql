@@ -23,6 +23,8 @@ CREATE TABLE IF NOT EXISTS public.place_of_death (
 	name TEXT
 );
 
+ALTER TABLE ONLY public.place_of_death ADD CONSTRAINT pk_place_of_death PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value, name);
+
 INSERT INTO public.place_of_death VALUES
 ('level1','ZA_1_002',2009,'country','ZA','Hospital',622170,'Eastern Cape'),
 ('level1','ZA_1_002',2009,'country','ZA','Unknown',44214,'Eastern Cape'),
@@ -103,9 +105,7 @@ INSERT INTO public.place_of_death VALUES
 ('level1','ZA_1_001',2009,'country','ZA','Dead on arrival',46639,'Western Cape'),
 ('level1','ZA_1_001',2009,'country','ZA','Emergency room / Outpatient',27788,'Western Cape'),
 ('level1','ZA_1_001',2009,'country','ZA','Unknown',27285,'Western Cape'),
-('level1','ZA_1_001',2009,'country','ZA','Hospital',374538,'Western Cape');
+('level1','ZA_1_001',2009,'country','ZA','Hospital',374538,'Western Cape') ON CONFLICT DO NOTHING;
       
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allPlaceOfDeaths','"Mortality and causes of death from death notification, 1997-2016"','https://open.africa/dataset/mortality-and-causes-of-death-from-death-notification-1997-2016/resource/9e3a2128-4b5e-4a56-99b1-20a6f0871807') on conflict do nothing;
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allPlaceOfDeaths','"Mortality and causes of death from death notification, 1997-2016"','https://open.africa/dataset/mortality-and-causes-of-death-from-death-notification-1997-2016/resource/9e3a2128-4b5e-4a56-99b1-20a6f0871807') on conflict do nothing;
-
-ALTER TABLE ONLY public.place_of_death ADD CONSTRAINT pk_place_of_death PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value, name);
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allPlaceOfDeaths','"Mortality and causes of death from death notification, 1997-2016"','https://open.africa/dataset/mortality-and-causes-of-death-from-death-notification-1997-2016/resource/9e3a2128-4b5e-4a56-99b1-20a6f0871807') ON CONFLICT DO NOTHING;
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allPlaceOfDeaths','"Mortality and causes of death from death notification, 1997-2016"','https://open.africa/dataset/mortality-and-causes-of-death-from-death-notification-1997-2016/resource/9e3a2128-4b5e-4a56-99b1-20a6f0871807') ON CONFLICT DO NOTHING;

@@ -23,6 +23,8 @@ CREATE TABLE IF NOT EXISTS public.distance_to_main source_of_water_for_drinking 
 	name TEXT
 );
 
+ALTER TABLE ONLY public.distance_to_main source_of_water_for_drinking ADD CONSTRAINT pk_distance_to_main source_of_water_for_drinking PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value, name);
+
 INSERT INTO public.distance_to_main source_of_water_for_drinking VALUES
 ('level3','ZA_3_003084',2009,'level2','ZA_2_00308','201-500 metres',222.71,'Kheis'),
 ('level3','ZA_3_003084',2009,'level2','ZA_2_00308','501 metres-1 kilometre',139.8084,'Kheis'),
@@ -2067,6 +2069,4 @@ INSERT INTO public.distance_to_main source_of_water_for_drinking VALUES
 ('level3','ZA_3_005262',2009,'level2','ZA_2_00526','Less than 200 metres',21367.57,'uPhongolo'),
 ('level3','ZA_3_005262',2009,'level2','ZA_2_00526','More than 1 kilometre',3715.176,'uPhongolo'),
 ('level3','ZA_3_005262',2009,'level2','ZA_2_00526','Not applicable',85256.61,'uPhongolo'),
-('level3','ZA_3_005262',2009,'level2','ZA_2_00526','Unspecified',0,'uPhongolo');
-
-ALTER TABLE ONLY public.distance_to_main source_of_water_for_drinking ADD CONSTRAINT pk_distance_to_main source_of_water_for_drinking PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value, name);
+('level3','ZA_3_005262',2009,'level2','ZA_2_00526','Unspecified',0,'uPhongolo') ON CONFLICT DO NOTHING;

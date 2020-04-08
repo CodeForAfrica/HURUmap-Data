@@ -23,6 +23,8 @@ CREATE TABLE IF NOT EXISTS public.problems_women_face_to_access_healthcare (
 	name TEXT
 );
 
+ALTER TABLE ONLY public.problems_women_face_to_access_healthcare ADD CONSTRAINT pk_problems_women_face_to_access_healthcare PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value, name);
+
 INSERT INTO public.problems_women_face_to_access_healthcare VALUES
 ('level1','ZA_1_002',2009,'country','ZA','At least one problem accessing health care',49.4,'Eastern Cape'),
 ('level1','ZA_1_002',2009,'country','ZA','Getting permission to go for treatment',14.2,'Eastern Cape'),
@@ -73,9 +75,7 @@ INSERT INTO public.problems_women_face_to_access_healthcare VALUES
 ('level1','ZA_1_001',2009,'country','ZA','Distance to health facility',11.3,'Western Cape'),
 ('level1','ZA_1_001',2009,'country','ZA','Getting money for treatment',16,'Western Cape'),
 ('level1','ZA_1_001',2009,'country','ZA','At least one problem accessing health care',23.3,'Western Cape'),
-('level1','ZA_1_001',2009,'country','ZA','Getting permission to go for treatment',7.2,'Western Cape');
+('level1','ZA_1_001',2009,'country','ZA','Getting permission to go for treatment',7.2,'Western Cape') ON CONFLICT DO NOTHING;
       
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allProblemsWomenFaceToAccessHealthcares','"Demographic and Health Survey, 2016"','https://open.africa/dataset/demographic-and-health-survey-2016-south-africa/resource/9077443b-c590-49f9-9483-0a0b18d9a27b') on conflict do nothing;
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allProblemsWomenFaceToAccessHealthcares','"Demographic and Health Survey, 2016"','https://open.africa/dataset/demographic-and-health-survey-2016-south-africa/resource/9077443b-c590-49f9-9483-0a0b18d9a27b') on conflict do nothing;
-
-ALTER TABLE ONLY public.problems_women_face_to_access_healthcare ADD CONSTRAINT pk_problems_women_face_to_access_healthcare PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value, name);
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allProblemsWomenFaceToAccessHealthcares','"Demographic and Health Survey, 2016"','https://open.africa/dataset/demographic-and-health-survey-2016-south-africa/resource/9077443b-c590-49f9-9483-0a0b18d9a27b') ON CONFLICT DO NOTHING;
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allProblemsWomenFaceToAccessHealthcares','"Demographic and Health Survey, 2016"','https://open.africa/dataset/demographic-and-health-survey-2016-south-africa/resource/9077443b-c590-49f9-9483-0a0b18d9a27b') ON CONFLICT DO NOTHING;

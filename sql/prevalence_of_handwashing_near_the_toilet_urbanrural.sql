@@ -24,14 +24,14 @@ CREATE TABLE IF NOT EXISTS public.prevalence_of_handwashing_near_the_toilet_urba
 	name TEXT
 );
 
+ALTER TABLE ONLY public.prevalence_of_handwashing_near_the_toilet_urbanrural ADD CONSTRAINT pk_prevalence_of_handwashing_near_the_toilet_urbanrural PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable_2, variable_1, value, name);
+
 INSERT INTO public.prevalence_of_handwashing_near_the_toilet_urbanrural VALUES
 ('country','KE',2009,'continent','AFR','No place to wash hands','Rural',86.5,'Kenya'),
 ('country','KE',2009,'continent','AFR','Not stated','Rural',0.3,'Kenya'),
 ('country','KE',2009,'continent','AFR','Place to wash hands','Rural',13.2,'Kenya'),
 ('country','KE',2009,'continent','AFR','Not stated','Urban',0.5,'Kenya'),
 ('country','KE',2009,'continent','AFR','No place to wash hands','Urban',69.2,'Kenya'),
-('country','KE',2009,'continent','AFR','Place to wash hands','Urban',30.2,'Kenya');
+('country','KE',2009,'continent','AFR','Place to wash hands','Urban',30.2,'Kenya') ON CONFLICT DO NOTHING;
       
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','KE','allPrevalenceOfHandwashingNearTheToiletUrbanrurals','"Kenya Integrated Household Budget Survey, 2016"','https://open.africa/dataset/kenya-integrated-household-budget-survey-2016/resource/4cf6156d-515b-4d4f-8fdf-3f2dd301ae88') on conflict do nothing;
-
-ALTER TABLE ONLY public.prevalence_of_handwashing_near_the_toilet_urbanrural ADD CONSTRAINT pk_prevalence_of_handwashing_near_the_toilet_urbanrural PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable_2, variable_1, value, name);
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','KE','allPrevalenceOfHandwashingNearTheToiletUrbanrurals','"Kenya Integrated Household Budget Survey, 2016"','https://open.africa/dataset/kenya-integrated-household-budget-survey-2016/resource/4cf6156d-515b-4d4f-8fdf-3f2dd301ae88') ON CONFLICT DO NOTHING;

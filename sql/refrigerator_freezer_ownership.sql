@@ -23,6 +23,8 @@ CREATE TABLE IF NOT EXISTS public.refrigerator_freezer_ownership (
 	name TEXT
 );
 
+ALTER TABLE ONLY public.refrigerator_freezer_ownership ADD CONSTRAINT pk_refrigerator_freezer_ownership PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value, name);
+
 INSERT INTO public.refrigerator_freezer_ownership VALUES
 ('level3','ZA_3_003084',2009,'level2','ZA_2_00308','No',5222.104,'Kheis'),
 ('level3','ZA_3_003084',2009,'level2','ZA_2_00308','Unspecified',930.3315,'Kheis'),
@@ -899,9 +901,7 @@ INSERT INTO public.refrigerator_freezer_ownership VALUES
 ('level3','ZA_3_005214',2009,'level2','ZA_2_00521','Yes',72106.73,'uMuziwabantu'),
 ('level3','ZA_3_005262',2009,'level2','ZA_2_00526','No',22372.83,'uPhongolo'),
 ('level3','ZA_3_005262',2009,'level2','ZA_2_00526','Unspecified',9466.412,'uPhongolo'),
-('level3','ZA_3_005262',2009,'level2','ZA_2_00526','Yes',109407.4,'uPhongolo');
+('level3','ZA_3_005262',2009,'level2','ZA_2_00526','Yes',109407.4,'uPhongolo') ON CONFLICT DO NOTHING;
       
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allRefrigeratorFreezerOwnerships','"Community Survey, 2016"','https://open.africa/dataset/community-survey-south-africa-2016/resource/0528a45c-6788-4719-981c-c9f7ee91826a') on conflict do nothing;
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allRefrigeratorFreezerOwnerships','"Community Survey, 2016"','https://open.africa/dataset/community-survey-south-africa-2016/resource/0528a45c-6788-4719-981c-c9f7ee91826a') on conflict do nothing;
-
-ALTER TABLE ONLY public.refrigerator_freezer_ownership ADD CONSTRAINT pk_refrigerator_freezer_ownership PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value, name);
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allRefrigeratorFreezerOwnerships','"Community Survey, 2016"','https://open.africa/dataset/community-survey-south-africa-2016/resource/0528a45c-6788-4719-981c-c9f7ee91826a') ON CONFLICT DO NOTHING;
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allRefrigeratorFreezerOwnerships','"Community Survey, 2016"','https://open.africa/dataset/community-survey-south-africa-2016/resource/0528a45c-6788-4719-981c-c9f7ee91826a') ON CONFLICT DO NOTHING;

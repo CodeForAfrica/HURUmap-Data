@@ -22,6 +22,8 @@ CREATE TABLE IF NOT EXISTS public.number_of_hospital_beds (
 	name TEXT
 );
 
+ALTER TABLE ONLY public.number_of_hospital_beds ADD CONSTRAINT pk_number_of_hospital_beds PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, value, name);
+
 INSERT INTO public.number_of_hospital_beds VALUES
 ('level2','KE_2_027144',2009,'level1','KE_1_027',1324,'Ainabkoi'),
 ('level2','KE_2_035190',2009,'level1','KE_1_035',880,'Ainamoi'),
@@ -311,9 +313,7 @@ INSERT INTO public.number_of_hospital_beds VALUES
 ('level1','KE_1_038',2009,'country','KE',874,'Vihiga'),
 ('level1','KE_1_008',2009,'country','KE',601,'Wajir'),
 ('level1','KE_1_024',2009,'country','KE',557,'West Pokot'),
-('country','KE',2009,'continent','AFR',74283,'Kenya');
+('country','KE',2009,'continent','AFR',74283,'Kenya') ON CONFLICT DO NOTHING;
       
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','KE','allNumberOfHospitalBeds','"Kenya Master Health Facility List, 2020"','https://open.africa/dataset/kenya-master-health-facility-list-2020/resource/38b72113-8cd5-40b2-960d-1baefd32c8f1') on conflict do nothing;
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','KE','allNumberOfHospitalBeds','"Kenya Master Health Facility List, 2020"','https://open.africa/dataset/kenya-master-health-facility-list-2020/resource/38b72113-8cd5-40b2-960d-1baefd32c8f1') on conflict do nothing;
-
-ALTER TABLE ONLY public.number_of_hospital_beds ADD CONSTRAINT pk_number_of_hospital_beds PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, value, name);
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','KE','allNumberOfHospitalBeds','"Kenya Master Health Facility List, 2020"','https://open.africa/dataset/kenya-master-health-facility-list-2020/resource/38b72113-8cd5-40b2-960d-1baefd32c8f1') ON CONFLICT DO NOTHING;
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','KE','allNumberOfHospitalBeds','"Kenya Master Health Facility List, 2020"','https://open.africa/dataset/kenya-master-health-facility-list-2020/resource/38b72113-8cd5-40b2-960d-1baefd32c8f1') ON CONFLICT DO NOTHING;

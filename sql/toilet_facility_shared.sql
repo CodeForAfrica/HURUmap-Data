@@ -23,6 +23,8 @@ CREATE TABLE IF NOT EXISTS public.toilet_facility_shared (
 	name TEXT
 );
 
+ALTER TABLE ONLY public.toilet_facility_shared ADD CONSTRAINT pk_toilet_facility_shared PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value, name);
+
 INSERT INTO public.toilet_facility_shared VALUES
 ('level3','ZA_3_003084',2009,'level2','ZA_2_00308','Do not know',88.82439,'Kheis'),
 ('level3','ZA_3_003084',2009,'level2','ZA_2_00308','No',13111.52,'Kheis'),
@@ -1483,9 +1485,7 @@ INSERT INTO public.toilet_facility_shared VALUES
 ('level3','ZA_3_005262',2009,'level2','ZA_2_00526','No',82205.91,'uPhongolo'),
 ('level3','ZA_3_005262',2009,'level2','ZA_2_00526','Not applicable',0,'uPhongolo'),
 ('level3','ZA_3_005262',2009,'level2','ZA_2_00526','Unspecified',15251.65,'uPhongolo'),
-('level3','ZA_3_005262',2009,'level2','ZA_2_00526','Yes',42750.13,'uPhongolo');
+('level3','ZA_3_005262',2009,'level2','ZA_2_00526','Yes',42750.13,'uPhongolo') ON CONFLICT DO NOTHING;
       
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allToiletFacilityShareds','"Community Survey, 2016"','https://open.africa/dataset/community-survey-south-africa-2016/resource/1c0891db-58b6-402c-a598-23789a57e490') on conflict do nothing;
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allToiletFacilityShareds','"Community Survey, 2016"','https://open.africa/dataset/community-survey-south-africa-2016/resource/1c0891db-58b6-402c-a598-23789a57e490') on conflict do nothing;
-
-ALTER TABLE ONLY public.toilet_facility_shared ADD CONSTRAINT pk_toilet_facility_shared PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value, name);
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allToiletFacilityShareds','"Community Survey, 2016"','https://open.africa/dataset/community-survey-south-africa-2016/resource/1c0891db-58b6-402c-a598-23789a57e490') ON CONFLICT DO NOTHING;
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allToiletFacilityShareds','"Community Survey, 2016"','https://open.africa/dataset/community-survey-south-africa-2016/resource/1c0891db-58b6-402c-a598-23789a57e490') ON CONFLICT DO NOTHING;

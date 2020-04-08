@@ -24,6 +24,8 @@ CREATE TABLE IF NOT EXISTS public.travel_time_to_health_facility_urbanrural (
 	name TEXT
 );
 
+ALTER TABLE ONLY public.travel_time_to_health_facility_urbanrural ADD CONSTRAINT pk_travel_time_to_health_facility_urbanrural PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable_2, variable_1, value, name);
+
 INSERT INTO public.travel_time_to_health_facility_urbanrural VALUES
 ('country','GH',2009,'continent','AFR','151-180','Urban',1.4,'Ghana'),
 ('country','GH',2009,'continent','AFR','91-120','Urban',3.4,'Ghana'),
@@ -38,8 +40,6 @@ INSERT INTO public.travel_time_to_health_facility_urbanrural VALUES
 ('country','GH',2009,'continent','AFR','61-90','Rural',7.8,'Ghana'),
 ('country','GH',2009,'continent','AFR','121-150','Rural',1.4,'Ghana'),
 ('country','GH',2009,'continent','AFR','30-60','Rural',38.4,'Ghana'),
-('country','GH',2009,'continent','AFR','181+','Rural',4.3,'Ghana');
+('country','GH',2009,'continent','AFR','181+','Rural',4.3,'Ghana') ON CONFLICT DO NOTHING;
       
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','GH','allTravelTimeToHealthFacilityUrbanrurals','"Ghana Living Standards Survey (GLSS 7), 2017"','https://open.africa/dataset/ghana-living-standards-survey-glss-7-2017/resource/3946b512-fff0-4851-929f-02c0a91627f5') on conflict do nothing;
-
-ALTER TABLE ONLY public.travel_time_to_health_facility_urbanrural ADD CONSTRAINT pk_travel_time_to_health_facility_urbanrural PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable_2, variable_1, value, name);
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','GH','allTravelTimeToHealthFacilityUrbanrurals','"Ghana Living Standards Survey (GLSS 7), 2017"','https://open.africa/dataset/ghana-living-standards-survey-glss-7-2017/resource/3946b512-fff0-4851-929f-02c0a91627f5') ON CONFLICT DO NOTHING;

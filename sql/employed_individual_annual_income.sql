@@ -24,6 +24,8 @@ CREATE TABLE IF NOT EXISTS public.employed_individual_annual_income (
 	name TEXT
 );
 
+ALTER TABLE ONLY public.employed_individual_annual_income ADD CONSTRAINT pk_employed_individual_annual_income PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable_2, variable_1, value, name);
+
 INSERT INTO public.employed_individual_annual_income VALUES
 ('level3','ZA_3_005263',2009,'level2','ZA_2_00526','Female','No income',6786,'Abaqulusi'),
 ('level3','ZA_3_005263',2009,'level2','ZA_2_00526','Male','No income',2435,'Abaqulusi'),
@@ -5463,9 +5465,7 @@ INSERT INTO public.employed_individual_annual_income VALUES
 ('level3','ZA_3_001022',2009,'level2','ZA_2_00102','Female','R 9601 - R 19200',2514,'Witzenberg'),
 ('level3','ZA_3_001022',2009,'level2','ZA_2_00102','Male','R 9601 - R 19200',6021,'Witzenberg'),
 ('level3','ZA_3_001022',2009,'level2','ZA_2_00102','Female','R2457601 or more',8,'Witzenberg'),
-('level3','ZA_3_001022',2009,'level2','ZA_2_00102','Male','R2457601 or more',41,'Witzenberg');
+('level3','ZA_3_001022',2009,'level2','ZA_2_00102','Male','R2457601 or more',41,'Witzenberg') ON CONFLICT DO NOTHING;
       
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allEmployedIndividualAnnualIncomes','"Community Survey, 2016"','https://open.africa/dataset/community-survey-south-africa-2016/resource/ce9148f0-1157-4919-9708-19af4574de3f') on conflict do nothing;
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allEmployedIndividualAnnualIncomes','"Community Survey, 2016"','https://open.africa/dataset/community-survey-south-africa-2016/resource/ce9148f0-1157-4919-9708-19af4574de3f') on conflict do nothing;
-
-ALTER TABLE ONLY public.employed_individual_annual_income ADD CONSTRAINT pk_employed_individual_annual_income PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable_2, variable_1, value, name);
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allEmployedIndividualAnnualIncomes','"Community Survey, 2016"','https://open.africa/dataset/community-survey-south-africa-2016/resource/ce9148f0-1157-4919-9708-19af4574de3f') ON CONFLICT DO NOTHING;
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allEmployedIndividualAnnualIncomes','"Community Survey, 2016"','https://open.africa/dataset/community-survey-south-africa-2016/resource/ce9148f0-1157-4919-9708-19af4574de3f') ON CONFLICT DO NOTHING;

@@ -23,6 +23,8 @@ CREATE TABLE IF NOT EXISTS public.health_facility_visited (
 	name TEXT
 );
 
+ALTER TABLE ONLY public.health_facility_visited ADD CONSTRAINT pk_health_facility_visited PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value, name);
+
 INSERT INTO public.health_facility_visited VALUES
 ('level1','ZA_1_002',2009,'country','ZA','Do not know',0,'Eastern Cape'),
 ('level1','ZA_1_002',2009,'country','ZA','Other in private sector',1081.59,'Eastern Cape'),
@@ -133,9 +135,7 @@ INSERT INTO public.health_facility_visited VALUES
 ('level1','ZA_1_001',2009,'country','ZA','Pharmacy/chemist',19807.57,'Western Cape'),
 ('level1','ZA_1_001',2009,'country','ZA','Health facility provided by employer',1729.75,'Western Cape'),
 ('level1','ZA_1_001',2009,'country','ZA','Other in private sector',0,'Western Cape'),
-('level1','ZA_1_001',2009,'country','ZA','Other in the public sector',12791.49,'Western Cape');
+('level1','ZA_1_001',2009,'country','ZA','Other in the public sector',12791.49,'Western Cape') ON CONFLICT DO NOTHING;
       
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allHealthFacilityVisiteds','"General Household Survey, 2018"','https://open.africa/dataset/general-household-survey-2018/resource/0311975d-df1f-4cf8-a744-dabd53634cd7') on conflict do nothing;
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allHealthFacilityVisiteds','"General Household Survey, 2018"','https://open.africa/dataset/general-household-survey-2018/resource/0311975d-df1f-4cf8-a744-dabd53634cd7') on conflict do nothing;
-
-ALTER TABLE ONLY public.health_facility_visited ADD CONSTRAINT pk_health_facility_visited PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value, name);
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allHealthFacilityVisiteds','"General Household Survey, 2018"','https://open.africa/dataset/general-household-survey-2018/resource/0311975d-df1f-4cf8-a744-dabd53634cd7') ON CONFLICT DO NOTHING;
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allHealthFacilityVisiteds','"General Household Survey, 2018"','https://open.africa/dataset/general-household-survey-2018/resource/0311975d-df1f-4cf8-a744-dabd53634cd7') ON CONFLICT DO NOTHING;

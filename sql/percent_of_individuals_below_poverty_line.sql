@@ -22,6 +22,8 @@ CREATE TABLE IF NOT EXISTS public.percent_of_individuals_below_poverty_line (
 	name TEXT
 );
 
+ALTER TABLE ONLY public.percent_of_individuals_below_poverty_line ADD CONSTRAINT pk_percent_of_individuals_below_poverty_line PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, value, name);
+
 INSERT INTO public.percent_of_individuals_below_poverty_line VALUES
 ('country','KE',2009,'continent','AFR',45.2,'Kenya'),
 ('level1','KE_1_047',2009,'country','KE',21.8,'Nairobi'),
@@ -342,9 +344,7 @@ INSERT INTO public.percent_of_individuals_below_poverty_line VALUES
 ('level2','KE_2_040228',2009,'level1','KE_1_040',56.6,'Matayos'),
 ('level2','KE_2_040229',2009,'level1','KE_1_040',65,'Butula'),
 ('level2','KE_2_040230',2009,'level1','KE_1_040',62.4,'Funyula'),
-('level2','KE_2_040231',2009,'level1','KE_1_040',65,'Budalangi');
+('level2','KE_2_040231',2009,'level1','KE_1_040',65,'Budalangi') ON CONFLICT DO NOTHING;
       
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','KE','allPercentOfIndividualsBelowPovertyLines','"Exploring Kenya Inequality National Report, 2017"','https://open.africa/dataset/exploring-kenya-inequality-national-report-2017/resource/90e440f3-bbee-416b-a2a5-454d9df9d8ad') on conflict do nothing;
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','KE','allPercentOfIndividualsBelowPovertyLines','"Exploring Kenya Inequality National Report, 2017"','https://open.africa/dataset/exploring-kenya-inequality-national-report-2017/resource/90e440f3-bbee-416b-a2a5-454d9df9d8ad') on conflict do nothing;
-
-ALTER TABLE ONLY public.percent_of_individuals_below_poverty_line ADD CONSTRAINT pk_percent_of_individuals_below_poverty_line PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, value, name);
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','KE','allPercentOfIndividualsBelowPovertyLines','"Exploring Kenya Inequality National Report, 2017"','https://open.africa/dataset/exploring-kenya-inequality-national-report-2017/resource/90e440f3-bbee-416b-a2a5-454d9df9d8ad') ON CONFLICT DO NOTHING;
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','KE','allPercentOfIndividualsBelowPovertyLines','"Exploring Kenya Inequality National Report, 2017"','https://open.africa/dataset/exploring-kenya-inequality-national-report-2017/resource/90e440f3-bbee-416b-a2a5-454d9df9d8ad') ON CONFLICT DO NOTHING;

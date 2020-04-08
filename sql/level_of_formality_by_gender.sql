@@ -24,6 +24,8 @@ CREATE TABLE IF NOT EXISTS public.level_of_formality_by_gender (
 	name TEXT
 );
 
+ALTER TABLE ONLY public.level_of_formality_by_gender ADD CONSTRAINT pk_level_of_formality_by_gender PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable_2, variable_1, value, name);
+
 INSERT INTO public.level_of_formality_by_gender VALUES
 ('level1','KE_1_030',2009,'country','KE','Intersex','Rural',12,'Baringo'),
 ('level1','KE_1_030',2009,'country','KE','Female','Rural',292006,'Baringo'),
@@ -288,9 +290,7 @@ INSERT INTO public.level_of_formality_by_gender VALUES
 ('level1','KE_1_024',2009,'country','KE','Male','Rural',291469,'West Pokot'),
 ('level1','KE_1_024',2009,'country','KE','Intersex','Urban',0,'West Pokot'),
 ('level1','KE_1_024',2009,'country','KE','Female','Urban',16297,'West Pokot'),
-('level1','KE_1_024',2009,'country','KE','Male','Urban',15544,'West Pokot');
+('level1','KE_1_024',2009,'country','KE','Male','Urban',15544,'West Pokot') ON CONFLICT DO NOTHING;
       
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','KE','allLevelOfFormalityByGenders','"Kenya Population and Housing Census, 2019"','https://open.africa/dataset/2019-kenya-population-and-housing-census') on conflict do nothing;
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','KE','allLevelOfFormalityByGenders','"Kenya Population and Housing Census, 2019"','https://open.africa/dataset/2019-kenya-population-and-housing-census') on conflict do nothing;
-
-ALTER TABLE ONLY public.level_of_formality_by_gender ADD CONSTRAINT pk_level_of_formality_by_gender PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable_2, variable_1, value, name);
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','KE','allLevelOfFormalityByGenders','"Kenya Population and Housing Census, 2019"','https://open.africa/dataset/2019-kenya-population-and-housing-census') ON CONFLICT DO NOTHING;
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','KE','allLevelOfFormalityByGenders','"Kenya Population and Housing Census, 2019"','https://open.africa/dataset/2019-kenya-population-and-housing-census') ON CONFLICT DO NOTHING;

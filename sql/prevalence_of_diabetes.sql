@@ -22,6 +22,8 @@ CREATE TABLE IF NOT EXISTS public.prevalence_of_diabetes (
 	name TEXT
 );
 
+ALTER TABLE ONLY public.prevalence_of_diabetes ADD CONSTRAINT pk_prevalence_of_diabetes PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, value, name);
+
 INSERT INTO public.prevalence_of_diabetes VALUES
 ('country','KE',2009,'continent','AFR',1.1,'Kenya'),
 ('level1','KE_1_001',2009,'country','KE',0.7,'Mombasa'),
@@ -67,9 +69,7 @@ INSERT INTO public.prevalence_of_diabetes VALUES
 ('level1','KE_1_043',2009,'country','KE',0.5,'Homa Bay'),
 ('level1','KE_1_044',2009,'country','KE',0.2,'Migori'),
 ('level1','KE_1_045',2009,'country','KE',2,'Kisii'),
-('level1','KE_1_046',2009,'country','KE',1.3,'Nyamira');
+('level1','KE_1_046',2009,'country','KE',1.3,'Nyamira') ON CONFLICT DO NOTHING;
       
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','KE','allPrevalenceOfDiabetes','"Kenya Integrated Household Budget Survey, 2016"','https://open.africa/dataset/kenya-integrated-household-budget-survey-2016/resource/d5ed58b9-ce88-4e88-9e14-847ac8a77f08') on conflict do nothing;
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','KE','allPrevalenceOfDiabetes','"Kenya Integrated Household Budget Survey, 2016"','https://open.africa/dataset/kenya-integrated-household-budget-survey-2016/resource/d5ed58b9-ce88-4e88-9e14-847ac8a77f08') on conflict do nothing;
-
-ALTER TABLE ONLY public.prevalence_of_diabetes ADD CONSTRAINT pk_prevalence_of_diabetes PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, value, name);
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','KE','allPrevalenceOfDiabetes','"Kenya Integrated Household Budget Survey, 2016"','https://open.africa/dataset/kenya-integrated-household-budget-survey-2016/resource/d5ed58b9-ce88-4e88-9e14-847ac8a77f08') ON CONFLICT DO NOTHING;
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','KE','allPrevalenceOfDiabetes','"Kenya Integrated Household Budget Survey, 2016"','https://open.africa/dataset/kenya-integrated-household-budget-survey-2016/resource/d5ed58b9-ce88-4e88-9e14-847ac8a77f08') ON CONFLICT DO NOTHING;

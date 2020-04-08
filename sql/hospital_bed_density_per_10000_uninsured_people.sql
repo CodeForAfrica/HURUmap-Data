@@ -23,6 +23,8 @@ CREATE TABLE IF NOT EXISTS public.hospital_bed_density_per_10000_uninsured_peopl
 	name TEXT
 );
 
+ALTER TABLE ONLY public.hospital_bed_density_per_10000_uninsured_people ADD CONSTRAINT pk_hospital_bed_density_per_10000_uninsured_people PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value, name);
+
 INSERT INTO public.hospital_bed_density_per_10000_uninsured_people VALUES
 ('level2','ZA_2_00595',2009,'level1','ZA_1_005',2005,31.7,'eThekwini'),
 ('level2','ZA_2_00292',2009,'level1','ZA_1_002',2018,30.6,'Buffalo City'),
@@ -1077,9 +1079,7 @@ INSERT INTO public.hospital_bed_density_per_10000_uninsured_people VALUES
 ('level2','ZA_2_00526',2009,'level1','ZA_1_005',2016,17.9,'Zululand'),
 ('level2','ZA_2_00526',2009,'level1','ZA_1_005',2017,15.4,'Zululand'),
 ('level2','ZA_2_00526',2009,'level1','ZA_1_005',2018,16.3,'Zululand'),
-('level2','ZA_2_00526',2009,'level1','ZA_1_005',2019,15.6,'Zululand');
+('level2','ZA_2_00526',2009,'level1','ZA_1_005',2019,15.6,'Zululand') ON CONFLICT DO NOTHING;
       
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allHospitalBedDensityPer10000UninsuredPeople','"South African Health Review, 2019"','https://open.africa/dataset/south-african-health-review-2019/resource/725585e4-10c9-4ef3-a22a-d9ab297df71c') on conflict do nothing;
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allHospitalBedDensityPer10000UninsuredPeople','"South African Health Review, 2019"','https://open.africa/dataset/south-african-health-review-2019/resource/725585e4-10c9-4ef3-a22a-d9ab297df71c') on conflict do nothing;
-
-ALTER TABLE ONLY public.hospital_bed_density_per_10000_uninsured_people ADD CONSTRAINT pk_hospital_bed_density_per_10000_uninsured_people PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value, name);
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allHospitalBedDensityPer10000UninsuredPeople','"South African Health Review, 2019"','https://open.africa/dataset/south-african-health-review-2019/resource/725585e4-10c9-4ef3-a22a-d9ab297df71c') ON CONFLICT DO NOTHING;
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allHospitalBedDensityPer10000UninsuredPeople','"South African Health Review, 2019"','https://open.africa/dataset/south-african-health-review-2019/resource/725585e4-10c9-4ef3-a22a-d9ab297df71c') ON CONFLICT DO NOTHING;

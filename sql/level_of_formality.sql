@@ -23,6 +23,8 @@ CREATE TABLE IF NOT EXISTS public.level_of_formality (
 	name TEXT
 );
 
+ALTER TABLE ONLY public.level_of_formality ADD CONSTRAINT pk_level_of_formality PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value, name);
+
 INSERT INTO public.level_of_formality VALUES
 ('level3','ZA_3_005263',2009,'level2','ZA_2_00526','Urban',9412203978,'Abaqulusi'),
 ('level3','ZA_3_005263',2009,'level2','ZA_2_00526','Farms',6277597992,'Abaqulusi'),
@@ -887,9 +889,7 @@ INSERT INTO public.level_of_formality VALUES
 ('level3','ZA_3_005214',2009,'level2','ZA_2_00521','Urban',110619177,'uMuziwabantu'),
 ('level3','ZA_3_005262',2009,'level2','ZA_2_00526','Farms',1051708782,'uPhongolo'),
 ('level3','ZA_3_005262',2009,'level2','ZA_2_00526','Urban',1793388759,'uPhongolo'),
-('level3','ZA_3_005262',2009,'level2','ZA_2_00526','Traditional',1127956503,'uPhongolo');
+('level3','ZA_3_005262',2009,'level2','ZA_2_00526','Traditional',1127956503,'uPhongolo') ON CONFLICT DO NOTHING;
       
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allLevelOfFormalities','"Community Survey, 2016"','https://open.africa/dataset/community-survey-south-africa-2016/resource/9a65a9bc-6317-4cc9-becf-c476605ba328') on conflict do nothing;
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allLevelOfFormalities','"Community Survey, 2016"','https://open.africa/dataset/community-survey-south-africa-2016/resource/9a65a9bc-6317-4cc9-becf-c476605ba328') on conflict do nothing;
-
-ALTER TABLE ONLY public.level_of_formality ADD CONSTRAINT pk_level_of_formality PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value, name);
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allLevelOfFormalities','"Community Survey, 2016"','https://open.africa/dataset/community-survey-south-africa-2016/resource/9a65a9bc-6317-4cc9-becf-c476605ba328') ON CONFLICT DO NOTHING;
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allLevelOfFormalities','"Community Survey, 2016"','https://open.africa/dataset/community-survey-south-africa-2016/resource/9a65a9bc-6317-4cc9-becf-c476605ba328') ON CONFLICT DO NOTHING;

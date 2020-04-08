@@ -23,6 +23,8 @@ CREATE TABLE IF NOT EXISTS public.prevalence_of_hiv_ages_15_to_49 (
 	name TEXT
 );
 
+ALTER TABLE ONLY public.prevalence_of_hiv_ages_15_to_49 ADD CONSTRAINT pk_prevalence_of_hiv_ages_15_to_49 PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value, name);
+
 INSERT INTO public.prevalence_of_hiv_ages_15_to_49 VALUES
 ('level2','GH_2_024013',2009,'level1','GH_1_024',2000,1.5,'Atwima Nwabiagya'),
 ('level2','GH_2_024013',2009,'level1','GH_1_024',2001,1.6,'Atwima Nwabiagya'),
@@ -8393,13 +8395,11 @@ INSERT INTO public.prevalence_of_hiv_ages_15_to_49 VALUES
 ('country','ZA',2009,'continent','AFR',2014,17.2,'South Africa'),
 ('country','ZA',2009,'continent','AFR',2015,17.4,'South Africa'),
 ('country','ZA',2009,'continent','AFR',2016,17.6,'South Africa'),
-('country','ZA',2009,'continent','AFR',2017,17.8,'South Africa');
+('country','ZA',2009,'continent','AFR',2017,17.8,'South Africa') ON CONFLICT DO NOTHING;
       
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','GH','allPrevalenceOfHivAges15To49S','"Institute for Health Metrics and Evaluation (IHME), 2017"','https://open.africa/dataset/africa-hiv-prevalence-geospatial-estimates-2000-2017') on conflict do nothing;
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','GH','allPrevalenceOfHivAges15To49S','"Institute for Health Metrics and Evaluation (IHME), 2017"','https://open.africa/dataset/africa-hiv-prevalence-geospatial-estimates-2000-2017') on conflict do nothing;
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','KE','allPrevalenceOfHivAges15To49S','"Institute for Health Metrics and Evaluation (IHME), 2017"','https://open.africa/dataset/africa-hiv-prevalence-geospatial-estimates-2000-2017') on conflict do nothing;
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','KE','allPrevalenceOfHivAges15To49S','"Institute for Health Metrics and Evaluation (IHME), 2017"','https://open.africa/dataset/africa-hiv-prevalence-geospatial-estimates-2000-2017') on conflict do nothing;
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allPrevalenceOfHivAges15To49S','"Institute for Health Metrics and Evaluation (IHME), 2017"','https://open.africa/dataset/africa-hiv-prevalence-geospatial-estimates-2000-2017') on conflict do nothing;
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allPrevalenceOfHivAges15To49S','"Institute for Health Metrics and Evaluation (IHME), 2017"','https://open.africa/dataset/africa-hiv-prevalence-geospatial-estimates-2000-2017') on conflict do nothing;
-
-ALTER TABLE ONLY public.prevalence_of_hiv_ages_15_to_49 ADD CONSTRAINT pk_prevalence_of_hiv_ages_15_to_49 PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value, name);
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','GH','allPrevalenceOfHivAges15To49S','"Institute for Health Metrics and Evaluation (IHME), 2017"','https://open.africa/dataset/africa-hiv-prevalence-geospatial-estimates-2000-2017') ON CONFLICT DO NOTHING;
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','GH','allPrevalenceOfHivAges15To49S','"Institute for Health Metrics and Evaluation (IHME), 2017"','https://open.africa/dataset/africa-hiv-prevalence-geospatial-estimates-2000-2017') ON CONFLICT DO NOTHING;
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','KE','allPrevalenceOfHivAges15To49S','"Institute for Health Metrics and Evaluation (IHME), 2017"','https://open.africa/dataset/africa-hiv-prevalence-geospatial-estimates-2000-2017') ON CONFLICT DO NOTHING;
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','KE','allPrevalenceOfHivAges15To49S','"Institute for Health Metrics and Evaluation (IHME), 2017"','https://open.africa/dataset/africa-hiv-prevalence-geospatial-estimates-2000-2017') ON CONFLICT DO NOTHING;
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allPrevalenceOfHivAges15To49S','"Institute for Health Metrics and Evaluation (IHME), 2017"','https://open.africa/dataset/africa-hiv-prevalence-geospatial-estimates-2000-2017') ON CONFLICT DO NOTHING;
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allPrevalenceOfHivAges15To49S','"Institute for Health Metrics and Evaluation (IHME), 2017"','https://open.africa/dataset/africa-hiv-prevalence-geospatial-estimates-2000-2017') ON CONFLICT DO NOTHING;

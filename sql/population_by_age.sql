@@ -23,6 +23,8 @@ CREATE TABLE IF NOT EXISTS public.population_by_age (
 	name TEXT
 );
 
+ALTER TABLE ONLY public.population_by_age ADD CONSTRAINT pk_population_by_age PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value, name);
+
 INSERT INTO public.population_by_age VALUES
 ('level2','ZA_2_00292',2009,'level1','ZA_1_002','< 18',317164,'Buffalo City'),
 ('level2','ZA_2_00292',2009,'level1','ZA_1_002','>= 65',34129,'Buffalo City'),
@@ -659,8 +661,6 @@ INSERT INTO public.population_by_age VALUES
 ('level3','ZA_3_001053',2009,'level2','ZA_2_00105','18 to 64',28941,'Beaufort West'),
 ('country','ZA',2009,'continent','AFR','< 18',20874659,'South Africa'),
 ('country','ZA',2009,'continent','AFR','>= 65',2952428,'South Africa'),
-('country','ZA',2009,'continent','AFR','18 to 64',31826567,'South Africa');
+('country','ZA',2009,'continent','AFR','18 to 64',31826567,'South Africa') ON CONFLICT DO NOTHING;
       
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allPopulationByAges','"Community Survey, 2016"','https://open.africa/dataset/community-survey-south-africa-2016/resource/72a0babb-b503-4dc6-98bf-3bad3039f321') on conflict do nothing;
-
-ALTER TABLE ONLY public.population_by_age ADD CONSTRAINT pk_population_by_age PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value, name);
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allPopulationByAges','"Community Survey, 2016"','https://open.africa/dataset/community-survey-south-africa-2016/resource/72a0babb-b503-4dc6-98bf-3bad3039f321') ON CONFLICT DO NOTHING;

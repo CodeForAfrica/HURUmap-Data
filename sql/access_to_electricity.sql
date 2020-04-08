@@ -23,6 +23,8 @@ CREATE TABLE IF NOT EXISTS public.access_to_electricity (
 	name TEXT
 );
 
+ALTER TABLE ONLY public.access_to_electricity ADD CONSTRAINT pk_access_to_electricity PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value, name);
+
 INSERT INTO public.access_to_electricity VALUES
 ('level3','ZA_3_003084',2009,'level2','ZA_2_00308','No',3479.296,'Kheis'),
 ('level3','ZA_3_003084',2009,'level2','ZA_2_00308','Unspecified',702.8814,'Kheis'),
@@ -899,9 +901,7 @@ INSERT INTO public.access_to_electricity VALUES
 ('level3','ZA_3_005214',2009,'level2','ZA_2_00521','Yes',94103.64,'uMuziwabantu'),
 ('level3','ZA_3_005262',2009,'level2','ZA_2_00526','No',12470.78,'uPhongolo'),
 ('level3','ZA_3_005262',2009,'level2','ZA_2_00526','Unspecified',5556.562,'uPhongolo'),
-('level3','ZA_3_005262',2009,'level2','ZA_2_00526','Yes',123219.3,'uPhongolo');
+('level3','ZA_3_005262',2009,'level2','ZA_2_00526','Yes',123219.3,'uPhongolo') ON CONFLICT DO NOTHING;
       
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allAccessToElectricities','"Community Survey, 2016"','https://open.africa/dataset/community-survey-south-africa-2016/resource/6cb23331-6c4f-4e87-bd60-a612268dedae') on conflict do nothing;
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allAccessToElectricities','"Community Survey, 2016"','https://open.africa/dataset/community-survey-south-africa-2016/resource/6cb23331-6c4f-4e87-bd60-a612268dedae') on conflict do nothing;
-
-ALTER TABLE ONLY public.access_to_electricity ADD CONSTRAINT pk_access_to_electricity PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value, name);
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allAccessToElectricities','"Community Survey, 2016"','https://open.africa/dataset/community-survey-south-africa-2016/resource/6cb23331-6c4f-4e87-bd60-a612268dedae') ON CONFLICT DO NOTHING;
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allAccessToElectricities','"Community Survey, 2016"','https://open.africa/dataset/community-survey-south-africa-2016/resource/6cb23331-6c4f-4e87-bd60-a612268dedae') ON CONFLICT DO NOTHING;

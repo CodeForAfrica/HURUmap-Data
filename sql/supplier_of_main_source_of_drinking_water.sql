@@ -23,6 +23,8 @@ CREATE TABLE IF NOT EXISTS public.supplier_of_main_source_of_drinking_water (
 	name TEXT
 );
 
+ALTER TABLE ONLY public.supplier_of_main_source_of_drinking_water ADD CONSTRAINT pk_supplier_of_main_source_of_drinking_water PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, number, name);
+
 INSERT INTO public.supplier_of_main_source_of_drinking_water VALUES
 ('level3','ZA_3_003084',2009,'level2','ZA_2_00308','A municipality',14648.15,'Kheis'),
 ('level3','ZA_3_003084',2009,'level2','ZA_2_00308','A water vendor',66.21649,'Kheis'),
@@ -2067,9 +2069,7 @@ INSERT INTO public.supplier_of_main_source_of_drinking_water VALUES
 ('level3','ZA_3_005262',2009,'level2','ZA_2_00526','Flowing water/stream/river/spring/rain water',17296.41,'uPhongolo'),
 ('level3','ZA_3_005262',2009,'level2','ZA_2_00526','Other water scheme (e.g. community water supply)',25877.57,'uPhongolo'),
 ('level3','ZA_3_005262',2009,'level2','ZA_2_00526','Own service (e.g. private borehole; own source on a farm; et',5932.266,'uPhongolo'),
-('level3','ZA_3_005262',2009,'level2','ZA_2_00526','Unspecified',20.06711,'uPhongolo');
+('level3','ZA_3_005262',2009,'level2','ZA_2_00526','Unspecified',20.06711,'uPhongolo') ON CONFLICT DO NOTHING;
       
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allSupplierOfMainSourceOfDrinkingWaters','"Community Survey, 2016"','https://open.africa/dataset/community-survey-south-africa-2016/resource/85ba1494-084f-4d87-ba61-600012dd70c4') on conflict do nothing;
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allSupplierOfMainSourceOfDrinkingWaters','"Community Survey, 2016"','https://open.africa/dataset/community-survey-south-africa-2016/resource/85ba1494-084f-4d87-ba61-600012dd70c4') on conflict do nothing;
-
-ALTER TABLE ONLY public.supplier_of_main_source_of_drinking_water ADD CONSTRAINT pk_supplier_of_main_source_of_drinking_water PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, number, name);
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allSupplierOfMainSourceOfDrinkingWaters','"Community Survey, 2016"','https://open.africa/dataset/community-survey-south-africa-2016/resource/85ba1494-084f-4d87-ba61-600012dd70c4') ON CONFLICT DO NOTHING;
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allSupplierOfMainSourceOfDrinkingWaters','"Community Survey, 2016"','https://open.africa/dataset/community-survey-south-africa-2016/resource/85ba1494-084f-4d87-ba61-600012dd70c4') ON CONFLICT DO NOTHING;

@@ -23,6 +23,8 @@ CREATE TABLE IF NOT EXISTS public.transport_to_nearest_health_facility (
 	name TEXT
 );
 
+ALTER TABLE ONLY public.transport_to_nearest_health_facility ADD CONSTRAINT pk_transport_to_nearest_health_facility PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value, name);
+
 INSERT INTO public.transport_to_nearest_health_facility VALUES
 ('level1','ZA_1_002',2009,'country','ZA','Train',6040.2,'Eastern Cape'),
 ('level1','ZA_1_002',2009,'country','ZA','Bus',35030.11,'Eastern Cape'),
@@ -103,9 +105,7 @@ INSERT INTO public.transport_to_nearest_health_facility VALUES
 ('level1','ZA_1_001',2009,'country','ZA','Bus',83041.51,'Western Cape'),
 ('level1','ZA_1_001',2009,'country','ZA','Minibus taxi/sedan taxi/bakkie taxi',1114242.3,'Western Cape'),
 ('level1','ZA_1_001',2009,'country','ZA','Unspecified',36084.13,'Western Cape'),
-('level1','ZA_1_001',2009,'country','ZA','Walking',2818947.17,'Western Cape');
+('level1','ZA_1_001',2009,'country','ZA','Walking',2818947.17,'Western Cape') ON CONFLICT DO NOTHING;
       
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allTransportToNearestHealthFacilities','"General Household Survey, 2018"','https://open.africa/dataset/general-household-survey-2018/resource/662c4d17-2d15-43d5-a7f8-08e48d0a14bf') on conflict do nothing;
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allTransportToNearestHealthFacilities','"General Household Survey, 2018"','https://open.africa/dataset/general-household-survey-2018/resource/662c4d17-2d15-43d5-a7f8-08e48d0a14bf') on conflict do nothing;
-
-ALTER TABLE ONLY public.transport_to_nearest_health_facility ADD CONSTRAINT pk_transport_to_nearest_health_facility PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value, name);
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allTransportToNearestHealthFacilities','"General Household Survey, 2018"','https://open.africa/dataset/general-household-survey-2018/resource/662c4d17-2d15-43d5-a7f8-08e48d0a14bf') ON CONFLICT DO NOTHING;
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allTransportToNearestHealthFacilities','"General Household Survey, 2018"','https://open.africa/dataset/general-household-survey-2018/resource/662c4d17-2d15-43d5-a7f8-08e48d0a14bf') ON CONFLICT DO NOTHING;

@@ -23,6 +23,8 @@ CREATE TABLE IF NOT EXISTS public.medical_scheme_coverage (
 	name TEXT
 );
 
+ALTER TABLE ONLY public.medical_scheme_coverage ADD CONSTRAINT pk_medical_scheme_coverage PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value, name);
+
 INSERT INTO public.medical_scheme_coverage VALUES
 ('level2','ZA_2_00244',2009,'level1','ZA_1_002','medical scheme coverage',38,'Alfred Nzo'),
 ('level2','ZA_2_00525',2009,'level1','ZA_1_005','medical scheme coverage',74,'Amajuba'),
@@ -80,9 +82,7 @@ INSERT INTO public.medical_scheme_coverage VALUES
 ('level1','ZA_1_001',2009,'country','ZA','medical scheme coverage',201,'Western Cape'),
 ('level2','ZA_2_00416',2009,'level1','ZA_1_004','medical scheme coverage',105,'Xhariep'),
 ('level2','ZA_2_00526',2009,'level1','ZA_1_005','medical scheme coverage',52,'Zululand'),
-('level2','ZA_2_00308',2009,'level1','ZA_1_003','medical scheme coverage',158,'Z F Mgcawu');
+('level2','ZA_2_00308',2009,'level1','ZA_1_003','medical scheme coverage',158,'Z F Mgcawu') ON CONFLICT DO NOTHING;
       
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allMedicalSchemeCoverages','"South African Health Review, 2019"','https://open.africa/dataset/south-african-health-review-2019/resource/abb8ab4e-d06e-44f0-8e7a-1cb00add467b') on conflict do nothing;
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allMedicalSchemeCoverages','"South African Health Review, 2019"','https://open.africa/dataset/south-african-health-review-2019/resource/abb8ab4e-d06e-44f0-8e7a-1cb00add467b') on conflict do nothing;
-
-ALTER TABLE ONLY public.medical_scheme_coverage ADD CONSTRAINT pk_medical_scheme_coverage PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value, name);
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allMedicalSchemeCoverages','"South African Health Review, 2019"','https://open.africa/dataset/south-african-health-review-2019/resource/abb8ab4e-d06e-44f0-8e7a-1cb00add467b') ON CONFLICT DO NOTHING;
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allMedicalSchemeCoverages','"South African Health Review, 2019"','https://open.africa/dataset/south-african-health-review-2019/resource/abb8ab4e-d06e-44f0-8e7a-1cb00add467b') ON CONFLICT DO NOTHING;

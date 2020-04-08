@@ -22,6 +22,8 @@ CREATE TABLE IF NOT EXISTS public.global_health_security_index (
 	value NUMERIC
 );
 
+ALTER TABLE ONLY public.global_health_security_index ADD CONSTRAINT pk_global_health_security_index PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value);
+
 INSERT INTO public.global_health_security_index VALUES
 ('country','ZA',2009,'continent','AFR','Rank',34),
 ('country','ZA',2009,'continent','AFR','Overall Score',54.8),
@@ -62,12 +64,10 @@ INSERT INTO public.global_health_security_index VALUES
 ('country','NG',2009,'continent','AFR','Rapid Response to And Mitigation of The Spread of an Epidemic',43.8),
 ('country','NG',2009,'continent','AFR','Sufficient & Robust Health System to Treat The Sick & Protect Health Workers',19.9),
 ('country','NG',2009,'continent','AFR','"Commitments to Improving National Capacity, Financing and Adherence to Norms"',56.7),
-('country','NG',2009,'continent','AFR','Overall Risk Environment And Country Vulnerability to Biological Threats',33.7);
+('country','NG',2009,'continent','AFR','Overall Risk Environment And Country Vulnerability to Biological Threats',33.7) ON CONFLICT DO NOTHING;
       
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allGlobalHealthSecurityIndices','"Global Health Security Index, 2019"','https://open.africa/dataset/global-health-security-index-2019') on conflict do nothing;
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','KE','allGlobalHealthSecurityIndices','"Global Health Security Index, 2019"','https://open.africa/dataset/global-health-security-index-2019') on conflict do nothing;
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','GH','allGlobalHealthSecurityIndices','"Global Health Security Index, 2019"','https://open.africa/dataset/global-health-security-index-2019') on conflict do nothing;
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ET','allGlobalHealthSecurityIndices','"Global Health Security Index, 2019"','https://open.africa/dataset/global-health-security-index-2019') on conflict do nothing;
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','NG','allGlobalHealthSecurityIndices','"Global Health Security Index, 2019"','https://open.africa/dataset/global-health-security-index-2019') on conflict do nothing;
-
-ALTER TABLE ONLY public.global_health_security_index ADD CONSTRAINT pk_global_health_security_index PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value);
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allGlobalHealthSecurityIndices','"Global Health Security Index, 2019"','https://open.africa/dataset/global-health-security-index-2019') ON CONFLICT DO NOTHING;
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','KE','allGlobalHealthSecurityIndices','"Global Health Security Index, 2019"','https://open.africa/dataset/global-health-security-index-2019') ON CONFLICT DO NOTHING;
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','GH','allGlobalHealthSecurityIndices','"Global Health Security Index, 2019"','https://open.africa/dataset/global-health-security-index-2019') ON CONFLICT DO NOTHING;
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ET','allGlobalHealthSecurityIndices','"Global Health Security Index, 2019"','https://open.africa/dataset/global-health-security-index-2019') ON CONFLICT DO NOTHING;
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','NG','allGlobalHealthSecurityIndices','"Global Health Security Index, 2019"','https://open.africa/dataset/global-health-security-index-2019') ON CONFLICT DO NOTHING;

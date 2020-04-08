@@ -23,6 +23,8 @@ CREATE TABLE IF NOT EXISTS public.underlying_causes_of_death (
 	name TEXT
 );
 
+ALTER TABLE ONLY public.underlying_causes_of_death ADD CONSTRAINT pk_underlying_causes_of_death PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value, name);
+
 INSERT INTO public.underlying_causes_of_death VALUES
 ('level1','ZA_1_002',2009,'country','ZA','Diseases of the blood and immune mechanism (D50-D89',37660,'Eastern Cape'),
 ('level1','ZA_1_002',2009,'country','ZA','Diseases of the circulatory system (I00-I99)',210722,'Eastern Cape'),
@@ -213,9 +215,7 @@ INSERT INTO public.underlying_causes_of_death VALUES
 ('level1','ZA_1_001',2009,'country','ZA','Diseases of the ear and mastoid process (H60-H95)',98,'Western Cape'),
 ('level1','ZA_1_001',2009,'country','ZA','Perinatal conditions (P00-P96)',50644,'Western Cape'),
 ('level1','ZA_1_001',2009,'country','ZA','Mental and behavioural disorders (F00-F99)',6762,'Western Cape'),
-('level1','ZA_1_001',2009,'country','ZA','Certain infectious and parasitic diseases (A00-B99)',138896,'Western Cape');
+('level1','ZA_1_001',2009,'country','ZA','Certain infectious and parasitic diseases (A00-B99)',138896,'Western Cape') ON CONFLICT DO NOTHING;
       
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allUnderlyingCausesOfDeaths','"Mortality and causes of death from death notification, 1997-2016"','https://open.africa/dataset/mortality-and-causes-of-death-from-death-notification-1997-2016/resource/e9c2c9ba-f6ce-4009-afe4-3401b233e215') on conflict do nothing;
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allUnderlyingCausesOfDeaths','"Mortality and causes of death from death notification, 1997-2016"','https://open.africa/dataset/mortality-and-causes-of-death-from-death-notification-1997-2016/resource/e9c2c9ba-f6ce-4009-afe4-3401b233e215') on conflict do nothing;
-
-ALTER TABLE ONLY public.underlying_causes_of_death ADD CONSTRAINT pk_underlying_causes_of_death PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value, name);
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allUnderlyingCausesOfDeaths','"Mortality and causes of death from death notification, 1997-2016"','https://open.africa/dataset/mortality-and-causes-of-death-from-death-notification-1997-2016/resource/e9c2c9ba-f6ce-4009-afe4-3401b233e215') ON CONFLICT DO NOTHING;
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allUnderlyingCausesOfDeaths','"Mortality and causes of death from death notification, 1997-2016"','https://open.africa/dataset/mortality-and-causes-of-death-from-death-notification-1997-2016/resource/e9c2c9ba-f6ce-4009-afe4-3401b233e215') ON CONFLICT DO NOTHING;

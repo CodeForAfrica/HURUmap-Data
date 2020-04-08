@@ -24,6 +24,8 @@ CREATE TABLE IF NOT EXISTS public.handwashing_prev_urbanrural (
 	name TEXT
 );
 
+ALTER TABLE ONLY public.handwashing_prev_urbanrural ADD CONSTRAINT pk_handwashing_prev_urbanrural PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable_2, variable_1, value, name);
+
 INSERT INTO public.handwashing_prev_urbanrural VALUES
 ('country','GH',2009,'continent','AFR','Fixed facility observed','Rural',20,'Ghana'),
 ('country','GH',2009,'continent','AFR','Mobile object observed','Rural',49.1,'Ghana'),
@@ -36,9 +38,7 @@ INSERT INTO public.handwashing_prev_urbanrural VALUES
 ('country','ZA',2009,'continent','AFR','Handwashing was a fixed place','Urban',67.3,'South Africa'),
 ('country','ZA',2009,'continent','AFR','Handwashing was mobile','Urban',19.7,'South Africa'),
 ('country','ZA',2009,'continent','AFR','Handwashing was a fixed place','Non-urban',27.9,'South Africa'),
-('country','ZA',2009,'continent','AFR','Handwashing was mobile','Non-urban',54.2,'South Africa');
+('country','ZA',2009,'continent','AFR','Handwashing was mobile','Non-urban',54.2,'South Africa') ON CONFLICT DO NOTHING;
       
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','GH','allHandwashingPrevUrbanrurals','"Ghana Multiple Indicator Cluster Survey, 2018"','https://open.africa/dataset/ghana-multiple-indicator-cluster-survey/resource/5f88ae4a-7206-4651-8e5f-544d4cd0d7b5') on conflict do nothing;
-INSERT into public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allHandwashingPrevUrbanrurals','"Demographic and Health Survey, 2016"','https://open.africa/dataset/general-household-survey-2018/resource/f5e2b79d-36a6-4f0a-b0c5-84b75675ec00') on conflict do nothing;
-
-ALTER TABLE ONLY public.handwashing_prev_urbanrural ADD CONSTRAINT pk_handwashing_prev_urbanrural PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable_2, variable_1, value, name);
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','GH','allHandwashingPrevUrbanrurals','"Ghana Multiple Indicator Cluster Survey, 2018"','https://open.africa/dataset/ghana-multiple-indicator-cluster-survey/resource/5f88ae4a-7206-4651-8e5f-544d4cd0d7b5') ON CONFLICT DO NOTHING;
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allHandwashingPrevUrbanrurals','"Demographic and Health Survey, 2016"','https://open.africa/dataset/general-household-survey-2018/resource/f5e2b79d-36a6-4f0a-b0c5-84b75675ec00') ON CONFLICT DO NOTHING;
