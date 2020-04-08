@@ -1824,21 +1824,21 @@ level1,NG_1_006,NG,state,6,Bayelsa
 level1,NG_1_007,NG,state,7,Benue
 level1,NG_1_008,NG,state,8,Borno
 level1,NG_1_009,NG,state,9,Cross River
-country,SN,SE,country,SN,Senegal
-level1,SE_1_001,SE,region,1,Dakar
-level1,SE_1_010,SE,region,10,Saint Louis
-level1,SE_1_011,SE,region,11,Sedhiou
-level1,SE_1_012,SE,region,12,Tambacounda
-level1,SE_1_013,SE,region,13,Thies
-level1,SE_1_014,SE,region,14,Ziguinchor
-level1,SE_1_002,SE,region,2,Diourbel
-level1,SE_1_003,SE,region,3,Fatick
-level1,SE_1_004,SE,region,4,Kaffrine
-level1,SE_1_005,SE,region,5,Kaolack
-level1,SE_1_006,SE,region,6,Kedougou
-level1,SE_1_007,SE,region,7,Kolda
-level1,SE_1_008,SE,region,8,Louga
-level1,SE_1_009,SE,region,9,Matam
+country,SN,SN,country,SN,Senegal
+level1,SN1_001,SN,region,1,Dakar
+level1,SN1_010,SN,region,10,Saint Louis
+level1,SN1_011,SN,region,11,Sedhiou
+level1,SN1_012,SN,region,12,Tambacounda
+level1,SN1_013,SN,region,13,Thies
+level1,SN1_014,SN,region,14,Ziguinchor
+level1,SN1_002,SN,region,2,Diourbel
+level1,SN1_003,SN,region,3,Fatick
+level1,SN1_004,SN,region,4,Kaffrine
+level1,SN1_005,SN,region,5,Kaolack
+level1,SN1_006,SN,region,6,Kedougou
+level1,SN1_007,SN,region,7,Kolda
+level1,SN1_008,SN,region,8,Louga
+level1,SN1_009,SN,region,9,Matam
 country,TZ,TZ,country,TZ,iTanzania
 level2,TZ_2_0001,TZ,district,1,Kondoa
 level2,TZ_2_0010,TZ,district,10,Arusha Urban
