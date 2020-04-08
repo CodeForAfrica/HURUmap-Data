@@ -1,4 +1,4 @@
-AFR GEO LEVEL,AFR GEO CODE,COUNTRY CODE,GEO_LEVEL,GEO_CODE,NAME
+mapto_geo_level,mapto_geo_code,country_code,geo_level,geo_code,name
 country,BF,BF,country,BF,Burkina Faso
 level1,BF_1_013,BF,region,13,Centre
 level1,BF_1_046,BF,region,46,Boucle du Mouhoun
@@ -203,53 +203,53 @@ level1,GH_1_031,GH,region,31,Upper West
 level1,GH_1_032,GH,region,32,Volta
 level1,GH_1_033,GH,region,33,Western
 country,KE,KE,country,KE,Kenya
-level1,KE_1_001,KE,county,county-1,MOMBASA
-level1,KE_1_010,KE,county,county-10,MARSABIT
-level1,KE_1_011,KE,county,county-11,ISIOLO
-level1,KE_1_012,KE,county,county-12,MERU
-level1,KE_1_013,KE,county,county-13,THARAKA - NITHI
-level1,KE_1_014,KE,county,county-14,EMBU
-level1,KE_1_015,KE,county,county-15,KITUI
-level1,KE_1_016,KE,county,county-16,MACHAKOS
-level1,KE_1_017,KE,county,county-17,MAKUENI
-level1,KE_1_018,KE,county,county-18,NYANDARUA
-level1,KE_1_019,KE,county,county-19,NYERI
-level1,KE_1_002,KE,county,county-2,KWALE
-level1,KE_1_020,KE,county,county-20,KIRINYAGA
-level1,KE_1_021,KE,county,county-21,MURANG'A
-level1,KE_1_022,KE,county,county-22,KIAMBU
-level1,KE_1_023,KE,county,county-23,TURKANA
-level1,KE_1_024,KE,county,county-24,WEST POKOT
-level1,KE_1_025,KE,county,county-25,SAMBURU
-level1,KE_1_026,KE,county,county-26,TRANS NZOIA
-level1,KE_1_027,KE,county,county-27,UASIN GISHU
-level1,KE_1_028,KE,county,county-28,ELEGEYO-MARAKWET
-level1,KE_1_029,KE,county,county-29,NANDI
-level1,KE_1_003,KE,county,county-3,KILIFI
-level1,KE_1_030,KE,county,county-30,BARINGO
-level1,KE_1_031,KE,county,county-31,LAIKIPIA
-level1,KE_1_032,KE,county,county-32,NAKURU
-level1,KE_1_033,KE,county,county-33,NAROK
-level1,KE_1_034,KE,county,county-34,KAJIADO
-level1,KE_1_035,KE,county,county-35,KERICHO
-level1,KE_1_036,KE,county,county-36,BOMET
-level1,KE_1_037,KE,county,county-37,KAKAMEGA
-level1,KE_1_038,KE,county,county-38,VIHIGA
-level1,KE_1_039,KE,county,county-39,BUNGOMA
-level1,KE_1_004,KE,county,county-4,TANA RIVER
-level1,KE_1_040,KE,county,county-40,BUSIA
-level1,KE_1_041,KE,county,county-41,SIAYA
-level1,KE_1_042,KE,county,county-42,KISUMU
-level1,KE_1_043,KE,county,county-43,HOMA BAY
-level1,KE_1_044,KE,county,county-44,MIGORI
-level1,KE_1_045,KE,county,county-45,KISII
-level1,KE_1_046,KE,county,county-46,NYAMIRA
-level1,KE_1_047,KE,county,county-47,NAIROBI
-level1,KE_1_005,KE,county,county-5,LAMU
-level1,KE_1_006,KE,county,county-6,TAITA TAVETA
-level1,KE_1_007,KE,county,county-7,GARISSA
-level1,KE_1_008,KE,county,county-8,WAJIR
-level1,KE_1_009,KE,county,county-9,MANDERA
+level1,KE_1_001,KE,county,1,MOMBASA
+level1,KE_1_010,KE,county,10,MARSABIT
+level1,KE_1_011,KE,county,11,ISIOLO
+level1,KE_1_012,KE,county,12,MERU
+level1,KE_1_013,KE,county,13,THARAKA - NITHI
+level1,KE_1_014,KE,county,14,EMBU
+level1,KE_1_015,KE,county,15,KITUI
+level1,KE_1_016,KE,county,16,MACHAKOS
+level1,KE_1_017,KE,county,17,MAKUENI
+level1,KE_1_018,KE,county,18,NYANDARUA
+level1,KE_1_019,KE,county,19,NYERI
+level1,KE_1_002,KE,county,2,KWALE
+level1,KE_1_020,KE,county,20,KIRINYAGA
+level1,KE_1_021,KE,county,21,MURANG'A
+level1,KE_1_022,KE,county,22,KIAMBU
+level1,KE_1_023,KE,county,23,TURKANA
+level1,KE_1_024,KE,county,24,WEST POKOT
+level1,KE_1_025,KE,county,25,SAMBURU
+level1,KE_1_026,KE,county,26,TRANS NZOIA
+level1,KE_1_027,KE,county,27,UASIN GISHU
+level1,KE_1_028,KE,county,28,ELEGEYO-MARAKWET
+level1,KE_1_029,KE,county,29,NANDI
+level1,KE_1_003,KE,county,3,KILIFI
+level1,KE_1_030,KE,county,30,BARINGO
+level1,KE_1_031,KE,county,31,LAIKIPIA
+level1,KE_1_032,KE,county,32,NAKURU
+level1,KE_1_033,KE,county,33,NAROK
+level1,KE_1_034,KE,county,34,KAJIADO
+level1,KE_1_035,KE,county,35,KERICHO
+level1,KE_1_036,KE,county,36,BOMET
+level1,KE_1_037,KE,county,37,KAKAMEGA
+level1,KE_1_038,KE,county,38,VIHIGA
+level1,KE_1_039,KE,county,39,BUNGOMA
+level1,KE_1_004,KE,county,4,TANA RIVER
+level1,KE_1_040,KE,county,40,BUSIA
+level1,KE_1_041,KE,county,41,SIAYA
+level1,KE_1_042,KE,county,42,KISUMU
+level1,KE_1_043,KE,county,43,HOMA BAY
+level1,KE_1_044,KE,county,44,MIGORI
+level1,KE_1_045,KE,county,45,KISII
+level1,KE_1_046,KE,county,46,NYAMIRA
+level1,KE_1_047,KE,county,47,NAIROBI
+level1,KE_1_005,KE,county,5,LAMU
+level1,KE_1_006,KE,county,6,TAITA TAVETA
+level1,KE_1_007,KE,county,7,GARISSA
+level1,KE_1_008,KE,county,8,WAJIR
+level1,KE_1_009,KE,county,9,MANDERA
 level2,KE_2_001001,KE,subcounty,1001,Changamwe
 level2,KE_2_001002,KE,subcounty,1002,Jomvu
 level2,KE_2_001003,KE,subcounty,1003,Kisauni

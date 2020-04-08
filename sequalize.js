@@ -5,23 +5,17 @@ const pluralize = require("pluralize");
 /** Helpers */
 
 function formatSQL(str, variables) {
-  return knex
-    .raw(str, variables)
-    .toQuery()
-    .toString();
+  return knex.raw(str, variables).toQuery().toString();
 }
 
 function escapeField(str) {
-  return knex
-    .raw(str)
-    .toQuery()
-    .toString();
+  return knex.raw(str).toQuery().toString();
 }
 
 function gqlName(tablename) {
   const spliTableName = tablename
     .split("_")
-    .map(w => w[0].toUpperCase() + w.slice(1));
+    .map((w) => w[0].toUpperCase() + w.slice(1));
   const lastWord = spliTableName.pop();
 
   if (/[0-9]$/.test(lastWord)) {
@@ -40,7 +34,7 @@ const sqlString = ({
   dataTypes,
   dataValues,
   dataSources,
-  pkColumns
+  pkColumns,
 }) => {
   return (
     `
@@ -74,7 +68,7 @@ ${headers
 INSERT INTO public.${escapeField(tablename)} VALUES
 ${dataValues
   .map(
-    values =>
+    (values) =>
       `(${values
         .map((value, i) => {
           if ("string" === dataTypes[i]) {
@@ -93,7 +87,7 @@ ${Object.values(dataSources).join("\r\n")}
     )} ADD CONSTRAINT pk_${escapeField(tablename)} PRIMARY KEY (${(
       pkColumns || headers
     )
-      .map(header => escapeField(header))
+      .map((header) => escapeField(header))
       .join(", ")});\r\n`
   );
 };
@@ -103,6 +97,7 @@ module.exports = ({
   drop,
   data,
   geos,
+  mappedGeos,
   sources,
   populateGeoColumns = true,
   defaultHeaders = [
@@ -110,12 +105,12 @@ module.exports = ({
     "geo_code",
     "geo_version",
     "parent_level",
-    "parent_code"
+    "parent_code",
   ],
-  pkColumns
+  pkColumns,
 }) => {
   if (drop) {
-    drop.forEach(table => {
+    drop.forEach((table) => {
       fs.writeFileSync(
         `./sql/${table}.sql`,
         `DROP TABLE IF EXISTS public.${table};\n\nDELETE FROM public.sources where table_name = '${gqlName(
@@ -125,11 +120,11 @@ module.exports = ({
     });
   }
 
-  if (!data) {
+  if (!data || !data[0]) {
     return;
   }
-  const origHeaders = data[0].map(v => v.trim().toLowerCase());
-  const headers = Array.from(
+  const origHeaders = data[0].map((v) => v.trim().toLowerCase());
+  let headers = Array.from(
     new Set(
       populateGeoColumns ? defaultHeaders.concat(origHeaders) : origHeaders
     )
@@ -138,19 +133,25 @@ module.exports = ({
   let dataTypes = new Array(headers.length).fill(undefined);
   const dataSources = {};
 
-  const dataValues = data.slice(1).map(values => {
+  const dataValues = data.slice(1).map((values) => {
     const row = {};
     values.forEach((value, index) => {
       row[origHeaders[index]] = value.trim();
     });
 
     if (populateGeoColumns) {
-      const geo = row["name"]
-        ? geos.find(
-            geo =>
-              geo.name.toLocaleLowerCase() === row["name"].toLocaleLowerCase()
-          )
-        : geos.find(geo => geo.geo_code === row["geo_code"]);
+      const key = `${
+        row["geo_level"] === "country"
+          ? row["geo_code"]
+          : (row["country_code"] || "").toLocaleLowerCase()
+      }-${row["geo_level"]}-${row["geo_code"]}`;
+      const geo = mappedGeos[key]
+        ? mappedGeos[key]
+        : geos.find(
+            (geo) =>
+              geo.name.toLocaleLowerCase() ===
+              (row["name"] || "").toLocaleLowerCase()
+          );
 
       if (geo) {
         row["geo_version"] = geo["version"];
@@ -160,14 +161,14 @@ module.exports = ({
         row["parent_level"] = geo["parent_level"];
 
         if (sources.length) {
-          const countryCode =
+          countryCode =
             row["geo_level"] === "country"
               ? row["geo_code"]
               : row["parent_code"];
 
           const { title, link } =
             sources.find(
-              source =>
+              (source) =>
                 source.table_name.includes(tablename) &&
                 (source.country_code === countryCode || !source.country_code)
             ) || {};
@@ -192,7 +193,12 @@ module.exports = ({
       }
     }
 
-    const rowArray = headers.map(header => row[header]);
+    // Remove country code
+    // It has served its purpose
+    delete row["country_code"];
+    headers = headers.filter((head) => head !== "country_code");
+
+    const rowArray = headers.map((header) => row[header]);
 
     // Determine data types
     if (dataTypes.includes(undefined)) {
@@ -217,9 +223,9 @@ module.exports = ({
     tablename,
     headers,
     dataTypes,
-    dataValues: dataValues.filter(v => v),
+    dataValues: dataValues.filter((v) => v),
     dataSources,
-    pkColumns
+    pkColumns,
   });
 
   fs.writeFileSync(`./sql/${tablename}.sql`, sql);

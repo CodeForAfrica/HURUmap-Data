@@ -1,6 +1,8 @@
 const fs = require("fs");
 const sequalize = require("./sequalize");
 
+const FILE_COUNTRY_CODE_REGEX = /(?<=_)(za|ke|gh)/;
+
 /** Helpers */
 
 function csv2Array(path) {
@@ -25,26 +27,36 @@ function rows2ObjectsArray(data) {
   );
 }
 
-function csv2OjectsArray(path) {
+function csv2ObjectsArray(path) {
   return rows2ObjectsArray(csv2Array(path));
 }
 
 const transpose = (a) => a[0].map((_, c) => a.map((r) => r[c]));
 
 function combineCSVData(filenames) {
-  return filenames.reduce((combinedData, filename) => {
+  return filenames.reduce((combinedData, [filename, countryCode]) => {
     let data = fs
       .readFileSync(`./csv/data/${filename}`)
       .toString()
-      .replace(/_[za|ke],/gi, ",")
+      .replace(new RegExp(`_${countryCode.toLocaleLowerCase()},`, "gi"), ",")
       .split("\r\n")
       .map((values) => values.split(/,(?=(?:(?:[^"]*"){2})*[^"]*$)/));
 
     // ensure column names have no spaces have no spaces
     data[0] = data[0].map((x) => x.toLowerCase().replace(/ _| /, "_"));
 
+    const noCountryCodeColumn = !data[0].includes("country_code");
+    const transposedData = transpose(data);
+
+    if (noCountryCodeColumn && countryCode) {
+      transposedData.push([
+        "country_code",
+        ...Array(transposedData[0].length - 1).fill(countryCode.toLowerCase()),
+      ]);
+    }
+
     // Order data by column name
-    data = transpose(transpose(data).sort((a, b) => (a[0] < b[0] ? 1 : -1)));
+    data = transpose(transposedData.sort((a, b) => (a[0] < b[0] ? 1 : -1)));
 
     return combinedData.concat(!combinedData.length ? data : data.slice(1));
   }, []);
@@ -52,7 +64,24 @@ function combineCSVData(filenames) {
 
 /** Main */
 
-const geos = csv2OjectsArray("./csv/geos.csv");
+const geos = csv2ObjectsArray("./csv/geos.csv");
+
+// Create map to afr code
+const mappedGeos = csv2ObjectsArray("./csv/geo_level_map.csv").reduce(
+  (map, row) => {
+    const key = `${row["country_code"]}-${row["geo_level"]}-${row["geo_code"]}`;
+    map[key] = geos.find(
+      (geo) =>
+        geo.geo_level === row["mapto_geo_level"] &&
+        geo.geo_code === row["mapto_geo_code"]
+    );
+    map[
+      `${row["country_code"]}-${row["mapto_geo_level"]}-${row["mapto_geo_code"]}`
+    ] = map[key];
+    return map;
+  },
+  {}
+);
 
 const tables = fs.readdirSync("./csv/data").reduce(
   (merged, filename) => {
@@ -60,9 +89,12 @@ const tables = fs.readdirSync("./csv/data").reduce(
       return merged;
     }
 
-    const tablename = filename.match(/_za|_ke|_gh/)
+    const tablename = filename.match(FILE_COUNTRY_CODE_REGEX)
       ? filename.slice(0, -7)
       : filename.slice(0, -4); // remove _za.csv or _ke.csv or _gh.csv or .csv
+    const countryCode = (filename.match(FILE_COUNTRY_CODE_REGEX) || [
+      "",
+    ])[0].toLocaleLowerCase();
 
     // Skip files that have already been sequalize
     if (
@@ -80,9 +112,9 @@ const tables = fs.readdirSync("./csv/data").reduce(
     }
 
     if (!merged[tablename]) {
-      merged[tablename] = [filename];
+      merged[tablename] = [[filename, countryCode]];
     } else {
-      merged[tablename].push(filename);
+      merged[tablename].push([filename, countryCode]);
     }
 
     return merged;
@@ -96,7 +128,7 @@ Object.entries(tables).forEach(([tablename, filenames]) => {
   if (!["source", "skip"].includes(tablename)) {
     const data = combineCSVData(filenames);
 
-    sequalize({ tablename, data, geos, sources });
+    sequalize({ tablename, data, geos, mappedGeos, sources });
   }
 });
 
