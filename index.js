@@ -9,7 +9,8 @@ function csv2Array(path) {
   return fs
     .readFileSync(path)
     .toString()
-    .split("\r\n")
+    .split(/\r|\n|\r\n/)
+    .filter(line => line)
     .map((values) => values.split(/,(?=(?:(?:[^"]*"){2})*[^"]*$)/));
 }
 
