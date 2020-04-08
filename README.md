@@ -4,13 +4,27 @@ This repo contains HURUmap data that is used across multiple applications using 
 
 ## Data
 
-- Data is added by placing the data in the `csv/data` folder. 
+- Data is added by placing the data in the `csv/data` folder in this repository. 
+
 - The csv name has to be in slug form where the name will be the table name e.g. `population_by_gender_za.csv`
-    - The slug should end with the country code
-    - The slug should be all lower case
-    - The slug name should not end with a dash
-    - The slug name should not start with a number
+    - The slug **should** be all lower case
+    - The slug should end with the country code *e.g. _za.csv, _ke.csv, _gh.csv e.t.c*
+    - The slug name **should not** end with a dash
+    - The slug name **should not** start with a number
     - The slug name can **only** contain numbers, letters and dashes
+
+- Sources should be tracked in a sindle `sources.csv` or multiple `sources_<country code>.csv` files
+
+- Sources csv file format:
+    - The `table_name` **must match** the slug name of the file containing the data
+    - Eg:
+```
+table_name,country_code,link,title
+population_by_gender_ke,KE,"https://...","Kenya Population and Housing Census, 2019"
+....
+```
+![SOURCE CSV EXAMPLE](/source-example.png)
+
 - Data csv format:
     - For geo_code, geo_level and name, use the values in `geo_level_map.csv` or `geos.csv`.
     - Provide `country_code` column if the file/slug name has no country code ending e.g. `_za.csv`.
@@ -21,7 +35,7 @@ geo_level,geo_code,country_code,name,variable1,variable2,variable3,....
 subcounty,1000,KE,variable1,Otwal,variable2,variable3,....
 ...
 ```
-![CSV EXAMPLE](/csv-example.png)
+![DATA CSV EXAMPLE](/csv-example.png)
 
 Note: If the table names are similar and separated by country code e.g. `_za.csv` and `_ke.csv` they will be combined by the script
 
