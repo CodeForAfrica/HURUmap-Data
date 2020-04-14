@@ -16,8 +16,8 @@ CREATE TABLE IF NOT EXISTS public.sources (
 	geo_level TEXT,
 	country_code TEXT,
 	table_name TEXT,
-	source_title TEXT,
-	source_link TEXT
+	title TEXT,
+	link TEXT
 );
 
 ALTER TABLE ONLY public.sources ADD CONSTRAINT pk_sources PRIMARY KEY (geo_level, country_code, table_name);
