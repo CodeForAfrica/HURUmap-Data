@@ -1,0 +1,5 @@
+geo_level,geo_code,geo_version,name,variable_1,variable_2,value
+country,NG,,Nigeria,Rural,Handwashing was a fixed place,25.4
+country,NG,,Nigeria,Rural,Handwashing was mobile,53.4
+country,NG,,Nigeria,Urban,Handwashing was a fixed place,28.3
+country,NG,,Nigeria,Urban,Handwashing was mobile,55.7

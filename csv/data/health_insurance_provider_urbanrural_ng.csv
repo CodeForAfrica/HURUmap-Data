@@ -1,0 +1,25 @@
+geo_level,geo_code,geo_version,name,variable_1,variable_2,variable_3,value
+country,NG,,Nigeria,Rural,Female,Social security health insurance,0
+country,NG,,Nigeria,Rural,Female,Other employer-base health insurance,0.6
+country,NG,,Nigeria,Rural,Female,Other health insurance,0
+country,NG,,Nigeria,Rural,Female,Mutual health organzation or community-base health insurance,0.5
+country,NG,,Nigeria,Rural,Female,Privately purchased commercial insurance,0.2
+country,NG,,Nigeria,Rural,Female,No health insurance,98.6
+country,NG,,Nigeria,Urban,Female,Social security health insurance,0
+country,NG,,Nigeria,Urban,Female,Privately purchased commercial insurance,0.2
+country,NG,,Nigeria,Urban,Female,Other employer-base health insurance,3.5
+country,NG,,Nigeria,Urban,Female,Mutual health organzation or community-base health insurance,0.4
+country,NG,,Nigeria,Urban,Female,Other health insurance,0.1
+country,NG,,Nigeria,Urban,Female,No health insurance,95.8
+country,NG,,Nigeria,Rural,Male,Social security health insurance,0
+country,NG,,Nigeria,Rural,Male,Other employer-base health insurance,1.3
+country,NG,,Nigeria,Rural,Male,Other health insurance,0.1
+country,NG,,Nigeria,Rural,Male,Mutual health organzation or community-base health insurance,0.1
+country,NG,,Nigeria,Rural,Male,Privately purchased commercial insurance,0.1
+country,NG,,Nigeria,Rural,Male,No health insurance,98.6
+country,NG,,Nigeria,Urban,Male,Social security health insurance,0
+country,NG,,Nigeria,Urban,Male,Privately purchased commercial insurance,0.1
+country,NG,,Nigeria,Urban,Male,Other employer-base health insurance,4.3
+country,NG,,Nigeria,Urban,Male,Mutual health organzation or community-base health insurance,0.3
+country,NG,,Nigeria,Urban,Male,Other health insurance,0.2
+country,NG,,Nigeria,Urban,Male,No health insurance,95.2

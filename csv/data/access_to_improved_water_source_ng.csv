@@ -1,0 +1,89 @@
+geo_level,geo_code,geo_version,name,variable,value
+state,1,,Abia,Improved water source,89.5
+state,1,,Abia,Unimproved water source,10.5
+state,2,,Adamawa,Unimproved water source,48.5
+state,2,,Adamawa,Improved water source,51.5
+state,3,,Akwa Ibom,Improved water source,77.3
+state,3,,Akwa Ibom,Unimproved water source,22.7
+state,4,,Anambra,Unimproved water source,24.1
+state,4,,Anambra,Improved water source,75.9
+state,5,,Bauchi,Unimproved water source,41.9
+state,5,,Bauchi,Improved water source,58.1
+state,6,,Bayelsa,Improved water source,52.8
+state,6,,Bayelsa,Unimproved water source,47.2
+state,7,,Benue,Improved water source,73
+state,7,,Benue,Unimproved water source,27
+state,8,,Borno,Unimproved water source,41.2
+state,8,,Borno,Improved water source,58.8
+state,9,,Cross River,Improved water source,53.6
+state,9,,Cross River,Unimproved water source,46.4
+state,10,,Delta,Unimproved water source,23.9
+state,10,,Delta,Improved water source,75.3
+state,11,,Ebonyi,Unimproved water source,23.4
+state,11,,Ebonyi,Improved water source,76.6
+state,12,,Edo,Improved water source,70.3
+state,12,,Edo,Unimproved water source,29.6
+state,13,,Ekiti,Unimproved water source,20.1
+state,13,,Ekiti,Improved water source,79.8
+state,14,,Enugu,Unimproved water source,41.5
+state,14,,Enugu,Improved water source,58.5
+state,15,,Federal Capital Territory,Improved water source,57.8
+state,15,,Federal Capital Territory,Unimproved water source,42
+state,16,,Gombe,Improved water source,35.7
+state,16,,Gombe,Unimproved water source,64.3
+state,17,,Imo,Improved water source,89.4
+state,17,,Imo,Unimproved water source,10.5
+state,18,,Jigawa,Improved water source,82.2
+state,18,,Jigawa,Unimproved water source,17.8
+state,19,,Kaduna,Improved water source,66
+state,19,,Kaduna,Unimproved water source,34
+state,20,,Kano,Improved water source,51.2
+state,20,,Kano,Unimproved water source,48.8
+state,21,,Katsina,Improved water source,46.5
+state,21,,Katsina,Unimproved water source,53.5
+state,22,,Kebbi,Improved water source,47.9
+state,22,,Kebbi,Unimproved water source,52.1
+state,23,,Kogi,Unimproved water source,34.7
+state,23,,Kogi,Improved water source,65.3
+state,24,,Kwara,Unimproved water source,36.9
+state,24,,Kwara,Improved water source,63.1
+state,25,,Lagos,Improved water source,49
+state,25,,Lagos,Unimproved water source,50.7
+state,26,,Nasarawa,Improved water source,74.1
+state,26,,Nasarawa,Unimproved water source,25.9
+state,27,,Niger,Unimproved water source,39.4
+state,27,,Niger,Improved water source,60.6
+country,NG,,Nigeria,Unimproved water source,37.9
+country,NG,,Nigeria,Improved water source,62
+,,,North Central,Improved water source,62.9
+,,,North Central,Unimproved water source,37.1
+,,,North East,Unimproved water source,46.4
+,,,North East,Improved water source,53.6
+,,,North West,Unimproved water source,44.3
+,,,North West,Improved water source,55.5
+state,28,,Ogun,Unimproved water source,26
+state,28,,Ogun,Improved water source,74
+state,29,,Ondo,Improved water source,65.6
+state,29,,Ondo,Unimproved water source,34.4
+state,30,,Osun,Improved water source,81
+state,30,,Osun,Unimproved water source,19
+state,31,,Oyo,Improved water source,77.2
+state,31,,Oyo,Unimproved water source,22.6
+state,32,,Plateau,Unimproved water source,55.3
+state,32,,Plateau,Improved water source,44.7
+state,33,,Rivers,Improved water source,77
+state,33,,Rivers,Unimproved water source,23
+state,34,,Sokoto,Unimproved water source,63.5
+state,34,,Sokoto,Improved water source,33.6
+,,,South East,Unimproved water source,22.3
+,,,South East,Improved water source,77.7
+,,,South South,Improved water source,71.4
+,,,South South,Unimproved water source,28.4
+,,,South West,Unimproved water source,33.9
+,,,South West,Improved water source,65.9
+state,35,,Taraba,Unimproved water source,61.4
+state,35,,Taraba,Improved water source,38.6
+state,36,,Yobe,Unimproved water source,37.3
+state,36,,Yobe,Improved water source,62.7
+state,37,,Zamfara,Improved water source,56.2
+state,37,,Zamfara,Unimproved water source,43.8

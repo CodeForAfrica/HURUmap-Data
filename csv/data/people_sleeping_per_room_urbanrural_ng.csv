@@ -1,0 +1,9 @@
+geo_level,geo_code,geo_version,name,variable_1,variable_2,value
+country,NG,,Nigeria,Rural,7 +,1.8
+country,NG,,Nigeria,Rural,1-2,66.5
+country,NG,,Nigeria,Rural,3-4,25.7
+country,NG,,Nigeria,Rural,5-6,6
+country,NG,,Nigeria,Urban,1-2,66
+country,NG,,Nigeria,Urban,5-6,8.3
+country,NG,,Nigeria,Urban,7 +,1.6
+country,NG,,Nigeria,Urban,3-4,24.2

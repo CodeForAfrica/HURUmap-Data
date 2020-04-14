@@ -1,0 +1,89 @@
+geo_level,geo_code,geo_version,name,variable,value
+state,1,,Abia,Handwashing was mobile,46.3
+state,1,,Abia,Handwashing was a fixed place,53.6
+state,2,,Adamawa,Handwashing was mobile,34.7
+state,2,,Adamawa,Handwashing was a fixed place,52.9
+state,3,,Akwa Ibom,Handwashing was a fixed place,9.3
+state,3,,Akwa Ibom,Handwashing was mobile,24.4
+state,4,,Anambra,Handwashing was a fixed place,11.4
+state,4,,Anambra,Handwashing was mobile,88.6
+state,5,,Bauchi,Handwashing was mobile,36.7
+state,5,,Bauchi,Handwashing was a fixed place,59.6
+state,6,,Bayelsa,Handwashing was a fixed place,4.5
+state,6,,Bayelsa,Handwashing was mobile,94.7
+state,7,,Benue,Handwashing was mobile,98.8
+state,7,,Benue,Handwashing was a fixed place,1.1
+state,8,,Borno,Handwashing was mobile,29.1
+state,8,,Borno,Handwashing was a fixed place,22.6
+state,9,,Cross River,Handwashing was a fixed place,63.6
+state,9,,Cross River,Handwashing was mobile,35.4
+state,10,,Delta,Handwashing was mobile,38.9
+state,10,,Delta,Handwashing was a fixed place,12.5
+state,11,,Ebonyi,Handwashing was mobile,55.5
+state,11,,Ebonyi,Handwashing was a fixed place,4.3
+state,12,,Edo,Handwashing was mobile,66.6
+state,12,,Edo,Handwashing was a fixed place,10.6
+state,13,,Ekiti,Handwashing was a fixed place,18.3
+state,13,,Ekiti,Handwashing was mobile,41.4
+state,14,,Enugu,Handwashing was mobile,88.9
+state,14,,Enugu,Handwashing was a fixed place,10
+state,15,,Federal Capital Territory,Handwashing was mobile,65.6
+state,15,,Federal Capital Territory,Handwashing was a fixed place,17.8
+state,16,,Gombe,Handwashing was a fixed place,0.9
+state,16,,Gombe,Handwashing was mobile,53.2
+state,17,,Imo,Handwashing was a fixed place,17.2
+state,17,,Imo,Handwashing was mobile,72.8
+state,18,,Jigawa,Handwashing was a fixed place,43.1
+state,18,,Jigawa,Handwashing was mobile,56.8
+state,19,,Kaduna,Handwashing was a fixed place,17.5
+state,19,,Kaduna,Handwashing was mobile,82.4
+state,20,,Kano,Handwashing was a fixed place,21.5
+state,20,,Kano,Handwashing was mobile,45.7
+state,21,,Katsina,Handwashing was a fixed place,86.5
+state,21,,Katsina,Handwashing was mobile,11.7
+state,22,,Kebbi,Handwashing was mobile,52.7
+state,22,,Kebbi,Handwashing was a fixed place,1.8
+state,23,,Kogi,Handwashing was a fixed place,4.6
+state,23,,Kogi,Handwashing was mobile,65.4
+state,24,,Kwara,Handwashing was a fixed place,2.9
+state,24,,Kwara,Handwashing was mobile,90.9
+state,25,,Lagos,Handwashing was a fixed place,35.9
+state,25,,Lagos,Handwashing was mobile,61.2
+state,26,,Nasarawa,Handwashing was a fixed place,46.1
+state,26,,Nasarawa,Handwashing was mobile,53.8
+state,27,,Niger,Handwashing was a fixed place,0.9
+state,27,,Niger,Handwashing was mobile,56.6
+country,NG,,Nigeria,Handwashing was a fixed place,26.7
+country,NG,,Nigeria,Handwashing was mobile,54.4
+,,,North Central,Handwashing was a fixed place,9.3
+,,,North Central,Handwashing was mobile,75.4
+,,,North East,Handwashing was a fixed place,37.5
+,,,North East,Handwashing was mobile,35.6
+,,,North West,Handwashing was mobile,49.9
+,,,North West,Handwashing was a fixed place,32.1
+state,28,,Ogun,Handwashing was mobile,86.3
+state,28,,Ogun,Handwashing was a fixed place,12.9
+state,29,,Ondo,Handwashing was mobile,48.2
+state,29,,Ondo,Handwashing was a fixed place,2.9
+state,30,,Osun,Handwashing was a fixed place,47.6
+state,30,,Osun,Handwashing was mobile,50.9
+state,31,,Oyo,Handwashing was mobile,55.8
+state,31,,Oyo,Handwashing was a fixed place,42.2
+state,32,,Plateau,Handwashing was mobile,87.5
+state,32,,Plateau,Handwashing was a fixed place,12.4
+state,33,,Rivers,Handwashing was mobile,45
+state,33,,Rivers,Handwashing was a fixed place,19.8
+state,34,,Sokoto,Handwashing was mobile,22.6
+state,34,,Sokoto,Handwashing was a fixed place,2.7
+,,,South East,Handwashing was a fixed place,16.3
+,,,South East,Handwashing was mobile,73
+,,,South South,Handwashing was a fixed place,19
+,,,South South,Handwashing was mobile,45.2
+,,,South West,Handwashing was mobile,59.3
+,,,South West,Handwashing was a fixed place,31.3
+state,35,,Taraba,Handwashing was a fixed place,1.6
+state,35,,Taraba,Handwashing was mobile,30.2
+state,36,,Yobe,Handwashing was mobile,35.1
+state,36,,Yobe,Handwashing was a fixed place,58.9
+state,37,,Zamfara,Handwashing was a fixed place,15.8
+state,37,,Zamfara,Handwashing was mobile,83.4

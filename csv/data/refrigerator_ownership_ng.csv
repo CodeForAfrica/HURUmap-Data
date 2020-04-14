@@ -1,0 +1,45 @@
+geo_level,geo_code,geo_version,name,variable,value
+state,1,,Abia,Owns a refrigerator,36.3
+state,2,,Adamawa,Owns a refrigerator,7.3
+state,3,,Akwa Ibom,Owns a refrigerator,29.1
+state,4,,Anambra,Owns a refrigerator,39.8
+state,5,,Bauchi,Owns a refrigerator,6.7
+state,6,,Bayelsa,Owns a refrigerator,26.6
+state,7,,Benue,Owns a refrigerator,14.5
+state,8,,Borno,Owns a refrigerator,15.8
+state,9,,Cross River,Owns a refrigerator,21.6
+state,10,,Delta,Owns a refrigerator,31.9
+state,11,,Ebonyi,Owns a refrigerator,7.6
+state,12,,Edo,Owns a refrigerator,32.7
+state,13,,Ekiti,Owns a refrigerator,19.1
+state,14,,Enugu,Owns a refrigerator,23.3
+state,15,,Federal Capital Territory,Owns a refrigerator,40.3
+state,16,,Gombe,Owns a refrigerator,10.1
+state,17,,Imo,Owns a refrigerator,40.5
+state,18,,Jigawa,Owns a refrigerator,4.4
+state,19,,Kaduna,Owns a refrigerator,20.6
+state,20,,Kano,Owns a refrigerator,14.8
+state,21,,Katsina,Owns a refrigerator,8.6
+state,22,,Kebbi,Owns a refrigerator,5.9
+state,23,,Kogi,Owns a refrigerator,21.3
+state,24,,Kwara,Owns a refrigerator,25.8
+state,25,,Lagos,Owns a refrigerator,49
+state,26,,Nasarawa,Owns a refrigerator,22.7
+state,27,,Niger,Owns a refrigerator,17.1
+country,NG,,Nigeria,Owns a refrigerator,22
+,,,North Central,Owns a refrigerator,18.4
+,,,North East,Owns a refrigerator,9.3
+,,,North West,Owns a refrigerator,11.4
+state,28,,Ogun,Owns a refrigerator,39.1
+state,29,,Ondo,Owns a refrigerator,20.5
+state,30,,Osun,Owns a refrigerator,15.9
+state,31,,Oyo,Owns a refrigerator,25
+state,32,,Plateau,Owns a refrigerator,6.9
+state,33,,Rivers,Owns a refrigerator,42.4
+state,34,,Sokoto,Owns a refrigerator,6.7
+,,,South East,Owns a refrigerator,30.6
+,,,South South,Owns a refrigerator,32.6
+,,,South West,Owns a refrigerator,33
+state,35,,Taraba,Owns a refrigerator,7.6
+state,36,,Yobe,Owns a refrigerator,6.8
+state,37,,Zamfara,Owns a refrigerator,8.1

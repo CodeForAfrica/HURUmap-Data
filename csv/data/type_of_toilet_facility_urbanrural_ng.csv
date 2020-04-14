@@ -1,0 +1,37 @@
+geo_level,geo_code,geo_version,name,variable_1,variable_2,value
+country,NG,,Nigeria,Rural,Composting toilet,0.1
+country,NG,,Nigeria,Rural,Shared ventilated improved pit latrine (VIP),1.6
+country,NG,,Nigeria,Rural,Other types of toilet facility,0
+country,NG,,Nigeria,Rural,Pit latrine with a slab,17
+country,NG,,Nigeria,Rural,Open defecation,29.9
+country,NG,,Nigeria,Rural,Shared flush or pour flush toilets to piper sewer systems,0.2
+country,NG,,Nigeria,Rural,"Flush or pour flush toilet not to a sewer, septic tank or pit latrine",0.5
+country,NG,,Nigeria,Rural,Shared flush or pour flush toilets to septic tank,1.2
+country,NG,,Nigeria,Rural,Shared composting toilet,0
+country,NG,,Nigeria,Rural,Hanging toilet or hanging latrine,0.4
+country,NG,,Nigeria,Rural,Flush or pour flush toilet to a pit latrine,2.5
+country,NG,,Nigeria,Rural,Bucket toilet,0.1
+country,NG,,Nigeria,Rural,Shared pit latrine with a slab,6.4
+country,NG,,Nigeria,Rural,Flush or pour flush toilet to a septic tank,3.7
+country,NG,,Nigeria,Rural,Flush or pour flush toilet to a piped sewer system,1.2
+country,NG,,Nigeria,Rural,Pit latrine without a slab or an open pit,31.2
+country,NG,,Nigeria,Rural,Shared flush or pour flush toilets to a pit latrine,1.8
+country,NG,,Nigeria,Rural,Ventilated improved pit latrine (VIP),2.1
+country,NG,,Nigeria,Urban,Ventilated improved pit latrine (VIP),1.6
+country,NG,,Nigeria,Urban,Hanging toilet or hanging latrine,1.4
+country,NG,,Nigeria,Urban,Flush or pour flush toilet to a pit latrine,5.8
+country,NG,,Nigeria,Urban,Pit latrine without a slab or an open pit,9.4
+country,NG,,Nigeria,Urban,Flush or pour flush toilet to a septic tank,16.9
+country,NG,,Nigeria,Urban,Bucket toilet,0.2
+country,NG,,Nigeria,Urban,Flush or pour flush toilet to a piped sewer system,4.6
+country,NG,,Nigeria,Urban,"Flush or pour flush toilet not to a sewer, septic tank or pit latrine",1.6
+country,NG,,Nigeria,Urban,Other types of toilet facility,0.1
+country,NG,,Nigeria,Urban,Shared flush or pour flush toilets to septic tank,7.2
+country,NG,,Nigeria,Urban,Shared flush or pour flush toilets to a pit latrine,7
+country,NG,,Nigeria,Urban,Open defecation,13.7
+country,NG,,Nigeria,Urban,Shared pit latrine with a slab,12
+country,NG,,Nigeria,Urban,Pit latrine with a slab,15.2
+country,NG,,Nigeria,Urban,Shared ventilated improved pit latrine (VIP),1.9
+country,NG,,Nigeria,Urban,Shared composting toilet,0.1
+country,NG,,Nigeria,Urban,Composting toilet,0
+country,NG,,Nigeria,Urban,Shared flush or pour flush toilets to piper sewer systems,1.4

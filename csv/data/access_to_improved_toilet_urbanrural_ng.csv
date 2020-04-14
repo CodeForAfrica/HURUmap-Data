@@ -1,0 +1,7 @@
+geo_level,geo_code,geo_version,name,variable_1,variable_2,value
+country,NG,,Nigeria,Rural,"Improved, non-shared toilet facilities",26.7
+country,NG,,Nigeria,Rural,Shared improved toilet facility,11.2
+country,NG,,Nigeria,Rural,Unimproved toilet facility,62.2
+country,NG,,Nigeria,Urban,Unimproved toilet facility,26.3
+country,NG,,Nigeria,Urban,"Improved, non-shared toilet facilities",44.1
+country,NG,,Nigeria,Urban,Shared improved toilet facility,29.6

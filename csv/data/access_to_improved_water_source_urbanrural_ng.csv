@@ -1,0 +1,5 @@
+geo_level,geo_code,geo_version,name,variable_1,variable_2,value
+country,NG,,Nigeria,Rural,Improved water source,55.4
+country,NG,,Nigeria,Rural,Unimproved water source,44.6
+country,NG,,Nigeria,Urban,Unimproved water source,29.2
+country,NG,,Nigeria,Urban,Improved water source,70.6

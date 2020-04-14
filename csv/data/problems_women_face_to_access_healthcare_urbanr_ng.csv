@@ -1,0 +1,11 @@
+geo_level,geo_code,geo_version,name,variable_1,variable_2,value
+country,NG,,Nigeria,Urban,Getting permission to go for treatment,8.3
+country,NG,,Nigeria,Rural,Getting permission to go for treatment,14
+country,NG,,Nigeria,Urban,Getting money for treatment,37.2
+country,NG,,Nigeria,Rural,Getting money for treatment,53.1
+country,NG,,Nigeria,Urban,Distance to health facility,16.8
+country,NG,,Nigeria,Rural,Distance to health facility,33.2
+country,NG,,Nigeria,Urban,Not wanting to go alone,10.9
+country,NG,,Nigeria,Rural,Not wanting to go alone,20.5
+country,NG,,Nigeria,Urban,Any of the specified problems,42.1
+country,NG,,Nigeria,Rural,Any of the specified problems,59.5

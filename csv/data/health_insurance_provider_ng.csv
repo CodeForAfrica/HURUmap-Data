@@ -1,0 +1,529 @@
+geo_level,geo_code,geo_version,name,variable_1,variable_2,value
+state,1,,Abia,Female,Social security health insurance,0.1
+state,1,,Abia,Female,Other employer-base health insurance,1
+state,1,,Abia,Female,Privately purchased commercial insurance,5
+state,1,,Abia,Female,Other health insurance,0
+state,1,,Abia,Female,No health insurance,90.9
+state,1,,Abia,Female,Mutual health organzation or community-base health insurance,3.6
+state,2,,Adamawa,Female,Mutual health organzation or community-base health insurance,0
+state,2,,Adamawa,Female,Other employer-base health insurance,0.8
+state,2,,Adamawa,Female,Social security health insurance,0
+state,2,,Adamawa,Female,Other health insurance,0
+state,2,,Adamawa,Female,Privately purchased commercial insurance,0
+state,2,,Adamawa,Female,No health insurance,99.2
+state,3,,Akwa Ibom,Female,Other employer-base health insurance,1.9
+state,3,,Akwa Ibom,Female,Other health insurance,0
+state,3,,Akwa Ibom,Female,Social security health insurance,0.2
+state,3,,Akwa Ibom,Female,Mutual health organzation or community-base health insurance,0.3
+state,3,,Akwa Ibom,Female,No health insurance,97.7
+state,3,,Akwa Ibom,Female,Privately purchased commercial insurance,0
+state,4,,Anambra,Female,Social security health insurance,0
+state,4,,Anambra,Female,Other employer-base health insurance,2.8
+state,4,,Anambra,Female,Other health insurance,0
+state,4,,Anambra,Female,Privately purchased commercial insurance,0
+state,4,,Anambra,Female,Mutual health organzation or community-base health insurance,0
+state,4,,Anambra,Female,No health insurance,97.2
+state,5,,Bauchi,Female,Other health insurance,0
+state,5,,Bauchi,Female,Other employer-base health insurance,0.8
+state,5,,Bauchi,Female,Privately purchased commercial insurance,0
+state,5,,Bauchi,Female,Social security health insurance,0
+state,5,,Bauchi,Female,No health insurance,98.7
+state,5,,Bauchi,Female,Mutual health organzation or community-base health insurance,0.5
+state,6,,Bayelsa,Female,Privately purchased commercial insurance,0
+state,6,,Bayelsa,Female,No health insurance,97.8
+state,6,,Bayelsa,Female,Mutual health organzation or community-base health insurance,1.1
+state,6,,Bayelsa,Female,Social security health insurance,0.1
+state,6,,Bayelsa,Female,Other health insurance,0
+state,6,,Bayelsa,Female,Other employer-base health insurance,1
+state,7,,Benue,Female,Mutual health organzation or community-base health insurance,0
+state,7,,Benue,Female,Other employer-base health insurance,0.4
+state,7,,Benue,Female,No health insurance,99.5
+state,7,,Benue,Female,Social security health insurance,0
+state,7,,Benue,Female,Other health insurance,0
+state,7,,Benue,Female,Privately purchased commercial insurance,0.1
+state,8,,Borno,Female,Privately purchased commercial insurance,0
+state,8,,Borno,Female,No health insurance,97.8
+state,8,,Borno,Female,Other health insurance,0.1
+state,8,,Borno,Female,Other employer-base health insurance,2
+state,8,,Borno,Female,Social security health insurance,0.1
+state,8,,Borno,Female,Mutual health organzation or community-base health insurance,0
+state,9,,Cross River,Female,No health insurance,98.1
+state,9,,Cross River,Female,Other employer-base health insurance,1
+state,9,,Cross River,Female,Other health insurance,0
+state,9,,Cross River,Female,Privately purchased commercial insurance,0
+state,9,,Cross River,Female,Mutual health organzation or community-base health insurance,0.7
+state,9,,Cross River,Female,Social security health insurance,0.3
+state,10,,Delta,Female,No health insurance,98
+state,10,,Delta,Female,Other employer-base health insurance,2
+state,10,,Delta,Female,Other health insurance,0
+state,10,,Delta,Female,Privately purchased commercial insurance,0
+state,10,,Delta,Female,Mutual health organzation or community-base health insurance,0
+state,10,,Delta,Female,Social security health insurance,0
+state,11,,Ebonyi,Female,No health insurance,99.2
+state,11,,Ebonyi,Female,Privately purchased commercial insurance,0
+state,11,,Ebonyi,Female,Other employer-base health insurance,0.7
+state,11,,Ebonyi,Female,Mutual health organzation or community-base health insurance,0
+state,11,,Ebonyi,Female,Social security health insurance,0
+state,11,,Ebonyi,Female,Other health insurance,0.1
+state,12,,Edo,Female,Other health insurance,0
+state,12,,Edo,Female,Other employer-base health insurance,2.5
+state,12,,Edo,Female,No health insurance,97.2
+state,12,,Edo,Female,Mutual health organzation or community-base health insurance,0.2
+state,12,,Edo,Female,Privately purchased commercial insurance,0.1
+state,12,,Edo,Female,Social security health insurance,0
+state,13,,Ekiti,Female,No health insurance,98.2
+state,13,,Ekiti,Female,Privately purchased commercial insurance,0.1
+state,13,,Ekiti,Female,Other health insurance,0.2
+state,13,,Ekiti,Female,Social security health insurance,0
+state,13,,Ekiti,Female,Mutual health organzation or community-base health insurance,0.1
+state,13,,Ekiti,Female,Other employer-base health insurance,1.4
+state,14,,Enugu,Female,Mutual health organzation or community-base health insurance,0
+state,14,,Enugu,Female,Privately purchased commercial insurance,0
+state,14,,Enugu,Female,Other health insurance,0.2
+state,14,,Enugu,Female,Social security health insurance,0
+state,14,,Enugu,Female,Other employer-base health insurance,0.5
+state,14,,Enugu,Female,No health insurance,99.2
+state,15,,Federal Capital Territory,Female,Other employer-base health insurance,10.1
+state,15,,Federal Capital Territory,Female,Other health insurance,0
+state,15,,Federal Capital Territory,Female,No health insurance,89.8
+state,15,,Federal Capital Territory,Female,Privately purchased commercial insurance,0
+state,15,,Federal Capital Territory,Female,Mutual health organzation or community-base health insurance,0.1
+state,15,,Federal Capital Territory,Female,Social security health insurance,0
+state,16,,Gombe,Female,Mutual health organzation or community-base health insurance,0
+state,16,,Gombe,Female,Privately purchased commercial insurance,0.4
+state,16,,Gombe,Female,Social security health insurance,0
+state,16,,Gombe,Female,Other employer-base health insurance,0.3
+state,16,,Gombe,Female,No health insurance,99.3
+state,16,,Gombe,Female,Other health insurance,0
+state,17,,Imo,Female,Other employer-base health insurance,4.6
+state,17,,Imo,Female,Social security health insurance,0
+state,17,,Imo,Female,Mutual health organzation or community-base health insurance,0
+state,17,,Imo,Female,Privately purchased commercial insurance,0
+state,17,,Imo,Female,Other health insurance,0
+state,17,,Imo,Female,No health insurance,95.4
+state,18,,Jigawa,Female,Mutual health organzation or community-base health insurance,0
+state,18,,Jigawa,Female,Other employer-base health insurance,0.2
+state,18,,Jigawa,Female,Other health insurance,0
+state,18,,Jigawa,Female,No health insurance,99.8
+state,18,,Jigawa,Female,Social security health insurance,0
+state,18,,Jigawa,Female,Privately purchased commercial insurance,0
+state,19,,Kaduna,Female,Other employer-base health insurance,3.4
+state,19,,Kaduna,Female,Other health insurance,0.1
+state,19,,Kaduna,Female,No health insurance,96.3
+state,19,,Kaduna,Female,Social security health insurance,0.1
+state,19,,Kaduna,Female,Privately purchased commercial insurance,0.1
+state,19,,Kaduna,Female,Mutual health organzation or community-base health insurance,0
+state,20,,Kano,Female,Mutual health organzation or community-base health insurance,0.3
+state,20,,Kano,Female,Social security health insurance,0
+state,20,,Kano,Female,Privately purchased commercial insurance,0.2
+state,20,,Kano,Female,Other health insurance,0
+state,20,,Kano,Female,No health insurance,95.8
+state,20,,Kano,Female,Other employer-base health insurance,3.7
+state,21,,Katsina,Female,Mutual health organzation or community-base health insurance,0
+state,21,,Katsina,Female,Other health insurance,0
+state,21,,Katsina,Female,Other employer-base health insurance,0.5
+state,21,,Katsina,Female,No health insurance,99.4
+state,21,,Katsina,Female,Privately purchased commercial insurance,0
+state,21,,Katsina,Female,Social security health insurance,0
+state,22,,Kebbi,Female,Other health insurance,0
+state,22,,Kebbi,Female,Social security health insurance,0
+state,22,,Kebbi,Female,Mutual health organzation or community-base health insurance,1
+state,22,,Kebbi,Female,Privately purchased commercial insurance,0
+state,22,,Kebbi,Female,No health insurance,98.8
+state,22,,Kebbi,Female,Other employer-base health insurance,0.1
+state,23,,Kogi,Female,Other employer-base health insurance,1.6
+state,23,,Kogi,Female,Other health insurance,0
+state,23,,Kogi,Female,No health insurance,98.2
+state,23,,Kogi,Female,Privately purchased commercial insurance,0.3
+state,23,,Kogi,Female,Mutual health organzation or community-base health insurance,0
+state,23,,Kogi,Female,Social security health insurance,0
+state,24,,Kwara,Female,No health insurance,94.4
+state,24,,Kwara,Female,Other employer-base health insurance,5.5
+state,24,,Kwara,Female,Other health insurance,0
+state,24,,Kwara,Female,Privately purchased commercial insurance,0
+state,24,,Kwara,Female,Mutual health organzation or community-base health insurance,0
+state,24,,Kwara,Female,Social security health insurance,0.1
+state,25,,Lagos,Female,Social security health insurance,0
+state,25,,Lagos,Female,No health insurance,95.6
+state,25,,Lagos,Female,Other employer-base health insurance,3.7
+state,25,,Lagos,Female,Mutual health organzation or community-base health insurance,0.4
+state,25,,Lagos,Female,Other health insurance,0.1
+state,25,,Lagos,Female,Privately purchased commercial insurance,0.3
+state,26,,Nasarawa,Female,Social security health insurance,0.1
+state,26,,Nasarawa,Female,Other health insurance,0
+state,26,,Nasarawa,Female,Privately purchased commercial insurance,0.1
+state,26,,Nasarawa,Female,Other employer-base health insurance,1
+state,26,,Nasarawa,Female,No health insurance,98.8
+state,26,,Nasarawa,Female,Mutual health organzation or community-base health insurance,0.1
+state,27,,Niger,Female,Social security health insurance,0.1
+state,27,,Niger,Female,Privately purchased commercial insurance,0.1
+state,27,,Niger,Female,No health insurance,98.2
+state,27,,Niger,Female,Other health insurance,0
+state,27,,Niger,Female,Mutual health organzation or community-base health insurance,0
+state,27,,Niger,Female,Other employer-base health insurance,1.6
+country,NG,,Nigeria,Female,Other health insurance,0
+country,NG,,Nigeria,Female,Social security health insurance,0
+country,NG,,Nigeria,Female,No health insurance,97.2
+country,NG,,Nigeria,Female,Other employer-base health insurance,1.9
+country,NG,,Nigeria,Female,Mutual health organzation or community-base health insurance,0.5
+country,NG,,Nigeria,Female,Privately purchased commercial insurance,0.2
+,,,North Central,Female,Mutual health organzation or community-base health insurance,0
+,,,North Central,Female,No health insurance,97.6
+,,,North Central,Female,Other health insurance,0
+,,,North Central,Female,Privately purchased commercial insurance,0.1
+,,,North Central,Female,Other employer-base health insurance,2.2
+,,,North Central,Female,Social security health insurance,0
+,,,North East,Female,No health insurance,98.7
+,,,North East,Female,Mutual health organzation or community-base health insurance,0.2
+,,,North East,Female,Privately purchased commercial insurance,0.1
+,,,North East,Female,Other health insurance,0
+,,,North East,Female,Social security health insurance,0
+,,,North East,Female,Other employer-base health insurance,1
+,,,North West,Female,Other employer-base health insurance,1.7
+,,,North West,Female,Other health insurance,0
+,,,North West,Female,Mutual health organzation or community-base health insurance,1
+,,,North West,Female,Social security health insurance,0
+,,,North West,Female,Privately purchased commercial insurance,0.1
+,,,North West,Female,No health insurance,97.2
+state,28,,Ogun,Female,Other employer-base health insurance,5.9
+state,28,,Ogun,Female,Privately purchased commercial insurance,0.5
+state,28,,Ogun,Female,No health insurance,93.3
+state,28,,Ogun,Female,Social security health insurance,0.3
+state,28,,Ogun,Female,Other health insurance,0
+state,28,,Ogun,Female,Mutual health organzation or community-base health insurance,0
+state,29,,Ondo,Female,No health insurance,97.7
+state,29,,Ondo,Female,Privately purchased commercial insurance,0.3
+state,29,,Ondo,Female,Other health insurance,0.1
+state,29,,Ondo,Female,Social security health insurance,0
+state,29,,Ondo,Female,Mutual health organzation or community-base health insurance,0.5
+state,29,,Ondo,Female,Other employer-base health insurance,1.5
+state,30,,Osun,Female,Other employer-base health insurance,1
+state,30,,Osun,Female,Social security health insurance,0
+state,30,,Osun,Female,Privately purchased commercial insurance,0.1
+state,30,,Osun,Female,Mutual health organzation or community-base health insurance,0
+state,30,,Osun,Female,No health insurance,98.8
+state,30,,Osun,Female,Other health insurance,0
+state,31,,Oyo,Female,Other employer-base health insurance,0.7
+state,31,,Oyo,Female,Privately purchased commercial insurance,0.1
+state,31,,Oyo,Female,Social security health insurance,0
+state,31,,Oyo,Female,Other health insurance,0.1
+state,31,,Oyo,Female,Mutual health organzation or community-base health insurance,0
+state,31,,Oyo,Female,No health insurance,99.1
+state,32,,Plateau,Female,Other health insurance,0
+state,32,,Plateau,Female,Social security health insurance,0
+state,32,,Plateau,Female,Other employer-base health insurance,1.8
+state,32,,Plateau,Female,No health insurance,97.9
+state,32,,Plateau,Female,Privately purchased commercial insurance,0.3
+state,32,,Plateau,Female,Mutual health organzation or community-base health insurance,0
+state,33,,Rivers,Female,Other health insurance,0.2
+state,33,,Rivers,Female,Mutual health organzation or community-base health insurance,0.4
+state,33,,Rivers,Female,No health insurance,95.7
+state,33,,Rivers,Female,Social security health insurance,0.1
+state,33,,Rivers,Female,Privately purchased commercial insurance,0.2
+state,33,,Rivers,Female,Other employer-base health insurance,3.4
+state,34,,Sokoto,Female,Social security health insurance,0
+state,34,,Sokoto,Female,No health insurance,88.3
+state,34,,Sokoto,Female,Other employer-base health insurance,0.2
+state,34,,Sokoto,Female,Mutual health organzation or community-base health insurance,11
+state,34,,Sokoto,Female,Other health insurance,0
+state,34,,Sokoto,Female,Privately purchased commercial insurance,0.6
+,,,South East,Female,Social security health insurance,0
+,,,South East,Female,Privately purchased commercial insurance,0.6
+,,,South East,Female,No health insurance,96.8
+,,,South East,Female,Other employer-base health insurance,2.1
+,,,South East,Female,Other health insurance,0.1
+,,,South East,Female,Mutual health organzation or community-base health insurance,0.5
+,,,South South,Female,Privately purchased commercial insurance,0.1
+,,,South South,Female,No health insurance,97.1
+,,,South South,Female,Social security health insurance,0.1
+,,,South South,Female,Other health insurance,0.1
+,,,South South,Female,Other employer-base health insurance,2.3
+,,,South South,Female,Mutual health organzation or community-base health insurance,0.4
+,,,South West,Female,Social security health insurance,0
+,,,South West,Female,Other health insurance,0.1
+,,,South West,Female,Other employer-base health insurance,2.7
+,,,South West,Female,Mutual health organzation or community-base health insurance,0.2
+,,,South West,Female,Privately purchased commercial insurance,0.2
+,,,South West,Female,No health insurance,96.7
+state,35,,Taraba,Female,No health insurance,98.8
+state,35,,Taraba,Female,Privately purchased commercial insurance,0.1
+state,35,,Taraba,Female,Social security health insurance,0
+state,35,,Taraba,Female,Other employer-base health insurance,1.1
+state,35,,Taraba,Female,Other health insurance,0
+state,35,,Taraba,Female,Mutual health organzation or community-base health insurance,0
+state,36,,Yobe,Female,Mutual health organzation or community-base health insurance,0.5
+state,36,,Yobe,Female,Social security health insurance,0
+state,36,,Yobe,Female,Other employer-base health insurance,0.6
+state,36,,Yobe,Female,Other health insurance,0
+state,36,,Yobe,Female,No health insurance,98.9
+state,36,,Yobe,Female,Privately purchased commercial insurance,0
+state,37,,Zamfara,Female,No health insurance,99.9
+state,37,,Zamfara,Female,Social security health insurance,0
+state,37,,Zamfara,Female,Other health insurance,0
+state,37,,Zamfara,Female,Other employer-base health insurance,0.1
+state,37,,Zamfara,Female,Privately purchased commercial insurance,0
+state,37,,Zamfara,Female,Mutual health organzation or community-base health insurance,0
+state,1,,Abia,Male,Social security health insurance,0
+state,1,,Abia,Male,Other employer-base health insurance,3.4
+state,1,,Abia,Male,Privately purchased commercial insurance,0
+state,1,,Abia,Male,Other health insurance,0.3
+state,1,,Abia,Male,No health insurance,96.3
+state,1,,Abia,Male,Mutual health organzation or community-base health insurance,0
+state,2,,Adamawa,Male,Mutual health organzation or community-base health insurance,0
+state,2,,Adamawa,Male,Other employer-base health insurance,1.3
+state,2,,Adamawa,Male,Social security health insurance,0
+state,2,,Adamawa,Male,Other health insurance,0
+state,2,,Adamawa,Male,Privately purchased commercial insurance,0
+state,2,,Adamawa,Male,No health insurance,98.7
+state,3,,Akwa Ibom,Male,Other employer-base health insurance,0
+state,3,,Akwa Ibom,Male,Other health insurance,0.4
+state,3,,Akwa Ibom,Male,Social security health insurance,0
+state,3,,Akwa Ibom,Male,Mutual health organzation or community-base health insurance,0
+state,3,,Akwa Ibom,Male,No health insurance,99.6
+state,3,,Akwa Ibom,Male,Privately purchased commercial insurance,0
+state,4,,Anambra,Male,Social security health insurance,0
+state,4,,Anambra,Male,Other employer-base health insurance,0
+state,4,,Anambra,Male,Other health insurance,0
+state,4,,Anambra,Male,Privately purchased commercial insurance,0
+state,4,,Anambra,Male,Mutual health organzation or community-base health insurance,0
+state,4,,Anambra,Male,No health insurance,100
+state,5,,Bauchi,Male,Other health insurance,0
+state,5,,Bauchi,Male,Other employer-base health insurance,0.7
+state,5,,Bauchi,Male,Privately purchased commercial insurance,0
+state,5,,Bauchi,Male,Social security health insurance,0
+state,5,,Bauchi,Male,No health insurance,99.3
+state,5,,Bauchi,Male,Mutual health organzation or community-base health insurance,0
+state,6,,Bayelsa,Male,Privately purchased commercial insurance,0
+state,6,,Bayelsa,Male,No health insurance,93.3
+state,6,,Bayelsa,Male,Mutual health organzation or community-base health insurance,0.9
+state,6,,Bayelsa,Male,Social security health insurance,0.6
+state,6,,Bayelsa,Male,Other health insurance,0
+state,6,,Bayelsa,Male,Other employer-base health insurance,5.2
+state,7,,Benue,Male,Mutual health organzation or community-base health insurance,0.4
+state,7,,Benue,Male,Other employer-base health insurance,3
+state,7,,Benue,Male,No health insurance,96.4
+state,7,,Benue,Male,Social security health insurance,0
+state,7,,Benue,Male,Other health insurance,0.2
+state,7,,Benue,Male,Privately purchased commercial insurance,0
+state,8,,Borno,Male,Privately purchased commercial insurance,0
+state,8,,Borno,Male,No health insurance,98.2
+state,8,,Borno,Male,Other health insurance,0
+state,8,,Borno,Male,Other employer-base health insurance,1.8
+state,8,,Borno,Male,Social security health insurance,0
+state,8,,Borno,Male,Mutual health organzation or community-base health insurance,0.3
+state,9,,Cross River,Male,No health insurance,97.6
+state,9,,Cross River,Male,Other employer-base health insurance,2.1
+state,9,,Cross River,Male,Other health insurance,0.3
+state,9,,Cross River,Male,Privately purchased commercial insurance,0
+state,9,,Cross River,Male,Mutual health organzation or community-base health insurance,0.3
+state,9,,Cross River,Male,Social security health insurance,0
+state,10,,Delta,Male,No health insurance,98.4
+state,10,,Delta,Male,Other employer-base health insurance,1.6
+state,10,,Delta,Male,Other health insurance,0
+state,10,,Delta,Male,Privately purchased commercial insurance,0
+state,10,,Delta,Male,Mutual health organzation or community-base health insurance,0
+state,10,,Delta,Male,Social security health insurance,0
+state,11,,Ebonyi,Male,No health insurance,99.8
+state,11,,Ebonyi,Male,Privately purchased commercial insurance,0
+state,11,,Ebonyi,Male,Other employer-base health insurance,0.2
+state,11,,Ebonyi,Male,Mutual health organzation or community-base health insurance,0
+state,11,,Ebonyi,Male,Social security health insurance,0
+state,11,,Ebonyi,Male,Other health insurance,0
+state,12,,Edo,Male,Other health insurance,0
+state,12,,Edo,Male,Other employer-base health insurance,1.5
+state,12,,Edo,Male,No health insurance,98.5
+state,12,,Edo,Male,Mutual health organzation or community-base health insurance,0
+state,12,,Edo,Male,Privately purchased commercial insurance,0
+state,12,,Edo,Male,Social security health insurance,0
+state,13,,Ekiti,Male,No health insurance,95.6
+state,13,,Ekiti,Male,Privately purchased commercial insurance,0
+state,13,,Ekiti,Male,Other health insurance,0
+state,13,,Ekiti,Male,Social security health insurance,0
+state,13,,Ekiti,Male,Mutual health organzation or community-base health insurance,0
+state,13,,Ekiti,Male,Other employer-base health insurance,4.4
+state,14,,Enugu,Male,Mutual health organzation or community-base health insurance,0.9
+state,14,,Enugu,Male,Privately purchased commercial insurance,0
+state,14,,Enugu,Male,Other health insurance,0
+state,14,,Enugu,Male,Social security health insurance,0
+state,14,,Enugu,Male,Other employer-base health insurance,1
+state,14,,Enugu,Male,No health insurance,98.1
+state,15,,Federal Capital Territory,Male,Other employer-base health insurance,11
+state,15,,Federal Capital Territory,Male,Other health insurance,0.2
+state,15,,Federal Capital Territory,Male,No health insurance,88.7
+state,15,,Federal Capital Territory,Male,Privately purchased commercial insurance,0
+state,15,,Federal Capital Territory,Male,Mutual health organzation or community-base health insurance,0
+state,15,,Federal Capital Territory,Male,Social security health insurance,0.2
+state,16,,Gombe,Male,Mutual health organzation or community-base health insurance,0
+state,16,,Gombe,Male,Privately purchased commercial insurance,0
+state,16,,Gombe,Male,Social security health insurance,0.2
+state,16,,Gombe,Male,Other employer-base health insurance,0.2
+state,16,,Gombe,Male,No health insurance,99.6
+state,16,,Gombe,Male,Other health insurance,0
+state,17,,Imo,Male,Other employer-base health insurance,4.4
+state,17,,Imo,Male,Social security health insurance,0
+state,17,,Imo,Male,Mutual health organzation or community-base health insurance,0.4
+state,17,,Imo,Male,Privately purchased commercial insurance,0
+state,17,,Imo,Male,Other health insurance,0
+state,17,,Imo,Male,No health insurance,95.3
+state,18,,Jigawa,Male,Mutual health organzation or community-base health insurance,0
+state,18,,Jigawa,Male,Other employer-base health insurance,0.2
+state,18,,Jigawa,Male,Other health insurance,0
+state,18,,Jigawa,Male,No health insurance,99.8
+state,18,,Jigawa,Male,Social security health insurance,0
+state,18,,Jigawa,Male,Privately purchased commercial insurance,0
+state,19,,Kaduna,Male,Other employer-base health insurance,3
+state,19,,Kaduna,Male,Other health insurance,0.6
+state,19,,Kaduna,Male,No health insurance,96.4
+state,19,,Kaduna,Male,Social security health insurance,0
+state,19,,Kaduna,Male,Privately purchased commercial insurance,0
+state,19,,Kaduna,Male,Mutual health organzation or community-base health insurance,0
+state,20,,Kano,Male,Mutual health organzation or community-base health insurance,0
+state,20,,Kano,Male,Social security health insurance,0
+state,20,,Kano,Male,Privately purchased commercial insurance,0.1
+state,20,,Kano,Male,Other health insurance,0.4
+state,20,,Kano,Male,No health insurance,93.5
+state,20,,Kano,Male,Other employer-base health insurance,6.1
+state,21,,Katsina,Male,Mutual health organzation or community-base health insurance,0
+state,21,,Katsina,Male,Other health insurance,0
+state,21,,Katsina,Male,Other employer-base health insurance,0
+state,21,,Katsina,Male,No health insurance,100
+state,21,,Katsina,Male,Privately purchased commercial insurance,0
+state,21,,Katsina,Male,Social security health insurance,0
+state,22,,Kebbi,Male,Other health insurance,0
+state,22,,Kebbi,Male,Social security health insurance,0
+state,22,,Kebbi,Male,Mutual health organzation or community-base health insurance,0
+state,22,,Kebbi,Male,Privately purchased commercial insurance,0
+state,22,,Kebbi,Male,No health insurance,98.9
+state,22,,Kebbi,Male,Other employer-base health insurance,1.1
+state,23,,Kogi,Male,Other employer-base health insurance,3.8
+state,23,,Kogi,Male,Other health insurance,0.3
+state,23,,Kogi,Male,No health insurance,95.9
+state,23,,Kogi,Male,Privately purchased commercial insurance,0
+state,23,,Kogi,Male,Mutual health organzation or community-base health insurance,0
+state,23,,Kogi,Male,Social security health insurance,0
+state,24,,Kwara,Male,No health insurance,91.9
+state,24,,Kwara,Male,Other employer-base health insurance,6.9
+state,24,,Kwara,Male,Other health insurance,0
+state,24,,Kwara,Male,Privately purchased commercial insurance,0.3
+state,24,,Kwara,Male,Mutual health organzation or community-base health insurance,0.9
+state,24,,Kwara,Male,Social security health insurance,0
+state,25,,Lagos,Male,Social security health insurance,0
+state,25,,Lagos,Male,No health insurance,93.8
+state,25,,Lagos,Male,Other employer-base health insurance,5.6
+state,25,,Lagos,Male,Mutual health organzation or community-base health insurance,0.5
+state,25,,Lagos,Male,Other health insurance,0
+state,25,,Lagos,Male,Privately purchased commercial insurance,0.1
+state,26,,Nasarawa,Male,Social security health insurance,0
+state,26,,Nasarawa,Male,Other health insurance,0
+state,26,,Nasarawa,Male,Privately purchased commercial insurance,0.8
+state,26,,Nasarawa,Male,Other employer-base health insurance,1.2
+state,26,,Nasarawa,Male,No health insurance,98
+state,26,,Nasarawa,Male,Mutual health organzation or community-base health insurance,0
+state,27,,Niger,Male,Social security health insurance,0
+state,27,,Niger,Male,Privately purchased commercial insurance,0
+state,27,,Niger,Male,No health insurance,96.5
+state,27,,Niger,Male,Other health insurance,0
+state,27,,Niger,Male,Mutual health organzation or community-base health insurance,0
+state,27,,Niger,Male,Other employer-base health insurance,3.5
+country,NG,,Nigeria,Male,Other health insurance,0.1
+country,NG,,Nigeria,Male,Social security health insurance,0
+country,NG,,Nigeria,Male,No health insurance,96.6
+country,NG,,Nigeria,Male,Other employer-base health insurance,3
+country,NG,,Nigeria,Male,Mutual health organzation or community-base health insurance,0.2
+country,NG,,Nigeria,Male,Privately purchased commercial insurance,0.1
+,,,North Central,Male,Mutual health organzation or community-base health insurance,0.2
+,,,North Central,Male,No health insurance,95.5
+,,,North Central,Male,Other health insurance,0.1
+,,,North Central,Male,Privately purchased commercial insurance,0.1
+,,,North Central,Male,Other employer-base health insurance,4
+,,,North Central,Male,Social security health insurance,0
+,,,North East,Male,No health insurance,98.4
+,,,North East,Male,Mutual health organzation or community-base health insurance,0.1
+,,,North East,Male,Privately purchased commercial insurance,0
+,,,North East,Male,Other health insurance,0
+,,,North East,Male,Social security health insurance,0
+,,,North East,Male,Other employer-base health insurance,1.6
+,,,North West,Male,Other employer-base health insurance,2
+,,,North West,Male,Other health insurance,0.2
+,,,North West,Male,Mutual health organzation or community-base health insurance,0
+,,,North West,Male,Social security health insurance,0
+,,,North West,Male,Privately purchased commercial insurance,0
+,,,North West,Male,No health insurance,97.8
+state,28,,Ogun,Male,Other employer-base health insurance,4.9
+state,28,,Ogun,Male,Privately purchased commercial insurance,0
+state,28,,Ogun,Male,No health insurance,94.6
+state,28,,Ogun,Male,Social security health insurance,0
+state,28,,Ogun,Male,Other health insurance,0.5
+state,28,,Ogun,Male,Mutual health organzation or community-base health insurance,0
+state,29,,Ondo,Male,No health insurance,97.1
+state,29,,Ondo,Male,Privately purchased commercial insurance,0
+state,29,,Ondo,Male,Other health insurance,0.3
+state,29,,Ondo,Male,Social security health insurance,0
+state,29,,Ondo,Male,Mutual health organzation or community-base health insurance,0.3
+state,29,,Ondo,Male,Other employer-base health insurance,2.3
+state,30,,Osun,Male,Other employer-base health insurance,2.1
+state,30,,Osun,Male,Social security health insurance,0
+state,30,,Osun,Male,Privately purchased commercial insurance,0
+state,30,,Osun,Male,Mutual health organzation or community-base health insurance,0.6
+state,30,,Osun,Male,No health insurance,97.3
+state,30,,Osun,Male,Other health insurance,0
+state,31,,Oyo,Male,Other employer-base health insurance,5.9
+state,31,,Oyo,Male,Privately purchased commercial insurance,0.2
+state,31,,Oyo,Male,Social security health insurance,0
+state,31,,Oyo,Male,Other health insurance,0.8
+state,31,,Oyo,Male,Mutual health organzation or community-base health insurance,1.3
+state,31,,Oyo,Male,No health insurance,91.9
+state,32,,Plateau,Male,Other health insurance,0.2
+state,32,,Plateau,Male,Social security health insurance,0.2
+state,32,,Plateau,Male,Other employer-base health insurance,3.5
+state,32,,Plateau,Male,No health insurance,95.8
+state,32,,Plateau,Male,Privately purchased commercial insurance,0
+state,32,,Plateau,Male,Mutual health organzation or community-base health insurance,0.4
+state,33,,Rivers,Male,Other health insurance,0
+state,33,,Rivers,Male,Mutual health organzation or community-base health insurance,0
+state,33,,Rivers,Male,No health insurance,97.9
+state,33,,Rivers,Male,Social security health insurance,0
+state,33,,Rivers,Male,Privately purchased commercial insurance,0.8
+state,33,,Rivers,Male,Other employer-base health insurance,1.6
+state,34,,Sokoto,Male,Social security health insurance,0
+state,34,,Sokoto,Male,No health insurance,99.6
+state,34,,Sokoto,Male,Other employer-base health insurance,0.4
+state,34,,Sokoto,Male,Mutual health organzation or community-base health insurance,0
+state,34,,Sokoto,Male,Other health insurance,0
+state,34,,Sokoto,Male,Privately purchased commercial insurance,0
+,,,South East,Male,Social security health insurance,0
+,,,South East,Male,Privately purchased commercial insurance,0
+,,,South East,Male,No health insurance,98
+,,,South East,Male,Other employer-base health insurance,1.7
+,,,South East,Male,Other health insurance,0
+,,,South East,Male,Mutual health organzation or community-base health insurance,0.2
+,,,South South,Male,Privately purchased commercial insurance,0.2
+,,,South South,Male,No health insurance,98
+,,,South South,Male,Social security health insurance,0
+,,,South South,Male,Other health insurance,0.1
+,,,South South,Male,Other employer-base health insurance,1.6
+,,,South South,Male,Mutual health organzation or community-base health insurance,0.1
+,,,South West,Male,Social security health insurance,0
+,,,South West,Male,Other health insurance,0.3
+,,,South West,Male,Other employer-base health insurance,4.7
+,,,South West,Male,Mutual health organzation or community-base health insurance,0.5
+,,,South West,Male,Privately purchased commercial insurance,0.1
+,,,South West,Male,No health insurance,94.4
+state,35,,Taraba,Male,No health insurance,98.5
+state,35,,Taraba,Male,Privately purchased commercial insurance,0
+state,35,,Taraba,Male,Social security health insurance,0
+state,35,,Taraba,Male,Other employer-base health insurance,1.5
+state,35,,Taraba,Male,Other health insurance,0
+state,35,,Taraba,Male,Mutual health organzation or community-base health insurance,0
+state,36,,Yobe,Male,Mutual health organzation or community-base health insurance,0
+state,36,,Yobe,Male,Social security health insurance,0
+state,36,,Yobe,Male,Other employer-base health insurance,2.9
+state,36,,Yobe,Male,Other health insurance,0
+state,36,,Yobe,Male,No health insurance,97.1
+state,36,,Yobe,Male,Privately purchased commercial insurance,0
+state,37,,Zamfara,Male,No health insurance,100
+state,37,,Zamfara,Male,Social security health insurance,0
+state,37,,Zamfara,Male,Other health insurance,0
+state,37,,Zamfara,Male,Other employer-base health insurance,0
+state,37,,Zamfara,Male,Privately purchased commercial insurance,0
+state,37,,Zamfara,Male,Mutual health organzation or community-base health insurance,0

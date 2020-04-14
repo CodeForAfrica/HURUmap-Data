@@ -1,0 +1,35 @@
+geo_level,geo_code,geo_version,name,variable_1,variable_2,value
+country,NG,,Nigeria,Rural,Public tap/standpipe,7.5
+country,NG,,Nigeria,Rural,Unimproved bottled water,0
+country,NG,,Nigeria,Rural,Tubewell/borehole,33.1
+country,NG,,Nigeria,Rural,Other water source,0.1
+country,NG,,Nigeria,Rural,Water piped to neighbor,0.4
+country,NG,,Nigeria,Rural,Water piped into yard/plot,1.2
+country,NG,,Nigeria,Rural,Water piped into dwelling,0.6
+country,NG,,Nigeria,Rural,Surface water,13.3
+country,NG,,Nigeria,Rural,Protected well,10.8
+country,NG,,Nigeria,Rural,Cart with tank,1.3
+country,NG,,Nigeria,Rural,Tanker truck,0.4
+country,NG,,Nigeria,Rural,Unprotected well water,25.9
+country,NG,,Nigeria,Rural,Protected spring,0.4
+country,NG,,Nigeria,Rural,Sachet water,1.4
+country,NG,,Nigeria,Rural,Rainwater,1.4
+country,NG,,Nigeria,Rural,Bottled water/demi john,0.1
+country,NG,,Nigeria,Rural,Unprotected spring,2.2
+country,NG,,Nigeria,Urban,Rainwater,2.2
+country,NG,,Nigeria,Urban,Tanker truck,1.3
+country,NG,,Nigeria,Urban,Unprotected well water,4.4
+country,NG,,Nigeria,Urban,Public tap/standpipe,7.4
+country,NG,,Nigeria,Urban,Surface water,3.6
+country,NG,,Nigeria,Urban,Tubewell/borehole,41.1
+country,NG,,Nigeria,Urban,Sachet water,14.8
+country,NG,,Nigeria,Urban,Unimproved bottled water,0
+country,NG,,Nigeria,Urban,Other water source,0.2
+country,NG,,Nigeria,Urban,Protected well,11.5
+country,NG,,Nigeria,Urban,Unprotected spring,0.9
+country,NG,,Nigeria,Urban,Bottled water/demi john,0.9
+country,NG,,Nigeria,Urban,Protected spring,0.6
+country,NG,,Nigeria,Urban,Water piped into dwelling,3.6
+country,NG,,Nigeria,Urban,Cart with tank,4.2
+country,NG,,Nigeria,Urban,Water piped into yard/plot,2.2
+country,NG,,Nigeria,Urban,Water piped to neighbor,1.1

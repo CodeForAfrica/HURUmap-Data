@@ -1,0 +1,13 @@
+geo_level,geo_code,geo_version,name,variable_1,variable_2,value
+country,NG,,Nigeria,Rural,Soap and water,26.6
+country,NG,,Nigeria,Rural,Water and a cleansing agent other than soap only,0.7
+country,NG,,Nigeria,Rural,Cleansing agent other than soap only,0.3
+country,NG,,Nigeria,Rural,Water only,29.4
+country,NG,,Nigeria,Rural,Soap but no water,2
+country,NG,,Nigeria,Rural,"No water, no soap, and no other cleansing agent",41
+country,NG,,Nigeria,Urban,Soap and water,49.9
+country,NG,,Nigeria,Urban,Soap but no water,2.3
+country,NG,,Nigeria,Urban,Water and a cleansing agent other than soap only,0.7
+country,NG,,Nigeria,Urban,Water only,24
+country,NG,,Nigeria,Urban,Cleansing agent other than soap only,0.7
+country,NG,,Nigeria,Urban,"No water, no soap, and no other cleansing agent",22.3

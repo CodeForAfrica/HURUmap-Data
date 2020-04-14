@@ -1,0 +1,749 @@
+geo_level,geo_code,geo_version,name,variable,value
+state,1,,Abia,Unprotected well water,0
+state,1,,Abia,Tubewell/borehole,83.1
+state,1,,Abia,Unimproved bottled water,0
+state,1,,Abia,Water piped into dwelling,0
+state,1,,Abia,Protected well,0
+state,1,,Abia,Surface water,7
+state,1,,Abia,Tanker truck,0
+state,1,,Abia,Other water source,0
+state,1,,Abia,Protected spring,5.4
+state,1,,Abia,Rainwater,0.1
+state,1,,Abia,Sachet water,1.4
+state,1,,Abia,Unprotected spring,2.1
+state,1,,Abia,Water piped into yard/plot,0.6
+state,1,,Abia,Cart with tank,0
+state,1,,Abia,Public tap/standpipe,0
+state,1,,Abia,Bottled water/demi john,0.4
+state,1,,Abia,Water piped to neighbor,0
+state,2,,Adamawa,Rainwater,0.1
+state,2,,Adamawa,Bottled water/demi john,0
+state,2,,Adamawa,Protected well,13.1
+state,2,,Adamawa,Unprotected well water,25.3
+state,2,,Adamawa,Sachet water,1.1
+state,2,,Adamawa,Unimproved bottled water,0
+state,2,,Adamawa,Cart with tank,0
+state,2,,Adamawa,Public tap/standpipe,25
+state,2,,Adamawa,Protected spring,0.4
+state,2,,Adamawa,Water piped to neighbor,0.5
+state,2,,Adamawa,Other water source,0
+state,2,,Adamawa,Tubewell/borehole,11.6
+state,2,,Adamawa,Water piped into dwelling,0.2
+state,2,,Adamawa,Water piped into yard/plot,0.6
+state,2,,Adamawa,Surface water,15.7
+state,2,,Adamawa,Unprotected spring,6.3
+state,2,,Adamawa,Tanker truck,0
+state,3,,Akwa Ibom,Bottled water/demi john,0.5
+state,3,,Akwa Ibom,Water piped into yard/plot,2.2
+state,3,,Akwa Ibom,Rainwater,0.8
+state,3,,Akwa Ibom,Protected spring,0.3
+state,3,,Akwa Ibom,Water piped to neighbor,3.9
+state,3,,Akwa Ibom,Unprotected spring,1.1
+state,3,,Akwa Ibom,Cart with tank,0
+state,3,,Akwa Ibom,Tanker truck,0
+state,3,,Akwa Ibom,Surface water,18.9
+state,3,,Akwa Ibom,Water piped into dwelling,3.4
+state,3,,Akwa Ibom,Unimproved bottled water,0
+state,3,,Akwa Ibom,Protected well,0.1
+state,3,,Akwa Ibom,Sachet water,2.6
+state,3,,Akwa Ibom,Unprotected well water,0
+state,3,,Akwa Ibom,Other water source,0
+state,3,,Akwa Ibom,Public tap/standpipe,23.3
+state,3,,Akwa Ibom,Tubewell/borehole,42.9
+state,4,,Anambra,Protected spring,2.6
+state,4,,Anambra,Tanker truck,2.6
+state,4,,Anambra,Water piped to neighbor,0
+state,4,,Anambra,Rainwater,3.3
+state,4,,Anambra,Sachet water,11.3
+state,4,,Anambra,Unprotected spring,4.2
+state,4,,Anambra,Unimproved bottled water,0
+state,4,,Anambra,Bottled water/demi john,0.7
+state,4,,Anambra,Water piped into yard/plot,1
+state,4,,Anambra,Tubewell/borehole,59.4
+state,4,,Anambra,Water piped into dwelling,1.4
+state,4,,Anambra,Surface water,6
+state,4,,Anambra,Protected well,5.1
+state,4,,Anambra,Unprotected well water,0
+state,4,,Anambra,Public tap/standpipe,2.5
+state,4,,Anambra,Cart with tank,0
+state,4,,Anambra,Other water source,0
+state,5,,Bauchi,Tanker truck,0.2
+state,5,,Bauchi,Public tap/standpipe,12.5
+state,5,,Bauchi,Protected spring,0.2
+state,5,,Bauchi,Surface water,4
+state,5,,Bauchi,Water piped to neighbor,0.4
+state,5,,Bauchi,Cart with tank,4.2
+state,5,,Bauchi,Water piped into yard/plot,0.3
+state,5,,Bauchi,Bottled water/demi john,0
+state,5,,Bauchi,Unprotected spring,5.5
+state,5,,Bauchi,Tubewell/borehole,31.2
+state,5,,Bauchi,Unprotected well water,27.6
+state,5,,Bauchi,Protected well,10.9
+state,5,,Bauchi,Rainwater,0.3
+state,5,,Bauchi,Water piped into dwelling,2.2
+state,5,,Bauchi,Other water source,0
+state,5,,Bauchi,Sachet water,0.4
+state,5,,Bauchi,Unimproved bottled water,0
+state,6,,Bayelsa,Unimproved bottled water,0
+state,6,,Bayelsa,Tubewell/borehole,25.3
+state,6,,Bayelsa,Bottled water/demi john,0.4
+state,6,,Bayelsa,Public tap/standpipe,13.9
+state,6,,Bayelsa,Water piped into dwelling,2.6
+state,6,,Bayelsa,Surface water,27.2
+state,6,,Bayelsa,Tanker truck,0
+state,6,,Bayelsa,Sachet water,15.9
+state,6,,Bayelsa,Other water source,0
+state,6,,Bayelsa,Unprotected well water,3.3
+state,6,,Bayelsa,Water piped to neighbor,0.1
+state,6,,Bayelsa,Protected well,0.4
+state,6,,Bayelsa,Protected spring,0.1
+state,6,,Bayelsa,Rainwater,9.8
+state,6,,Bayelsa,Water piped into yard/plot,0.2
+state,6,,Bayelsa,Unprotected spring,0.8
+state,6,,Bayelsa,Cart with tank,0
+state,7,,Benue,Tubewell/borehole,10.2
+state,7,,Benue,Surface water,9.5
+state,7,,Benue,Cart with tank,0
+state,7,,Benue,Unimproved bottled water,0
+state,7,,Benue,Tanker truck,0.2
+state,7,,Benue,Unprotected spring,7.6
+state,7,,Benue,Water piped into dwelling,0
+state,7,,Benue,Rainwater,9.2
+state,7,,Benue,Bottled water/demi john,0
+state,7,,Benue,Protected well,50.6
+state,7,,Benue,Water piped to neighbor,0.1
+state,7,,Benue,Sachet water,5.7
+state,7,,Benue,Protected spring,0.1
+state,7,,Benue,Unprotected well water,4.1
+state,7,,Benue,Public tap/standpipe,2.7
+state,7,,Benue,Water piped into yard/plot,0
+state,7,,Benue,Other water source,0
+state,8,,Borno,Cart with tank,9.6
+state,8,,Borno,Rainwater,0
+state,8,,Borno,Tanker truck,3.1
+state,8,,Borno,Protected well,0.4
+state,8,,Borno,Sachet water,0
+state,8,,Borno,Unimproved bottled water,0
+state,8,,Borno,Water piped to neighbor,2.5
+state,8,,Borno,Tubewell/borehole,44.5
+state,8,,Borno,Protected spring,0
+state,8,,Borno,Water piped into yard/plot,1.5
+state,8,,Borno,Water piped into dwelling,4.5
+state,8,,Borno,Unprotected well water,23.3
+state,8,,Borno,Surface water,5.2
+state,8,,Borno,Bottled water/demi john,0
+state,8,,Borno,Other water source,0
+state,8,,Borno,Public tap/standpipe,5.5
+state,8,,Borno,Unprotected spring,0
+state,9,,Cross River,Unprotected well water,1.4
+state,9,,Cross River,Protected well,3.2
+state,9,,Cross River,Protected spring,0.3
+state,9,,Cross River,Sachet water,4.5
+state,9,,Cross River,Rainwater,7.5
+state,9,,Cross River,Water piped into yard/plot,0.8
+state,9,,Cross River,Cart with tank,0
+state,9,,Cross River,Unprotected spring,0
+state,9,,Cross River,Bottled water/demi john,0.1
+state,9,,Cross River,Water piped to neighbor,0.6
+state,9,,Cross River,Water piped into dwelling,0.3
+state,9,,Cross River,Public tap/standpipe,24.7
+state,9,,Cross River,Tubewell/borehole,16.1
+state,9,,Cross River,Tanker truck,0
+state,9,,Cross River,Unimproved bottled water,0.1
+state,9,,Cross River,Surface water,40.5
+state,9,,Cross River,Other water source,0
+state,10,,Delta,Other water source,0.9
+state,10,,Delta,Unprotected well water,5.1
+state,10,,Delta,Sachet water,5.6
+state,10,,Delta,Protected well,8.7
+state,10,,Delta,Rainwater,1
+state,10,,Delta,Tubewell/borehole,40.8
+state,10,,Delta,Water piped into yard/plot,0.9
+state,10,,Delta,Protected spring,0
+state,10,,Delta,Public tap/standpipe,17.2
+state,10,,Delta,Bottled water/demi john,0.5
+state,10,,Delta,Unimproved bottled water,0
+state,10,,Delta,Cart with tank,0.1
+state,10,,Delta,Unprotected spring,0
+state,10,,Delta,Water piped into dwelling,6.2
+state,10,,Delta,Tanker truck,0
+state,10,,Delta,Water piped to neighbor,0
+state,10,,Delta,Surface water,13
+state,11,,Ebonyi,Unprotected spring,6.4
+state,11,,Ebonyi,Other water source,0
+state,11,,Ebonyi,Rainwater,13.4
+state,11,,Ebonyi,Water piped into yard/plot,0
+state,11,,Ebonyi,Tanker truck,0
+state,11,,Ebonyi,Protected spring,2.3
+state,11,,Ebonyi,Water piped to neighbor,0
+state,11,,Ebonyi,Protected well,6.9
+state,11,,Ebonyi,Cart with tank,0
+state,11,,Ebonyi,Unimproved bottled water,0
+state,11,,Ebonyi,Unprotected well water,2.1
+state,11,,Ebonyi,Water piped into dwelling,0.1
+state,11,,Ebonyi,Bottled water/demi john,0
+state,11,,Ebonyi,Tubewell/borehole,53.3
+state,11,,Ebonyi,Sachet water,1.3
+state,11,,Ebonyi,Public tap/standpipe,0.5
+state,11,,Ebonyi,Surface water,13.6
+state,12,,Edo,Water piped into dwelling,3.2
+state,12,,Edo,Sachet water,14.6
+state,12,,Edo,Surface water,10.9
+state,12,,Edo,Protected spring,0
+state,12,,Edo,Unprotected spring,0
+state,12,,Edo,Tubewell/borehole,45
+state,12,,Edo,Bottled water/demi john,0.5
+state,12,,Edo,Water piped into yard/plot,0.8
+state,12,,Edo,Rainwater,9.4
+state,12,,Edo,Tanker truck,3.5
+state,12,,Edo,Unprotected well water,0.5
+state,12,,Edo,Unimproved bottled water,0
+state,12,,Edo,Other water source,0.1
+state,12,,Edo,Protected well,11.4
+state,12,,Edo,Water piped to neighbor,0
+state,12,,Edo,Public tap/standpipe,0.1
+state,12,,Edo,Cart with tank,0
+state,13,,Ekiti,Water piped into dwelling,1.2
+state,13,,Ekiti,Unprotected well water,0.1
+state,13,,Ekiti,Tubewell/borehole,41.9
+state,13,,Ekiti,Unimproved bottled water,0
+state,13,,Ekiti,Protected well,19.6
+state,13,,Ekiti,Rainwater,0.6
+state,13,,Ekiti,Bottled water/demi john,0.4
+state,13,,Ekiti,Protected spring,8
+state,13,,Ekiti,Cart with tank,0
+state,13,,Ekiti,Surface water,12.9
+state,13,,Ekiti,Water piped to neighbor,0.1
+state,13,,Ekiti,Tanker truck,0.5
+state,13,,Ekiti,Water piped into yard/plot,0.1
+state,13,,Ekiti,Sachet water,6.6
+state,13,,Ekiti,Unprotected spring,0
+state,13,,Ekiti,Other water source,0.1
+state,13,,Ekiti,Public tap/standpipe,7.9
+state,14,,Enugu,Other water source,0
+state,14,,Enugu,Unprotected spring,5.6
+state,14,,Enugu,Tubewell/borehole,16.2
+state,14,,Enugu,Public tap/standpipe,11.3
+state,14,,Enugu,Bottled water/demi john,0.2
+state,14,,Enugu,Protected spring,1.7
+state,14,,Enugu,Protected well,5.9
+state,14,,Enugu,Unimproved bottled water,0.1
+state,14,,Enugu,Surface water,14.5
+state,14,,Enugu,Sachet water,6.7
+state,14,,Enugu,Water piped to neighbor,0.2
+state,14,,Enugu,Water piped into yard/plot,1.9
+state,14,,Enugu,Rainwater,20.9
+state,14,,Enugu,Cart with tank,0
+state,14,,Enugu,Water piped into dwelling,0.3
+state,14,,Enugu,Unprotected well water,0.7
+state,14,,Enugu,Tanker truck,13.8
+state,15,,Federal Capital Territory,Protected spring,0
+state,15,,Federal Capital Territory,Cart with tank,7.7
+state,15,,Federal Capital Territory,Sachet water,14.9
+state,15,,Federal Capital Territory,Unprotected spring,0
+state,15,,Federal Capital Territory,Water piped to neighbor,0.6
+state,15,,Federal Capital Territory,Bottled water/demi john,0.6
+state,15,,Federal Capital Territory,Protected well,2.8
+state,15,,Federal Capital Territory,Tanker truck,2.9
+state,15,,Federal Capital Territory,Public tap/standpipe,14.8
+state,15,,Federal Capital Territory,Unprotected well water,1.7
+state,15,,Federal Capital Territory,Water piped into yard/plot,1.5
+state,15,,Federal Capital Territory,Unimproved bottled water,0
+state,15,,Federal Capital Territory,Other water source,0.3
+state,15,,Federal Capital Territory,Water piped into dwelling,16.5
+state,15,,Federal Capital Territory,Rainwater,0.1
+state,15,,Federal Capital Territory,Tubewell/borehole,20.9
+state,15,,Federal Capital Territory,Surface water,14.7
+state,16,,Gombe,Unprotected well water,31.4
+state,16,,Gombe,Bottled water/demi john,0
+state,16,,Gombe,Other water source,0
+state,16,,Gombe,Unprotected spring,0.5
+state,16,,Gombe,Water piped into yard/plot,0
+state,16,,Gombe,Surface water,23.5
+state,16,,Gombe,Water piped into dwelling,1.4
+state,16,,Gombe,Protected spring,0
+state,16,,Gombe,Public tap/standpipe,0.6
+state,16,,Gombe,Sachet water,1.6
+state,16,,Gombe,Water piped to neighbor,0.8
+state,16,,Gombe,Tanker truck,5
+state,16,,Gombe,Rainwater,1.3
+state,16,,Gombe,Cart with tank,2.2
+state,16,,Gombe,Tubewell/borehole,25.4
+state,16,,Gombe,Unimproved bottled water,0
+state,16,,Gombe,Protected well,6.2
+state,17,,Imo,Protected spring,0.1
+state,17,,Imo,Other water source,0.1
+state,17,,Imo,Sachet water,5.7
+state,17,,Imo,Tubewell/borehole,83.2
+state,17,,Imo,Unprotected well water,0.1
+state,17,,Imo,Water piped into dwelling,1
+state,17,,Imo,Cart with tank,0
+state,17,,Imo,Rainwater,2
+state,17,,Imo,Tanker truck,0.1
+state,17,,Imo,Water piped to neighbor,0
+state,17,,Imo,Unprotected spring,0.7
+state,17,,Imo,Water piped into yard/plot,0.1
+state,17,,Imo,Surface water,3.8
+state,17,,Imo,Unimproved bottled water,0
+state,17,,Imo,Public tap/standpipe,0.3
+state,17,,Imo,Protected well,2.4
+state,17,,Imo,Bottled water/demi john,0.2
+state,18,,Jigawa,Unprotected well water,16.1
+state,18,,Jigawa,Rainwater,0
+state,18,,Jigawa,Unprotected spring,0
+state,18,,Jigawa,Cart with tank,1
+state,18,,Jigawa,Protected spring,0
+state,18,,Jigawa,Tanker truck,0
+state,18,,Jigawa,Bottled water/demi john,0
+state,18,,Jigawa,Sachet water,0.7
+state,18,,Jigawa,Water piped into dwelling,1.9
+state,18,,Jigawa,Water piped into yard/plot,14.5
+state,18,,Jigawa,Surface water,0
+state,18,,Jigawa,Public tap/standpipe,9.7
+state,18,,Jigawa,Unimproved bottled water,0
+state,18,,Jigawa,Other water source,0
+state,18,,Jigawa,Protected well,1.3
+state,18,,Jigawa,Tubewell/borehole,53.1
+state,18,,Jigawa,Water piped to neighbor,1.7
+state,19,,Kaduna,Rainwater,0
+state,19,,Kaduna,Protected well,42.3
+state,19,,Kaduna,Unprotected spring,0.1
+state,19,,Kaduna,Unprotected well water,30.2
+state,19,,Kaduna,Water piped into yard/plot,1.2
+state,19,,Kaduna,Surface water,0.6
+state,19,,Kaduna,Tubewell/borehole,12.7
+state,19,,Kaduna,Public tap/standpipe,5.6
+state,19,,Kaduna,Sachet water,3.1
+state,19,,Kaduna,Bottled water/demi john,0.2
+state,19,,Kaduna,Tanker truck,0
+state,19,,Kaduna,Cart with tank,0.1
+state,19,,Kaduna,Water piped into dwelling,2.9
+state,19,,Kaduna,Unimproved bottled water,0
+state,19,,Kaduna,Protected spring,0.4
+state,19,,Kaduna,Water piped to neighbor,0.8
+state,19,,Kaduna,Other water source,0
+state,20,,Kano,Public tap/standpipe,5.3
+state,20,,Kano,Rainwater,0
+state,20,,Kano,Bottled water/demi john,0.4
+state,20,,Kano,Tubewell/borehole,37.7
+state,20,,Kano,Tanker truck,0.1
+state,20,,Kano,Unimproved bottled water,0
+state,20,,Kano,Surface water,2.1
+state,20,,Kano,Sachet water,6.6
+state,20,,Kano,Water piped to neighbor,0.6
+state,20,,Kano,Protected well,2.6
+state,20,,Kano,Cart with tank,7.2
+state,20,,Kano,Other water source,0
+state,20,,Kano,Protected spring,0.1
+state,20,,Kano,Unprotected well water,32.7
+state,20,,Kano,Unprotected spring,0
+state,20,,Kano,Water piped into dwelling,3.6
+state,20,,Kano,Water piped into yard/plot,1
+state,21,,Katsina,Unimproved bottled water,0
+state,21,,Katsina,Tanker truck,0
+state,21,,Katsina,Cart with tank,17
+state,21,,Katsina,Protected spring,0
+state,21,,Katsina,Other water source,0
+state,21,,Katsina,Bottled water/demi john,0
+state,21,,Katsina,Water piped to neighbor,1.9
+state,21,,Katsina,Unprotected spring,0
+state,21,,Katsina,Public tap/standpipe,5.9
+state,21,,Katsina,Surface water,7.6
+state,21,,Katsina,Protected well,1.7
+state,21,,Katsina,Water piped into dwelling,0.9
+state,21,,Katsina,Water piped into yard/plot,3
+state,21,,Katsina,Unprotected well water,28.6
+state,21,,Katsina,Tubewell/borehole,33
+state,21,,Katsina,Rainwater,0.1
+state,21,,Katsina,Sachet water,0.2
+state,22,,Kebbi,Tanker truck,0.8
+state,22,,Kebbi,Water piped into yard/plot,1.7
+state,22,,Kebbi,Unimproved bottled water,0
+state,22,,Kebbi,Other water source,0
+state,22,,Kebbi,Bottled water/demi john,0
+state,22,,Kebbi,Unprotected well water,41.5
+state,22,,Kebbi,Unprotected spring,1.8
+state,22,,Kebbi,Surface water,8
+state,22,,Kebbi,Water piped into dwelling,0.6
+state,22,,Kebbi,Public tap/standpipe,7.7
+state,22,,Kebbi,Cart with tank,0
+state,22,,Kebbi,Sachet water,0
+state,22,,Kebbi,Protected well,14.9
+state,22,,Kebbi,Tubewell/borehole,21.5
+state,22,,Kebbi,Protected spring,0.9
+state,22,,Kebbi,Rainwater,0
+state,22,,Kebbi,Water piped to neighbor,0.6
+state,23,,Kogi,Unimproved bottled water,0
+state,23,,Kogi,Unprotected spring,0.9
+state,23,,Kogi,Other water source,0
+state,23,,Kogi,Tubewell/borehole,30
+state,23,,Kogi,Rainwater,6.7
+state,23,,Kogi,Sachet water,3.9
+state,23,,Kogi,Unprotected well water,4.1
+state,23,,Kogi,Surface water,25.7
+state,23,,Kogi,Protected well,21.6
+state,23,,Kogi,Water piped into yard/plot,1.5
+state,23,,Kogi,Tanker truck,0
+state,23,,Kogi,Protected spring,0
+state,23,,Kogi,Bottled water/demi john,0
+state,23,,Kogi,Water piped to neighbor,1.2
+state,23,,Kogi,Public tap/standpipe,4.2
+state,23,,Kogi,Water piped into dwelling,0.2
+state,23,,Kogi,Cart with tank,0
+state,24,,Kwara,Public tap/standpipe,5.2
+state,24,,Kwara,Unprotected well water,5.1
+state,24,,Kwara,Cart with tank,0
+state,24,,Kwara,Rainwater,0.2
+state,24,,Kwara,Protected well,8.4
+state,24,,Kwara,Water piped into yard/plot,0.8
+state,24,,Kwara,Bottled water/demi john,0.1
+state,24,,Kwara,Tubewell/borehole,46.3
+state,24,,Kwara,Sachet water,5.6
+state,24,,Kwara,Tanker truck,0.3
+state,24,,Kwara,Surface water,25.9
+state,24,,Kwara,Protected spring,0
+state,24,,Kwara,Water piped to neighbor,0.2
+state,24,,Kwara,Water piped into dwelling,1.9
+state,24,,Kwara,Unimproved bottled water,0
+state,24,,Kwara,Unprotected spring,0
+state,24,,Kwara,Other water source,0
+state,25,,Lagos,Water piped into dwelling,2
+state,25,,Lagos,Protected well,1.6
+state,25,,Lagos,Cart with tank,0
+state,25,,Lagos,Unprotected well water,0.4
+state,25,,Lagos,Other water source,0.3
+state,25,,Lagos,Protected spring,0
+state,25,,Lagos,Water piped to neighbor,0.3
+state,25,,Lagos,Surface water,0
+state,25,,Lagos,Rainwater,0
+state,25,,Lagos,Unimproved bottled water,0.1
+state,25,,Lagos,Public tap/standpipe,8
+state,25,,Lagos,Water piped into yard/plot,0.5
+state,25,,Lagos,Tanker truck,1.2
+state,25,,Lagos,Sachet water,49.1
+state,25,,Lagos,Bottled water/demi john,4.1
+state,25,,Lagos,Unprotected spring,0
+state,25,,Lagos,Tubewell/borehole,32.5
+state,26,,Nasarawa,Water piped into yard/plot,1.8
+state,26,,Nasarawa,Rainwater,0.3
+state,26,,Nasarawa,Unprotected spring,0.1
+state,26,,Nasarawa,Unimproved bottled water,0
+state,26,,Nasarawa,Water piped to neighbor,0.9
+state,26,,Nasarawa,Water piped into dwelling,1
+state,26,,Nasarawa,Protected spring,0.1
+state,26,,Nasarawa,Bottled water/demi john,0.2
+state,26,,Nasarawa,Public tap/standpipe,1.3
+state,26,,Nasarawa,Surface water,11.6
+state,26,,Nasarawa,Tubewell/borehole,56.5
+state,26,,Nasarawa,Sachet water,5
+state,26,,Nasarawa,Tanker truck,0
+state,26,,Nasarawa,Cart with tank,0.7
+state,26,,Nasarawa,Other water source,0
+state,26,,Nasarawa,Unprotected well water,8.5
+state,26,,Nasarawa,Protected well,12
+state,27,,Niger,Protected well,4.1
+state,27,,Niger,Unimproved bottled water,0
+state,27,,Niger,Public tap/standpipe,1.4
+state,27,,Niger,Surface water,20.5
+state,27,,Niger,Unprotected spring,2
+state,27,,Niger,Water piped to neighbor,0.4
+state,27,,Niger,Unprotected well water,15.9
+state,27,,Niger,Water piped into yard/plot,3.1
+state,27,,Niger,Water piped into dwelling,1.1
+state,27,,Niger,Protected spring,0
+state,27,,Niger,Bottled water/demi john,0
+state,27,,Niger,Tanker truck,0.3
+state,27,,Niger,Rainwater,0.4
+state,27,,Niger,Cart with tank,0
+state,27,,Niger,Other water source,0
+state,27,,Niger,Tubewell/borehole,50.2
+state,27,,Niger,Sachet water,0.6
+country,NG,,Nigeria,Cart with tank,2.6
+country,NG,,Nigeria,Other water source,0.1
+country,NG,,Nigeria,Sachet water,7.2
+country,NG,,Nigeria,Surface water,9.1
+country,NG,,Nigeria,Tanker truck,0.8
+country,NG,,Nigeria,Unimproved bottled water,0
+country,NG,,Nigeria,Water piped into dwelling,1.9
+country,NG,,Nigeria,Water piped into yard/plot,1.6
+country,NG,,Nigeria,Bottled water/demi john,0.4
+country,NG,,Nigeria,Water piped to neighbor,0.7
+country,NG,,Nigeria,Unprotected well water,16.6
+country,NG,,Nigeria,Protected well,11.1
+country,NG,,Nigeria,Tubewell/borehole,36.6
+country,NG,,Nigeria,Unprotected spring,1.6
+country,NG,,Nigeria,Protected spring,0.4
+country,NG,,Nigeria,Public tap/standpipe,7.5
+country,NG,,Nigeria,Rainwater,1.7
+,,,North Central,Public tap/standpipe,2.9
+,,,North Central,Tubewell/borehole,36.3
+,,,North Central,Protected well,17.2
+,,,North Central,Tanker truck,0.3
+,,,North Central,Unprotected well water,12.4
+,,,North Central,Other water source,0
+,,,North Central,Unimproved bottled water,0
+,,,North Central,Protected spring,0.1
+,,,North Central,Water piped to neighbor,0.4
+,,,North Central,Water piped into yard/plot,1.4
+,,,North Central,Surface water,16.8
+,,,North Central,Bottled water/demi john,0.1
+,,,North Central,Rainwater,2.9
+,,,North Central,Water piped into dwelling,1.5
+,,,North Central,Sachet water,4.2
+,,,North Central,Cart with tank,0.6
+,,,North Central,Unprotected spring,2.8
+,,,North East,Protected well,6.9
+,,,North East,Unimproved bottled water,0
+,,,North East,Unprotected spring,4
+,,,North East,Water piped to neighbor,0.8
+,,,North East,Protected spring,0.1
+,,,North East,Water piped into dwelling,2.3
+,,,North East,Rainwater,0.3
+,,,North East,Tubewell/borehole,30.6
+,,,North East,Other water source,0
+,,,North East,Tanker truck,1.3
+,,,North East,Surface water,9.4
+,,,North East,Water piped into yard/plot,0.5
+,,,North East,Public tap/standpipe,12
+,,,North East,Cart with tank,5.2
+,,,North East,Unprotected well water,25.6
+,,,North East,Sachet water,0.8
+,,,North East,Bottled water/demi john,0
+,,,North West,Cart with tank,5.1
+,,,North West,Public tap/standpipe,6.7
+,,,North West,Bottled water/demi john,0.1
+,,,North West,Unprotected well water,32
+,,,North West,Protected spring,0.2
+,,,North West,Protected well,11.4
+,,,North West,Tubewell/borehole,30.6
+,,,North West,Unimproved bottled water,0
+,,,North West,Rainwater,0
+,,,North West,Water piped into dwelling,2.2
+,,,North West,Other water source,0.2
+,,,North West,Water piped into yard/plot,3.2
+,,,North West,Tanker truck,0.1
+,,,North West,Water piped to neighbor,1
+,,,North West,Surface water,4.5
+,,,North West,Sachet water,2.3
+,,,North West,Unprotected spring,0.2
+state,28,,Ogun,Tanker truck,0
+state,28,,Ogun,Public tap/standpipe,9
+state,28,,Ogun,Protected spring,0
+state,28,,Ogun,Rainwater,0.4
+state,28,,Ogun,Bottled water/demi john,0.7
+state,28,,Ogun,Tubewell/borehole,50.3
+state,28,,Ogun,Unprotected spring,2.1
+state,28,,Ogun,Water piped into dwelling,3.2
+state,28,,Ogun,Other water source,0
+state,28,,Ogun,Water piped to neighbor,1.7
+state,28,,Ogun,Unprotected well water,2.8
+state,28,,Ogun,Unimproved bottled water,0
+state,28,,Ogun,Protected well,7.3
+state,28,,Ogun,Surface water,6.6
+state,28,,Ogun,Sachet water,14.5
+state,28,,Ogun,Water piped into yard/plot,1.3
+state,28,,Ogun,Cart with tank,0
+state,29,,Ondo,Protected well,24
+state,29,,Ondo,Unprotected well water,2.7
+state,29,,Ondo,Other water source,0
+state,29,,Ondo,Public tap/standpipe,6.8
+state,29,,Ondo,Water piped into dwelling,0.3
+state,29,,Ondo,Water piped to neighbor,0
+state,29,,Ondo,Sachet water,12.4
+state,29,,Ondo,Unimproved bottled water,0
+state,29,,Ondo,Water piped into yard/plot,0.3
+state,29,,Ondo,Unprotected spring,0
+state,29,,Ondo,Tanker truck,0
+state,29,,Ondo,Tubewell/borehole,32.5
+state,29,,Ondo,Cart with tank,0
+state,29,,Ondo,Bottled water/demi john,0.3
+state,29,,Ondo,Rainwater,1.4
+state,29,,Ondo,Surface water,19.3
+state,29,,Ondo,Protected spring,0
+state,30,,Osun,Protected well,32.3
+state,30,,Osun,Cart with tank,0
+state,30,,Osun,Water piped to neighbor,0.1
+state,30,,Osun,Unimproved bottled water,0
+state,30,,Osun,Protected spring,0.6
+state,30,,Osun,Sachet water,5.7
+state,30,,Osun,Bottled water/demi john,0.7
+state,30,,Osun,Unprotected spring,0
+state,30,,Osun,Tubewell/borehole,36.2
+state,30,,Osun,Public tap/standpipe,10.3
+state,30,,Osun,Other water source,0
+state,30,,Osun,Unprotected well water,0.3
+state,30,,Osun,Water piped into dwelling,0.2
+state,30,,Osun,Water piped into yard/plot,0.1
+state,30,,Osun,Surface water,12.9
+state,30,,Osun,Tanker truck,0.1
+state,30,,Osun,Rainwater,0.7
+state,31,,Oyo,Rainwater,0
+state,31,,Oyo,Protected well,45
+state,31,,Oyo,Unprotected spring,0.3
+state,31,,Oyo,Protected spring,0
+state,31,,Oyo,Bottled water/demi john,0.4
+state,31,,Oyo,Cart with tank,0
+state,31,,Oyo,Tubewell/borehole,28.7
+state,31,,Oyo,Public tap/standpipe,1.8
+state,31,,Oyo,Other water source,0.2
+state,31,,Oyo,Surface water,8.7
+state,31,,Oyo,Tanker truck,0
+state,31,,Oyo,Unprotected well water,0.3
+state,31,,Oyo,Water piped into yard/plot,0.4
+state,31,,Oyo,Unimproved bottled water,0
+state,31,,Oyo,Sachet water,13.2
+state,31,,Oyo,Water piped to neighbor,0.4
+state,31,,Oyo,Water piped into dwelling,0.6
+state,32,,Plateau,Water piped into dwelling,0
+state,32,,Plateau,Unimproved bottled water,0
+state,32,,Plateau,Unprotected well water,35.6
+state,32,,Plateau,Unprotected spring,4
+state,32,,Plateau,Protected well,6.9
+state,32,,Plateau,Cart with tank,0.7
+state,32,,Plateau,Water piped to neighbor,0.4
+state,32,,Plateau,Water piped into yard/plot,0.7
+state,32,,Plateau,Bottled water/demi john,0.3
+state,32,,Plateau,Tanker truck,0
+state,32,,Plateau,Protected spring,0.5
+state,32,,Plateau,Tubewell/borehole,34.8
+state,32,,Plateau,Rainwater,0.9
+state,32,,Plateau,Public tap/standpipe,0.1
+state,32,,Plateau,Surface water,11.9
+state,32,,Plateau,Other water source,0
+state,32,,Plateau,Sachet water,3.1
+state,33,,Rivers,Tubewell/borehole,61.7
+state,33,,Rivers,Sachet water,16.6
+state,33,,Rivers,Other water source,0
+state,33,,Rivers,Water piped to neighbor,0.7
+state,33,,Rivers,Unprotected well water,2.8
+state,33,,Rivers,Water piped into dwelling,1.1
+state,33,,Rivers,Bottled water/demi john,0.6
+state,33,,Rivers,Unprotected spring,0
+state,33,,Rivers,Surface water,3.5
+state,33,,Rivers,Water piped into yard/plot,3.4
+state,33,,Rivers,Rainwater,1.1
+state,33,,Rivers,Protected spring,0
+state,33,,Rivers,Unimproved bottled water,0
+state,33,,Rivers,Public tap/standpipe,5
+state,33,,Rivers,Protected well,3.4
+state,33,,Rivers,Cart with tank,0
+state,33,,Rivers,Tanker truck,0
+state,34,,Sokoto,Water piped to neighbor,1.1
+state,34,,Sokoto,Cart with tank,0.6
+state,34,,Sokoto,Unimproved bottled water,0
+state,34,,Sokoto,Public tap/standpipe,4.9
+state,34,,Sokoto,Protected well,5.6
+state,34,,Sokoto,Rainwater,0
+state,34,,Sokoto,Surface water,0
+state,34,,Sokoto,Protected spring,0
+state,34,,Sokoto,Tubewell/borehole,15.8
+state,34,,Sokoto,Tanker truck,0.2
+state,34,,Sokoto,Water piped into yard/plot,3
+state,34,,Sokoto,Bottled water/demi john,0
+state,34,,Sokoto,Unprotected well water,62.2
+state,34,,Sokoto,Other water source,2.9
+state,34,,Sokoto,Sachet water,0.6
+state,34,,Sokoto,Water piped into dwelling,3.1
+state,34,,Sokoto,Unprotected spring,0
+,,,South East,Protected spring,2.2
+,,,South East,Water piped into dwelling,0.7
+,,,South East,Surface water,8.7
+,,,South East,Cart with tank,0
+,,,South East,Unprotected well water,0.6
+,,,South East,Tanker truck,3.1
+,,,South East,Rainwater,7.7
+,,,South East,Public tap/standpipe,2.8
+,,,South East,Water piped into yard/plot,0.7
+,,,South East,Other water source,0
+,,,South East,Bottled water/demi john,0.3
+,,,South East,Water piped to neighbor,0
+,,,South East,Unprotected spring,3.9
+,,,South East,Protected well,4.4
+,,,South East,Sachet water,6
+,,,South East,Unimproved bottled water,0
+,,,South East,Tubewell/borehole,58.7
+,,,South South,Water piped into dwelling,2.9
+,,,South South,Unimproved bottled water,0
+,,,South South,Cart with tank,0
+,,,South South,Tanker truck,0.5
+,,,South South,Surface water,15.3
+,,,South South,Sachet water,10
+,,,South South,Bottled water/demi john,0.5
+,,,South South,Other water source,0.2
+,,,South South,Rainwater,3.5
+,,,South South,Unprotected spring,0.3
+,,,South South,Water piped into yard/plot,1.8
+,,,South South,Water piped to neighbor,1
+,,,South South,Unprotected well water,2.3
+,,,South South,Tubewell/borehole,43.7
+,,,South South,Protected spring,0.1
+,,,South South,Protected well,4.7
+,,,South South,Public tap/standpipe,13.3
+,,,South West,Protected well,18.6
+,,,South West,Water piped to neighbor,0.4
+,,,South West,Other water source,0.1
+,,,South West,Water piped into yard/plot,0.5
+,,,South West,Unprotected well water,0.9
+,,,South West,Tubewell/borehole,35.2
+,,,South West,Water piped into dwelling,1.4
+,,,South West,Unprotected spring,0.3
+,,,South West,Tanker truck,0.5
+,,,South West,Unimproved bottled water,0
+,,,South West,Bottled water/demi john,1.8
+,,,South West,Public tap/standpipe,7
+,,,South West,Surface water,7.1
+,,,South West,Protected spring,0.6
+,,,South West,Cart with tank,0
+,,,South West,Rainwater,0.3
+,,,South West,Sachet water,25.1
+state,35,,Taraba,Water piped into yard/plot,0
+state,35,,Taraba,Bottled water/demi john,0.1
+state,35,,Taraba,Cart with tank,5.5
+state,35,,Taraba,Protected spring,0
+state,35,,Taraba,Other water source,0
+state,35,,Taraba,Unprotected well water,12.2
+state,35,,Taraba,Water piped into dwelling,0.5
+state,35,,Taraba,Tubewell/borehole,21.4
+state,35,,Taraba,Unprotected spring,15.9
+state,35,,Taraba,Water piped to neighbor,0
+state,35,,Taraba,Sachet water,3.5
+state,35,,Taraba,Unimproved bottled water,0.2
+state,35,,Taraba,Public tap/standpipe,1
+state,35,,Taraba,Tanker truck,0.3
+state,35,,Taraba,Protected well,14.8
+state,35,,Taraba,Surface water,23.8
+state,35,,Taraba,Rainwater,0.8
+state,36,,Yobe,Protected spring,0
+state,36,,Yobe,Water piped into dwelling,3
+state,36,,Yobe,Public tap/standpipe,22.3
+state,36,,Yobe,Unprotected well water,30.5
+state,36,,Yobe,Surface water,0.3
+state,36,,Yobe,Unprotected spring,0.3
+state,36,,Yobe,Tubewell/borehole,35.6
+state,36,,Yobe,Water piped to neighbor,0.3
+state,36,,Yobe,Other water source,0
+state,36,,Yobe,Cart with tank,6.2
+state,36,,Yobe,Sachet water,0
+state,36,,Yobe,Protected well,1.1
+state,36,,Yobe,Tanker truck,0.2
+state,36,,Yobe,Water piped into yard/plot,0.3
+state,36,,Yobe,Bottled water/demi john,0
+state,36,,Yobe,Unimproved bottled water,0
+state,36,,Yobe,Rainwater,0
+state,37,,Zamfara,Unprotected spring,0
+state,37,,Zamfara,Water piped into yard/plot,0.4
+state,37,,Zamfara,Tubewell/borehole,35.2
+state,37,,Zamfara,Tanker truck,0
+state,37,,Zamfara,Unprotected well water,26.5
+state,37,,Zamfara,Rainwater,0
+state,37,,Zamfara,Unimproved bottled water,0
+state,37,,Zamfara,Protected well,8.1
+state,37,,Zamfara,Bottled water/demi john,0
+state,37,,Zamfara,Surface water,16.2
+state,37,,Zamfara,Protected spring,0.1
+state,37,,Zamfara,Other water source,0
+state,37,,Zamfara,Cart with tank,0
+state,37,,Zamfara,Water piped to neighbor,0.4
+state,37,,Zamfara,Water piped into dwelling,1.5
+state,37,,Zamfara,Sachet water,1.1
+state,37,,Zamfara,Public tap/standpipe,10.5

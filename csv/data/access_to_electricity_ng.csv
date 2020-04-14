@@ -1,0 +1,89 @@
+geo_level,geo_code,geo_version,name,variable,value
+state,1,,Abia,Access to electricity,89.5
+state,1,,Abia,No electricity,10.5
+state,2,,Adamawa,No electricity,55.2
+state,2,,Adamawa,Access to electricity,44.8
+state,3,,Akwa Ibom,Access to electricity,73.7
+state,3,,Akwa Ibom,No electricity,26.3
+state,4,,Anambra,No electricity,18.5
+state,4,,Anambra,Access to electricity,81.5
+state,5,,Bauchi,No electricity,65.6
+state,5,,Bauchi,Access to electricity,34.4
+state,6,,Bayelsa,Access to electricity,47.1
+state,6,,Bayelsa,No electricity,52.9
+state,7,,Benue,Access to electricity,43.9
+state,7,,Benue,No electricity,56.1
+state,8,,Borno,No electricity,57.4
+state,8,,Borno,Access to electricity,42.6
+state,9,,Cross River,Access to electricity,53.5
+state,9,,Cross River,No electricity,46.5
+state,10,,Delta,No electricity,28
+state,10,,Delta,Access to electricity,72
+state,11,,Ebonyi,No electricity,74.3
+state,11,,Ebonyi,Access to electricity,25.7
+state,12,,Edo,Access to electricity,70.1
+state,12,,Edo,No electricity,29.9
+state,13,,Ekiti,No electricity,37.6
+state,13,,Ekiti,Access to electricity,62.4
+state,14,,Enugu,No electricity,36.6
+state,14,,Enugu,Access to electricity,63.4
+state,15,,Federal Capital Territory,Access to electricity,80.8
+state,15,,Federal Capital Territory,No electricity,19.2
+state,16,,Gombe,Access to electricity,42.9
+state,16,,Gombe,No electricity,57.1
+state,17,,Imo,Access to electricity,56.8
+state,17,,Imo,No electricity,43.2
+state,18,,Jigawa,Access to electricity,24.5
+state,18,,Jigawa,No electricity,75.5
+state,19,,Kaduna,Access to electricity,64
+state,19,,Kaduna,No electricity,36
+state,20,,Kano,Access to electricity,52.1
+state,20,,Kano,No electricity,47.9
+state,21,,Katsina,Access to electricity,43.4
+state,21,,Katsina,No electricity,56.6
+state,22,,Kebbi,Access to electricity,32.8
+state,22,,Kebbi,No electricity,67.2
+state,23,,Kogi,No electricity,40.2
+state,23,,Kogi,Access to electricity,59.8
+state,24,,Kwara,No electricity,20.7
+state,24,,Kwara,Access to electricity,79.3
+state,25,,Lagos,Access to electricity,98.9
+state,25,,Lagos,No electricity,1.1
+state,26,,Nasarawa,Access to electricity,59.1
+state,26,,Nasarawa,No electricity,40.9
+state,27,,Niger,No electricity,45.9
+state,27,,Niger,Access to electricity,54.1
+country,NG,,Nigeria,No electricity,40.6
+country,NG,,Nigeria,Access to electricity,59.4
+,,,North Central,Access to electricity,56.8
+,,,North Central,No electricity,43.2
+,,,North East,No electricity,63.9
+,,,North East,Access to electricity,36.1
+,,,North West,No electricity,55.8
+,,,North West,Access to electricity,44.2
+state,28,,Ogun,No electricity,7.8
+state,28,,Ogun,Access to electricity,92.2
+state,29,,Ondo,Access to electricity,55.3
+state,29,,Ondo,No electricity,44.7
+state,30,,Osun,Access to electricity,77.9
+state,30,,Osun,No electricity,22.1
+state,31,,Oyo,Access to electricity,76.7
+state,31,,Oyo,No electricity,23.3
+state,32,,Plateau,No electricity,53.1
+state,32,,Plateau,Access to electricity,46.9
+state,33,,Rivers,Access to electricity,81.9
+state,33,,Rivers,No electricity,18.1
+state,34,,Sokoto,No electricity,68.4
+state,34,,Sokoto,Access to electricity,31.6
+,,,South East,No electricity,35.7
+,,,South East,Access to electricity,64.3
+,,,South South,Access to electricity,70.6
+,,,South South,No electricity,29.4
+,,,South West,No electricity,16.4
+,,,South West,Access to electricity,83.6
+state,35,,Taraba,No electricity,77
+state,35,,Taraba,Access to electricity,23
+state,36,,Yobe,No electricity,71.7
+state,36,,Yobe,Access to electricity,28.3
+state,37,,Zamfara,Access to electricity,33.3
+state,37,,Zamfara,No electricity,66.7

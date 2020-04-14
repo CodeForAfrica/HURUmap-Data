@@ -1,0 +1,5 @@
+geo_level,geo_code,geo_version,name,variable_1,variable_2,value
+country,NG,,Nigeria,Rural,Access to electricity,38.9
+country,NG,,Nigeria,Rural,No electricity,61.1
+country,NG,,Nigeria,Urban,No electricity,17.3
+country,NG,,Nigeria,Urban,Access to electricity,82.7

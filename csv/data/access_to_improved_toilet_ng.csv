@@ -1,0 +1,133 @@
+geo_level,geo_code,geo_version,name,variable,value
+state,1,,Abia,Unimproved toilet facility,6.9
+state,1,,Abia,Shared improved toilet facility,33.5
+state,1,,Abia,"Improved, non-shared toilet facilities",59.6
+state,2,,Adamawa,Unimproved toilet facility,23.5
+state,2,,Adamawa,"Improved, non-shared toilet facilities",56
+state,2,,Adamawa,Shared improved toilet facility,20.4
+state,3,,Akwa Ibom,"Improved, non-shared toilet facilities",49.2
+state,3,,Akwa Ibom,Unimproved toilet facility,11.8
+state,3,,Akwa Ibom,Shared improved toilet facility,39
+state,4,,Anambra,Shared improved toilet facility,19.2
+state,4,,Anambra,"Improved, non-shared toilet facilities",63.3
+state,4,,Anambra,Unimproved toilet facility,17.5
+state,5,,Bauchi,Shared improved toilet facility,4.1
+state,5,,Bauchi,Unimproved toilet facility,69.1
+state,5,,Bauchi,"Improved, non-shared toilet facilities",26.8
+state,6,,Bayelsa,Shared improved toilet facility,11.4
+state,6,,Bayelsa,"Improved, non-shared toilet facilities",20.1
+state,6,,Bayelsa,Unimproved toilet facility,68.5
+state,7,,Benue,Shared improved toilet facility,10.5
+state,7,,Benue,Unimproved toilet facility,56.2
+state,7,,Benue,"Improved, non-shared toilet facilities",33.3
+state,8,,Borno,"Improved, non-shared toilet facilities",49.3
+state,8,,Borno,Unimproved toilet facility,34.1
+state,8,,Borno,Shared improved toilet facility,16.5
+state,9,,Cross River,Unimproved toilet facility,53.5
+state,9,,Cross River,"Improved, non-shared toilet facilities",22.8
+state,9,,Cross River,Shared improved toilet facility,23.7
+state,10,,Delta,Unimproved toilet facility,34.4
+state,10,,Delta,"Improved, non-shared toilet facilities",42.3
+state,10,,Delta,Shared improved toilet facility,23.3
+state,11,,Ebonyi,Unimproved toilet facility,82.8
+state,11,,Ebonyi,"Improved, non-shared toilet facilities",9.9
+state,11,,Ebonyi,Shared improved toilet facility,7.3
+state,12,,Edo,Unimproved toilet facility,30.2
+state,12,,Edo,"Improved, non-shared toilet facilities",38.6
+state,12,,Edo,Shared improved toilet facility,31.3
+state,13,,Ekiti,Unimproved toilet facility,50.3
+state,13,,Ekiti,"Improved, non-shared toilet facilities",23.9
+state,13,,Ekiti,Shared improved toilet facility,25.9
+state,14,,Enugu,Shared improved toilet facility,14.2
+state,14,,Enugu,Unimproved toilet facility,60.8
+state,14,,Enugu,"Improved, non-shared toilet facilities",25.1
+state,15,,Federal Capital Territory,"Improved, non-shared toilet facilities",41
+state,15,,Federal Capital Territory,Unimproved toilet facility,31.2
+state,15,,Federal Capital Territory,Shared improved toilet facility,27.8
+state,16,,Gombe,"Improved, non-shared toilet facilities",67.8
+state,16,,Gombe,Unimproved toilet facility,26.5
+state,16,,Gombe,Shared improved toilet facility,5.7
+state,17,,Imo,Shared improved toilet facility,10.5
+state,17,,Imo,Unimproved toilet facility,11.4
+state,17,,Imo,"Improved, non-shared toilet facilities",78.1
+state,18,,Jigawa,Shared improved toilet facility,0.6
+state,18,,Jigawa,"Improved, non-shared toilet facilities",17.1
+state,18,,Jigawa,Unimproved toilet facility,82.3
+state,19,,Kaduna,Shared improved toilet facility,38.7
+state,19,,Kaduna,"Improved, non-shared toilet facilities",27.1
+state,19,,Kaduna,Unimproved toilet facility,34.2
+state,20,,Kano,Shared improved toilet facility,8.8
+state,20,,Kano,Unimproved toilet facility,46.4
+state,20,,Kano,"Improved, non-shared toilet facilities",44.8
+state,21,,Katsina,"Improved, non-shared toilet facilities",35.1
+state,21,,Katsina,Unimproved toilet facility,60.7
+state,21,,Katsina,Shared improved toilet facility,4.3
+state,22,,Kebbi,Unimproved toilet facility,77.3
+state,22,,Kebbi,Shared improved toilet facility,13.4
+state,22,,Kebbi,"Improved, non-shared toilet facilities",9.2
+state,23,,Kogi,Shared improved toilet facility,12.4
+state,23,,Kogi,Unimproved toilet facility,73.3
+state,23,,Kogi,"Improved, non-shared toilet facilities",14.3
+state,24,,Kwara,"Improved, non-shared toilet facilities",15.3
+state,24,,Kwara,Unimproved toilet facility,58.4
+state,24,,Kwara,Shared improved toilet facility,26.3
+state,25,,Lagos,Unimproved toilet facility,12.8
+state,25,,Lagos,"Improved, non-shared toilet facilities",41.4
+state,25,,Lagos,Shared improved toilet facility,45.7
+state,26,,Nasarawa,Shared improved toilet facility,36.8
+state,26,,Nasarawa,"Improved, non-shared toilet facilities",28.8
+state,26,,Nasarawa,Unimproved toilet facility,34.4
+state,27,,Niger,Shared improved toilet facility,18.4
+state,27,,Niger,Unimproved toilet facility,61.5
+state,27,,Niger,"Improved, non-shared toilet facilities",20
+country,NG,,Nigeria,Unimproved toilet facility,46.6
+country,NG,,Nigeria,"Improved, non-shared toilet facilities",34.2
+country,NG,,Nigeria,Shared improved toilet facility,19.2
+,,,North Central,Unimproved toilet facility,57.1
+,,,North Central,Shared improved toilet facility,18.9
+,,,North Central,"Improved, non-shared toilet facilities",24
+,,,North East,Shared improved toilet facility,9.3
+,,,North East,"Improved, non-shared toilet facilities",41.8
+,,,North East,Unimproved toilet facility,48.9
+,,,North West,Shared improved toilet facility,11.6
+,,,North West,"Improved, non-shared toilet facilities",30.8
+,,,North West,Unimproved toilet facility,57.6
+state,28,,Ogun,Shared improved toilet facility,52.6
+state,28,,Ogun,"Improved, non-shared toilet facilities",24.4
+state,28,,Ogun,Unimproved toilet facility,23
+state,29,,Ondo,"Improved, non-shared toilet facilities",18
+state,29,,Ondo,Shared improved toilet facility,31.6
+state,29,,Ondo,Unimproved toilet facility,50.4
+state,30,,Osun,"Improved, non-shared toilet facilities",24.9
+state,30,,Osun,Unimproved toilet facility,37.6
+state,30,,Osun,Shared improved toilet facility,37.5
+state,31,,Oyo,"Improved, non-shared toilet facilities",25.8
+state,31,,Oyo,Unimproved toilet facility,37.3
+state,31,,Oyo,Shared improved toilet facility,36.9
+state,32,,Plateau,Shared improved toilet facility,13.2
+state,32,,Plateau,"Improved, non-shared toilet facilities",22.3
+state,32,,Plateau,Unimproved toilet facility,64.4
+state,33,,Rivers,"Improved, non-shared toilet facilities",34.3
+state,33,,Rivers,Unimproved toilet facility,39
+state,33,,Rivers,Shared improved toilet facility,26.7
+state,34,,Sokoto,Shared improved toilet facility,4.4
+state,34,,Sokoto,"Improved, non-shared toilet facilities",39.1
+state,34,,Sokoto,Unimproved toilet facility,56.5
+,,,South East,Shared improved toilet facility,15.9
+,,,South East,Unimproved toilet facility,36
+,,,South East,"Improved, non-shared toilet facilities",48.1
+,,,South South,Unimproved toilet facility,35.6
+,,,South South,Shared improved toilet facility,27.5
+,,,South South,"Improved, non-shared toilet facilities",37
+,,,South West,Shared improved toilet facility,41
+,,,South West,"Improved, non-shared toilet facilities",30.4
+,,,South West,Unimproved toilet facility,28.6
+state,35,,Taraba,Unimproved toilet facility,48.3
+state,35,,Taraba,"Improved, non-shared toilet facilities",42.3
+state,35,,Taraba,Shared improved toilet facility,9.4
+state,36,,Yobe,"Improved, non-shared toilet facilities",28
+state,36,,Yobe,Shared improved toilet facility,2.8
+state,36,,Yobe,Unimproved toilet facility,69.2
+state,37,,Zamfara,Unimproved toilet facility,72.4
+state,37,,Zamfara,"Improved, non-shared toilet facilities",26.1
+state,37,,Zamfara,Shared improved toilet facility,1.5

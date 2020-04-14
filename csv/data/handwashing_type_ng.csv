@@ -1,0 +1,265 @@
+geo_level,geo_code,geo_version,name,variable,value
+state,1,,Abia,Soap and water,71.6
+state,1,,Abia,Water and a cleansing agent other than soap only,0.2
+state,1,,Abia,Soap but no water,1.1
+state,1,,Abia,Cleansing agent other than soap only,0
+state,1,,Abia,"No water, no soap, and no other cleansing agent",2.1
+state,1,,Abia,Water only,25
+state,2,,Adamawa,Water only,30.9
+state,2,,Adamawa,Water and a cleansing agent other than soap only,1
+state,2,,Adamawa,Soap and water,3.7
+state,2,,Adamawa,Cleansing agent other than soap only,0
+state,2,,Adamawa,Soap but no water,0.1
+state,2,,Adamawa,"No water, no soap, and no other cleansing agent",64.3
+state,3,,Akwa Ibom,Water and a cleansing agent other than soap only,0
+state,3,,Akwa Ibom,Cleansing agent other than soap only,0
+state,3,,Akwa Ibom,Soap and water,27.7
+state,3,,Akwa Ibom,Water only,7
+state,3,,Akwa Ibom,"No water, no soap, and no other cleansing agent",62.4
+state,3,,Akwa Ibom,Soap but no water,2.9
+state,4,,Anambra,Soap and water,95.9
+state,4,,Anambra,Water and a cleansing agent other than soap only,0
+state,4,,Anambra,Cleansing agent other than soap only,0
+state,4,,Anambra,Soap but no water,0.1
+state,4,,Anambra,Water only,3.6
+state,4,,Anambra,"No water, no soap, and no other cleansing agent",0.4
+state,5,,Bauchi,Cleansing agent other than soap only,0.2
+state,5,,Bauchi,Water and a cleansing agent other than soap only,0
+state,5,,Bauchi,Soap but no water,1.6
+state,5,,Bauchi,Soap and water,3.9
+state,5,,Bauchi,"No water, no soap, and no other cleansing agent",86.1
+state,5,,Bauchi,Water only,8.2
+state,6,,Bayelsa,Soap but no water,0.3
+state,6,,Bayelsa,"No water, no soap, and no other cleansing agent",10.8
+state,6,,Bayelsa,Water only,76.1
+state,6,,Bayelsa,Soap and water,12.8
+state,6,,Bayelsa,Cleansing agent other than soap only,0
+state,6,,Bayelsa,Water and a cleansing agent other than soap only,0
+state,7,,Benue,Water only,0.5
+state,7,,Benue,Water and a cleansing agent other than soap only,0
+state,7,,Benue,"No water, no soap, and no other cleansing agent",97.6
+state,7,,Benue,Soap and water,1.7
+state,7,,Benue,Cleansing agent other than soap only,0
+state,7,,Benue,Soap but no water,0.1
+state,8,,Borno,Soap but no water,0.4
+state,8,,Borno,"No water, no soap, and no other cleansing agent",45.9
+state,8,,Borno,Cleansing agent other than soap only,1.1
+state,8,,Borno,Water and a cleansing agent other than soap only,2.3
+state,8,,Borno,Soap and water,10.8
+state,8,,Borno,Water only,39.5
+state,9,,Cross River,"No water, no soap, and no other cleansing agent",9.1
+state,9,,Cross River,Water and a cleansing agent other than soap only,0
+state,9,,Cross River,Cleansing agent other than soap only,0
+state,9,,Cross River,Soap but no water,4.1
+state,9,,Cross River,Water only,26.4
+state,9,,Cross River,Soap and water,60.4
+state,10,,Delta,"No water, no soap, and no other cleansing agent",12.9
+state,10,,Delta,Water and a cleansing agent other than soap only,0
+state,10,,Delta,Cleansing agent other than soap only,0.2
+state,10,,Delta,Soap but no water,11.1
+state,10,,Delta,Water only,15.2
+state,10,,Delta,Soap and water,60.6
+state,11,,Ebonyi,"No water, no soap, and no other cleansing agent",84
+state,11,,Ebonyi,Soap but no water,1.2
+state,11,,Ebonyi,Water and a cleansing agent other than soap only,0.2
+state,11,,Ebonyi,Water only,4.5
+state,11,,Ebonyi,Soap and water,9.7
+state,11,,Ebonyi,Cleansing agent other than soap only,0.3
+state,12,,Edo,Cleansing agent other than soap only,0
+state,12,,Edo,Water and a cleansing agent other than soap only,0
+state,12,,Edo,"No water, no soap, and no other cleansing agent",48.7
+state,12,,Edo,Water only,8.9
+state,12,,Edo,Soap but no water,4.3
+state,12,,Edo,Soap and water,38.1
+state,13,,Ekiti,"No water, no soap, and no other cleansing agent",11.5
+state,13,,Ekiti,Soap but no water,3.4
+state,13,,Ekiti,Cleansing agent other than soap only,31.3
+state,13,,Ekiti,Soap and water,29.3
+state,13,,Ekiti,Water only,8.4
+state,13,,Ekiti,Water and a cleansing agent other than soap only,16
+state,14,,Enugu,Water only,30.3
+state,14,,Enugu,Soap but no water,0.2
+state,14,,Enugu,Cleansing agent other than soap only,0.1
+state,14,,Enugu,Soap and water,23.8
+state,14,,Enugu,Water and a cleansing agent other than soap only,0
+state,14,,Enugu,"No water, no soap, and no other cleansing agent",45.7
+state,15,,Federal Capital Territory,Water and a cleansing agent other than soap only,0
+state,15,,Federal Capital Territory,Cleansing agent other than soap only,0
+state,15,,Federal Capital Territory,"No water, no soap, and no other cleansing agent",22
+state,15,,Federal Capital Territory,Soap but no water,1.4
+state,15,,Federal Capital Territory,Water only,27.5
+state,15,,Federal Capital Territory,Soap and water,49.1
+state,16,,Gombe,Water only,43.3
+state,16,,Gombe,Soap but no water,2.6
+state,16,,Gombe,Soap and water,47
+state,16,,Gombe,Water and a cleansing agent other than soap only,0.4
+state,16,,Gombe,"No water, no soap, and no other cleansing agent",4.5
+state,16,,Gombe,Cleansing agent other than soap only,2.2
+state,17,,Imo,Water and a cleansing agent other than soap only,0.2
+state,17,,Imo,Soap and water,49.9
+state,17,,Imo,Water only,48.2
+state,17,,Imo,Soap but no water,0.2
+state,17,,Imo,Cleansing agent other than soap only,0
+state,17,,Imo,"No water, no soap, and no other cleansing agent",1.6
+state,18,,Jigawa,Water only,38
+state,18,,Jigawa,Water and a cleansing agent other than soap only,0
+state,18,,Jigawa,Cleansing agent other than soap only,0.1
+state,18,,Jigawa,"No water, no soap, and no other cleansing agent",58.1
+state,18,,Jigawa,Soap and water,3
+state,18,,Jigawa,Soap but no water,0.8
+state,19,,Kaduna,Water and a cleansing agent other than soap only,1
+state,19,,Kaduna,Cleansing agent other than soap only,0.2
+state,19,,Kaduna,"No water, no soap, and no other cleansing agent",46
+state,19,,Kaduna,Soap and water,5.9
+state,19,,Kaduna,Soap but no water,0.3
+state,19,,Kaduna,Water only,46.6
+state,20,,Kano,Water only,19
+state,20,,Kano,Soap and water,28.2
+state,20,,Kano,Soap but no water,3.9
+state,20,,Kano,Cleansing agent other than soap only,0.3
+state,20,,Kano,"No water, no soap, and no other cleansing agent",47.5
+state,20,,Kano,Water and a cleansing agent other than soap only,0.9
+state,21,,Katsina,Water only,4.2
+state,21,,Katsina,Cleansing agent other than soap only,0.2
+state,21,,Katsina,Water and a cleansing agent other than soap only,2.5
+state,21,,Katsina,"No water, no soap, and no other cleansing agent",2.7
+state,21,,Katsina,Soap but no water,1.9
+state,21,,Katsina,Soap and water,88.5
+state,22,,Kebbi,Cleansing agent other than soap only,0
+state,22,,Kebbi,Soap and water,2
+state,22,,Kebbi,Water only,64.1
+state,22,,Kebbi,Soap but no water,0
+state,22,,Kebbi,"No water, no soap, and no other cleansing agent",32
+state,22,,Kebbi,Water and a cleansing agent other than soap only,1.9
+state,23,,Kogi,Water and a cleansing agent other than soap only,0.7
+state,23,,Kogi,Cleansing agent other than soap only,0
+state,23,,Kogi,"No water, no soap, and no other cleansing agent",6.3
+state,23,,Kogi,Soap but no water,10.1
+state,23,,Kogi,Water only,34.1
+state,23,,Kogi,Soap and water,48.8
+state,24,,Kwara,"No water, no soap, and no other cleansing agent",49.9
+state,24,,Kwara,Water and a cleansing agent other than soap only,0.3
+state,24,,Kwara,Cleansing agent other than soap only,0.1
+state,24,,Kwara,Soap but no water,0.1
+state,24,,Kwara,Water only,45.4
+state,24,,Kwara,Soap and water,4.2
+state,25,,Lagos,Soap and water,59.3
+state,25,,Lagos,"No water, no soap, and no other cleansing agent",3.7
+state,25,,Lagos,Water and a cleansing agent other than soap only,0.1
+state,25,,Lagos,Water only,36.3
+state,25,,Lagos,Cleansing agent other than soap only,0.3
+state,25,,Lagos,Soap but no water,0.4
+state,26,,Nasarawa,Soap and water,21.3
+state,26,,Nasarawa,Cleansing agent other than soap only,0
+state,26,,Nasarawa,Soap but no water,0.6
+state,26,,Nasarawa,Water and a cleansing agent other than soap only,0.7
+state,26,,Nasarawa,"No water, no soap, and no other cleansing agent",54.5
+state,26,,Nasarawa,Water only,23
+state,27,,Niger,Soap and water,13
+state,27,,Niger,Soap but no water,0.4
+state,27,,Niger,"No water, no soap, and no other cleansing agent",12
+state,27,,Niger,Cleansing agent other than soap only,0
+state,27,,Niger,Water only,73.8
+state,27,,Niger,Water and a cleansing agent other than soap only,0.8
+country,NG,,Nigeria,Cleansing agent other than soap only,0.5
+country,NG,,Nigeria,Soap and water,38
+country,NG,,Nigeria,"No water, no soap, and no other cleansing agent",31.9
+country,NG,,Nigeria,Water and a cleansing agent other than soap only,0.7
+country,NG,,Nigeria,Water only,26.8
+country,NG,,Nigeria,Soap but no water,2.1
+,,,North Central,Water only,29.1
+,,,North Central,"No water, no soap, and no other cleansing agent",51.4
+,,,North Central,Cleansing agent other than soap only,0
+,,,North Central,Soap but no water,1.4
+,,,North Central,Water and a cleansing agent other than soap only,0.7
+,,,North Central,Soap and water,17.4
+,,,North East,"No water, no soap, and no other cleansing agent",54.7
+,,,North East,Water only,32.2
+,,,North East,Soap but no water,2.1
+,,,North East,Cleansing agent other than soap only,0.4
+,,,North East,Soap and water,9.7
+,,,North East,Water and a cleansing agent other than soap only,1
+,,,North West,Water and a cleansing agent other than soap only,1.2
+,,,North West,Cleansing agent other than soap only,0.3
+,,,North West,Water only,28.7
+,,,North West,Soap and water,27.2
+,,,North West,Soap but no water,1.8
+,,,North West,"No water, no soap, and no other cleansing agent",40.9
+state,28,,Ogun,Water and a cleansing agent other than soap only,0
+state,28,,Ogun,Soap but no water,0.1
+state,28,,Ogun,"No water, no soap, and no other cleansing agent",2.6
+state,28,,Ogun,Soap and water,34.1
+state,28,,Ogun,Cleansing agent other than soap only,0
+state,28,,Ogun,Water only,63.2
+state,29,,Ondo,"No water, no soap, and no other cleansing agent",93.4
+state,29,,Ondo,Soap but no water,0.7
+state,29,,Ondo,Cleansing agent other than soap only,0
+state,29,,Ondo,Soap and water,5.3
+state,29,,Ondo,Water only,0.6
+state,29,,Ondo,Water and a cleansing agent other than soap only,0
+state,30,,Osun,Water and a cleansing agent other than soap only,0
+state,30,,Osun,Soap and water,95
+state,30,,Osun,Soap but no water,0
+state,30,,Osun,Water only,4.2
+state,30,,Osun,"No water, no soap, and no other cleansing agent",0.8
+state,30,,Osun,Cleansing agent other than soap only,0
+state,31,,Oyo,Water and a cleansing agent other than soap only,0.1
+state,31,,Oyo,Soap but no water,9.9
+state,31,,Oyo,Soap and water,62.1
+state,31,,Oyo,Cleansing agent other than soap only,0
+state,31,,Oyo,Water only,13.8
+state,31,,Oyo,"No water, no soap, and no other cleansing agent",14.2
+state,32,,Plateau,Cleansing agent other than soap only,0.1
+state,32,,Plateau,Soap and water,25.4
+state,32,,Plateau,Water and a cleansing agent other than soap only,2
+state,32,,Plateau,"No water, no soap, and no other cleansing agent",51.1
+state,32,,Plateau,Soap but no water,0.8
+state,32,,Plateau,Water only,20.6
+state,33,,Rivers,Cleansing agent other than soap only,0
+state,33,,Rivers,Water only,1.5
+state,33,,Rivers,"No water, no soap, and no other cleansing agent",8.1
+state,33,,Rivers,Soap and water,86.4
+state,33,,Rivers,Soap but no water,3.9
+state,33,,Rivers,Water and a cleansing agent other than soap only,0
+state,34,,Sokoto,Soap and water,5.1
+state,34,,Sokoto,"No water, no soap, and no other cleansing agent",5.6
+state,34,,Sokoto,Water and a cleansing agent other than soap only,0
+state,34,,Sokoto,Water only,88.8
+state,34,,Sokoto,Cleansing agent other than soap only,0.4
+state,34,,Sokoto,Soap but no water,0.2
+,,,South East,Soap and water,58.3
+,,,South East,Soap but no water,0.4
+,,,South East,"No water, no soap, and no other cleansing agent",20
+,,,South East,Water and a cleansing agent other than soap only,0.1
+,,,South East,Cleansing agent other than soap only,0.1
+,,,South East,Water only,21.2
+,,,South South,Soap but no water,4.8
+,,,South South,"No water, no soap, and no other cleansing agent",20.3
+,,,South South,Soap and water,56.1
+,,,South South,Cleansing agent other than soap only,0
+,,,South South,Water and a cleansing agent other than soap only,0
+,,,South South,Water only,18.8
+,,,South West,Soap and water,57.1
+,,,South West,Cleansing agent other than soap only,1.5
+,,,South West,Water and a cleansing agent other than soap only,0.8
+,,,South West,Water only,27.3
+,,,South West,Soap but no water,2.6
+,,,South West,"No water, no soap, and no other cleansing agent",10.7
+state,35,,Taraba,"No water, no soap, and no other cleansing agent",3.2
+state,35,,Taraba,Soap but no water,1
+state,35,,Taraba,Soap and water,9.8
+state,35,,Taraba,Water and a cleansing agent other than soap only,3.9
+state,35,,Taraba,Cleansing agent other than soap only,0
+state,35,,Taraba,Water only,82.1
+state,36,,Yobe,Water only,41.7
+state,36,,Yobe,Soap and water,9.4
+state,36,,Yobe,Water and a cleansing agent other than soap only,0.6
+state,36,,Yobe,Cleansing agent other than soap only,0.1
+state,36,,Yobe,"No water, no soap, and no other cleansing agent",43
+state,36,,Yobe,Soap but no water,5.2
+state,37,,Zamfara,"No water, no soap, and no other cleansing agent",80.2
+state,37,,Zamfara,Soap and water,4.2
+state,37,,Zamfara,Cleansing agent other than soap only,0.7
+state,37,,Zamfara,Water and a cleansing agent other than soap only,0.6
+state,37,,Zamfara,Soap but no water,3.7
+state,37,,Zamfara,Water only,10.6

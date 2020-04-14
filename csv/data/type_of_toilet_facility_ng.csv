@@ -1,0 +1,793 @@
+geo_level,geo_code,geo_version,name,variable,value
+state,1,,Abia,Pit latrine without a slab or an open pit,4.7
+state,1,,Abia,Flush or pour flush toilet to a pit latrine,2.5
+state,1,,Abia,Flush or pour flush toilet to a piped sewer system,0.3
+state,1,,Abia,Shared flush or pour flush toilets to piper sewer systems,0.4
+state,1,,Abia,Ventilated improved pit latrine (VIP),0.3
+state,1,,Abia,Hanging toilet or hanging latrine,0
+state,1,,Abia,"Flush or pour flush toilet not to a sewer, septic tank or pit latrine",0.1
+state,1,,Abia,Pit latrine with a slab,21
+state,1,,Abia,Open defecation,2
+state,1,,Abia,Shared ventilated improved pit latrine (VIP),0
+state,1,,Abia,Shared flush or pour flush toilets to septic tank,14.8
+state,1,,Abia,Other types of toilet facility,0
+state,1,,Abia,Shared pit latrine with a slab,11.6
+state,1,,Abia,Composting toilet,0
+state,1,,Abia,Flush or pour flush toilet to a septic tank,35.5
+state,1,,Abia,Shared composting toilet,0.3
+state,1,,Abia,Bucket toilet,0
+state,1,,Abia,Shared flush or pour flush toilets to a pit latrine,6.4
+state,2,,Adamawa,Shared flush or pour flush toilets to a pit latrine,0.1
+state,2,,Adamawa,Shared ventilated improved pit latrine (VIP),1.2
+state,2,,Adamawa,Ventilated improved pit latrine (VIP),5.4
+state,2,,Adamawa,Hanging toilet or hanging latrine,0
+state,2,,Adamawa,Pit latrine without a slab or an open pit,0.5
+state,2,,Adamawa,Shared composting toilet,0
+state,2,,Adamawa,Shared flush or pour flush toilets to septic tank,0.1
+state,2,,Adamawa,Pit latrine with a slab,48.2
+state,2,,Adamawa,Other types of toilet facility,0
+state,2,,Adamawa,Flush or pour flush toilet to a piped sewer system,0.1
+state,2,,Adamawa,Bucket toilet,0
+state,2,,Adamawa,Shared pit latrine with a slab,19.1
+state,2,,Adamawa,Shared flush or pour flush toilets to piper sewer systems,0
+state,2,,Adamawa,Flush or pour flush toilet to a septic tank,1.3
+state,2,,Adamawa,Open defecation,22.8
+state,2,,Adamawa,Composting toilet,0
+state,2,,Adamawa,"Flush or pour flush toilet not to a sewer, septic tank or pit latrine",0.3
+state,2,,Adamawa,Flush or pour flush toilet to a pit latrine,1.1
+state,3,,Akwa Ibom,Flush or pour flush toilet to a pit latrine,13.5
+state,3,,Akwa Ibom,Shared flush or pour flush toilets to a pit latrine,11.9
+state,3,,Akwa Ibom,Flush or pour flush toilet to a septic tank,8.8
+state,3,,Akwa Ibom,Bucket toilet,0.5
+state,3,,Akwa Ibom,Shared flush or pour flush toilets to septic tank,4.7
+state,3,,Akwa Ibom,Hanging toilet or hanging latrine,0.4
+state,3,,Akwa Ibom,Shared ventilated improved pit latrine (VIP),1.7
+state,3,,Akwa Ibom,Composting toilet,2.2
+state,3,,Akwa Ibom,Pit latrine without a slab or an open pit,5.9
+state,3,,Akwa Ibom,Other types of toilet facility,0
+state,3,,Akwa Ibom,Ventilated improved pit latrine (VIP),1.5
+state,3,,Akwa Ibom,"Flush or pour flush toilet not to a sewer, septic tank or pit latrine",0.2
+state,3,,Akwa Ibom,Open defecation,4.8
+state,3,,Akwa Ibom,Shared composting toilet,0.7
+state,3,,Akwa Ibom,Shared pit latrine with a slab,18.7
+state,3,,Akwa Ibom,Flush or pour flush toilet to a piped sewer system,5.6
+state,3,,Akwa Ibom,Shared flush or pour flush toilets to piper sewer systems,1.4
+state,3,,Akwa Ibom,Pit latrine with a slab,17.7
+state,4,,Anambra,Flush or pour flush toilet to a septic tank,21.7
+state,4,,Anambra,Bucket toilet,0
+state,4,,Anambra,Open defecation,17.5
+state,4,,Anambra,Pit latrine with a slab,24.6
+state,4,,Anambra,"Flush or pour flush toilet not to a sewer, septic tank or pit latrine",0
+state,4,,Anambra,Shared flush or pour flush toilets to a pit latrine,1
+state,4,,Anambra,Hanging toilet or hanging latrine,0
+state,4,,Anambra,Ventilated improved pit latrine (VIP),0.2
+state,4,,Anambra,Flush or pour flush toilet to a pit latrine,2.5
+state,4,,Anambra,Shared flush or pour flush toilets to septic tank,3.3
+state,4,,Anambra,Shared composting toilet,0
+state,4,,Anambra,Shared flush or pour flush toilets to piper sewer systems,6.3
+state,4,,Anambra,Shared pit latrine with a slab,8.6
+state,4,,Anambra,Composting toilet,0
+state,4,,Anambra,Other types of toilet facility,0
+state,4,,Anambra,Flush or pour flush toilet to a piped sewer system,14.4
+state,4,,Anambra,Pit latrine without a slab or an open pit,0
+state,4,,Anambra,Shared ventilated improved pit latrine (VIP),0.1
+state,5,,Bauchi,Other types of toilet facility,0
+state,5,,Bauchi,Open defecation,9.3
+state,5,,Bauchi,Shared pit latrine with a slab,3.5
+state,5,,Bauchi,Pit latrine without a slab or an open pit,59.8
+state,5,,Bauchi,Ventilated improved pit latrine (VIP),1.2
+state,5,,Bauchi,Flush or pour flush toilet to a pit latrine,1.2
+state,5,,Bauchi,Composting toilet,0
+state,5,,Bauchi,Shared flush or pour flush toilets to septic tank,0.1
+state,5,,Bauchi,Shared flush or pour flush toilets to a pit latrine,0.2
+state,5,,Bauchi,Flush or pour flush toilet to a piped sewer system,1.2
+state,5,,Bauchi,Shared ventilated improved pit latrine (VIP),0.3
+state,5,,Bauchi,Hanging toilet or hanging latrine,0
+state,5,,Bauchi,Shared flush or pour flush toilets to piper sewer systems,0
+state,5,,Bauchi,Flush or pour flush toilet to a septic tank,2.3
+state,5,,Bauchi,Pit latrine with a slab,20.8
+state,5,,Bauchi,Shared composting toilet,0
+state,5,,Bauchi,Bucket toilet,0
+state,5,,Bauchi,"Flush or pour flush toilet not to a sewer, septic tank or pit latrine",0
+state,6,,Bayelsa,Shared composting toilet,0
+state,6,,Bayelsa,Shared ventilated improved pit latrine (VIP),0
+state,6,,Bayelsa,Shared flush or pour flush toilets to piper sewer systems,3.6
+state,6,,Bayelsa,Flush or pour flush toilet to a piped sewer system,8.4
+state,6,,Bayelsa,Shared flush or pour flush toilets to septic tank,3.3
+state,6,,Bayelsa,Other types of toilet facility,0
+state,6,,Bayelsa,Shared pit latrine with a slab,0.8
+state,6,,Bayelsa,Pit latrine with a slab,0.5
+state,6,,Bayelsa,Flush or pour flush toilet to a pit latrine,0.6
+state,6,,Bayelsa,Open defecation,61.5
+state,6,,Bayelsa,Bucket toilet,0.3
+state,6,,Bayelsa,Flush or pour flush toilet to a septic tank,10.6
+state,6,,Bayelsa,Ventilated improved pit latrine (VIP),0
+state,6,,Bayelsa,Shared flush or pour flush toilets to a pit latrine,3.6
+state,6,,Bayelsa,Hanging toilet or hanging latrine,5.9
+state,6,,Bayelsa,Composting toilet,0
+state,6,,Bayelsa,Pit latrine without a slab or an open pit,0.7
+state,6,,Bayelsa,"Flush or pour flush toilet not to a sewer, septic tank or pit latrine",0.1
+state,7,,Benue,Shared ventilated improved pit latrine (VIP),0.1
+state,7,,Benue,Shared pit latrine with a slab,2.6
+state,7,,Benue,Shared flush or pour flush toilets to septic tank,0.1
+state,7,,Benue,Pit latrine with a slab,13.1
+state,7,,Benue,Other types of toilet facility,0
+state,7,,Benue,Shared flush or pour flush toilets to a pit latrine,5.8
+state,7,,Benue,Pit latrine without a slab or an open pit,13.9
+state,7,,Benue,"Flush or pour flush toilet not to a sewer, septic tank or pit latrine",0.2
+state,7,,Benue,Shared composting toilet,0
+state,7,,Benue,Hanging toilet or hanging latrine,0
+state,7,,Benue,Bucket toilet,0.1
+state,7,,Benue,Flush or pour flush toilet to a piped sewer system,8.9
+state,7,,Benue,Flush or pour flush toilet to a septic tank,3.2
+state,7,,Benue,Flush or pour flush toilet to a pit latrine,8
+state,7,,Benue,Ventilated improved pit latrine (VIP),0.1
+state,7,,Benue,Composting toilet,0
+state,7,,Benue,Shared flush or pour flush toilets to piper sewer systems,1.9
+state,7,,Benue,Open defecation,41.9
+state,8,,Borno,Bucket toilet,0
+state,8,,Borno,Shared flush or pour flush toilets to septic tank,0.4
+state,8,,Borno,Ventilated improved pit latrine (VIP),0
+state,8,,Borno,Hanging toilet or hanging latrine,0
+state,8,,Borno,Shared ventilated improved pit latrine (VIP),0
+state,8,,Borno,Pit latrine without a slab or an open pit,24.5
+state,8,,Borno,Shared pit latrine with a slab,13.8
+state,8,,Borno,Flush or pour flush toilet to a pit latrine,3.7
+state,8,,Borno,Composting toilet,0
+state,8,,Borno,Shared flush or pour flush toilets to a pit latrine,1.2
+state,8,,Borno,Shared flush or pour flush toilets to piper sewer systems,1.1
+state,8,,Borno,Flush or pour flush toilet to a piped sewer system,4.6
+state,8,,Borno,Shared composting toilet,0
+state,8,,Borno,Other types of toilet facility,0
+state,8,,Borno,Pit latrine with a slab,38.7
+state,8,,Borno,Flush or pour flush toilet to a septic tank,2.4
+state,8,,Borno,"Flush or pour flush toilet not to a sewer, septic tank or pit latrine",0.3
+state,8,,Borno,Open defecation,9.3
+state,9,,Cross River,Shared flush or pour flush toilets to a pit latrine,8
+state,9,,Cross River,Bucket toilet,0
+state,9,,Cross River,Composting toilet,0.1
+state,9,,Cross River,Open defecation,11.4
+state,9,,Cross River,Hanging toilet or hanging latrine,0
+state,9,,Cross River,Flush or pour flush toilet to a septic tank,13.2
+state,9,,Cross River,Other types of toilet facility,0
+state,9,,Cross River,Ventilated improved pit latrine (VIP),0.8
+state,9,,Cross River,Shared flush or pour flush toilets to septic tank,10.4
+state,9,,Cross River,Shared pit latrine with a slab,4.4
+state,9,,Cross River,Flush or pour flush toilet to a piped sewer system,0
+state,9,,Cross River,Flush or pour flush toilet to a pit latrine,7
+state,9,,Cross River,Shared composting toilet,0
+state,9,,Cross River,Shared flush or pour flush toilets to piper sewer systems,0.1
+state,9,,Cross River,Pit latrine with a slab,1.7
+state,9,,Cross River,"Flush or pour flush toilet not to a sewer, septic tank or pit latrine",2.7
+state,9,,Cross River,Pit latrine without a slab or an open pit,39.3
+state,9,,Cross River,Shared ventilated improved pit latrine (VIP),0.8
+state,10,,Delta,Pit latrine with a slab,1
+state,10,,Delta,Shared pit latrine with a slab,1.5
+state,10,,Delta,Other types of toilet facility,0
+state,10,,Delta,Shared composting toilet,0
+state,10,,Delta,Composting toilet,0
+state,10,,Delta,Pit latrine without a slab or an open pit,1.8
+state,10,,Delta,Shared flush or pour flush toilets to piper sewer systems,0
+state,10,,Delta,Ventilated improved pit latrine (VIP),3.8
+state,10,,Delta,"Flush or pour flush toilet not to a sewer, septic tank or pit latrine",0.1
+state,10,,Delta,Shared flush or pour flush toilets to septic tank,4.5
+state,10,,Delta,Shared flush or pour flush toilets to a pit latrine,11.2
+state,10,,Delta,Bucket toilet,0.2
+state,10,,Delta,Hanging toilet or hanging latrine,0.3
+state,10,,Delta,Open defecation,32
+state,10,,Delta,Flush or pour flush toilet to a septic tank,19
+state,10,,Delta,Shared ventilated improved pit latrine (VIP),6.1
+state,10,,Delta,Flush or pour flush toilet to a pit latrine,18.1
+state,10,,Delta,Flush or pour flush toilet to a piped sewer system,0.3
+state,11,,Ebonyi,Bucket toilet,0.1
+state,11,,Ebonyi,Flush or pour flush toilet to a septic tank,3.9
+state,11,,Ebonyi,Shared ventilated improved pit latrine (VIP),0.1
+state,11,,Ebonyi,Shared pit latrine with a slab,5.7
+state,11,,Ebonyi,Shared flush or pour flush toilets to septic tank,1.2
+state,11,,Ebonyi,Shared flush or pour flush toilets to piper sewer systems,0
+state,11,,Ebonyi,Flush or pour flush toilet to a pit latrine,0.5
+state,11,,Ebonyi,Pit latrine with a slab,5.5
+state,11,,Ebonyi,Shared flush or pour flush toilets to a pit latrine,0.4
+state,11,,Ebonyi,"Flush or pour flush toilet not to a sewer, septic tank or pit latrine",0
+state,11,,Ebonyi,Pit latrine without a slab or an open pit,20.4
+state,11,,Ebonyi,Open defecation,52.6
+state,11,,Ebonyi,Other types of toilet facility,0.3
+state,11,,Ebonyi,Shared composting toilet,0
+state,11,,Ebonyi,Ventilated improved pit latrine (VIP),0
+state,11,,Ebonyi,Composting toilet,0
+state,11,,Ebonyi,Flush or pour flush toilet to a piped sewer system,0
+state,11,,Ebonyi,Hanging toilet or hanging latrine,9.4
+state,12,,Edo,Pit latrine with a slab,14
+state,12,,Edo,Hanging toilet or hanging latrine,0
+state,12,,Edo,Pit latrine without a slab or an open pit,2.9
+state,12,,Edo,"Flush or pour flush toilet not to a sewer, septic tank or pit latrine",0
+state,12,,Edo,Shared flush or pour flush toilets to a pit latrine,11.8
+state,12,,Edo,Shared ventilated improved pit latrine (VIP),0
+state,12,,Edo,Other types of toilet facility,0
+state,12,,Edo,Composting toilet,0
+state,12,,Edo,Open defecation,26.7
+state,12,,Edo,Flush or pour flush toilet to a piped sewer system,0.7
+state,12,,Edo,Shared flush or pour flush toilets to septic tank,7.6
+state,12,,Edo,Ventilated improved pit latrine (VIP),0
+state,12,,Edo,Shared flush or pour flush toilets to piper sewer systems,0.1
+state,12,,Edo,Shared composting toilet,0
+state,12,,Edo,Bucket toilet,0.6
+state,12,,Edo,Flush or pour flush toilet to a pit latrine,3
+state,12,,Edo,Flush or pour flush toilet to a septic tank,20.8
+state,12,,Edo,Shared pit latrine with a slab,11.8
+state,13,,Ekiti,Hanging toilet or hanging latrine,0
+state,13,,Ekiti,Shared pit latrine with a slab,16.9
+state,13,,Ekiti,Ventilated improved pit latrine (VIP),0.1
+state,13,,Ekiti,Shared flush or pour flush toilets to piper sewer systems,5.2
+state,13,,Ekiti,Bucket toilet,0.1
+state,13,,Ekiti,Flush or pour flush toilet to a septic tank,1
+state,13,,Ekiti,Open defecation,50.1
+state,13,,Ekiti,Shared flush or pour flush toilets to a pit latrine,1.1
+state,13,,Ekiti,Flush or pour flush toilet to a pit latrine,0.6
+state,13,,Ekiti,Pit latrine without a slab or an open pit,0
+state,13,,Ekiti,Shared flush or pour flush toilets to septic tank,2.6
+state,13,,Ekiti,Composting toilet,0
+state,13,,Ekiti,Flush or pour flush toilet to a piped sewer system,15.3
+state,13,,Ekiti,"Flush or pour flush toilet not to a sewer, septic tank or pit latrine",0
+state,13,,Ekiti,Shared composting toilet,0
+state,13,,Ekiti,Shared ventilated improved pit latrine (VIP),0.1
+state,13,,Ekiti,Pit latrine with a slab,6.9
+state,13,,Ekiti,Other types of toilet facility,0
+state,14,,Enugu,Flush or pour flush toilet to a septic tank,17.3
+state,14,,Enugu,Composting toilet,0.1
+state,14,,Enugu,Shared pit latrine with a slab,2.8
+state,14,,Enugu,Shared ventilated improved pit latrine (VIP),0
+state,14,,Enugu,Pit latrine with a slab,5.2
+state,14,,Enugu,Shared flush or pour flush toilets to piper sewer systems,0
+state,14,,Enugu,Shared flush or pour flush toilets to a pit latrine,0.7
+state,14,,Enugu,Ventilated improved pit latrine (VIP),0.2
+state,14,,Enugu,Hanging toilet or hanging latrine,0
+state,14,,Enugu,Other types of toilet facility,0
+state,14,,Enugu,Shared composting toilet,0
+state,14,,Enugu,Flush or pour flush toilet to a piped sewer system,0
+state,14,,Enugu,Bucket toilet,0
+state,14,,Enugu,Pit latrine without a slab or an open pit,17.9
+state,14,,Enugu,Open defecation,42.9
+state,14,,Enugu,"Flush or pour flush toilet not to a sewer, septic tank or pit latrine",0
+state,14,,Enugu,Shared flush or pour flush toilets to septic tank,10.6
+state,14,,Enugu,Flush or pour flush toilet to a pit latrine,2.2
+state,15,,Federal Capital Territory,Shared ventilated improved pit latrine (VIP),0.4
+state,15,,Federal Capital Territory,Shared flush or pour flush toilets to piper sewer systems,0.1
+state,15,,Federal Capital Territory,Shared composting toilet,0
+state,15,,Federal Capital Territory,"Flush or pour flush toilet not to a sewer, septic tank or pit latrine",0
+state,15,,Federal Capital Territory,Open defecation,29.8
+state,15,,Federal Capital Territory,Shared flush or pour flush toilets to a pit latrine,14.6
+state,15,,Federal Capital Territory,Hanging toilet or hanging latrine,0
+state,15,,Federal Capital Territory,Shared pit latrine with a slab,5.4
+state,15,,Federal Capital Territory,Shared flush or pour flush toilets to septic tank,7.3
+state,15,,Federal Capital Territory,Bucket toilet,0.3
+state,15,,Federal Capital Territory,Flush or pour flush toilet to a septic tank,28.5
+state,15,,Federal Capital Territory,Other types of toilet facility,0.2
+state,15,,Federal Capital Territory,Pit latrine without a slab or an open pit,0.9
+state,15,,Federal Capital Territory,Flush or pour flush toilet to a pit latrine,6.4
+state,15,,Federal Capital Territory,Ventilated improved pit latrine (VIP),0.3
+state,15,,Federal Capital Territory,Composting toilet,0
+state,15,,Federal Capital Territory,Flush or pour flush toilet to a piped sewer system,0.3
+state,15,,Federal Capital Territory,Pit latrine with a slab,5.5
+state,16,,Gombe,Ventilated improved pit latrine (VIP),33.9
+state,16,,Gombe,Shared flush or pour flush toilets to piper sewer systems,0
+state,16,,Gombe,Bucket toilet,0
+state,16,,Gombe,Pit latrine with a slab,30.1
+state,16,,Gombe,Shared composting toilet,0
+state,16,,Gombe,Open defecation,12.9
+state,16,,Gombe,Shared flush or pour flush toilets to a pit latrine,0.2
+state,16,,Gombe,Shared flush or pour flush toilets to septic tank,0.3
+state,16,,Gombe,"Flush or pour flush toilet not to a sewer, septic tank or pit latrine",1.2
+state,16,,Gombe,Flush or pour flush toilet to a pit latrine,0.8
+state,16,,Gombe,Other types of toilet facility,0.2
+state,16,,Gombe,Shared ventilated improved pit latrine (VIP),0.7
+state,16,,Gombe,Hanging toilet or hanging latrine,0
+state,16,,Gombe,Flush or pour flush toilet to a septic tank,2.1
+state,16,,Gombe,Composting toilet,0
+state,16,,Gombe,Shared pit latrine with a slab,4.5
+state,16,,Gombe,Pit latrine without a slab or an open pit,12.3
+state,16,,Gombe,Flush or pour flush toilet to a piped sewer system,0.8
+state,17,,Imo,Shared flush or pour flush toilets to a pit latrine,0.5
+state,17,,Imo,Shared flush or pour flush toilets to piper sewer systems,3.3
+state,17,,Imo,Bucket toilet,0.2
+state,17,,Imo,Shared pit latrine with a slab,4
+state,17,,Imo,"Flush or pour flush toilet not to a sewer, septic tank or pit latrine",0
+state,17,,Imo,Shared composting toilet,0
+state,17,,Imo,Other types of toilet facility,0
+state,17,,Imo,Flush or pour flush toilet to a piped sewer system,26.2
+state,17,,Imo,Pit latrine without a slab or an open pit,0.2
+state,17,,Imo,Shared flush or pour flush toilets to septic tank,2.8
+state,17,,Imo,Shared ventilated improved pit latrine (VIP),0
+state,17,,Imo,Flush or pour flush toilet to a pit latrine,1.7
+state,17,,Imo,Flush or pour flush toilet to a septic tank,8.5
+state,17,,Imo,Open defecation,11
+state,17,,Imo,Ventilated improved pit latrine (VIP),0.9
+state,17,,Imo,Pit latrine with a slab,40.8
+state,17,,Imo,Hanging toilet or hanging latrine,0.1
+state,17,,Imo,Composting toilet,0
+state,18,,Jigawa,Shared flush or pour flush toilets to a pit latrine,0
+state,18,,Jigawa,Open defecation,16
+state,18,,Jigawa,Shared flush or pour flush toilets to septic tank,0
+state,18,,Jigawa,Composting toilet,0
+state,18,,Jigawa,Flush or pour flush toilet to a pit latrine,4.9
+state,18,,Jigawa,Shared ventilated improved pit latrine (VIP),0
+state,18,,Jigawa,Flush or pour flush toilet to a septic tank,1.5
+state,18,,Jigawa,Shared flush or pour flush toilets to piper sewer systems,0
+state,18,,Jigawa,Flush or pour flush toilet to a piped sewer system,0
+state,18,,Jigawa,"Flush or pour flush toilet not to a sewer, septic tank or pit latrine",0.3
+state,18,,Jigawa,Ventilated improved pit latrine (VIP),0.9
+state,18,,Jigawa,Hanging toilet or hanging latrine,0
+state,18,,Jigawa,Bucket toilet,0
+state,18,,Jigawa,Shared pit latrine with a slab,0.6
+state,18,,Jigawa,Shared composting toilet,0
+state,18,,Jigawa,Other types of toilet facility,0
+state,18,,Jigawa,Pit latrine without a slab or an open pit,66
+state,18,,Jigawa,Pit latrine with a slab,9.8
+state,19,,Kaduna,Bucket toilet,0.3
+state,19,,Kaduna,Hanging toilet or hanging latrine,0
+state,19,,Kaduna,Other types of toilet facility,0
+state,19,,Kaduna,Flush or pour flush toilet to a septic tank,7.4
+state,19,,Kaduna,Shared composting toilet,0
+state,19,,Kaduna,Shared ventilated improved pit latrine (VIP),15.1
+state,19,,Kaduna,Pit latrine without a slab or an open pit,28.6
+state,19,,Kaduna,Shared flush or pour flush toilets to a pit latrine,0
+state,19,,Kaduna,Flush or pour flush toilet to a pit latrine,0
+state,19,,Kaduna,"Flush or pour flush toilet not to a sewer, septic tank or pit latrine",1.3
+state,19,,Kaduna,Ventilated improved pit latrine (VIP),5.2
+state,19,,Kaduna,Shared flush or pour flush toilets to septic tank,3.1
+state,19,,Kaduna,Pit latrine with a slab,13.4
+state,19,,Kaduna,Open defecation,4
+state,19,,Kaduna,Shared pit latrine with a slab,20.4
+state,19,,Kaduna,Shared flush or pour flush toilets to piper sewer systems,0.1
+state,19,,Kaduna,Composting toilet,0
+state,19,,Kaduna,Flush or pour flush toilet to a piped sewer system,1.2
+state,20,,Kano,Flush or pour flush toilet to a piped sewer system,0.7
+state,20,,Kano,Shared pit latrine with a slab,7.6
+state,20,,Kano,Hanging toilet or hanging latrine,0
+state,20,,Kano,Other types of toilet facility,0
+state,20,,Kano,Pit latrine without a slab or an open pit,33.8
+state,20,,Kano,Pit latrine with a slab,30.1
+state,20,,Kano,Flush or pour flush toilet to a septic tank,9.9
+state,20,,Kano,Composting toilet,0
+state,20,,Kano,Shared flush or pour flush toilets to piper sewer systems,0
+state,20,,Kano,Shared composting toilet,0
+state,20,,Kano,Open defecation,3.9
+state,20,,Kano,Shared flush or pour flush toilets to septic tank,0.4
+state,20,,Kano,Shared flush or pour flush toilets to a pit latrine,0.6
+state,20,,Kano,Shared ventilated improved pit latrine (VIP),0.2
+state,20,,Kano,"Flush or pour flush toilet not to a sewer, septic tank or pit latrine",8.7
+state,20,,Kano,Bucket toilet,0
+state,20,,Kano,Flush or pour flush toilet to a pit latrine,3.4
+state,20,,Kano,Ventilated improved pit latrine (VIP),0.7
+state,21,,Katsina,Flush or pour flush toilet to a pit latrine,1.5
+state,21,,Katsina,Shared flush or pour flush toilets to piper sewer systems,0
+state,21,,Katsina,Shared flush or pour flush toilets to a pit latrine,0
+state,21,,Katsina,Open defecation,1.7
+state,21,,Katsina,Shared pit latrine with a slab,4.1
+state,21,,Katsina,Pit latrine without a slab or an open pit,59
+state,21,,Katsina,Pit latrine with a slab,30.1
+state,21,,Katsina,Shared ventilated improved pit latrine (VIP),0
+state,21,,Katsina,Shared composting toilet,0
+state,21,,Katsina,Hanging toilet or hanging latrine,0
+state,21,,Katsina,Ventilated improved pit latrine (VIP),0.2
+state,21,,Katsina,"Flush or pour flush toilet not to a sewer, septic tank or pit latrine",0
+state,21,,Katsina,Shared flush or pour flush toilets to septic tank,0.2
+state,21,,Katsina,Other types of toilet facility,0
+state,21,,Katsina,Composting toilet,0
+state,21,,Katsina,Flush or pour flush toilet to a piped sewer system,0.3
+state,21,,Katsina,Flush or pour flush toilet to a septic tank,3
+state,21,,Katsina,Bucket toilet,0
+state,22,,Kebbi,Hanging toilet or hanging latrine,0
+state,22,,Kebbi,Flush or pour flush toilet to a piped sewer system,1.4
+state,22,,Kebbi,Shared flush or pour flush toilets to a pit latrine,1.5
+state,22,,Kebbi,Flush or pour flush toilet to a septic tank,0
+state,22,,Kebbi,Shared ventilated improved pit latrine (VIP),0.1
+state,22,,Kebbi,Pit latrine without a slab or an open pit,46.5
+state,22,,Kebbi,Other types of toilet facility,0
+state,22,,Kebbi,Shared pit latrine with a slab,11.2
+state,22,,Kebbi,Bucket toilet,0
+state,22,,Kebbi,Composting toilet,0
+state,22,,Kebbi,Shared flush or pour flush toilets to piper sewer systems,0.3
+state,22,,Kebbi,Shared flush or pour flush toilets to septic tank,0.3
+state,22,,Kebbi,Pit latrine with a slab,5.5
+state,22,,Kebbi,"Flush or pour flush toilet not to a sewer, septic tank or pit latrine",0.3
+state,22,,Kebbi,Open defecation,30.6
+state,22,,Kebbi,Flush or pour flush toilet to a pit latrine,2.3
+state,22,,Kebbi,Shared composting toilet,0
+state,22,,Kebbi,Ventilated improved pit latrine (VIP),0
+state,23,,Kogi,Shared flush or pour flush toilets to septic tank,3.7
+state,23,,Kogi,Shared flush or pour flush toilets to piper sewer systems,0.2
+state,23,,Kogi,Pit latrine without a slab or an open pit,1.6
+state,23,,Kogi,Ventilated improved pit latrine (VIP),0.1
+state,23,,Kogi,Flush or pour flush toilet to a piped sewer system,0.1
+state,23,,Kogi,Other types of toilet facility,0
+state,23,,Kogi,Composting toilet,0
+state,23,,Kogi,Shared composting toilet,0
+state,23,,Kogi,Shared ventilated improved pit latrine (VIP),0
+state,23,,Kogi,Pit latrine with a slab,1.6
+state,23,,Kogi,Bucket toilet,1.1
+state,23,,Kogi,Open defecation,70.4
+state,23,,Kogi,"Flush or pour flush toilet not to a sewer, septic tank or pit latrine",0.2
+state,23,,Kogi,Hanging toilet or hanging latrine,0
+state,23,,Kogi,Flush or pour flush toilet to a pit latrine,2.9
+state,23,,Kogi,Shared pit latrine with a slab,3.5
+state,23,,Kogi,Shared flush or pour flush toilets to a pit latrine,5
+state,23,,Kogi,Flush or pour flush toilet to a septic tank,9.6
+state,24,,Kwara,Shared ventilated improved pit latrine (VIP),0.5
+state,24,,Kwara,Pit latrine with a slab,0.7
+state,24,,Kwara,Hanging toilet or hanging latrine,0
+state,24,,Kwara,Shared pit latrine with a slab,8.3
+state,24,,Kwara,Composting toilet,0.2
+state,24,,Kwara,Shared flush or pour flush toilets to septic tank,7.6
+state,24,,Kwara,Flush or pour flush toilet to a piped sewer system,0
+state,24,,Kwara,Flush or pour flush toilet to a septic tank,11
+state,24,,Kwara,Ventilated improved pit latrine (VIP),0
+state,24,,Kwara,Flush or pour flush toilet to a pit latrine,3.4
+state,24,,Kwara,Bucket toilet,0.5
+state,24,,Kwara,Shared flush or pour flush toilets to piper sewer systems,0
+state,24,,Kwara,Shared composting toilet,1
+state,24,,Kwara,"Flush or pour flush toilet not to a sewer, septic tank or pit latrine",0
+state,24,,Kwara,Other types of toilet facility,0
+state,24,,Kwara,Shared flush or pour flush toilets to a pit latrine,9
+state,24,,Kwara,Open defecation,56.5
+state,24,,Kwara,Pit latrine without a slab or an open pit,1.3
+state,25,,Lagos,Flush or pour flush toilet to a septic tank,33.8
+state,25,,Lagos,Pit latrine without a slab or an open pit,6
+state,25,,Lagos,Shared flush or pour flush toilets to a pit latrine,15.1
+state,25,,Lagos,Shared ventilated improved pit latrine (VIP),4.1
+state,25,,Lagos,Shared flush or pour flush toilets to piper sewer systems,0.4
+state,25,,Lagos,Flush or pour flush toilet to a piped sewer system,2.7
+state,25,,Lagos,Other types of toilet facility,0
+state,25,,Lagos,"Flush or pour flush toilet not to a sewer, septic tank or pit latrine",0.1
+state,25,,Lagos,Shared pit latrine with a slab,7.7
+state,25,,Lagos,Pit latrine with a slab,0.8
+state,25,,Lagos,Shared composting toilet,0.1
+state,25,,Lagos,Ventilated improved pit latrine (VIP),0.5
+state,25,,Lagos,Flush or pour flush toilet to a pit latrine,3.7
+state,25,,Lagos,Bucket toilet,0.4
+state,25,,Lagos,Composting toilet,0
+state,25,,Lagos,Open defecation,6.4
+state,25,,Lagos,Shared flush or pour flush toilets to septic tank,18.3
+state,25,,Lagos,Hanging toilet or hanging latrine,0
+state,26,,Nasarawa,Other types of toilet facility,0.2
+state,26,,Nasarawa,Hanging toilet or hanging latrine,0
+state,26,,Nasarawa,Flush or pour flush toilet to a pit latrine,0.4
+state,26,,Nasarawa,Shared flush or pour flush toilets to a pit latrine,1.6
+state,26,,Nasarawa,Shared composting toilet,0
+state,26,,Nasarawa,Shared flush or pour flush toilets to piper sewer systems,1.8
+state,26,,Nasarawa,Flush or pour flush toilet to a septic tank,12.2
+state,26,,Nasarawa,Flush or pour flush toilet to a piped sewer system,1.8
+state,26,,Nasarawa,Bucket toilet,0
+state,26,,Nasarawa,Shared flush or pour flush toilets to septic tank,4.3
+state,26,,Nasarawa,Open defecation,22
+state,26,,Nasarawa,Ventilated improved pit latrine (VIP),0
+state,26,,Nasarawa,Composting toilet,0
+state,26,,Nasarawa,Pit latrine without a slab or an open pit,2.4
+state,26,,Nasarawa,"Flush or pour flush toilet not to a sewer, septic tank or pit latrine",9.8
+state,26,,Nasarawa,Shared ventilated improved pit latrine (VIP),0
+state,26,,Nasarawa,Shared pit latrine with a slab,29
+state,26,,Nasarawa,Pit latrine with a slab,14.5
+state,27,,Niger,Shared pit latrine with a slab,9.1
+state,27,,Niger,Pit latrine with a slab,8.2
+state,27,,Niger,Other types of toilet facility,0
+state,27,,Niger,Hanging toilet or hanging latrine,0
+state,27,,Niger,Open defecation,57.7
+state,27,,Niger,Shared flush or pour flush toilets to a pit latrine,4.1
+state,27,,Niger,Flush or pour flush toilet to a pit latrine,5.1
+state,27,,Niger,Shared composting toilet,0
+state,27,,Niger,Bucket toilet,0
+state,27,,Niger,Pit latrine without a slab or an open pit,3.7
+state,27,,Niger,Flush or pour flush toilet to a piped sewer system,0.5
+state,27,,Niger,Shared ventilated improved pit latrine (VIP),4.8
+state,27,,Niger,Ventilated improved pit latrine (VIP),2.5
+state,27,,Niger,Composting toilet,0
+state,27,,Niger,Flush or pour flush toilet to a septic tank,3.8
+state,27,,Niger,"Flush or pour flush toilet not to a sewer, septic tank or pit latrine",0.1
+state,27,,Niger,Shared flush or pour flush toilets to piper sewer systems,0
+state,27,,Niger,Shared flush or pour flush toilets to septic tank,0.5
+country,NG,,Nigeria,Pit latrine without a slab or an open pit,21.7
+country,NG,,Nigeria,"Flush or pour flush toilet not to a sewer, septic tank or pit latrine",1
+country,NG,,Nigeria,Shared composting toilet,0
+country,NG,,Nigeria,Hanging toilet or hanging latrine,0.8
+country,NG,,Nigeria,Bucket toilet,0.1
+country,NG,,Nigeria,Flush or pour flush toilet to a piped sewer system,2.7
+country,NG,,Nigeria,Other types of toilet facility,0
+country,NG,,Nigeria,Shared ventilated improved pit latrine (VIP),1.7
+country,NG,,Nigeria,Composting toilet,0.1
+country,NG,,Nigeria,Ventilated improved pit latrine (VIP),1.9
+country,NG,,Nigeria,Shared pit latrine with a slab,8.8
+country,NG,,Nigeria,Pit latrine with a slab,16.2
+country,NG,,Nigeria,Flush or pour flush toilet to a pit latrine,3.9
+country,NG,,Nigeria,Shared flush or pour flush toilets to piper sewer systems,0.8
+country,NG,,Nigeria,Flush or pour flush toilet to a septic tank,9.4
+country,NG,,Nigeria,Shared flush or pour flush toilets to a pit latrine,4
+country,NG,,Nigeria,Shared flush or pour flush toilets to septic tank,3.8
+country,NG,,Nigeria,Open defecation,22.9
+,,,North Central,Shared flush or pour flush toilets to a pit latrine,5.2
+,,,North Central,"Flush or pour flush toilet not to a sewer, septic tank or pit latrine",1.2
+,,,North Central,Hanging toilet or hanging latrine,0
+,,,North Central,Composting toilet,0
+,,,North Central,Pit latrine with a slab,8.1
+,,,North Central,Open defecation,51.1
+,,,North Central,Shared ventilated improved pit latrine (VIP),1.6
+,,,North Central,Shared flush or pour flush toilets to piper sewer systems,0.6
+,,,North Central,Shared flush or pour flush toilets to septic tank,2.3
+,,,North Central,Pit latrine without a slab or an open pit,4.5
+,,,North Central,Bucket toilet,0.2
+,,,North Central,Flush or pour flush toilet to a piped sewer system,2.2
+,,,North Central,Flush or pour flush toilet to a septic tank,7
+,,,North Central,Other types of toilet facility,0
+,,,North Central,Flush or pour flush toilet to a pit latrine,4.7
+,,,North Central,Shared pit latrine with a slab,9.1
+,,,North Central,Shared composting toilet,0.1
+,,,North Central,Ventilated improved pit latrine (VIP),2
+,,,North East,Flush or pour flush toilet to a pit latrine,2.5
+,,,North East,Composting toilet,0
+,,,North East,Pit latrine with a slab,30.6
+,,,North East,Ventilated improved pit latrine (VIP),5.3
+,,,North East,Flush or pour flush toilet to a septic tank,1.6
+,,,North East,Other types of toilet facility,0
+,,,North East,Shared flush or pour flush toilets to piper sewer systems,0.2
+,,,North East,"Flush or pour flush toilet not to a sewer, septic tank or pit latrine",0.3
+,,,North East,Flush or pour flush toilet to a piped sewer system,1.8
+,,,North East,Open defecation,22.5
+,,,North East,Pit latrine without a slab or an open pit,26.1
+,,,North East,Bucket toilet,0.1
+,,,North East,Shared flush or pour flush toilets to septic tank,0.1
+,,,North East,Hanging toilet or hanging latrine,0
+,,,North East,Shared flush or pour flush toilets to a pit latrine,0.4
+,,,North East,Shared pit latrine with a slab,8
+,,,North East,Shared ventilated improved pit latrine (VIP),0.6
+,,,North East,Shared composting toilet,0
+,,,North West,Flush or pour flush toilet to a pit latrine,2.6
+,,,North West,Shared flush or pour flush toilets to a pit latrine,0.4
+,,,North West,Shared flush or pour flush toilets to piper sewer systems,0
+,,,North West,Open defecation,9.3
+,,,North West,"Flush or pour flush toilet not to a sewer, septic tank or pit latrine",2.3
+,,,North West,Pit latrine with a slab,21.1
+,,,North West,Flush or pour flush toilet to a septic tank,4.9
+,,,North West,Composting toilet,0
+,,,North West,Shared composting toilet,0
+,,,North West,Shared ventilated improved pit latrine (VIP),2.8
+,,,North West,Bucket toilet,0
+,,,North West,Flush or pour flush toilet to a piped sewer system,0.6
+,,,North West,Hanging toilet or hanging latrine,0
+,,,North West,Shared pit latrine with a slab,7.7
+,,,North West,Ventilated improved pit latrine (VIP),1.6
+,,,North West,Other types of toilet facility,0
+,,,North West,Pit latrine without a slab or an open pit,45.9
+,,,North West,Shared flush or pour flush toilets to septic tank,0.7
+state,28,,Ogun,Flush or pour flush toilet to a septic tank,18.4
+state,28,,Ogun,Pit latrine without a slab or an open pit,5
+state,28,,Ogun,Shared flush or pour flush toilets to a pit latrine,1.9
+state,28,,Ogun,Open defecation,17.5
+state,28,,Ogun,Flush or pour flush toilet to a pit latrine,1.5
+state,28,,Ogun,"Flush or pour flush toilet not to a sewer, septic tank or pit latrine",0.3
+state,28,,Ogun,Shared ventilated improved pit latrine (VIP),0
+state,28,,Ogun,Ventilated improved pit latrine (VIP),0.1
+state,28,,Ogun,Pit latrine with a slab,4.4
+state,28,,Ogun,Composting toilet,0
+state,28,,Ogun,Shared flush or pour flush toilets to septic tank,21.7
+state,28,,Ogun,Shared pit latrine with a slab,28.8
+state,28,,Ogun,Flush or pour flush toilet to a piped sewer system,0.1
+state,28,,Ogun,Hanging toilet or hanging latrine,0
+state,28,,Ogun,Shared composting toilet,0
+state,28,,Ogun,Shared flush or pour flush toilets to piper sewer systems,0.2
+state,28,,Ogun,Bucket toilet,0.2
+state,28,,Ogun,Other types of toilet facility,0
+state,29,,Ondo,Composting toilet,0
+state,29,,Ondo,"Flush or pour flush toilet not to a sewer, septic tank or pit latrine",0
+state,29,,Ondo,Shared flush or pour flush toilets to piper sewer systems,0
+state,29,,Ondo,Ventilated improved pit latrine (VIP),1.8
+state,29,,Ondo,Flush or pour flush toilet to a septic tank,13.3
+state,29,,Ondo,Hanging toilet or hanging latrine,0
+state,29,,Ondo,Shared ventilated improved pit latrine (VIP),4.3
+state,29,,Ondo,Flush or pour flush toilet to a pit latrine,0.9
+state,29,,Ondo,Bucket toilet,0
+state,29,,Ondo,Shared composting toilet,0
+state,29,,Ondo,Shared pit latrine with a slab,8.8
+state,29,,Ondo,Shared flush or pour flush toilets to septic tank,9.8
+state,29,,Ondo,Flush or pour flush toilet to a piped sewer system,0
+state,29,,Ondo,Other types of toilet facility,0
+state,29,,Ondo,Pit latrine without a slab or an open pit,3.3
+state,29,,Ondo,Open defecation,47.1
+state,29,,Ondo,Shared flush or pour flush toilets to a pit latrine,8.7
+state,29,,Ondo,Pit latrine with a slab,2
+state,30,,Osun,Pit latrine without a slab or an open pit,4.3
+state,30,,Osun,Flush or pour flush toilet to a pit latrine,6.8
+state,30,,Osun,Flush or pour flush toilet to a septic tank,14.2
+state,30,,Osun,Shared ventilated improved pit latrine (VIP),1.5
+state,30,,Osun,Pit latrine with a slab,1.7
+state,30,,Osun,Shared composting toilet,0.1
+state,30,,Osun,Bucket toilet,0
+state,30,,Osun,Shared flush or pour flush toilets to a pit latrine,15.7
+state,30,,Osun,Hanging toilet or hanging latrine,0
+state,30,,Osun,Flush or pour flush toilet to a piped sewer system,2
+state,30,,Osun,Other types of toilet facility,0
+state,30,,Osun,Shared flush or pour flush toilets to piper sewer systems,1.9
+state,30,,Osun,Ventilated improved pit latrine (VIP),0.3
+state,30,,Osun,Composting toilet,0
+state,30,,Osun,Open defecation,33.3
+state,30,,Osun,Shared pit latrine with a slab,9
+state,30,,Osun,"Flush or pour flush toilet not to a sewer, septic tank or pit latrine",0
+state,30,,Osun,Shared flush or pour flush toilets to septic tank,9.3
+state,31,,Oyo,Flush or pour flush toilet to a piped sewer system,7.9
+state,31,,Oyo,Shared pit latrine with a slab,24.2
+state,31,,Oyo,Shared ventilated improved pit latrine (VIP),0
+state,31,,Oyo,Pit latrine without a slab or an open pit,0.2
+state,31,,Oyo,Flush or pour flush toilet to a septic tank,1.9
+state,31,,Oyo,Other types of toilet facility,0.4
+state,31,,Oyo,Ventilated improved pit latrine (VIP),0
+state,31,,Oyo,Shared flush or pour flush toilets to piper sewer systems,4.2
+state,31,,Oyo,Pit latrine with a slab,3.5
+state,31,,Oyo,Shared flush or pour flush toilets to a pit latrine,8
+state,31,,Oyo,Open defecation,35.8
+state,31,,Oyo,"Flush or pour flush toilet not to a sewer, septic tank or pit latrine",0.4
+state,31,,Oyo,Bucket toilet,0.5
+state,31,,Oyo,Composting toilet,0.2
+state,31,,Oyo,Shared composting toilet,0
+state,31,,Oyo,Flush or pour flush toilet to a pit latrine,12.4
+state,31,,Oyo,Hanging toilet or hanging latrine,0
+state,31,,Oyo,Shared flush or pour flush toilets to septic tank,0.5
+state,32,,Plateau,Flush or pour flush toilet to a piped sewer system,0
+state,32,,Plateau,Open defecation,64
+state,32,,Plateau,Shared flush or pour flush toilets to septic tank,0.1
+state,32,,Plateau,Shared pit latrine with a slab,8.6
+state,32,,Plateau,Shared flush or pour flush toilets to piper sewer systems,0
+state,32,,Plateau,Bucket toilet,0
+state,32,,Plateau,Shared composting toilet,0
+state,32,,Plateau,Shared flush or pour flush toilets to a pit latrine,2.8
+state,32,,Plateau,Other types of toilet facility,0
+state,32,,Plateau,Pit latrine with a slab,7.7
+state,32,,Plateau,Ventilated improved pit latrine (VIP),8.7
+state,32,,Plateau,Flush or pour flush toilet to a septic tank,1.7
+state,32,,Plateau,Shared ventilated improved pit latrine (VIP),1.7
+state,32,,Plateau,Pit latrine without a slab or an open pit,0.4
+state,32,,Plateau,Flush or pour flush toilet to a pit latrine,4.1
+state,32,,Plateau,Hanging toilet or hanging latrine,0
+state,32,,Plateau,"Flush or pour flush toilet not to a sewer, septic tank or pit latrine",0
+state,32,,Plateau,Composting toilet,0
+state,33,,Rivers,Open defecation,18.3
+state,33,,Rivers,Bucket toilet,0
+state,33,,Rivers,Hanging toilet or hanging latrine,17.4
+state,33,,Rivers,Shared flush or pour flush toilets to a pit latrine,16.5
+state,33,,Rivers,Other types of toilet facility,0
+state,33,,Rivers,Shared flush or pour flush toilets to piper sewer systems,0.7
+state,33,,Rivers,Composting toilet,0.1
+state,33,,Rivers,Shared ventilated improved pit latrine (VIP),0
+state,33,,Rivers,Pit latrine with a slab,2.8
+state,33,,Rivers,Ventilated improved pit latrine (VIP),0
+state,33,,Rivers,Shared flush or pour flush toilets to septic tank,6.5
+state,33,,Rivers,Shared composting toilet,0
+state,33,,Rivers,Flush or pour flush toilet to a pit latrine,6.2
+state,33,,Rivers,Flush or pour flush toilet to a septic tank,25.2
+state,33,,Rivers,"Flush or pour flush toilet not to a sewer, septic tank or pit latrine",0.7
+state,33,,Rivers,Shared pit latrine with a slab,3
+state,33,,Rivers,Flush or pour flush toilet to a piped sewer system,0
+state,33,,Rivers,Pit latrine without a slab or an open pit,2.6
+state,34,,Sokoto,Ventilated improved pit latrine (VIP),1.2
+state,34,,Sokoto,Shared flush or pour flush toilets to septic tank,0
+state,34,,Sokoto,Pit latrine with a slab,36.3
+state,34,,Sokoto,Open defecation,25.5
+state,34,,Sokoto,Shared pit latrine with a slab,4.4
+state,34,,Sokoto,Pit latrine without a slab or an open pit,31
+state,34,,Sokoto,Shared ventilated improved pit latrine (VIP),0
+state,34,,Sokoto,Hanging toilet or hanging latrine,0
+state,34,,Sokoto,Other types of toilet facility,0
+state,34,,Sokoto,Flush or pour flush toilet to a septic tank,0.1
+state,34,,Sokoto,"Flush or pour flush toilet not to a sewer, septic tank or pit latrine",0
+state,34,,Sokoto,Bucket toilet,0
+state,34,,Sokoto,Shared flush or pour flush toilets to piper sewer systems,0
+state,34,,Sokoto,Flush or pour flush toilet to a piped sewer system,1.1
+state,34,,Sokoto,Flush or pour flush toilet to a pit latrine,0.4
+state,34,,Sokoto,Shared composting toilet,0
+state,34,,Sokoto,Shared flush or pour flush toilets to a pit latrine,0
+state,34,,Sokoto,Composting toilet,0
+,,,South East,Shared ventilated improved pit latrine (VIP),0
+,,,South East,Shared flush or pour flush toilets to septic tank,5.5
+,,,South East,Shared flush or pour flush toilets to a pit latrine,1.4
+,,,South East,Bucket toilet,0.1
+,,,South East,Shared flush or pour flush toilets to piper sewer systems,2.5
+,,,South East,Open defecation,25.8
+,,,South East,Flush or pour flush toilet to a septic tank,16.3
+,,,South East,Composting toilet,0
+,,,South East,Flush or pour flush toilet to a pit latrine,1.8
+,,,South East,"Flush or pour flush toilet not to a sewer, septic tank or pit latrine",0
+,,,South East,Other types of toilet facility,0.1
+,,,South East,Shared composting toilet,0
+,,,South East,Flush or pour flush toilet to a piped sewer system,9.5
+,,,South East,Ventilated improved pit latrine (VIP),0.3
+,,,South East,Pit latrine with a slab,20.2
+,,,South East,Shared pit latrine with a slab,6.4
+,,,South East,Pit latrine without a slab or an open pit,8
+,,,South East,Hanging toilet or hanging latrine,2
+,,,South South,Ventilated improved pit latrine (VIP),1.2
+,,,South South,Shared flush or pour flush toilets to piper sewer systems,0.7
+,,,South South,Open defecation,22.1
+,,,South South,Composting toilet,0.4
+,,,South South,Other types of toilet facility,0
+,,,South South,Flush or pour flush toilet to a piped sewer system,1.8
+,,,South South,Pit latrine with a slab,6.4
+,,,South South,Flush or pour flush toilet to a pit latrine,9.3
+,,,South South,Flush or pour flush toilet to a septic tank,17.8
+,,,South South,Shared flush or pour flush toilets to septic tank,6.1
+,,,South South,Bucket toilet,0.2
+,,,South South,Hanging toilet or hanging latrine,5.5
+,,,South South,Shared pit latrine with a slab,6.8
+,,,South South,Shared flush or pour flush toilets to a pit latrine,12
+,,,South South,"Flush or pour flush toilet not to a sewer, septic tank or pit latrine",0.6
+,,,South South,Shared ventilated improved pit latrine (VIP),1.7
+,,,South South,Pit latrine without a slab or an open pit,7.2
+,,,South South,Shared composting toilet,0.1
+,,,South West,Flush or pour flush toilet to a septic tank,18.5
+,,,South West,"Flush or pour flush toilet not to a sewer, septic tank or pit latrine",0.1
+,,,South West,Shared pit latrine with a slab,14.7
+,,,South West,Flush or pour flush toilet to a pit latrine,5.1
+,,,South West,Composting toilet,0
+,,,South West,Other types of toilet facility,0.1
+,,,South West,Pit latrine with a slab,2.5
+,,,South West,Shared flush or pour flush toilets to piper sewer systems,1.6
+,,,South West,Shared ventilated improved pit latrine (VIP),2.1
+,,,South West,Hanging toilet or hanging latrine,0
+,,,South West,Pit latrine without a slab or an open pit,3.8
+,,,South West,Shared composting toilet,0
+,,,South West,Shared flush or pour flush toilets to septic tank,12.1
+,,,South West,Shared flush or pour flush toilets to a pit latrine,10.5
+,,,South West,Ventilated improved pit latrine (VIP),0.4
+,,,South West,Flush or pour flush toilet to a piped sewer system,3.9
+,,,South West,Bucket toilet,0.3
+,,,South West,Open defecation,24.3
+state,35,,Taraba,Shared ventilated improved pit latrine (VIP),0
+state,35,,Taraba,Shared flush or pour flush toilets to septic tank,0
+state,35,,Taraba,Pit latrine with a slab,33
+state,35,,Taraba,Shared pit latrine with a slab,9.1
+state,35,,Taraba,Pit latrine without a slab or an open pit,26.2
+state,35,,Taraba,Flush or pour flush toilet to a pit latrine,5.3
+state,35,,Taraba,Bucket toilet,0
+state,35,,Taraba,Shared composting toilet,0
+state,35,,Taraba,Flush or pour flush toilet to a piped sewer system,3.8
+state,35,,Taraba,"Flush or pour flush toilet not to a sewer, septic tank or pit latrine",0
+state,35,,Taraba,Shared flush or pour flush toilets to piper sewer systems,0.1
+state,35,,Taraba,Hanging toilet or hanging latrine,0
+state,35,,Taraba,Composting toilet,0
+state,35,,Taraba,Other types of toilet facility,0
+state,35,,Taraba,Flush or pour flush toilet to a septic tank,0.2
+state,35,,Taraba,Ventilated improved pit latrine (VIP),0
+state,35,,Taraba,Shared flush or pour flush toilets to a pit latrine,0.1
+state,35,,Taraba,Open defecation,22.1
+state,36,,Yobe,Ventilated improved pit latrine (VIP),2.7
+state,36,,Yobe,Flush or pour flush toilet to a septic tank,1
+state,36,,Yobe,Open defecation,54
+state,36,,Yobe,Shared flush or pour flush toilets to piper sewer systems,0
+state,36,,Yobe,Hanging toilet or hanging latrine,0
+state,36,,Yobe,Flush or pour flush toilet to a piped sewer system,0
+state,36,,Yobe,Pit latrine without a slab or an open pit,14.6
+state,36,,Yobe,Shared flush or pour flush toilets to a pit latrine,0
+state,36,,Yobe,Bucket toilet,0.5
+state,36,,Yobe,Other types of toilet facility,0
+state,36,,Yobe,Shared flush or pour flush toilets to septic tank,0
+state,36,,Yobe,Shared ventilated improved pit latrine (VIP),1.3
+state,36,,Yobe,Shared composting toilet,0
+state,36,,Yobe,Composting toilet,0
+state,36,,Yobe,Pit latrine with a slab,21.5
+state,36,,Yobe,Flush or pour flush toilet to a pit latrine,2.8
+state,36,,Yobe,Shared pit latrine with a slab,1.6
+state,36,,Yobe,"Flush or pour flush toilet not to a sewer, septic tank or pit latrine",0.1
+state,37,,Zamfara,Composting toilet,0
+state,37,,Zamfara,Shared flush or pour flush toilets to septic tank,0
+state,37,,Zamfara,Ventilated improved pit latrine (VIP),2.1
+state,37,,Zamfara,Pit latrine without a slab or an open pit,65.7
+state,37,,Zamfara,Shared pit latrine with a slab,0.6
+state,37,,Zamfara,Bucket toilet,0
+state,37,,Zamfara,Shared flush or pour flush toilets to piper sewer systems,0
+state,37,,Zamfara,Shared composting toilet,0
+state,37,,Zamfara,Shared flush or pour flush toilets to a pit latrine,0.8
+state,37,,Zamfara,Flush or pour flush toilet to a piped sewer system,0
+state,37,,Zamfara,Hanging toilet or hanging latrine,0
+state,37,,Zamfara,"Flush or pour flush toilet not to a sewer, septic tank or pit latrine",0.3
+state,37,,Zamfara,Flush or pour flush toilet to a pit latrine,6.7
+state,37,,Zamfara,Pit latrine with a slab,12.7
+state,37,,Zamfara,Shared ventilated improved pit latrine (VIP),0.1
+state,37,,Zamfara,Other types of toilet facility,0
+state,37,,Zamfara,Open defecation,6.4
+state,37,,Zamfara,Flush or pour flush toilet to a septic tank,4.6

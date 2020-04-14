@@ -1,0 +1,221 @@
+geo_level,geo_code,geo_version,name,variable,value
+state,1,,Abia,Any of the specified problems,68.1
+state,1,,Abia,Getting money for treatment,65.4
+state,1,,Abia,Getting permission to go for treatment,11.1
+state,1,,Abia,Not wanting to go alone,31.6
+state,1,,Abia,Distance to health facility,34.4
+state,2,,Adamawa,Getting money for treatment,90
+state,2,,Adamawa,Not wanting to go alone,30.7
+state,2,,Adamawa,Getting permission to go for treatment,16.9
+state,2,,Adamawa,Any of the specified problems,90.8
+state,2,,Adamawa,Distance to health facility,40.2
+state,3,,Akwa Ibom,Getting permission to go for treatment,8.9
+state,3,,Akwa Ibom,Getting money for treatment,47.1
+state,3,,Akwa Ibom,Not wanting to go alone,12.1
+state,3,,Akwa Ibom,Distance to health facility,19
+state,3,,Akwa Ibom,Any of the specified problems,54.8
+state,4,,Anambra,Getting permission to go for treatment,2.6
+state,4,,Anambra,Any of the specified problems,41.6
+state,4,,Anambra,Not wanting to go alone,5.8
+state,4,,Anambra,Distance to health facility,11.9
+state,4,,Anambra,Getting money for treatment,37.6
+state,5,,Bauchi,Getting permission to go for treatment,17.4
+state,5,,Bauchi,Distance to health facility,40
+state,5,,Bauchi,Getting money for treatment,52
+state,5,,Bauchi,Any of the specified problems,65.3
+state,5,,Bauchi,Not wanting to go alone,35.7
+state,6,,Bayelsa,Distance to health facility,35.8
+state,6,,Bayelsa,Getting permission to go for treatment,35.5
+state,6,,Bayelsa,Any of the specified problems,46.2
+state,6,,Bayelsa,Getting money for treatment,44.5
+state,6,,Bayelsa,Not wanting to go alone,30
+state,7,,Benue,Getting permission to go for treatment,9
+state,7,,Benue,Any of the specified problems,80.2
+state,7,,Benue,Distance to health facility,49.4
+state,7,,Benue,Not wanting to go alone,17.8
+state,7,,Benue,Getting money for treatment,77.5
+state,8,,Borno,Distance to health facility,24.9
+state,8,,Borno,Getting money for treatment,58.9
+state,8,,Borno,Any of the specified problems,68.1
+state,8,,Borno,Not wanting to go alone,23
+state,8,,Borno,Getting permission to go for treatment,7
+state,9,,Cross River,Getting permission to go for treatment,17.9
+state,9,,Cross River,Any of the specified problems,42.3
+state,9,,Cross River,Not wanting to go alone,8.3
+state,9,,Cross River,Getting money for treatment,36.1
+state,9,,Cross River,Distance to health facility,13.5
+state,10,,Delta,Any of the specified problems,77.3
+state,10,,Delta,Getting permission to go for treatment,29.4
+state,10,,Delta,Not wanting to go alone,39.2
+state,10,,Delta,Distance to health facility,53.3
+state,10,,Delta,Getting money for treatment,73
+state,11,,Ebonyi,Getting permission to go for treatment,2.8
+state,11,,Ebonyi,Not wanting to go alone,7.2
+state,11,,Ebonyi,Getting money for treatment,65
+state,11,,Ebonyi,Any of the specified problems,70.5
+state,11,,Ebonyi,Distance to health facility,35.5
+state,12,,Edo,Getting money for treatment,39.8
+state,12,,Edo,Any of the specified problems,49.6
+state,12,,Edo,Not wanting to go alone,11.1
+state,12,,Edo,Distance to health facility,22.2
+state,12,,Edo,Getting permission to go for treatment,10.9
+state,13,,Ekiti,Getting money for treatment,22.9
+state,13,,Ekiti,Not wanting to go alone,13.2
+state,13,,Ekiti,Any of the specified problems,30.4
+state,13,,Ekiti,Distance to health facility,20
+state,13,,Ekiti,Getting permission to go for treatment,8.6
+state,14,,Enugu,Getting money for treatment,51.6
+state,14,,Enugu,Not wanting to go alone,21.5
+state,14,,Enugu,Any of the specified problems,52.3
+state,14,,Enugu,Getting permission to go for treatment,5.6
+state,14,,Enugu,Distance to health facility,25.7
+state,15,,Federal Capital Territory,Any of the specified problems,52.6
+state,15,,Federal Capital Territory,Getting permission to go for treatment,7.7
+state,15,,Federal Capital Territory,Getting money for treatment,47.6
+state,15,,Federal Capital Territory,Not wanting to go alone,9.4
+state,15,,Federal Capital Territory,Distance to health facility,20.2
+state,16,,Gombe,Any of the specified problems,69
+state,16,,Gombe,Not wanting to go alone,12.7
+state,16,,Gombe,Getting permission to go for treatment,9.6
+state,16,,Gombe,Getting money for treatment,61.8
+state,16,,Gombe,Distance to health facility,41.2
+state,17,,Imo,Any of the specified problems,57.6
+state,17,,Imo,Getting permission to go for treatment,12.2
+state,17,,Imo,Not wanting to go alone,15.8
+state,17,,Imo,Getting money for treatment,48.2
+state,17,,Imo,Distance to health facility,30.6
+state,18,,Jigawa,Distance to health facility,25.4
+state,18,,Jigawa,Getting permission to go for treatment,3
+state,18,,Jigawa,Any of the specified problems,74.4
+state,18,,Jigawa,Getting money for treatment,67.6
+state,18,,Jigawa,Not wanting to go alone,14.8
+state,19,,Kaduna,Not wanting to go alone,4.3
+state,19,,Kaduna,Distance to health facility,13
+state,19,,Kaduna,Any of the specified problems,54.7
+state,19,,Kaduna,Getting permission to go for treatment,7.1
+state,19,,Kaduna,Getting money for treatment,52.3
+state,20,,Kano,Not wanting to go alone,10.5
+state,20,,Kano,Any of the specified problems,37.1
+state,20,,Kano,Getting money for treatment,34.2
+state,20,,Kano,Getting permission to go for treatment,4.8
+state,20,,Kano,Distance to health facility,17.7
+state,21,,Katsina,Any of the specified problems,18.6
+state,21,,Katsina,Distance to health facility,13.5
+state,21,,Katsina,Getting permission to go for treatment,5.1
+state,21,,Katsina,Getting money for treatment,15.3
+state,21,,Katsina,Not wanting to go alone,12.1
+state,22,,Kebbi,Distance to health facility,30.3
+state,22,,Kebbi,Any of the specified problems,52.5
+state,22,,Kebbi,Not wanting to go alone,13.3
+state,22,,Kebbi,Getting money for treatment,35.9
+state,22,,Kebbi,Getting permission to go for treatment,17.6
+state,23,,Kogi,Any of the specified problems,72.6
+state,23,,Kogi,Distance to health facility,40.4
+state,23,,Kogi,Getting money for treatment,64.7
+state,23,,Kogi,Not wanting to go alone,14
+state,23,,Kogi,Getting permission to go for treatment,9.8
+state,24,,Kwara,Not wanting to go alone,9.2
+state,24,,Kwara,Distance to health facility,21.3
+state,24,,Kwara,Getting money for treatment,32.1
+state,24,,Kwara,Getting permission to go for treatment,6.1
+state,24,,Kwara,Any of the specified problems,38.1
+state,25,,Lagos,Any of the specified problems,33.6
+state,25,,Lagos,Getting money for treatment,25
+state,25,,Lagos,Getting permission to go for treatment,6.2
+state,25,,Lagos,Not wanting to go alone,6.9
+state,25,,Lagos,Distance to health facility,12.7
+state,26,,Nasarawa,Getting permission to go for treatment,4.9
+state,26,,Nasarawa,Getting money for treatment,10.3
+state,26,,Nasarawa,Not wanting to go alone,7.3
+state,26,,Nasarawa,Distance to health facility,6.5
+state,26,,Nasarawa,Any of the specified problems,13.8
+state,27,,Niger,Any of the specified problems,69.2
+state,27,,Niger,Not wanting to go alone,34.9
+state,27,,Niger,Getting permission to go for treatment,32.3
+state,27,,Niger,Getting money for treatment,62.5
+state,27,,Niger,Distance to health facility,48.3
+country,NG,,Nigeria,Any of the specified problems,51.5
+country,NG,,Nigeria,Getting permission to go for treatment,11.4
+country,NG,,Nigeria,Getting money for treatment,45.8
+country,NG,,Nigeria,Not wanting to go alone,16.1
+country,NG,,Nigeria,Distance to health facility,25.7
+,,,North Central,Getting permission to go for treatment,13
+,,,North Central,Not wanting to go alone,18.7
+,,,North Central,Getting money for treatment,52.7
+,,,North Central,Any of the specified problems,58.7
+,,,North Central,Distance to health facility,36.3
+,,,North East,Any of the specified problems,68.6
+,,,North East,Distance to health facility,34
+,,,North East,Getting money for treatment,60.1
+,,,North East,Getting permission to go for treatment,11.8
+,,,North East,Not wanting to go alone,24.7
+,,,North West,Getting money for treatment,39.9
+,,,North West,Getting permission to go for treatment,9.2
+,,,North West,Not wanting to go alone,11.6
+,,,North West,Distance to health facility,19.6
+,,,North West,Any of the specified problems,44.6
+state,28,,Ogun,Getting permission to go for treatment,13.7
+state,28,,Ogun,Getting money for treatment,33
+state,28,,Ogun,Any of the specified problems,36.5
+state,28,,Ogun,Distance to health facility,10.2
+state,28,,Ogun,Not wanting to go alone,6.7
+state,29,,Ondo,Getting permission to go for treatment,1.1
+state,29,,Ondo,Getting money for treatment,14.5
+state,29,,Ondo,Not wanting to go alone,1.5
+state,29,,Ondo,Any of the specified problems,15.3
+state,29,,Ondo,Distance to health facility,2
+state,30,,Osun,Not wanting to go alone,2.5
+state,30,,Osun,Getting money for treatment,8.6
+state,30,,Osun,Getting permission to go for treatment,1.7
+state,30,,Osun,Any of the specified problems,12.8
+state,30,,Osun,Distance to health facility,6.8
+state,31,,Oyo,Getting permission to go for treatment,51.7
+state,31,,Oyo,Not wanting to go alone,52.1
+state,31,,Oyo,Getting money for treatment,71.9
+state,31,,Oyo,Any of the specified problems,74.8
+state,31,,Oyo,Distance to health facility,64.6
+state,32,,Plateau,Distance to health facility,34
+state,32,,Plateau,Getting permission to go for treatment,5.2
+state,32,,Plateau,Not wanting to go alone,18
+state,32,,Plateau,Any of the specified problems,50.1
+state,32,,Plateau,Getting money for treatment,39.2
+state,33,,Rivers,Getting permission to go for treatment,5.9
+state,33,,Rivers,Any of the specified problems,47.1
+state,33,,Rivers,Distance to health facility,13.3
+state,33,,Rivers,Not wanting to go alone,8.1
+state,33,,Rivers,Getting money for treatment,43.6
+state,34,,Sokoto,Distance to health facility,35.8
+state,34,,Sokoto,Getting money for treatment,43.6
+state,34,,Sokoto,Getting permission to go for treatment,41.8
+state,34,,Sokoto,Any of the specified problems,51.2
+state,34,,Sokoto,Not wanting to go alone,33.8
+,,,South East,Any of the specified problems,55.9
+,,,South East,Getting permission to go for treatment,6.1
+,,,South East,Getting money for treatment,51.3
+,,,South East,Not wanting to go alone,14.1
+,,,South East,Distance to health facility,25.7
+,,,South South,Any of the specified problems,54.1
+,,,South South,Not wanting to go alone,16.6
+,,,South South,Getting permission to go for treatment,14.8
+,,,South South,Distance to health facility,24.5
+,,,South South,Getting money for treatment,48.7
+,,,South West,Distance to health facility,20.7
+,,,South West,Getting money for treatment,31.5
+,,,South West,Getting permission to go for treatment,14.7
+,,,South West,Not wanting to go alone,14.6
+,,,South West,Any of the specified problems,37
+state,35,,Taraba,Any of the specified problems,65.4
+state,35,,Taraba,Getting permission to go for treatment,7.5
+state,35,,Taraba,Distance to health facility,30.6
+state,35,,Taraba,Getting money for treatment,51.2
+state,35,,Taraba,Not wanting to go alone,15.4
+state,36,,Yobe,Getting money for treatment,54.2
+state,36,,Yobe,Not wanting to go alone,23.9
+state,36,,Yobe,Any of the specified problems,59.4
+state,36,,Yobe,Distance to health facility,32
+state,36,,Yobe,Getting permission to go for treatment,12.1
+state,37,,Zamfara,Not wanting to go alone,6.8
+state,37,,Zamfara,Distance to health facility,19.9
+state,37,,Zamfara,Getting money for treatment,42.8
+state,37,,Zamfara,Any of the specified problems,43.5
+state,37,,Zamfara,Getting permission to go for treatment,6

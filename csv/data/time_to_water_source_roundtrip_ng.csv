@@ -1,0 +1,133 @@
+geo_level,geo_code,geo_version,name,variable,value
+state,1,,Abia,30 minutes or longer away,14.6
+state,1,,Abia,Less than 30 minutes away,60.1
+state,1,,Abia,On the premises,25.3
+state,2,,Adamawa,30 minutes or longer away,3.2
+state,2,,Adamawa,On the premises,30.7
+state,2,,Adamawa,Less than 30 minutes away,66.1
+state,3,,Akwa Ibom,On the premises,23.8
+state,3,,Akwa Ibom,30 minutes or longer away,28.6
+state,3,,Akwa Ibom,Less than 30 minutes away,47.4
+state,4,,Anambra,Less than 30 minutes away,73.3
+state,4,,Anambra,On the premises,22.4
+state,4,,Anambra,30 minutes or longer away,4.4
+state,5,,Bauchi,Less than 30 minutes away,72.7
+state,5,,Bauchi,30 minutes or longer away,4
+state,5,,Bauchi,On the premises,23.3
+state,6,,Bayelsa,Less than 30 minutes away,79.9
+state,6,,Bayelsa,On the premises,19.5
+state,6,,Bayelsa,30 minutes or longer away,0.4
+state,7,,Benue,Less than 30 minutes away,37.7
+state,7,,Benue,30 minutes or longer away,11.6
+state,7,,Benue,On the premises,50.7
+state,8,,Borno,On the premises,25.9
+state,8,,Borno,30 minutes or longer away,19.8
+state,8,,Borno,Less than 30 minutes away,52.9
+state,9,,Cross River,30 minutes or longer away,32.7
+state,9,,Cross River,On the premises,17.6
+state,9,,Cross River,Less than 30 minutes away,49.6
+state,10,,Delta,30 minutes or longer away,2.7
+state,10,,Delta,On the premises,68.3
+state,10,,Delta,Less than 30 minutes away,28.9
+state,11,,Ebonyi,30 minutes or longer away,35.2
+state,11,,Ebonyi,On the premises,23.3
+state,11,,Ebonyi,Less than 30 minutes away,41.5
+state,12,,Edo,30 minutes or longer away,19.6
+state,12,,Edo,On the premises,34.5
+state,12,,Edo,Less than 30 minutes away,45.9
+state,13,,Ekiti,30 minutes or longer away,22.6
+state,13,,Ekiti,On the premises,21.2
+state,13,,Ekiti,Less than 30 minutes away,56.2
+state,14,,Enugu,Less than 30 minutes away,24.2
+state,14,,Enugu,30 minutes or longer away,31
+state,14,,Enugu,On the premises,44.8
+state,15,,Federal Capital Territory,On the premises,35.6
+state,15,,Federal Capital Territory,30 minutes or longer away,17.2
+state,15,,Federal Capital Territory,Less than 30 minutes away,47.2
+state,16,,Gombe,On the premises,24.2
+state,16,,Gombe,30 minutes or longer away,27.4
+state,16,,Gombe,Less than 30 minutes away,48.4
+state,17,,Imo,Less than 30 minutes away,28.6
+state,17,,Imo,30 minutes or longer away,21.9
+state,17,,Imo,On the premises,49.5
+state,18,,Jigawa,Less than 30 minutes away,74.9
+state,18,,Jigawa,On the premises,22.9
+state,18,,Jigawa,30 minutes or longer away,2.2
+state,19,,Kaduna,Less than 30 minutes away,19.1
+state,19,,Kaduna,On the premises,76.8
+state,19,,Kaduna,30 minutes or longer away,4.1
+state,20,,Kano,Less than 30 minutes away,50.5
+state,20,,Kano,30 minutes or longer away,15.3
+state,20,,Kano,On the premises,34.1
+state,21,,Katsina,On the premises,26.7
+state,21,,Katsina,30 minutes or longer away,9.5
+state,21,,Katsina,Less than 30 minutes away,63.9
+state,22,,Kebbi,30 minutes or longer away,2.1
+state,22,,Kebbi,Less than 30 minutes away,65.8
+state,22,,Kebbi,On the premises,31.4
+state,23,,Kogi,Less than 30 minutes away,45.9
+state,23,,Kogi,30 minutes or longer away,27.3
+state,23,,Kogi,On the premises,26.7
+state,24,,Kwara,On the premises,25.9
+state,24,,Kwara,30 minutes or longer away,17.6
+state,24,,Kwara,Less than 30 minutes away,56.4
+state,25,,Lagos,30 minutes or longer away,12.7
+state,25,,Lagos,On the premises,52.5
+state,25,,Lagos,Less than 30 minutes away,34.7
+state,26,,Nasarawa,Less than 30 minutes away,75.4
+state,26,,Nasarawa,On the premises,18.5
+state,26,,Nasarawa,30 minutes or longer away,5.8
+state,27,,Niger,Less than 30 minutes away,78.9
+state,27,,Niger,30 minutes or longer away,4.2
+state,27,,Niger,On the premises,16.9
+country,NG,,Nigeria,30 minutes or longer away,12.8
+country,NG,,Nigeria,On the premises,33
+country,NG,,Nigeria,Less than 30 minutes away,54.1
+,,,North Central,30 minutes or longer away,13.7
+,,,North Central,Less than 30 minutes away,58
+,,,North Central,On the premises,28.3
+,,,North East,Less than 30 minutes away,62.2
+,,,North East,On the premises,21.3
+,,,North East,30 minutes or longer away,16.1
+,,,North West,Less than 30 minutes away,54.2
+,,,North West,On the premises,38
+,,,North West,30 minutes or longer away,7.8
+state,28,,Ogun,Less than 30 minutes away,68.6
+state,28,,Ogun,On the premises,30.3
+state,28,,Ogun,30 minutes or longer away,1.1
+state,29,,Ondo,On the premises,30.6
+state,29,,Ondo,Less than 30 minutes away,50.8
+state,29,,Ondo,30 minutes or longer away,18.6
+state,30,,Osun,On the premises,18.5
+state,30,,Osun,30 minutes or longer away,17.8
+state,30,,Osun,Less than 30 minutes away,63.8
+state,31,,Oyo,On the premises,36.5
+state,31,,Oyo,30 minutes or longer away,6
+state,31,,Oyo,Less than 30 minutes away,57.5
+state,32,,Plateau,Less than 30 minutes away,51.4
+state,32,,Plateau,On the premises,24.3
+state,32,,Plateau,30 minutes or longer away,24.2
+state,33,,Rivers,On the premises,36.3
+state,33,,Rivers,30 minutes or longer away,7.9
+state,33,,Rivers,Less than 30 minutes away,55.7
+state,34,,Sokoto,Less than 30 minutes away,47.7
+state,34,,Sokoto,On the premises,39.2
+state,34,,Sokoto,30 minutes or longer away,13.1
+,,,South East,Less than 30 minutes away,47.3
+,,,South East,30 minutes or longer away,20.3
+,,,South East,On the premises,32.4
+,,,South South,30 minutes or longer away,14.6
+,,,South South,Less than 30 minutes away,48.3
+,,,South South,On the premises,37.1
+,,,South West,Less than 30 minutes away,50.6
+,,,South West,On the premises,37.6
+,,,South West,30 minutes or longer away,11.8
+state,35,,Taraba,30 minutes or longer away,23.3
+state,35,,Taraba,On the premises,20.3
+state,35,,Taraba,Less than 30 minutes away,56.4
+state,36,,Yobe,On the premises,8.6
+state,36,,Yobe,Less than 30 minutes away,68.5
+state,36,,Yobe,30 minutes or longer away,23
+state,37,,Zamfara,30 minutes or longer away,2.2
+state,37,,Zamfara,On the premises,22.2
+state,37,,Zamfara,Less than 30 minutes away,75.6

@@ -1,0 +1,7 @@
+geo_level,geo_code,geo_version,name,variable_1,variable_2,value
+country,NG,,Nigeria,Rural,On the premises,26.6
+country,NG,,Nigeria,Rural,Less than 30 minutes away,59.2
+country,NG,,Nigeria,Rural,30 minutes or longer away,14
+country,NG,,Nigeria,Urban,30 minutes or longer away,11.2
+country,NG,,Nigeria,Urban,On the premises,41.3
+country,NG,,Nigeria,Urban,Less than 30 minutes away,47.5
