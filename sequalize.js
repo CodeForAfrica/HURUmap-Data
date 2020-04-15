@@ -35,6 +35,7 @@ const sqlString = ({
   dataValues,
   dataSources,
   pkColumns,
+  ignoreNULLValues
 }) => {
   return (
     `
@@ -75,6 +76,8 @@ ALTER TABLE ONLY public.${escapeField(
 
 INSERT INTO public.${escapeField(tablename)} VALUES
 ${dataValues
+  // IGNORE NULL VALUES
+  .filter(values => !ignoreNULLValues || values.findIndex(value => !value) === -1)
   .map(
     (values) =>
       `(${values
@@ -101,6 +104,7 @@ module.exports = ({
   mappedGeos,
   sources,
   populateGeoColumns = true,
+  ignoreNULLValues = true,
   defaultHeaders = [
     "geo_level",
     "geo_code",
@@ -227,6 +231,7 @@ module.exports = ({
     dataValues: dataValues.filter((v) => v),
     dataSources,
     pkColumns,
+    ignoreNULLValues
   });
 
   fs.writeFileSync(`./sql/${tablename}.sql`, sql);

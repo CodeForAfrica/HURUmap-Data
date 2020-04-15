@@ -35,7 +35,7 @@ function csv2ObjectsArray(path) {
 const transpose = (a) => a[0].map((_, c) => a.map((r) => r[c]));
 
 function combineCSVData(tablename) {
-  const filenames = fs.readdirSync("./csv/data").filter(f => f.startsWith(tablename));
+  const filenames = fs.readdirSync("./csv/data").filter(f => f.match(new RegExp("^" + tablename + "_[a-z]+\.csv", "i")));
   return filenames.reduce((combinedData, filename) => {
     const countryCode = (filename.match(FILE_COUNTRY_CODE_REGEX) || [
       "",
@@ -132,6 +132,7 @@ sequalize({
   tablename: "geos",
   data: csv2Array("./csv/geos.csv"),
   populateGeoColumns: false,
+  ignoreNULLValues: false,
   pkColumns: ["geo_level", "geo_code", "version"],
 });
 
@@ -140,6 +141,7 @@ sequalize({
   tablename: "wazimap_geography",
   data: csv2Array("./csv/wazimap_geography.csv"),
   populateGeoColumns: false,
+  ignoreNULLValues: false,
   pkColumns: ["geo_level", "geo_code", "version"],
 });
 
