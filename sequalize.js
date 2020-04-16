@@ -35,7 +35,7 @@ const sqlString = ({
   dataValues,
   dataSources,
   pkColumns,
-  ignoreNULLValues
+  ignoreNULLValues,
 }) => {
   return (
     `
@@ -77,13 +77,15 @@ ALTER TABLE ONLY public.${escapeField(
 INSERT INTO public.${escapeField(tablename)} VALUES
 ${dataValues
   // IGNORE NULL VALUES
-  .filter(values => !ignoreNULLValues || values.findIndex(value => !value) === -1)
+  .filter(
+    (values) => !ignoreNULLValues || values.findIndex((value) => !value) === -1
+  )
   .map(
     (values) =>
       `(${values
         .map((value, i) => {
           if ("string" === dataTypes[i]) {
-            return `${formatSQL("?", [value || null])}`;
+            return `${formatSQL("?", [ value ? value.replace(/^"|"$/g, "") : null ])}`;
           }
           return value ? Number(value.replace(/"|,/gi, "")) : "NULL";
         })
@@ -231,7 +233,7 @@ module.exports = ({
     dataValues: dataValues.filter((v) => v),
     dataSources,
     pkColumns,
-    ignoreNULLValues
+    ignoreNULLValues,
   });
 
   fs.writeFileSync(`./sql/${tablename}.sql`, sql);

@@ -29,11 +29,11 @@ ALTER TABLE ONLY public.handwashing_prev_urbanrural ADD CONSTRAINT pk_handwashin
 INSERT INTO public.handwashing_prev_urbanrural VALUES
 ('country','GH',2009,'continent','AFR','Fixed facility observed','Rural',20,'Ghana'),
 ('country','GH',2009,'continent','AFR','Mobile object observed','Rural',49.1,'Ghana'),
-('country','GH',2009,'continent','AFR','"No handwashing facility observed in the dwelling, yard, or plot"','Rural',30.7,'Ghana'),
+('country','GH',2009,'continent','AFR','No handwashing facility observed in the dwelling, yard, or plot','Rural',30.7,'Ghana'),
 ('country','GH',2009,'continent','AFR','No permission to see/ Other','Rural',0.2,'Ghana'),
 ('country','GH',2009,'continent','AFR','Fixed facility observed','Urban',28.4,'Ghana'),
 ('country','GH',2009,'continent','AFR','Mobile object observed','Urban',46.9,'Ghana'),
-('country','GH',2009,'continent','AFR','"No handwashing facility observed in the dwelling, yard, or plot"','Urban',24.2,'Ghana'),
+('country','GH',2009,'continent','AFR','No handwashing facility observed in the dwelling, yard, or plot','Urban',24.2,'Ghana'),
 ('country','GH',2009,'continent','AFR','No permission to see/ Other','Urban',0.5,'Ghana'),
 ('country','NG',2009,'continent','AFR','Handwashing was a fixed place','Rural',25.4,'Nigeria'),
 ('country','NG',2009,'continent','AFR','Handwashing was mobile','Rural',53.4,'Nigeria'),
