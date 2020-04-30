@@ -2,7 +2,7 @@ geo_level,geo_code,geo_version,name,variable,value
 municipality,ETH,,eThekwini,2005,31.7
 municipality,BUF,,Buffalo City,2018,30.6
 municipality,DC39,,Dr Ruth Segomotsi Mompati,2014,13
-municipality,DC4,,Eden,2019,14.3
+municipality,DC4,,Garden Route,2019,14.3
 municipality,DC13,,Chris Hani,2006,27.2
 municipality,JHB,,City of Johannesburg,2011,18.8
 municipality,DC12,,Amathole,2012,20.3
@@ -21,7 +21,7 @@ province,EC,,Eastern Cape,2011,23.3
 municipality,DC44,,Alfred Nzo,2017,11.6
 municipality,DC25,,Amajuba,2011,30
 municipality,DC32,,Ehlanzeni,2014,14.4
-municipality,DC10,,Cacadu,2003,33.2
+municipality,DC10,,Sarah Baartman,2003,33.2
 municipality,BUF,,Buffalo City,2005,44.3
 municipality,DC25,,Amajuba,2012,14
 municipality,CPT,,City of Cape Town,2018,24.4
@@ -51,11 +51,11 @@ municipality,DC37,,Bojanala,2012,5
 municipality,DC12,,Amathole,2015,20.3
 municipality,DC32,,Ehlanzeni,2016,14.9
 municipality,TSH,,City of Tshwane,2010,28.8
-municipality,DC10,,Cacadu,2008,32.7
-municipality,DC10,,Cacadu,2009,32
+municipality,DC10,,Sarah Baartman,2008,32.7
+municipality,DC10,,Sarah Baartman,2009,32
 municipality,DC32,,Ehlanzeni,2004,19.8
 municipality,DC40,,Dr Kenneth Kaunda,2019,36.3
-municipality,DC10,,Cacadu,2010,32.3
+municipality,DC10,,Sarah Baartman,2010,32.3
 municipality,ETH,,eThekwini,2013,28
 municipality,DC37,,Bojanala,2003,6.3
 municipality,DC12,,Amathole,2016,20.5
@@ -70,8 +70,8 @@ municipality,JHB,,City of Johannesburg,2006,20.1
 municipality,JHB,,City of Johannesburg,2007,20
 municipality,DC37,,Bojanala,2013,5
 municipality,TSH,,City of Tshwane,2004,34.6
-municipality,DC10,,Cacadu,2011,32.1
-municipality,DC10,,Cacadu,2012,31.4
+municipality,DC10,,Sarah Baartman,2011,32.1
+municipality,DC10,,Sarah Baartman,2012,31.4
 municipality,DC37,,Bojanala,2004,6.4
 municipality,DC44,,Alfred Nzo,2019,11.7
 municipality,DC13,,Chris Hani,2016,25
@@ -94,17 +94,17 @@ municipality,DC25,,Amajuba,2019,21.5
 municipality,DC12,,Amathole,2003,25.4
 municipality,ETH,,eThekwini,2007,30.4
 municipality,BUF,,Buffalo City,2007,40.7
-municipality,DC10,,Cacadu,2013,30.7
-municipality,DC10,,Cacadu,2014,30.3
+municipality,DC10,,Sarah Baartman,2013,30.7
+municipality,DC10,,Sarah Baartman,2014,30.3
 municipality,EKU,,Ekurhuleni,2014,12.8
 municipality,DC40,,Dr Kenneth Kaunda,2010,42.4
 municipality,DC13,,Chris Hani,2017,24.9
 municipality,DC13,,Chris Hani,2018,24.7
-municipality,DC4,,Eden,2006,16.4
-municipality,DC4,,Eden,2007,16.5
+municipality,DC4,,Garden Route,2006,16.4
+municipality,DC4,,Garden Route,2007,16.5
 municipality,TSH,,City of Tshwane,2013,24.8
 municipality,TSH,,City of Tshwane,2014,21.3
-municipality,DC10,,Cacadu,2015,28.7
+municipality,DC10,,Sarah Baartman,2015,28.7
 municipality,DC2,,Cape Winelands,2006,17.7
 municipality,DC2,,Cape Winelands,2007,17.5
 municipality,DC13,,Chris Hani,2019,24.6
@@ -113,8 +113,8 @@ municipality,EKU,,Ekurhuleni,2010,13.1
 municipality,DC5,,Central Karoo,2011,19.1
 province,EC,,Eastern Cape,2017,21
 province,EC,,Eastern Cape,2018,20.6
-municipality,DC10,,Cacadu,2004,32.3
-municipality,DC10,,Cacadu,2005,31.3
+municipality,DC10,,Sarah Baartman,2004,32.3
+municipality,DC10,,Sarah Baartman,2005,31.3
 municipality,DC2,,Cape Winelands,2012,16.7
 municipality,DC2,,Cape Winelands,2013,16.7
 municipality,DC2,,Cape Winelands,2014,16.5
@@ -147,10 +147,10 @@ municipality,CPT,,City of Cape Town,2013,24.6
 municipality,DC13,,Chris Hani,2003,28.6
 municipality,DC13,,Chris Hani,2004,28.1
 municipality,DC40,,Dr Kenneth Kaunda,2011,41.9
-municipality,DC10,,Cacadu,2016,27.6
+municipality,DC10,,Sarah Baartman,2016,27.6
 municipality,TSH,,City of Tshwane,2006,30.5
 municipality,BUF,,Buffalo City,2008,39.4
-municipality,DC10,,Cacadu,2017,27.2
+municipality,DC10,,Sarah Baartman,2017,27.2
 municipality,EKU,,Ekurhuleni,2015,12.7
 municipality,BUF,,Buffalo City,2003,41.3
 municipality,ETH,,eThekwini,2014,24.5
@@ -177,8 +177,8 @@ municipality,DC13,,Chris Hani,2011,25.9
 municipality,DC25,,Amajuba,2013,22.8
 municipality,DC40,,Dr Kenneth Kaunda,2013,41.8
 municipality,TSH,,City of Tshwane,2015,24.5
-municipality,DC4,,Eden,2008,16.4
-municipality,DC4,,Eden,2009,17
+municipality,DC4,,Garden Route,2008,16.4
+municipality,DC4,,Garden Route,2009,17
 municipality,DC5,,Central Karoo,2013,18.8
 municipality,BUF,,Buffalo City,2012,38.6
 municipality,DC13,,Chris Hani,2012,25.9
@@ -195,7 +195,7 @@ municipality,CPT,,City of Cape Town,2014,24.9
 municipality,DC5,,Central Karoo,2014,18.6
 municipality,DC25,,Amajuba,2005,34.9
 municipality,DC35,,Capricorn,2014,18.9
-municipality,DC4,,Eden,2010,16
+municipality,DC4,,Garden Route,2010,16
 municipality,BUF,,Buffalo City,2013,37.3
 municipality,BUF,,Buffalo City,2014,35.7
 municipality,TSH,,City of Tshwane,2016,24.7
@@ -230,10 +230,10 @@ municipality,DC35,,Capricorn,2016,17.7
 municipality,DC35,,Capricorn,2007,21.8
 municipality,DC35,,Capricorn,2008,21.8
 municipality,JHB,,City of Johannesburg,2014,16.9
-municipality,DC4,,Eden,2011,15.6
-municipality,DC4,,Eden,2012,15.4
-municipality,DC4,,Eden,2003,18.8
-municipality,DC4,,Eden,2004,18.3
+municipality,DC4,,Garden Route,2011,15.6
+municipality,DC4,,Garden Route,2012,15.4
+municipality,DC4,,Garden Route,2003,18.8
+municipality,DC4,,Garden Route,2004,18.3
 municipality,DC20,,Fezile Dabi,2008,13.9
 municipality,DC20,,Fezile Dabi,2009,14.6
 municipality,DC20,,Fezile Dabi,2010,14.8
@@ -245,18 +245,18 @@ municipality,DC39,,Dr Ruth Segomotsi Mompati,2011,12
 municipality,JHB,,City of Johannesburg,2015,17.9
 municipality,DC40,,Dr Kenneth Kaunda,2014,36
 municipality,DC40,,Dr Kenneth Kaunda,2015,34.6
-municipality,DC10,,Cacadu,2018,27
+municipality,DC10,,Sarah Baartman,2018,27
 municipality,DC12,,Amathole,2010,20.8
 municipality,ETH,,eThekwini,2015,27.2
 municipality,EKU,,Ekurhuleni,2012,13.1
 municipality,CPT,,City of Cape Town,2016,24.8
-municipality,DC4,,Eden,2015,15
-municipality,DC4,,Eden,2016,14.8
-municipality,DC4,,Eden,2017,14.6
+municipality,DC4,,Garden Route,2015,15
+municipality,DC4,,Garden Route,2016,14.8
+municipality,DC4,,Garden Route,2017,14.6
 municipality,DC25,,Amajuba,2015,23.1
 municipality,DC35,,Capricorn,2017,17.6
 municipality,BUF,,Buffalo City,2016,34.5
-municipality,DC10,,Cacadu,2006,31.3
+municipality,DC10,,Sarah Baartman,2006,31.3
 municipality,DC25,,Amajuba,2006,33
 municipality,DC44,,Alfred Nzo,2015,11.9
 municipality,DC35,,Capricorn,2009,19.6
@@ -270,10 +270,10 @@ municipality,ETH,,eThekwini,2019,24.3
 municipality,DC32,,Ehlanzeni,2010,17.2
 municipality,DC25,,Amajuba,2016,22.4
 municipality,DC25,,Amajuba,2017,20.5
-municipality,DC4,,Eden,2013,15.2
+municipality,DC4,,Garden Route,2013,15.2
 municipality,EKU,,Ekurhuleni,2005,13.2
 municipality,EKU,,Ekurhuleni,2006,13.3
-municipality,DC10,,Cacadu,2019,26.6
+municipality,DC10,,Sarah Baartman,2019,26.6
 municipality,DC44,,Alfred Nzo,2009,15.5
 municipality,JHB,,City of Johannesburg,2008,19.5
 municipality,JHB,,City of Johannesburg,2009,19.4
@@ -313,7 +313,7 @@ municipality,DC37,,Bojanala,2011,5.3
 municipality,DC37,,Bojanala,2015,6.1
 municipality,BUF,,Buffalo City,2004,43.1
 municipality,BUF,,Buffalo City,2017,34.2
-municipality,DC10,,Cacadu,2007,32.9
+municipality,DC10,,Sarah Baartman,2007,32.9
 municipality,DC2,,Cape Winelands,2003,18.6
 municipality,DC2,,Cape Winelands,2011,16.9
 municipality,DC2,,Cape Winelands,2017,15.6
@@ -336,9 +336,9 @@ municipality,DC39,,Dr Ruth Segomotsi Mompati,2013,4.2
 province,EC,,Eastern Cape,2003,26.5
 province,EC,,Eastern Cape,2010,23.7
 province,EC,,Eastern Cape,2016,21.4
-municipality,DC4,,Eden,2005,15.9
-municipality,DC4,,Eden,2014,14.9
-municipality,DC4,,Eden,2018,14.5
+municipality,DC4,,Garden Route,2005,15.9
+municipality,DC4,,Garden Route,2014,14.9
+municipality,DC4,,Garden Route,2018,14.5
 municipality,DC32,,Ehlanzeni,2008,17.7
 municipality,DC32,,Ehlanzeni,2013,14.7
 municipality,DC32,,Ehlanzeni,2017,15.4
@@ -764,23 +764,23 @@ municipality,DC47,,Sekhukhune,2016,11.6
 municipality,DC47,,Sekhukhune,2017,11.5
 municipality,DC47,,Sekhukhune,2018,11
 municipality,DC47,,Sekhukhune,2019,10.8
-municipality,DC43,,Sisonke,2003,30.6
-municipality,DC43,,Sisonke,2004,29.6
-municipality,DC43,,Sisonke,2005,28.9
-municipality,DC43,,Sisonke,2006,29.4
-municipality,DC43,,Sisonke,2007,28.4
-municipality,DC43,,Sisonke,2008,27.7
-municipality,DC43,,Sisonke,2009,26.4
-municipality,DC43,,Sisonke,2010,26
-municipality,DC43,,Sisonke,2011,25.8
-municipality,DC43,,Sisonke,2012,25.4
-municipality,DC43,,Sisonke,2013,24.9
-municipality,DC43,,Sisonke,2014,24.1
-municipality,DC43,,Sisonke,2015,23.7
-municipality,DC43,,Sisonke,2016,23.4
-municipality,DC43,,Sisonke,2017,30.6
-municipality,DC43,,Sisonke,2018,22.4
-municipality,DC43,,Sisonke,2019,22.2
+municipality,DC43,,Harry Gwala,2003,30.6
+municipality,DC43,,Harry Gwala,2004,29.6
+municipality,DC43,,Harry Gwala,2005,28.9
+municipality,DC43,,Harry Gwala,2006,29.4
+municipality,DC43,,Harry Gwala,2007,28.4
+municipality,DC43,,Harry Gwala,2008,27.7
+municipality,DC43,,Harry Gwala,2009,26.4
+municipality,DC43,,Harry Gwala,2010,26
+municipality,DC43,,Harry Gwala,2011,25.8
+municipality,DC43,,Harry Gwala,2012,25.4
+municipality,DC43,,Harry Gwala,2013,24.9
+municipality,DC43,,Harry Gwala,2014,24.1
+municipality,DC43,,Harry Gwala,2015,23.7
+municipality,DC43,,Harry Gwala,2016,23.4
+municipality,DC43,,Harry Gwala,2017,30.6
+municipality,DC43,,Harry Gwala,2018,22.4
+municipality,DC43,,Harry Gwala,2019,22.2
 country,ZA,,South Africa,2003,24
 country,ZA,,South Africa,2004,23.3
 country,ZA,,South Africa,2005,22.7
@@ -900,23 +900,23 @@ municipality,DC23,,Uthukela,2016,13
 municipality,DC23,,Uthukela,2017,12.9
 municipality,DC23,,Uthukela,2018,12.6
 municipality,DC23,,Uthukela,2019,12.5
-municipality,DC28,,Uthungulu,2003,29.4
-municipality,DC28,,Uthungulu,2004,29
-municipality,DC28,,Uthungulu,2005,28.8
-municipality,DC28,,Uthungulu,2006,28.1
-municipality,DC28,,Uthungulu,2007,28.1
-municipality,DC28,,Uthungulu,2008,27.8
-municipality,DC28,,Uthungulu,2009,26.4
-municipality,DC28,,Uthungulu,2010,24.1
-municipality,DC28,,Uthungulu,2011,25.6
-municipality,DC28,,Uthungulu,2012,23.7
-municipality,DC28,,Uthungulu,2013,23.4
-municipality,DC28,,Uthungulu,2014,23.1
-municipality,DC28,,Uthungulu,2015,23.2
-municipality,DC28,,Uthungulu,2016,23.1
-municipality,DC28,,Uthungulu,2017,22.5
-municipality,DC28,,Uthungulu,2018,23
-municipality,DC28,,Uthungulu,2019,22.8
+municipality,DC28,,King Cetshwayo,2003,29.4
+municipality,DC28,,King Cetshwayo,2004,29
+municipality,DC28,,King Cetshwayo,2005,28.8
+municipality,DC28,,King Cetshwayo,2006,28.1
+municipality,DC28,,King Cetshwayo,2007,28.1
+municipality,DC28,,King Cetshwayo,2008,27.8
+municipality,DC28,,King Cetshwayo,2009,26.4
+municipality,DC28,,King Cetshwayo,2010,24.1
+municipality,DC28,,King Cetshwayo,2011,25.6
+municipality,DC28,,King Cetshwayo,2012,23.7
+municipality,DC28,,King Cetshwayo,2013,23.4
+municipality,DC28,,King Cetshwayo,2014,23.1
+municipality,DC28,,King Cetshwayo,2015,23.2
+municipality,DC28,,King Cetshwayo,2016,23.1
+municipality,DC28,,King Cetshwayo,2017,22.5
+municipality,DC28,,King Cetshwayo,2018,23
+municipality,DC28,,King Cetshwayo,2019,22.8
 municipality,DC34,,Vhembe,2003,20.5
 municipality,DC34,,Vhembe,2004,20
 municipality,DC34,,Vhembe,2005,18.4

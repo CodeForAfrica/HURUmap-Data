@@ -197,15 +197,15 @@ municipality,8325,,Bushbuckridge,In-house prepaid meter,497891.7
 municipality,8325,,Bushbuckridge,No access to electricity,9962.83
 municipality,8325,,Bushbuckridge,Other,1183.524
 municipality,8325,,Bushbuckridge,Solar home system,98.41383
-district,210,,Cacadu,Battery,0
-district,210,,Cacadu,Connected to other source which household is not paying for,5419.322
-district,210,,Cacadu,Connected to other source which household pays for (e.g. con,6228.263
-district,210,,Cacadu,Generator,1418.315
-district,210,,Cacadu,In-house conventional meter,61851.02
-district,210,,Cacadu,In-house prepaid meter,376766.9
-district,210,,Cacadu,No access to electricity,25706.45
-district,210,,Cacadu,Other,1704.289
-district,210,,Cacadu,Solar home system,828.2774
+district,210,,Sarah Baartman,Battery,0
+district,210,,Sarah Baartman,Connected to other source which household is not paying for,5419.322
+district,210,,Sarah Baartman,Connected to other source which household pays for (e.g. con,6228.263
+district,210,,Sarah Baartman,Generator,1418.315
+district,210,,Sarah Baartman,In-house conventional meter,61851.02
+district,210,,Sarah Baartman,In-house prepaid meter,376766.9
+district,210,,Sarah Baartman,No access to electricity,25706.45
+district,210,,Sarah Baartman,Other,1704.289
+district,210,,Sarah Baartman,Solar home system,828.2774
 municipality,1033,,Cape Agulhas,Battery,0
 municipality,1033,,Cape Agulhas,Connected to other source which household is not paying for,198.1522
 municipality,1033,,Cape Agulhas,Connected to other source which household pays for (e.g. con,678.246
@@ -521,15 +521,15 @@ province,EC,,Eastern Cape,In-house prepaid meter,5447294
 province,EC,,Eastern Cape,No access to electricity,764884.2
 province,EC,,Eastern Cape,Other,33175.69
 province,EC,,Eastern Cape,Solar home system,95688.1
-district,104,,Eden,Battery,161.691
-district,104,,Eden,Connected to other source which household is not paying for,2404.435
-district,104,,Eden,Connected to other source which household pays for (e.g. con,16031.45
-district,104,,Eden,Generator,626.1156
-district,104,,Eden,In-house conventional meter,82773.35
-district,104,,Eden,In-house prepaid meter,487977.7
-district,104,,Eden,No access to electricity,14597.59
-district,104,,Eden,Other,4028.932
-district,104,,Eden,Solar home system,2676.47
+district,104,,Garden Route,Battery,161.691
+district,104,,Garden Route,Connected to other source which household is not paying for,2404.435
+district,104,,Garden Route,Connected to other source which household pays for (e.g. con,16031.45
+district,104,,Garden Route,Generator,626.1156
+district,104,,Garden Route,In-house conventional meter,82773.35
+district,104,,Garden Route,In-house prepaid meter,487977.7
+district,104,,Garden Route,No access to electricity,14597.59
+district,104,,Garden Route,Other,4028.932
+district,104,,Garden Route,Solar home system,2676.47
 district,832,,Ehlanzeni,Battery,271.022
 district,832,,Ehlanzeni,Connected to other source which household is not paying for,14389.8
 district,832,,Ehlanzeni,Connected to other source which household pays for (e.g. con,15579.24
@@ -2078,15 +2078,15 @@ municipality,4191,,Setsoto,In-house prepaid meter,97434.09
 municipality,4191,,Setsoto,No access to electricity,6451.878
 municipality,4191,,Setsoto,Other,738.6992
 municipality,4191,,Setsoto,Solar home system,361.2963
-district,543,,Sisonke,Battery,0
-district,543,,Sisonke,Connected to other source which household is not paying for,942.649
-district,543,,Sisonke,Connected to other source which household pays for (e.g. con,4295.48
-district,543,,Sisonke,Generator,375.4445
-district,543,,Sisonke,In-house conventional meter,17878.65
-district,543,,Sisonke,In-house prepaid meter,404447.7
-district,543,,Sisonke,No access to electricity,80165.79
-district,543,,Sisonke,Other,816.0818
-district,543,,Sisonke,Solar home system,1943.305
+district,543,,Harry Gwala,Battery,0
+district,543,,Harry Gwala,Connected to other source which household is not paying for,942.649
+district,543,,Harry Gwala,Connected to other source which household pays for (e.g. con,4295.48
+district,543,,Harry Gwala,Generator,375.4445
+district,543,,Harry Gwala,In-house conventional meter,17878.65
+district,543,,Harry Gwala,In-house prepaid meter,404447.7
+district,543,,Harry Gwala,No access to electricity,80165.79
+district,543,,Harry Gwala,Other,816.0818
+district,543,,Harry Gwala,Solar home system,1943.305
 municipality,3078,,Siyancuma,Battery,0
 municipality,3078,,Siyancuma,Connected to other source which household is not paying for,577.0329
 municipality,3078,,Siyancuma,Connected to other source which household pays for (e.g. con,413.001
@@ -2411,15 +2411,15 @@ district,523,,Uthukela,In-house prepaid meter,544049.8
 district,523,,Uthukela,No access to electricity,83552.94
 district,523,,Uthukela,Other,8347.458
 district,523,,Uthukela,Solar home system,12649.64
-district,528,,Uthungulu,Battery,437.0284
-district,528,,Uthungulu,Connected to other source which household is not paying for,14291.89
-district,528,,Uthungulu,Connected to other source which household pays for (e.g. con,4331.172
-district,528,,Uthungulu,Generator,1393.842
-district,528,,Uthungulu,In-house conventional meter,42899.5
-district,528,,Uthungulu,In-house prepaid meter,837520.4
-district,528,,Uthungulu,No access to electricity,68124.98
-district,528,,Uthungulu,Other,1635.078
-district,528,,Uthungulu,Solar home system,500.7454
+district,528,,King Cetshwayo,Battery,437.0284
+district,528,,King Cetshwayo,Connected to other source which household is not paying for,14291.89
+district,528,,King Cetshwayo,Connected to other source which household pays for (e.g. con,4331.172
+district,528,,King Cetshwayo,Generator,1393.842
+district,528,,King Cetshwayo,In-house conventional meter,42899.5
+district,528,,King Cetshwayo,In-house prepaid meter,837520.4
+district,528,,King Cetshwayo,No access to electricity,68124.98
+district,528,,King Cetshwayo,Other,1635.078
+district,528,,King Cetshwayo,Solar home system,500.7454
 municipality,6405,,Ventersdorp/Tlokwe,Battery,18.10231
 municipality,6405,,Ventersdorp/Tlokwe,Connected to other source which household is not paying for,1431.157
 municipality,6405,,Ventersdorp/Tlokwe,Connected to other source which household pays for (e.g. con,3824.292

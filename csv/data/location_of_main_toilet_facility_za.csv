@@ -109,11 +109,11 @@ municipality,8325,,Bushbuckridge,In the yard,463453.2
 municipality,8325,,Bushbuckridge,Not applicable,151.2167
 municipality,8325,,Bushbuckridge,Outside the yard,4384.592
 municipality,8325,,Bushbuckridge,Unspecified,28776.53
-district,210,,Cacadu,In the dwelling/house,254905.1
-district,210,,Cacadu,In the yard,199994.2
-district,210,,Cacadu,Not applicable,0
-district,210,,Cacadu,Outside the yard,13807.47
-district,210,,Cacadu,Unspecified,11216.03
+district,210,,Sarah Baartman,In the dwelling/house,254905.1
+district,210,,Sarah Baartman,In the yard,199994.2
+district,210,,Sarah Baartman,Not applicable,0
+district,210,,Sarah Baartman,Outside the yard,13807.47
+district,210,,Sarah Baartman,Unspecified,11216.03
 municipality,1033,,Cape Agulhas,In the dwelling/house,31408.76
 municipality,1033,,Cape Agulhas,In the yard,1877.293
 municipality,1033,,Cape Agulhas,Not applicable,0
@@ -289,11 +289,11 @@ province,EC,,Eastern Cape,In the yard,4297707
 province,EC,,Eastern Cape,Not applicable,158.9218
 province,EC,,Eastern Cape,Outside the yard,189861.9
 province,EC,,Eastern Cape,Unspecified,427985
-district,104,,Eden,In the dwelling/house,481729.2
-district,104,,Eden,In the yard,102677.3
-district,104,,Eden,Not applicable,49.39299
-district,104,,Eden,Outside the yard,21435.49
-district,104,,Eden,Unspecified,5386.386
+district,104,,Garden Route,In the dwelling/house,481729.2
+district,104,,Garden Route,In the yard,102677.3
+district,104,,Garden Route,Not applicable,49.39299
+district,104,,Garden Route,Outside the yard,21435.49
+district,104,,Garden Route,Unspecified,5386.386
 district,832,,Ehlanzeni,In the dwelling/house,335054.1
 district,832,,Ehlanzeni,In the yard,1318348
 district,832,,Ehlanzeni,Not applicable,178.414
@@ -1154,11 +1154,11 @@ municipality,4191,,Setsoto,In the yard,93326.66
 municipality,4191,,Setsoto,Not applicable,0
 municipality,4191,,Setsoto,Outside the yard,1868.818
 municipality,4191,,Setsoto,Unspecified,1361.153
-district,543,,Sisonke,In the dwelling/house,68202.41
-district,543,,Sisonke,In the yard,417165.2
-district,543,,Sisonke,Not applicable,72.3831
-district,543,,Sisonke,Outside the yard,16025.35
-district,543,,Sisonke,Unspecified,9399.751
+district,543,,Harry Gwala,In the dwelling/house,68202.41
+district,543,,Harry Gwala,In the yard,417165.2
+district,543,,Harry Gwala,Not applicable,72.3831
+district,543,,Harry Gwala,Outside the yard,16025.35
+district,543,,Harry Gwala,Unspecified,9399.751
 municipality,3078,,Siyancuma,In the dwelling/house,14629.03
 municipality,3078,,Siyancuma,In the yard,18990.77
 municipality,3078,,Siyancuma,Not applicable,0
@@ -1339,11 +1339,11 @@ district,523,,Uthukela,In the yard,543147.3
 district,523,,Uthukela,Not applicable,0
 district,523,,Uthukela,Outside the yard,20878.04
 district,523,,Uthukela,Unspecified,14696.14
-district,528,,Uthungulu,In the dwelling/house,203760.3
-district,528,,Uthungulu,In the yard,606047.5
-district,528,,Uthungulu,Not applicable,143.5297
-district,528,,Uthungulu,Outside the yard,131285
-district,528,,Uthungulu,Unspecified,29898.3
+district,528,,King Cetshwayo,In the dwelling/house,203760.3
+district,528,,King Cetshwayo,In the yard,606047.5
+district,528,,King Cetshwayo,Not applicable,143.5297
+district,528,,King Cetshwayo,Outside the yard,131285
+district,528,,King Cetshwayo,Unspecified,29898.3
 municipality,6405,,Ventersdorp/Tlokwe,In the dwelling/house,114763.9
 municipality,6405,,Ventersdorp/Tlokwe,In the yard,105223.9
 municipality,6405,,Ventersdorp/Tlokwe,Not applicable,0

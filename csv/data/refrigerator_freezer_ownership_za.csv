@@ -65,9 +65,9 @@ municipality,2920,,Buffalo City,Yes,629325.5
 municipality,8325,,Bushbuckridge,No,32237.52
 municipality,8325,,Bushbuckridge,Unspecified,33047.54
 municipality,8325,,Bushbuckridge,Yes,480930.4
-district,210,,Cacadu,No,75562.02
-district,210,,Cacadu,Unspecified,33987.95
-district,210,,Cacadu,Yes,370372.9
+district,210,,Sarah Baartman,No,75562.02
+district,210,,Sarah Baartman,Unspecified,33987.95
+district,210,,Sarah Baartman,Yes,370372.9
 municipality,1033,,Cape Agulhas,No,3360.449
 municipality,1033,,Cape Agulhas,Unspecified,741.7625
 municipality,1033,,Cape Agulhas,Yes,31897.71
@@ -173,9 +173,9 @@ municipality,1023,,Drakenstein,Yes,242733
 province,EC,,Eastern Cape,No,1878731
 province,EC,,Eastern Cape,Unspecified,462363.6
 province,EC,,Eastern Cape,Yes,4655882
-district,104,,Eden,No,66794.1
-district,104,,Eden,Unspecified,36146.74
-district,104,,Eden,Yes,508336.9
+district,104,,Garden Route,No,66794.1
+district,104,,Garden Route,Unspecified,36146.74
+district,104,,Garden Route,Yes,508336.9
 district,832,,Ehlanzeni,No,118280.8
 district,832,,Ehlanzeni,Unspecified,111757.1
 district,832,,Ehlanzeni,Yes,1524893
@@ -692,9 +692,9 @@ municipality,2142,,Senqu,Yes,106548.9
 municipality,4191,,Setsoto,No,19885.87
 municipality,4191,,Setsoto,Unspecified,6129.687
 municipality,4191,,Setsoto,Yes,91346.43
-district,543,,Sisonke,No,159130.4
-district,543,,Sisonke,Unspecified,38036.88
-district,543,,Sisonke,Yes,313697.8
+district,543,,Harry Gwala,No,159130.4
+district,543,,Harry Gwala,Unspecified,38036.88
+district,543,,Harry Gwala,Yes,313697.8
 municipality,3078,,Siyancuma,No,5058.459
 municipality,3078,,Siyancuma,Unspecified,1690.668
 municipality,3078,,Siyancuma,Yes,29191.98
@@ -803,9 +803,9 @@ municipality,5213,,Umzumbe,Yes,87755.41
 district,523,,Uthukela,No,140374.8
 district,523,,Uthukela,Unspecified,46700.79
 district,523,,Uthukela,Yes,519512.5
-district,528,,Uthungulu,No,126195.8
-district,528,,Uthungulu,Unspecified,71204.37
-district,528,,Uthungulu,Yes,773734.5
+district,528,,King Cetshwayo,No,126195.8
+district,528,,King Cetshwayo,Unspecified,71204.37
+district,528,,King Cetshwayo,Yes,773734.5
 municipality,6405,,Ventersdorp/Tlokwe,No,36812.92
 municipality,6405,,Ventersdorp/Tlokwe,Unspecified,10956.08
 municipality,6405,,Ventersdorp/Tlokwe,Yes,195758

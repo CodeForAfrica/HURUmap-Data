@@ -153,13 +153,13 @@ municipality,8325,,Bushbuckridge,Other,7853.646
 municipality,8325,,Bushbuckridge,Own refuse dump,464745.3
 municipality,8325,,Bushbuckridge,Removed by local authority/private company/community members at least once a week,17873.19
 municipality,8325,,Bushbuckridge,Removed by local authority/private company/community members less often than once a week,3723.129
-district,210,,Cacadu,Communal container/central collection point,2607.662
-district,210,,Cacadu,Communal refuse dump,10766.81
-district,210,,Cacadu,Dump or leave rubbish anywhere (no rubbish disposal),8829.546
-district,210,,Cacadu,Other,6328.483
-district,210,,Cacadu,Own refuse dump,31943.82
-district,210,,Cacadu,Removed by local authority/private company/community members at least once a week,413684.1
-district,210,,Cacadu,Removed by local authority/private company/community members less often than once a week,5762.437
+district,210,,Sarah Baartman,Communal container/central collection point,2607.662
+district,210,,Sarah Baartman,Communal refuse dump,10766.81
+district,210,,Sarah Baartman,Dump or leave rubbish anywhere (no rubbish disposal),8829.546
+district,210,,Sarah Baartman,Other,6328.483
+district,210,,Sarah Baartman,Own refuse dump,31943.82
+district,210,,Sarah Baartman,Removed by local authority/private company/community members at least once a week,413684.1
+district,210,,Sarah Baartman,Removed by local authority/private company/community members less often than once a week,5762.437
 municipality,1033,,Cape Agulhas,Communal container/central collection point,41.58918
 municipality,1033,,Cape Agulhas,Communal refuse dump,614.1834
 municipality,1033,,Cape Agulhas,Dump or leave rubbish anywhere (no rubbish disposal),83.87345
@@ -405,13 +405,13 @@ province,EC,,Eastern Cape,Other,96272.53
 province,EC,,Eastern Cape,Own refuse dump,3459232
 province,EC,,Eastern Cape,Removed by local authority/private company/community members at least once a week,2562696
 province,EC,,Eastern Cape,Removed by local authority/private company/community members less often than once a week,139087.4
-district,104,,Eden,Communal container/central collection point,2254.689
-district,104,,Eden,Communal refuse dump,10528.42
-district,104,,Eden,Dump or leave rubbish anywhere (no rubbish disposal),3974.776
-district,104,,Eden,Other,7307.489
-district,104,,Eden,Own refuse dump,23210.67
-district,104,,Eden,Removed by local authority/private company/community members at least once a week,549098.5
-district,104,,Eden,Removed by local authority/private company/community members less often than once a week,14903.13
+district,104,,Garden Route,Communal container/central collection point,2254.689
+district,104,,Garden Route,Communal refuse dump,10528.42
+district,104,,Garden Route,Dump or leave rubbish anywhere (no rubbish disposal),3974.776
+district,104,,Garden Route,Other,7307.489
+district,104,,Garden Route,Own refuse dump,23210.67
+district,104,,Garden Route,Removed by local authority/private company/community members at least once a week,549098.5
+district,104,,Garden Route,Removed by local authority/private company/community members less often than once a week,14903.13
 district,832,,Ehlanzeni,Communal container/central collection point,3534.821
 district,832,,Ehlanzeni,Communal refuse dump,53722.17
 district,832,,Ehlanzeni,Dump or leave rubbish anywhere (no rubbish disposal),73589.23
@@ -1616,13 +1616,13 @@ municipality,4191,,Setsoto,Other,1717.515
 municipality,4191,,Setsoto,Own refuse dump,30758.59
 municipality,4191,,Setsoto,Removed by local authority/private company/community members at least once a week,68258.21
 municipality,4191,,Setsoto,Removed by local authority/private company/community members less often than once a week,3572.161
-district,543,,Sisonke,Communal container/central collection point,1504.303
-district,543,,Sisonke,Communal refuse dump,8788.583
-district,543,,Sisonke,Dump or leave rubbish anywhere (no rubbish disposal),16298.44
-district,543,,Sisonke,Other,2961.354
-district,543,,Sisonke,Own refuse dump,383933.2
-district,543,,Sisonke,Removed by local authority/private company/community members at least once a week,92080.05
-district,543,,Sisonke,Removed by local authority/private company/community members less often than once a week,5299.132
+district,543,,Harry Gwala,Communal container/central collection point,1504.303
+district,543,,Harry Gwala,Communal refuse dump,8788.583
+district,543,,Harry Gwala,Dump or leave rubbish anywhere (no rubbish disposal),16298.44
+district,543,,Harry Gwala,Other,2961.354
+district,543,,Harry Gwala,Own refuse dump,383933.2
+district,543,,Harry Gwala,Removed by local authority/private company/community members at least once a week,92080.05
+district,543,,Harry Gwala,Removed by local authority/private company/community members less often than once a week,5299.132
 municipality,3078,,Siyancuma,Communal container/central collection point,12.79271
 municipality,3078,,Siyancuma,Communal refuse dump,1874.716
 municipality,3078,,Siyancuma,Dump or leave rubbish anywhere (no rubbish disposal),1369.523
@@ -1875,13 +1875,13 @@ district,523,,Uthukela,Other,9123.614
 district,523,,Uthukela,Own refuse dump,419704.8
 district,523,,Uthukela,Removed by local authority/private company/community members at least once a week,174404.2
 district,523,,Uthukela,Removed by local authority/private company/community members less often than once a week,16118.14
-district,528,,Uthungulu,Communal container/central collection point,30923.76
-district,528,,Uthungulu,Communal refuse dump,38135.71
-district,528,,Uthungulu,Dump or leave rubbish anywhere (no rubbish disposal),43170.36
-district,528,,Uthungulu,Other,2631.348
-district,528,,Uthungulu,Own refuse dump,652445.3
-district,528,,Uthungulu,Removed by local authority/private company/community members at least once a week,188982.3
-district,528,,Uthungulu,Removed by local authority/private company/community members less often than once a week,14845.85
+district,528,,King Cetshwayo,Communal container/central collection point,30923.76
+district,528,,King Cetshwayo,Communal refuse dump,38135.71
+district,528,,King Cetshwayo,Dump or leave rubbish anywhere (no rubbish disposal),43170.36
+district,528,,King Cetshwayo,Other,2631.348
+district,528,,King Cetshwayo,Own refuse dump,652445.3
+district,528,,King Cetshwayo,Removed by local authority/private company/community members at least once a week,188982.3
+district,528,,King Cetshwayo,Removed by local authority/private company/community members less often than once a week,14845.85
 municipality,6405,,Ventersdorp/Tlokwe,Communal container/central collection point,748.0586
 municipality,6405,,Ventersdorp/Tlokwe,Communal refuse dump,4639.539
 municipality,6405,,Ventersdorp/Tlokwe,Dump or leave rubbish anywhere (no rubbish disposal),7567.262

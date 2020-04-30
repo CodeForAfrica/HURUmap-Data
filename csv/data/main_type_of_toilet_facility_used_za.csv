@@ -219,16 +219,16 @@ municipality,8325,,Bushbuckridge,None,28023.42
 municipality,8325,,Bushbuckridge,Other,23581.87
 municipality,8325,,Bushbuckridge,Pit latrine/toilet with ventilation pipe,89889.29
 municipality,8325,,Bushbuckridge,Pit latrine/toilet without ventilation pipe,303779.7
-district,210,,Cacadu,Bucket toilet (collected by municipality),14678.93
-district,210,,Cacadu,Bucket toilet (emptied by household),7679.69
-district,210,,Cacadu,Chemical toilet,736.9569
-district,210,,Cacadu,Ecological toilet (e.g. urine diversion; enviroloo; etc.),511.9973
-district,210,,Cacadu,Flush toilet connected to a public sewerage system,385313.4
-district,210,,Cacadu,Flush toilet connected to a septic tank or conservancy tank,19840.3
-district,210,,Cacadu,None,10930.83
-district,210,,Cacadu,Other,12183.67
-district,210,,Cacadu,Pit latrine/toilet with ventilation pipe,8560.826
-district,210,,Cacadu,Pit latrine/toilet without ventilation pipe,19486.26
+district,210,,Sarah Baartman,Bucket toilet (collected by municipality),14678.93
+district,210,,Sarah Baartman,Bucket toilet (emptied by household),7679.69
+district,210,,Sarah Baartman,Chemical toilet,736.9569
+district,210,,Sarah Baartman,Ecological toilet (e.g. urine diversion; enviroloo; etc.),511.9973
+district,210,,Sarah Baartman,Flush toilet connected to a public sewerage system,385313.4
+district,210,,Sarah Baartman,Flush toilet connected to a septic tank or conservancy tank,19840.3
+district,210,,Sarah Baartman,None,10930.83
+district,210,,Sarah Baartman,Other,12183.67
+district,210,,Sarah Baartman,Pit latrine/toilet with ventilation pipe,8560.826
+district,210,,Sarah Baartman,Pit latrine/toilet without ventilation pipe,19486.26
 municipality,1033,,Cape Agulhas,Bucket toilet (collected by municipality),0
 municipality,1033,,Cape Agulhas,Bucket toilet (emptied by household),56.63073
 municipality,1033,,Cape Agulhas,Chemical toilet,0
@@ -579,16 +579,16 @@ province,EC,,Eastern Cape,None,422004.2
 province,EC,,Eastern Cape,Other,136585
 province,EC,,Eastern Cape,Pit latrine/toilet with ventilation pipe,2253767
 province,EC,,Eastern Cape,Pit latrine/toilet without ventilation pipe,712669.5
-district,104,,Eden,Bucket toilet (collected by municipality),2296.952
-district,104,,Eden,Bucket toilet (emptied by household),8006.388
-district,104,,Eden,Chemical toilet,3426.291
-district,104,,Eden,Ecological toilet (e.g. urine diversion; enviroloo; etc.),351.6473
-district,104,,Eden,Flush toilet connected to a public sewerage system,548737.7
-district,104,,Eden,Flush toilet connected to a septic tank or conservancy tank,25695.4
-district,104,,Eden,None,4521.924
-district,104,,Eden,Other,4685.209
-district,104,,Eden,Pit latrine/toilet with ventilation pipe,4618.776
-district,104,,Eden,Pit latrine/toilet without ventilation pipe,8937.392
+district,104,,Garden Route,Bucket toilet (collected by municipality),2296.952
+district,104,,Garden Route,Bucket toilet (emptied by household),8006.388
+district,104,,Garden Route,Chemical toilet,3426.291
+district,104,,Garden Route,Ecological toilet (e.g. urine diversion; enviroloo; etc.),351.6473
+district,104,,Garden Route,Flush toilet connected to a public sewerage system,548737.7
+district,104,,Garden Route,Flush toilet connected to a septic tank or conservancy tank,25695.4
+district,104,,Garden Route,None,4521.924
+district,104,,Garden Route,Other,4685.209
+district,104,,Garden Route,Pit latrine/toilet with ventilation pipe,4618.776
+district,104,,Garden Route,Pit latrine/toilet without ventilation pipe,8937.392
 district,832,,Ehlanzeni,Bucket toilet (collected by municipality),322.5778
 district,832,,Ehlanzeni,Bucket toilet (emptied by household),14538.25
 district,832,,Ehlanzeni,Chemical toilet,111695.1
@@ -2309,16 +2309,16 @@ municipality,4191,,Setsoto,None,1306.121
 municipality,4191,,Setsoto,Other,1508.497
 municipality,4191,,Setsoto,Pit latrine/toilet with ventilation pipe,1991.939
 municipality,4191,,Setsoto,Pit latrine/toilet without ventilation pipe,3982.276
-district,543,,Sisonke,Bucket toilet (collected by municipality),2538.563
-district,543,,Sisonke,Bucket toilet (emptied by household),1113.426
-district,543,,Sisonke,Chemical toilet,115307.4
-district,543,,Sisonke,Ecological toilet (e.g. urine diversion; enviroloo; etc.),741.1774
-district,543,,Sisonke,Flush toilet connected to a public sewerage system,74733.67
-district,543,,Sisonke,Flush toilet connected to a septic tank or conservancy tank,6181.879
-district,543,,Sisonke,None,9399.751
-district,543,,Sisonke,Other,14947.71
-district,543,,Sisonke,Pit latrine/toilet with ventilation pipe,167718.8
-district,543,,Sisonke,Pit latrine/toilet without ventilation pipe,118182.7
+district,543,,Harry Gwala,Bucket toilet (collected by municipality),2538.563
+district,543,,Harry Gwala,Bucket toilet (emptied by household),1113.426
+district,543,,Harry Gwala,Chemical toilet,115307.4
+district,543,,Harry Gwala,Ecological toilet (e.g. urine diversion; enviroloo; etc.),741.1774
+district,543,,Harry Gwala,Flush toilet connected to a public sewerage system,74733.67
+district,543,,Harry Gwala,Flush toilet connected to a septic tank or conservancy tank,6181.879
+district,543,,Harry Gwala,None,9399.751
+district,543,,Harry Gwala,Other,14947.71
+district,543,,Harry Gwala,Pit latrine/toilet with ventilation pipe,167718.8
+district,543,,Harry Gwala,Pit latrine/toilet without ventilation pipe,118182.7
 municipality,3078,,Siyancuma,Bucket toilet (collected by municipality),6078.933
 municipality,3078,,Siyancuma,Bucket toilet (emptied by household),305.503
 municipality,3078,,Siyancuma,Chemical toilet,0
@@ -2679,16 +2679,16 @@ district,523,,Uthukela,None,14597.46
 district,523,,Uthukela,Other,27366.79
 district,523,,Uthukela,Pit latrine/toilet with ventilation pipe,236979.5
 district,523,,Uthukela,Pit latrine/toilet without ventilation pipe,117698.7
-district,528,,Uthungulu,Bucket toilet (collected by municipality),367.5424
-district,528,,Uthungulu,Bucket toilet (emptied by household),7805.203
-district,528,,Uthungulu,Chemical toilet,262725.1
-district,528,,Uthungulu,Ecological toilet (e.g. urine diversion; enviroloo; etc.),7510.947
-district,528,,Uthungulu,Flush toilet connected to a public sewerage system,182562
-district,528,,Uthungulu,Flush toilet connected to a septic tank or conservancy tank,30408.11
-district,528,,Uthungulu,None,28924.41
-district,528,,Uthungulu,Other,25985
-district,528,,Uthungulu,Pit latrine/toilet with ventilation pipe,300559
-district,528,,Uthungulu,Pit latrine/toilet without ventilation pipe,124287.3
+district,528,,King Cetshwayo,Bucket toilet (collected by municipality),367.5424
+district,528,,King Cetshwayo,Bucket toilet (emptied by household),7805.203
+district,528,,King Cetshwayo,Chemical toilet,262725.1
+district,528,,King Cetshwayo,Ecological toilet (e.g. urine diversion; enviroloo; etc.),7510.947
+district,528,,King Cetshwayo,Flush toilet connected to a public sewerage system,182562
+district,528,,King Cetshwayo,Flush toilet connected to a septic tank or conservancy tank,30408.11
+district,528,,King Cetshwayo,None,28924.41
+district,528,,King Cetshwayo,Other,25985
+district,528,,King Cetshwayo,Pit latrine/toilet with ventilation pipe,300559
+district,528,,King Cetshwayo,Pit latrine/toilet without ventilation pipe,124287.3
 municipality,6405,,Ventersdorp/Tlokwe,Bucket toilet (collected by municipality),311.8229
 municipality,6405,,Ventersdorp/Tlokwe,Bucket toilet (emptied by household),1846.634
 municipality,6405,,Ventersdorp/Tlokwe,Chemical toilet,51.18426
