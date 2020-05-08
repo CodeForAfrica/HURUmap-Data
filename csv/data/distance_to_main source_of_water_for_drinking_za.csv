@@ -153,13 +153,13 @@ municipality,8325,,Bushbuckridge,Less than 200 metres,85263.57
 municipality,8325,,Bushbuckridge,More than 1 kilometre,15077.62
 municipality,8325,,Bushbuckridge,Not applicable,312718.2
 municipality,8325,,Bushbuckridge,Unspecified,0
-district,210,,Cacadu,201-500 metres,6712.794
-district,210,,Cacadu,501 metres-1 kilometre,2107.186
-district,210,,Cacadu,Do not know,910.7558
-district,210,,Cacadu,Less than 200 metres,29436.62
-district,210,,Cacadu,More than 1 kilometre,1699.862
-district,210,,Cacadu,Not applicable,439055.6
-district,210,,Cacadu,Unspecified,0
+district,210,,Sarah Baartman,201-500 metres,6712.794
+district,210,,Sarah Baartman,501 metres-1 kilometre,2107.186
+district,210,,Sarah Baartman,Do not know,910.7558
+district,210,,Sarah Baartman,Less than 200 metres,29436.62
+district,210,,Sarah Baartman,More than 1 kilometre,1699.862
+district,210,,Sarah Baartman,Not applicable,439055.6
+district,210,,Sarah Baartman,Unspecified,0
 municipality,1033,,Cape Agulhas,201-500 metres,36.73418
 municipality,1033,,Cape Agulhas,501 metres-1 kilometre,0
 municipality,1033,,Cape Agulhas,Do not know,0
@@ -405,13 +405,13 @@ province,EC,,Eastern Cape,Less than 200 metres,1469029
 province,EC,,Eastern Cape,More than 1 kilometre,243542.2
 province,EC,,Eastern Cape,Not applicable,3704087
 province,EC,,Eastern Cape,Unspecified,2545.789
-district,104,,Eden,201-500 metres,5406.522
-district,104,,Eden,501 metres-1 kilometre,1110.829
-district,104,,Eden,Do not know,896.596
-district,104,,Eden,Less than 200 metres,23593.49
-district,104,,Eden,More than 1 kilometre,1412.306
-district,104,,Eden,Not applicable,578699.9
-district,104,,Eden,Unspecified,158.0166
+district,104,,Garden Route,201-500 metres,5406.522
+district,104,,Garden Route,501 metres-1 kilometre,1110.829
+district,104,,Garden Route,Do not know,896.596
+district,104,,Garden Route,Less than 200 metres,23593.49
+district,104,,Garden Route,More than 1 kilometre,1412.306
+district,104,,Garden Route,Not applicable,578699.9
+district,104,,Garden Route,Unspecified,158.0166
 district,832,,Ehlanzeni,201-500 metres,230176.5
 district,832,,Ehlanzeni,501 metres-1 kilometre,79985.61
 district,832,,Ehlanzeni,Do not know,32272.77
@@ -1616,13 +1616,13 @@ municipality,4191,,Setsoto,Less than 200 metres,6430.178
 municipality,4191,,Setsoto,More than 1 kilometre,242.2837
 municipality,4191,,Setsoto,Not applicable,108201.9
 municipality,4191,,Setsoto,Unspecified,0
-district,543,,Sisonke,201-500 metres,124676.9
-district,543,,Sisonke,501 metres-1 kilometre,39975.83
-district,543,,Sisonke,Do not know,834.1713
-district,543,,Sisonke,Less than 200 metres,151789.2
-district,543,,Sisonke,More than 1 kilometre,21278.27
-district,543,,Sisonke,Not applicable,172107.6
-district,543,,Sisonke,Unspecified,203.1222
+district,543,,Harry Gwala,201-500 metres,124676.9
+district,543,,Harry Gwala,501 metres-1 kilometre,39975.83
+district,543,,Harry Gwala,Do not know,834.1713
+district,543,,Harry Gwala,Less than 200 metres,151789.2
+district,543,,Harry Gwala,More than 1 kilometre,21278.27
+district,543,,Harry Gwala,Not applicable,172107.6
+district,543,,Harry Gwala,Unspecified,203.1222
 municipality,3078,,Siyancuma,201-500 metres,1976.742
 municipality,3078,,Siyancuma,501 metres-1 kilometre,617.5178
 municipality,3078,,Siyancuma,Do not know,0
@@ -1875,13 +1875,13 @@ district,523,,Uthukela,Less than 200 metres,161597.9
 district,523,,Uthukela,More than 1 kilometre,8990.348
 district,523,,Uthukela,Not applicable,360129.8
 district,523,,Uthukela,Unspecified,149.3047
-district,528,,Uthungulu,201-500 metres,149672.5
-district,528,,Uthungulu,501 metres-1 kilometre,43208.79
-district,528,,Uthungulu,Do not know,672.0302
-district,528,,Uthungulu,Less than 200 metres,130225
-district,528,,Uthungulu,More than 1 kilometre,14397.53
-district,528,,Uthungulu,Not applicable,632745.2
-district,528,,Uthungulu,Unspecified,213.6416
+district,528,,King Cetshwayo,201-500 metres,149672.5
+district,528,,King Cetshwayo,501 metres-1 kilometre,43208.79
+district,528,,King Cetshwayo,Do not know,672.0302
+district,528,,King Cetshwayo,Less than 200 metres,130225
+district,528,,King Cetshwayo,More than 1 kilometre,14397.53
+district,528,,King Cetshwayo,Not applicable,632745.2
+district,528,,King Cetshwayo,Unspecified,213.6416
 municipality,6405,,Ventersdorp/Tlokwe,201-500 metres,9508.629
 municipality,6405,,Ventersdorp/Tlokwe,501 metres-1 kilometre,1105.904
 municipality,6405,,Ventersdorp/Tlokwe,Do not know,297.0369

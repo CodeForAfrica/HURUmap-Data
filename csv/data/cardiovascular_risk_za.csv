@@ -1,0 +1,63 @@
+geo_level,geo_code,geo_version,name,variable ,value
+district,244,,Alfred Nzo,Cardiovascular Risk,69
+district,525,,Amajuba,Cardiovascular Risk,57
+district,212,,Amathole,Cardiovascular Risk,62
+district,637,,Bojanala,Cardiovascular Risk,65
+district,292,,Buffalo City,Cardiovascular Risk,56
+district,210,,Sarah Baartman,Cardiovascular Risk,51
+district,102,,Cape Winelands,Cardiovascular Risk,41
+district,935,,Capricorn,Cardiovascular Risk,72
+district,105,,Central Karoo,Cardiovascular Risk,47
+district,213,,Chris Hani,Cardiovascular Risk,60
+district,191,,City of Cape Town,Cardiovascular Risk,58
+district,798,,City of Johannesburg,Cardiovascular Risk,58
+district,799,,City of Tshwane,Cardiovascular Risk,64
+district,640,,Dr Kenneth Kaunda,Cardiovascular Risk,66
+district,639,,Dr Ruth Segomotsi Mompati,Cardiovascular Risk,56
+province,EC,,Eastern Cape,Cardiovascular Risk,61
+district,104,,Garden Route,Cardiovascular Risk,50
+district,832,,Ehlanzeni,Cardiovascular Risk,74
+district,797,,Ekurhuleni,Cardiovascular Risk,55
+district,420,,Fezile Dabi,Cardiovascular Risk,49
+district,309,,Frances Baard,Cardiovascular Risk,66
+province,FS,,Free State,Cardiovascular Risk,54
+province,GT,,Gauteng,Cardiovascular Risk,63
+district,830,,Gert Sibande,Cardiovascular Risk,70
+district,214,,Joe Gqabi,Cardiovascular Risk,45
+district,345,,John Taolo Gaetsewe,Cardiovascular Risk,47
+province,KZN,,KwaZulu-Natal,Cardiovascular Risk,57
+district,418,,Lejweleputswa,Cardiovascular Risk,56
+province,LIM,,Limpopo,Cardiovascular Risk,67
+district,494,,Mangaung,Cardiovascular Risk,46
+district,933,,Mopani,Cardiovascular Risk,65
+province,MP,,Mpumalanga,Cardiovascular Risk,70
+district,306,,Namakwa,Cardiovascular Risk,43
+district,293,,Nelson Mandela Bay,Cardiovascular Risk,51
+district,638,,Ngaka Modiri Molema,Cardiovascular Risk,56
+district,831,,Nkangala,Cardiovascular Risk,66
+province,NW,,North West,Cardiovascular Risk,61
+province,NC,,Northern Cape,Cardiovascular Risk,50
+district,215,,O.R.Tambo,Cardiovascular Risk,69
+district,103,,Overberg,Cardiovascular Risk,43
+district,307,,Pixley ka Seme,Cardiovascular Risk,46
+district,742,,Sedibeng,Cardiovascular Risk,86
+district,947,,Sekhukhune,Cardiovascular Risk,67
+district,543,,Harry Gwala,Cardiovascular Risk,65
+country,ZA,,South Africa,Cardiovascular Risk,60
+district,419,,Thabo Mofutsanyana,Cardiovascular Risk,62
+district,521,,Ugu,Cardiovascular Risk,54
+district,522,,Umgungundlovu,Cardiovascular Risk,62
+district,527,,Umkhanyakude,Cardiovascular Risk,49
+district,524,,Umzinyathi,Cardiovascular Risk,58
+district,523,,Uthukela,Cardiovascular Risk,63
+district,528,,King Cetshwayo,Cardiovascular Risk,54
+district,934,,Vhembe,Cardiovascular Risk,69
+district,936,,Waterberg,Cardiovascular Risk,59
+district,101,,West Coast,Cardiovascular Risk,45
+district,748,,West Rand,Cardiovascular Risk,59
+province,WC,,Western Cape,Cardiovascular Risk,53
+district,416,,Xhariep,Cardiovascular Risk,46
+district,308,,Z F Mgcawu,Cardiovascular Risk,40
+district,526,,Zululand,Cardiovascular Risk,59
+district,595,,eThekwini,Cardiovascular Risk,55
+district,529,,iLembe,Cardiovascular Risk,58

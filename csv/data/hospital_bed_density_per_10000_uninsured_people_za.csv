@@ -1,1055 +1,1055 @@
 geo_level,geo_code,geo_version,name,variable,value
-municipality,ETH,,eThekwini,2005,31.7
-municipality,BUF,,Buffalo City,2018,30.6
-municipality,DC39,,Dr Ruth Segomotsi Mompati,2014,13
-municipality,DC4,,Eden,2019,14.3
-municipality,DC13,,Chris Hani,2006,27.2
-municipality,JHB,,City of Johannesburg,2011,18.8
-municipality,DC12,,Amathole,2012,20.3
-municipality,CPT,,City of Cape Town,2006,26
-municipality,DC44,,Alfred Nzo,2003,13.3
-municipality,DC44,,Alfred Nzo,2004,13.2
-municipality,BUF,,Buffalo City,2019,31
-municipality,DC2,,Cape Winelands,2018,15.6
-municipality,DC2,,Cape Winelands,2019,15.2
-municipality,DC35,,Capricorn,2003,23.2
-municipality,DC44,,Alfred Nzo,2011,14.1
-municipality,DC44,,Alfred Nzo,2012,12.4
-municipality,DC35,,Capricorn,2004,23.8
-municipality,DC32,,Ehlanzeni,2003,20
-province,EC,,Eastern Cape,2011,23.3
-municipality,DC44,,Alfred Nzo,2017,11.6
-municipality,DC25,,Amajuba,2011,30
-municipality,DC32,,Ehlanzeni,2014,14.4
-municipality,DC10,,Cacadu,2003,33.2
-municipality,BUF,,Buffalo City,2005,44.3
-municipality,DC25,,Amajuba,2012,14
-municipality,CPT,,City of Cape Town,2018,24.4
-municipality,TSH,,City of Tshwane,2003,35.6
-municipality,DC44,,Alfred Nzo,2013,12.4
-municipality,DC44,,Alfred Nzo,2018,11.5
-municipality,EKU,,Ekurhuleni,2008,13.3
-municipality,DC39,,Dr Ruth Segomotsi Mompati,2015,12.2
-municipality,DC32,,Ehlanzeni,2018,16.5
-municipality,DC12,,Amathole,2013,20.3
-municipality,TSH,,City of Tshwane,2018,24
-municipality,TSH,,City of Tshwane,2019,23.3
-municipality,DC44,,Alfred Nzo,2005,13.1
-municipality,ETH,,eThekwini,2018,22.3
-municipality,DC40,,Dr Kenneth Kaunda,2003,48.6
-municipality,DC40,,Dr Kenneth Kaunda,2004,41.5
-municipality,DC40,,Dr Kenneth Kaunda,2005,48.1
-municipality,DC40,,Dr Kenneth Kaunda,2006,47.6
-municipality,DC40,,Dr Kenneth Kaunda,2007,45.7
-municipality,DC39,,Dr Ruth Segomotsi Mompati,2016,11.9
-municipality,ETH,,eThekwini,2012,27.5
-municipality,EKU,,Ekurhuleni,2009,13.2
-municipality,DC12,,Amathole,2014,20.5
-municipality,DC32,,Ehlanzeni,2015,14.8
-municipality,DC2,,Cape Winelands,2004,18
-municipality,DC37,,Bojanala,2012,5
-municipality,DC12,,Amathole,2015,20.3
-municipality,DC32,,Ehlanzeni,2016,14.9
-municipality,TSH,,City of Tshwane,2010,28.8
-municipality,DC10,,Cacadu,2008,32.7
-municipality,DC10,,Cacadu,2009,32
-municipality,DC32,,Ehlanzeni,2004,19.8
-municipality,DC40,,Dr Kenneth Kaunda,2019,36.3
-municipality,DC10,,Cacadu,2010,32.3
-municipality,ETH,,eThekwini,2013,28
-municipality,DC37,,Bojanala,2003,6.3
-municipality,DC12,,Amathole,2016,20.5
-municipality,DC32,,Ehlanzeni,2019,15.4
-municipality,CPT,,City of Cape Town,2019,24.6
-municipality,JHB,,City of Johannesburg,2003,22.1
-municipality,JHB,,City of Johannesburg,2004,21.5
-municipality,DC12,,Amathole,2017,20.3
-municipality,BUF,,Buffalo City,2006,42.1
-municipality,JHB,,City of Johannesburg,2005,20.5
-municipality,JHB,,City of Johannesburg,2006,20.1
-municipality,JHB,,City of Johannesburg,2007,20
-municipality,DC37,,Bojanala,2013,5
-municipality,TSH,,City of Tshwane,2004,34.6
-municipality,DC10,,Cacadu,2011,32.1
-municipality,DC10,,Cacadu,2012,31.4
-municipality,DC37,,Bojanala,2004,6.4
-municipality,DC44,,Alfred Nzo,2019,11.7
-municipality,DC13,,Chris Hani,2016,25
-municipality,DC37,,Bojanala,2016,5.3
-municipality,DC37,,Bojanala,2017,5.2
-municipality,DC37,,Bojanala,2018,5
-municipality,DC37,,Bojanala,2019,5.3
-municipality,DC13,,Chris Hani,2007,26.7
-municipality,DC2,,Cape Winelands,2005,17.7
-municipality,DC40,,Dr Kenneth Kaunda,2008,44.9
-municipality,TSH,,City of Tshwane,2011,27.5
-municipality,DC25,,Amajuba,2003,41.3
-municipality,TSH,,City of Tshwane,2012,26
-municipality,DC13,,Chris Hani,2008,26
-municipality,ETH,,eThekwini,2006,31.4
-municipality,DC37,,Bojanala,2005,6.6
-municipality,DC40,,Dr Kenneth Kaunda,2009,44.6
-municipality,DC13,,Chris Hani,2009,26
-municipality,DC25,,Amajuba,2019,21.5
-municipality,DC12,,Amathole,2003,25.4
-municipality,ETH,,eThekwini,2007,30.4
-municipality,BUF,,Buffalo City,2007,40.7
-municipality,DC10,,Cacadu,2013,30.7
-municipality,DC10,,Cacadu,2014,30.3
-municipality,EKU,,Ekurhuleni,2014,12.8
-municipality,DC40,,Dr Kenneth Kaunda,2010,42.4
-municipality,DC13,,Chris Hani,2017,24.9
-municipality,DC13,,Chris Hani,2018,24.7
-municipality,DC4,,Eden,2006,16.4
-municipality,DC4,,Eden,2007,16.5
-municipality,TSH,,City of Tshwane,2013,24.8
-municipality,TSH,,City of Tshwane,2014,21.3
-municipality,DC10,,Cacadu,2015,28.7
-municipality,DC2,,Cape Winelands,2006,17.7
-municipality,DC2,,Cape Winelands,2007,17.5
-municipality,DC13,,Chris Hani,2019,24.6
-municipality,DC25,,Amajuba,2004,38.7
-municipality,EKU,,Ekurhuleni,2010,13.1
-municipality,DC5,,Central Karoo,2011,19.1
-province,EC,,Eastern Cape,2017,21
-province,EC,,Eastern Cape,2018,20.6
-municipality,DC10,,Cacadu,2004,32.3
-municipality,DC10,,Cacadu,2005,31.3
-municipality,DC2,,Cape Winelands,2012,16.7
-municipality,DC2,,Cape Winelands,2013,16.7
-municipality,DC2,,Cape Winelands,2014,16.5
-municipality,DC2,,Cape Winelands,2015,16.1
-municipality,DC2,,Cape Winelands,2016,15.8
-municipality,TSH,,City of Tshwane,2005,33.1
-municipality,DC35,,Capricorn,2011,18.8
-municipality,DC35,,Capricorn,2012,18.8
-municipality,DC35,,Capricorn,2013,18.8
-municipality,DC35,,Capricorn,2019,17.3
-municipality,DC5,,Central Karoo,2003,28.8
-municipality,DC5,,Central Karoo,2004,21.9
-municipality,DC5,,Central Karoo,2005,19.9
-municipality,DC5,,Central Karoo,2006,19.8
-municipality,DC35,,Capricorn,2005,21.9
-municipality,DC35,,Capricorn,2006,22.5
-municipality,DC44,,Alfred Nzo,2006,13.3
-municipality,DC44,,Alfred Nzo,2014,12.3
-municipality,DC39,,Dr Ruth Segomotsi Mompati,2003,12.1
-municipality,DC39,,Dr Ruth Segomotsi Mompati,2004,13.1
-municipality,JHB,,City of Johannesburg,2012,18.6
-municipality,JHB,,City of Johannesburg,2013,17.8
-municipality,EKU,,Ekurhuleni,2011,12.9
-municipality,CPT,,City of Cape Town,2007,26.8
-municipality,DC12,,Amathole,2018,19.4
-municipality,DC5,,Central Karoo,2016,18.3
-municipality,DC5,,Central Karoo,2017,18.1
-municipality,DC5,,Central Karoo,2018,17.9
-municipality,CPT,,City of Cape Town,2013,24.6
-municipality,DC13,,Chris Hani,2003,28.6
-municipality,DC13,,Chris Hani,2004,28.1
-municipality,DC40,,Dr Kenneth Kaunda,2011,41.9
-municipality,DC10,,Cacadu,2016,27.6
-municipality,TSH,,City of Tshwane,2006,30.5
-municipality,BUF,,Buffalo City,2008,39.4
-municipality,DC10,,Cacadu,2017,27.2
-municipality,EKU,,Ekurhuleni,2015,12.7
-municipality,BUF,,Buffalo City,2003,41.3
-municipality,ETH,,eThekwini,2014,24.5
-municipality,BUF,,Buffalo City,2009,36.4
-municipality,DC5,,Central Karoo,2012,18.9
-municipality,BUF,,Buffalo City,2010,39.5
-municipality,DC13,,Chris Hani,2010,25.9
-municipality,DC2,,Cape Winelands,2008,17.2
-municipality,DC40,,Dr Kenneth Kaunda,2012,42.2
-municipality,CPT,,City of Cape Town,2003,27.7
-municipality,BUF,,Buffalo City,2011,35.9
-municipality,DC2,,Cape Winelands,2009,17.6
-municipality,CPT,,City of Cape Town,2008,25.9
-municipality,CPT,,City of Cape Town,2009,26.2
-municipality,CPT,,City of Cape Town,2010,23.7
-municipality,CPT,,City of Cape Town,2011,24.4
-province,EC,,Eastern Cape,2012,22.7
-municipality,DC12,,Amathole,2007,21.1
-municipality,DC12,,Amathole,2004,24.3
-municipality,DC12,,Amathole,2005,24.3
-municipality,DC44,,Alfred Nzo,2007,12.7
-province,EC,,Eastern Cape,2013,21.5
-municipality,DC13,,Chris Hani,2011,25.9
-municipality,DC25,,Amajuba,2013,22.8
-municipality,DC40,,Dr Kenneth Kaunda,2013,41.8
-municipality,TSH,,City of Tshwane,2015,24.5
-municipality,DC4,,Eden,2008,16.4
-municipality,DC4,,Eden,2009,17
-municipality,DC5,,Central Karoo,2013,18.8
-municipality,BUF,,Buffalo City,2012,38.6
-municipality,DC13,,Chris Hani,2012,25.9
-municipality,DC12,,Amathole,2008,20.9
-municipality,DC12,,Amathole,2009,20.9
-municipality,DC37,,Bojanala,2006,6.7
-municipality,CPT,,City of Cape Town,2004,28.7
-municipality,DC37,,Bojanala,2014,6
-municipality,DC44,,Alfred Nzo,2008,14.3
-municipality,ETH,,eThekwini,2008,30.1
-municipality,DC39,,Dr Ruth Segomotsi Mompati,2005,15
-municipality,DC39,,Dr Ruth Segomotsi Mompati,2017,6.2
-municipality,CPT,,City of Cape Town,2014,24.9
-municipality,DC5,,Central Karoo,2014,18.6
-municipality,DC25,,Amajuba,2005,34.9
-municipality,DC35,,Capricorn,2014,18.9
-municipality,DC4,,Eden,2010,16
-municipality,BUF,,Buffalo City,2013,37.3
-municipality,BUF,,Buffalo City,2014,35.7
-municipality,TSH,,City of Tshwane,2016,24.7
-municipality,EKU,,Ekurhuleni,2003,12.6
-municipality,TSH,,City of Tshwane,2007,30.5
-municipality,DC13,,Chris Hani,2013,19.6
-municipality,DC32,,Ehlanzeni,2009,17.3
-municipality,EKU,,Ekurhuleni,2004,13.2
-municipality,DC5,,Central Karoo,2007,19.7
-municipality,DC5,,Central Karoo,2008,19.5
-municipality,DC5,,Central Karoo,2009,19.4
-municipality,DC39,,Dr Ruth Segomotsi Mompati,2006,15.2
-municipality,DC39,,Dr Ruth Segomotsi Mompati,2007,14.1
-municipality,DC39,,Dr Ruth Segomotsi Mompati,2008,13.1
-municipality,DC39,,Dr Ruth Segomotsi Mompati,2009,11.5
-municipality,DC25,,Amajuba,2014,23
-municipality,DC39,,Dr Ruth Segomotsi Mompati,2018,10.6
-province,EC,,Eastern Cape,2004,24.4
-province,EC,,Eastern Cape,2005,25.7
-province,EC,,Eastern Cape,2006,25.2
-province,EC,,Eastern Cape,2007,24.4
-municipality,BUF,,Buffalo City,2015,36.3
-province,EC,,Eastern Cape,2019,20.6
-municipality,DC37,,Bojanala,2007,6.8
-municipality,DC39,,Dr Ruth Segomotsi Mompati,2010,12.3
-municipality,CPT,,City of Cape Town,2015,25.1
-municipality,DC35,,Capricorn,2015,17.1
-municipality,TSH,,City of Tshwane,2008,29.8
-province,EC,,Eastern Cape,2014,22.1
-province,EC,,Eastern Cape,2015,21.8
-municipality,DC35,,Capricorn,2016,17.7
-municipality,DC35,,Capricorn,2007,21.8
-municipality,DC35,,Capricorn,2008,21.8
-municipality,JHB,,City of Johannesburg,2014,16.9
-municipality,DC4,,Eden,2011,15.6
-municipality,DC4,,Eden,2012,15.4
-municipality,DC4,,Eden,2003,18.8
-municipality,DC4,,Eden,2004,18.3
-municipality,DC20,,Fezile Dabi,2008,13.9
-municipality,DC20,,Fezile Dabi,2009,14.6
-municipality,DC20,,Fezile Dabi,2010,14.8
-municipality,DC2,,Cape Winelands,2010,17.3
-municipality,DC37,,Bojanala,2008,6.3
-municipality,DC37,,Bojanala,2009,6.4
-municipality,DC32,,Ehlanzeni,2005,20
-municipality,DC39,,Dr Ruth Segomotsi Mompati,2011,12
-municipality,JHB,,City of Johannesburg,2015,17.9
-municipality,DC40,,Dr Kenneth Kaunda,2014,36
-municipality,DC40,,Dr Kenneth Kaunda,2015,34.6
-municipality,DC10,,Cacadu,2018,27
-municipality,DC12,,Amathole,2010,20.8
-municipality,ETH,,eThekwini,2015,27.2
-municipality,EKU,,Ekurhuleni,2012,13.1
-municipality,CPT,,City of Cape Town,2016,24.8
-municipality,DC4,,Eden,2015,15
-municipality,DC4,,Eden,2016,14.8
-municipality,DC4,,Eden,2017,14.6
-municipality,DC25,,Amajuba,2015,23.1
-municipality,DC35,,Capricorn,2017,17.6
-municipality,BUF,,Buffalo City,2016,34.5
-municipality,DC10,,Cacadu,2006,31.3
-municipality,DC25,,Amajuba,2006,33
-municipality,DC44,,Alfred Nzo,2015,11.9
-municipality,DC35,,Capricorn,2009,19.6
-municipality,ETH,,eThekwini,2009,29.1
-municipality,DC40,,Dr Kenneth Kaunda,2016,38.7
-municipality,DC37,,Bojanala,2010,6
-municipality,DC39,,Dr Ruth Segomotsi Mompati,2012,12.9
-municipality,JHB,,City of Johannesburg,2016,18.2
-municipality,JHB,,City of Johannesburg,2017,17.1
-municipality,ETH,,eThekwini,2019,24.3
-municipality,DC32,,Ehlanzeni,2010,17.2
-municipality,DC25,,Amajuba,2016,22.4
-municipality,DC25,,Amajuba,2017,20.5
-municipality,DC4,,Eden,2013,15.2
-municipality,EKU,,Ekurhuleni,2005,13.2
-municipality,EKU,,Ekurhuleni,2006,13.3
-municipality,DC10,,Cacadu,2019,26.6
-municipality,DC44,,Alfred Nzo,2009,15.5
-municipality,JHB,,City of Johannesburg,2008,19.5
-municipality,JHB,,City of Johannesburg,2009,19.4
-municipality,DC39,,Dr Ruth Segomotsi Mompati,2019,10.8
-municipality,DC25,,Amajuba,2007,32.6
-province,EC,,Eastern Cape,2008,23.8
-province,EC,,Eastern Cape,2009,23.3
-municipality,ETH,,eThekwini,2010,26.7
-municipality,EKU,,Ekurhuleni,2016,13.4
-municipality,EKU,,Ekurhuleni,2017,13.5
-municipality,EKU,,Ekurhuleni,2018,13.2
-municipality,EKU,,Ekurhuleni,2019,13
-municipality,ETH,,eThekwini,2003,34.3
-municipality,DC32,,Ehlanzeni,2006,20.1
-municipality,DC32,,Ehlanzeni,2007,18.1
-municipality,JHB,,City of Johannesburg,2018,16.9
-municipality,ETH,,eThekwini,2016,22.8
-municipality,DC32,,Ehlanzeni,2011,16.7
-municipality,DC20,,Fezile Dabi,2003,14.6
-municipality,DC20,,Fezile Dabi,2004,14.6
-municipality,DC20,,Fezile Dabi,2005,14.6
-municipality,DC20,,Fezile Dabi,2006,14.7
-municipality,DC25,,Amajuba,2008,32.4
-municipality,DC25,,Amajuba,2009,31.5
-municipality,DC20,,Fezile Dabi,2011,14.4
-municipality,DC40,,Dr Kenneth Kaunda,2017,38.1
-municipality,DC32,,Ehlanzeni,2012,14.2
-municipality,DC13,,Chris Hani,2014,25.4
-municipality,DC44,,Alfred Nzo,2010,14.3
-municipality,DC44,,Alfred Nzo,2016,11.6
-municipality,DC25,,Amajuba,2010,31
-municipality,DC25,,Amajuba,2018,21.4
-municipality,DC12,,Amathole,2006,24.1
-municipality,DC12,,Amathole,2011,20.5
-municipality,DC12,,Amathole,2019,19.3
-municipality,DC37,,Bojanala,2011,5.3
-municipality,DC37,,Bojanala,2015,6.1
-municipality,BUF,,Buffalo City,2004,43.1
-municipality,BUF,,Buffalo City,2017,34.2
-municipality,DC10,,Cacadu,2007,32.9
-municipality,DC2,,Cape Winelands,2003,18.6
-municipality,DC2,,Cape Winelands,2011,16.9
-municipality,DC2,,Cape Winelands,2017,15.6
-municipality,DC35,,Capricorn,2010,19.4
-municipality,DC35,,Capricorn,2018,17.5
-municipality,DC5,,Central Karoo,2010,19.2
-municipality,DC5,,Central Karoo,2015,18.4
-municipality,DC5,,Central Karoo,2019,17.7
-municipality,DC13,,Chris Hani,2005,27.8
-municipality,DC13,,Chris Hani,2015,25.2
-municipality,CPT,,City of Cape Town,2005,28
-municipality,CPT,,City of Cape Town,2012,24.1
-municipality,CPT,,City of Cape Town,2017,24.6
-municipality,JHB,,City of Johannesburg,2010,19.2
-municipality,JHB,,City of Johannesburg,2019,16.2
-municipality,TSH,,City of Tshwane,2009,29.1
-municipality,TSH,,City of Tshwane,2017,24.9
-municipality,DC40,,Dr Kenneth Kaunda,2018,36.7
-municipality,DC39,,Dr Ruth Segomotsi Mompati,2013,4.2
+district,244,,Alfred Nzo,2003,13.3
+district,525,,Amajuba,2003,41.3
+district,212,,Amathole,2003,25.4
+district,637,,Bojanala,2003,6.3
+district,292,,Buffalo City,2003,41.3
+district,210,,Sarah Baartman,2003,33.2
+district,102,,Cape Winelands,2003,18.6
+district,935,,Capricorn,2003,23.2
+district,105,,Central Karoo,2003,28.8
+district,213,,Chris Hani,2003,28.6
+district,191,,City of Cape Town,2003,27.7
+district,798,,City of Johannesburg,2003,22.1
+district,799,,City of Tshwane,2003,35.6
+district,640,,Dr Kenneth Kaunda,2003,48.6
+district,639,,Dr Ruth Segomotsi Mompati,2003,12.1
 province,EC,,Eastern Cape,2003,26.5
-province,EC,,Eastern Cape,2010,23.7
-province,EC,,Eastern Cape,2016,21.4
-municipality,DC4,,Eden,2005,15.9
-municipality,DC4,,Eden,2014,14.9
-municipality,DC4,,Eden,2018,14.5
-municipality,DC32,,Ehlanzeni,2008,17.7
-municipality,DC32,,Ehlanzeni,2013,14.7
-municipality,DC32,,Ehlanzeni,2017,15.4
-municipality,EKU,,Ekurhuleni,2007,16.1
-municipality,EKU,,Ekurhuleni,2013,13.1
-municipality,ETH,,eThekwini,2004,33
-municipality,ETH,,eThekwini,2011,28.2
-municipality,ETH,,eThekwini,2017,30.4
-municipality,DC20,,Fezile Dabi,2007,14.6
-municipality,DC20,,Fezile Dabi,2012,14.3
-municipality,DC20,,Fezile Dabi,2013,14.2
-municipality,DC20,,Fezile Dabi,2014,12.3
-municipality,DC20,,Fezile Dabi,2015,15.5
-municipality,DC20,,Fezile Dabi,2016,15.4
-municipality,DC20,,Fezile Dabi,2017,15.3
-municipality,DC20,,Fezile Dabi,2018,15.1
-municipality,DC20,,Fezile Dabi,2019,15
-municipality,DC9,,Frances Baard,2003,29.5
-municipality,DC9,,Frances Baard,2004,28.8
-municipality,DC9,,Frances Baard,2005,27.6
-municipality,DC9,,Frances Baard,2006,27.5
-municipality,DC9,,Frances Baard,2007,27.4
-municipality,DC9,,Frances Baard,2008,30
-municipality,DC9,,Frances Baard,2009,30.2
-municipality,DC9,,Frances Baard,2010,29.6
-municipality,DC9,,Frances Baard,2011,25.4
-municipality,DC9,,Frances Baard,2012,25.3
-municipality,DC9,,Frances Baard,2013,25.9
-municipality,DC9,,Frances Baard,2014,22.6
-municipality,DC9,,Frances Baard,2015,27.5
-municipality,DC9,,Frances Baard,2016,25.4
-municipality,DC9,,Frances Baard,2017,30.4
-municipality,DC9,,Frances Baard,2018,28.4
-municipality,DC9,,Frances Baard,2019,24
+district,104,,Garden Route,2003,18.8
+district,832,,Ehlanzeni,2003,20
+district,797,,Ekurhuleni,2003,12.6
+district,595,,eThekwini,2003,34.3
+district,420,,Fezile Dabi,2003,14.6
+district,309,,Frances Baard,2003,29.5
 province,FS,,Free State,2003,20.9
-province,FS,,Free State,2004,21.1
-province,FS,,Free State,2005,21
-province,FS,,Free State,2006,21.6
-province,FS,,Free State,2007,21.4
-province,FS,,Free State,2008,21.3
-province,FS,,Free State,2009,20.9
-province,FS,,Free State,2010,21
-province,FS,,Free State,2011,20.6
-province,FS,,Free State,2012,20.5
-province,FS,,Free State,2013,20.3
-province,FS,,Free State,2014,19.8
-province,FS,,Free State,2015,20.1
-province,FS,,Free State,2016,20
-province,FS,,Free State,2017,19.9
-province,FS,,Free State,2018,19.5
-province,FS,,Free State,2019,19.8
 province,GT,,Gauteng,2003,21.7
-province,GT,,Gauteng,2004,21.4
-province,GT,,Gauteng,2005,20.8
-province,GT,,Gauteng,2006,20.1
-province,GT,,Gauteng,2007,20.7
-province,GT,,Gauteng,2008,19.8
-province,GT,,Gauteng,2009,19.6
-province,GT,,Gauteng,2010,19.5
-province,GT,,Gauteng,2011,19
-province,GT,,Gauteng,2012,18.7
-province,GT,,Gauteng,2013,18.1
-province,GT,,Gauteng,2014,16.9
-province,GT,,Gauteng,2015,17.9
-province,GT,,Gauteng,2016,18.4
-province,GT,,Gauteng,2017,18.3
-province,GT,,Gauteng,2018,17.7
-province,GT,,Gauteng,2019,17.1
-municipality,DC30,,Gert Sibande,2003,19.4
-municipality,DC30,,Gert Sibande,2004,19
-municipality,DC30,,Gert Sibande,2005,18.6
-municipality,DC30,,Gert Sibande,2006,18
-municipality,DC30,,Gert Sibande,2007,16.8
-municipality,DC30,,Gert Sibande,2008,16.3
-municipality,DC30,,Gert Sibande,2009,15.8
-municipality,DC30,,Gert Sibande,2010,16.7
-municipality,DC30,,Gert Sibande,2011,14.6
-municipality,DC30,,Gert Sibande,2012,14.5
-municipality,DC30,,Gert Sibande,2013,15.1
-municipality,DC30,,Gert Sibande,2014,14.7
-municipality,DC30,,Gert Sibande,2015,14.5
-municipality,DC30,,Gert Sibande,2016,14.6
-municipality,DC30,,Gert Sibande,2017,13.4
-municipality,DC30,,Gert Sibande,2018,12.1
-municipality,DC30,,Gert Sibande,2019,13.1
-municipality,DC29,,iLembe,2003,17.6
-municipality,DC29,,iLembe,2004,16.5
-municipality,DC29,,iLembe,2005,16.2
-municipality,DC29,,iLembe,2006,17.7
-municipality,DC29,,iLembe,2007,17.5
-municipality,DC29,,iLembe,2008,16
-municipality,DC29,,iLembe,2009,16.9
-municipality,DC29,,iLembe,2010,15.5
-municipality,DC29,,iLembe,2011,15.8
-municipality,DC29,,iLembe,2012,15
-municipality,DC29,,iLembe,2013,15.5
-municipality,DC29,,iLembe,2014,14.3
-municipality,DC29,,iLembe,2015,14.8
-municipality,DC29,,iLembe,2016,14.5
-municipality,DC29,,iLembe,2017,14.3
-municipality,DC29,,iLembe,2018,14.1
-municipality,DC29,,iLembe,2019,13.8
-municipality,DC14,,Joe Gqabi,2003,18.2
-municipality,DC14,,Joe Gqabi,2004,17.6
-municipality,DC14,,Joe Gqabi,2005,17.1
-municipality,DC14,,Joe Gqabi,2006,16.4
-municipality,DC14,,Joe Gqabi,2007,16.3
-municipality,DC14,,Joe Gqabi,2008,16.1
-municipality,DC14,,Joe Gqabi,2009,16.1
-municipality,DC14,,Joe Gqabi,2010,16.7
-municipality,DC14,,Joe Gqabi,2011,16.6
-municipality,DC14,,Joe Gqabi,2012,16.1
-municipality,DC14,,Joe Gqabi,2013,15.9
-municipality,DC14,,Joe Gqabi,2014,15.8
-municipality,DC14,,Joe Gqabi,2015,15.6
-municipality,DC14,,Joe Gqabi,2016,15.4
-municipality,DC14,,Joe Gqabi,2017,15.3
-municipality,DC14,,Joe Gqabi,2018,16.3
-municipality,DC14,,Joe Gqabi,2019,15.8
-municipality,DC45,,John Taolo Gaetsewe,2003,16.5
-municipality,DC45,,John Taolo Gaetsewe,2004,16.3
-municipality,DC45,,John Taolo Gaetsewe,2005,16
-municipality,DC45,,John Taolo Gaetsewe,2006,15.8
-municipality,DC45,,John Taolo Gaetsewe,2007,15.7
-municipality,DC45,,John Taolo Gaetsewe,2008,15.4
-municipality,DC45,,John Taolo Gaetsewe,2009,10.1
-municipality,DC45,,John Taolo Gaetsewe,2010,14.9
-municipality,DC45,,John Taolo Gaetsewe,2011,11.9
-municipality,DC45,,John Taolo Gaetsewe,2012,11.5
-municipality,DC45,,John Taolo Gaetsewe,2013,11.3
-municipality,DC45,,John Taolo Gaetsewe,2014,11.4
-municipality,DC45,,John Taolo Gaetsewe,2015,11.3
-municipality,DC45,,John Taolo Gaetsewe,2016,11.1
-municipality,DC45,,John Taolo Gaetsewe,2017,11
-municipality,DC45,,John Taolo Gaetsewe,2018,10.9
-municipality,DC45,,John Taolo Gaetsewe,2019,10.8
+district,830,,Gert Sibande,2003,19.4
+district,529,,iLembe,2003,17.6
+district,214,,Joe Gqabi,2003,18.2
+district,345,,John Taolo Gaetsewe,2003,16.5
 province,KZN,,KwaZulu-Natal,2003,31.7
-province,KZN,,KwaZulu-Natal,2004,30.7
-province,KZN,,KwaZulu-Natal,2005,29.3
-province,KZN,,KwaZulu-Natal,2006,28.7
-province,KZN,,KwaZulu-Natal,2007,28.2
-province,KZN,,KwaZulu-Natal,2008,27.2
-province,KZN,,KwaZulu-Natal,2009,25.9
-province,KZN,,KwaZulu-Natal,2010,24.2
-province,KZN,,KwaZulu-Natal,2011,24.9
-province,KZN,,KwaZulu-Natal,2012,23.4
-province,KZN,,KwaZulu-Natal,2013,24.3
-province,KZN,,KwaZulu-Natal,2014,22.6
-province,KZN,,KwaZulu-Natal,2015,23.6
-province,KZN,,KwaZulu-Natal,2016,21.7
-province,KZN,,KwaZulu-Natal,2017,24.1
-province,KZN,,KwaZulu-Natal,2018,20.9
-province,KZN,,KwaZulu-Natal,2019,20.9
-municipality,DC18,,Lejweleputswa,2003,16.1
-municipality,DC18,,Lejweleputswa,2004,14.9
-municipality,DC18,,Lejweleputswa,2005,14.8
-municipality,DC18,,Lejweleputswa,2006,14.4
-municipality,DC18,,Lejweleputswa,2007,14.3
-municipality,DC18,,Lejweleputswa,2008,14.3
-municipality,DC18,,Lejweleputswa,2009,14.2
-municipality,DC18,,Lejweleputswa,2010,14.2
-municipality,DC18,,Lejweleputswa,2011,14.1
-municipality,DC18,,Lejweleputswa,2012,14
-municipality,DC18,,Lejweleputswa,2013,13.9
-municipality,DC18,,Lejweleputswa,2014,13.8
-municipality,DC18,,Lejweleputswa,2015,14.5
-municipality,DC18,,Lejweleputswa,2016,14.4
-municipality,DC18,,Lejweleputswa,2017,14.3
-municipality,DC18,,Lejweleputswa,2018,13.7
-municipality,DC18,,Lejweleputswa,2019,13.6
+district,418,,Lejweleputswa,2003,16.1
 province,LIM,,Limpopo,2003,20.1
-province,LIM,,Limpopo,2004,20
-province,LIM,,Limpopo,2005,18.1
-province,LIM,,Limpopo,2006,17.9
-province,LIM,,Limpopo,2007,17.4
-province,LIM,,Limpopo,2008,17.1
-province,LIM,,Limpopo,2009,16.3
-province,LIM,,Limpopo,2010,15.7
-province,LIM,,Limpopo,2011,15.3
-province,LIM,,Limpopo,2012,15.3
-province,LIM,,Limpopo,2013,15.3
-province,LIM,,Limpopo,2014,15.2
-province,LIM,,Limpopo,2015,14
-province,LIM,,Limpopo,2016,14.2
-province,LIM,,Limpopo,2017,14.6
-province,LIM,,Limpopo,2018,14.2
-province,LIM,,Limpopo,2019,14.2
-municipality,MAN,,Mangaung,2003,45
-municipality,MAN,,Mangaung,2004,46.9
-municipality,MAN,,Mangaung,2005,46.7
-municipality,MAN,,Mangaung,2006,49.3
-municipality,MAN,,Mangaung,2007,48.4
-municipality,MAN,,Mangaung,2008,48.7
-municipality,MAN,,Mangaung,2009,47.2
-municipality,MAN,,Mangaung,2010,47.6
-municipality,MAN,,Mangaung,2011,45.6
-municipality,MAN,,Mangaung,2012,45.3
-municipality,MAN,,Mangaung,2013,44.8
-municipality,MAN,,Mangaung,2014,44.4
-municipality,MAN,,Mangaung,2015,42.7
-municipality,MAN,,Mangaung,2016,42.3
-municipality,MAN,,Mangaung,2017,42.4
-municipality,MAN,,Mangaung,2018,40.9
-municipality,MAN,,Mangaung,2019,41.7
-municipality,DC33,,Mopani,2003,17.8
-municipality,DC33,,Mopani,2004,17.9
-municipality,DC33,,Mopani,2005,16.9
-municipality,DC33,,Mopani,2006,17.5
-municipality,DC33,,Mopani,2007,17.2
-municipality,DC33,,Mopani,2008,17.1
-municipality,DC33,,Mopani,2009,16.5
-municipality,DC33,,Mopani,2010,14.5
-municipality,DC33,,Mopani,2011,14.4
-municipality,DC33,,Mopani,2012,14.2
-municipality,DC33,,Mopani,2013,13.9
-municipality,DC33,,Mopani,2014,14.2
-municipality,DC33,,Mopani,2015,10.8
-municipality,DC33,,Mopani,2016,13.5
-municipality,DC33,,Mopani,2017,14.2
-municipality,DC33,,Mopani,2018,13.3
-municipality,DC33,,Mopani,2019,13.8
+district,494,,Mangaung,2003,45
+district,933,,Mopani,2003,17.8
 province,MP,,Mpumalanga,2003,16.4
-province,MP,,Mpumalanga,2004,16.5
-province,MP,,Mpumalanga,2005,16.5
-province,MP,,Mpumalanga,2006,16.9
-province,MP,,Mpumalanga,2007,15.5
-province,MP,,Mpumalanga,2008,15
-province,MP,,Mpumalanga,2009,14.7
-province,MP,,Mpumalanga,2010,14.7
-province,MP,,Mpumalanga,2011,13.5
-province,MP,,Mpumalanga,2012,12.4
-province,MP,,Mpumalanga,2013,12.8
-province,MP,,Mpumalanga,2014,12.5
-province,MP,,Mpumalanga,2015,13.1
-province,MP,,Mpumalanga,2016,13.1
-province,MP,,Mpumalanga,2017,13
-province,MP,,Mpumalanga,2018,13
-province,MP,,Mpumalanga,2019,12.4
-municipality,DC6,,Namakwa,2003,19.9
-municipality,DC6,,Namakwa,2004,19.9
-municipality,DC6,,Namakwa,2005,22.8
-municipality,DC6,,Namakwa,2006,19
-municipality,DC6,,Namakwa,2007,19
-municipality,DC6,,Namakwa,2008,19.2
-municipality,DC6,,Namakwa,2009,17.2
-municipality,DC6,,Namakwa,2010,19.2
-municipality,DC6,,Namakwa,2011,17
-municipality,DC6,,Namakwa,2012,16.4
-municipality,DC6,,Namakwa,2013,17.1
-municipality,DC6,,Namakwa,2014,13.4
-municipality,DC6,,Namakwa,2015,17.6
-municipality,DC6,,Namakwa,2016,17.6
-municipality,DC6,,Namakwa,2017,17.6
-municipality,DC6,,Namakwa,2018,17.6
-municipality,DC6,,Namakwa,2019,17.6
-municipality,NMA,,Nelson Mandela Bay,2003,34.1
-municipality,NMA,,Nelson Mandela Bay,2004,32.4
-municipality,NMA,,Nelson Mandela Bay,2005,32
-municipality,NMA,,Nelson Mandela Bay,2006,31
-municipality,NMA,,Nelson Mandela Bay,2007,30.5
-municipality,NMA,,Nelson Mandela Bay,2008,29.6
-municipality,NMA,,Nelson Mandela Bay,2009,28
-municipality,NMA,,Nelson Mandela Bay,2010,27.7
-municipality,NMA,,Nelson Mandela Bay,2011,27.7
-municipality,NMA,,Nelson Mandela Bay,2012,26
-municipality,NMA,,Nelson Mandela Bay,2013,26
-municipality,NMA,,Nelson Mandela Bay,2014,26
-municipality,NMA,,Nelson Mandela Bay,2015,25.5
-municipality,NMA,,Nelson Mandela Bay,2016,25.5
-municipality,NMA,,Nelson Mandela Bay,2017,25.3
-municipality,NMA,,Nelson Mandela Bay,2018,24.4
-municipality,NMA,,Nelson Mandela Bay,2019,25.1
-municipality,DC38,,Ngaka Modiri Molema,2003,20
-municipality,DC38,,Ngaka Modiri Molema,2004,20
-municipality,DC38,,Ngaka Modiri Molema,2005,8.3
-municipality,DC38,,Ngaka Modiri Molema,2006,17
-municipality,DC38,,Ngaka Modiri Molema,2007,16.5
-municipality,DC38,,Ngaka Modiri Molema,2008,16.6
-municipality,DC38,,Ngaka Modiri Molema,2009,16
-municipality,DC38,,Ngaka Modiri Molema,2010,16
-municipality,DC38,,Ngaka Modiri Molema,2011,15.6
-municipality,DC38,,Ngaka Modiri Molema,2012,15.2
-municipality,DC38,,Ngaka Modiri Molema,2013,15.1
-municipality,DC38,,Ngaka Modiri Molema,2014,10.2
-municipality,DC38,,Ngaka Modiri Molema,2015,19.2
-municipality,DC38,,Ngaka Modiri Molema,2016,14
-municipality,DC38,,Ngaka Modiri Molema,2017,13
-municipality,DC38,,Ngaka Modiri Molema,2018,13.5
-municipality,DC38,,Ngaka Modiri Molema,2019,14
-municipality,DC31,,Nkangala,2003,7.5
-municipality,DC31,,Nkangala,2004,8.5
-municipality,DC31,,Nkangala,2005,8.8
-municipality,DC31,,Nkangala,2006,10.2
-municipality,DC31,,Nkangala,2007,9.9
-municipality,DC31,,Nkangala,2008,9.3
-municipality,DC31,,Nkangala,2009,9.2
-municipality,DC31,,Nkangala,2010,8.6
-municipality,DC31,,Nkangala,2011,7.6
-municipality,DC31,,Nkangala,2012,7.7
-municipality,DC31,,Nkangala,2013,7.8
-municipality,DC31,,Nkangala,2014,7.6
-municipality,DC31,,Nkangala,2015,9.1
-municipality,DC31,,Nkangala,2016,9
-municipality,DC31,,Nkangala,2017,8.9
-municipality,DC31,,Nkangala,2018,9
-municipality,DC31,,Nkangala,2019,7.7
+district,306,,Namakwa,2003,19.9
+district,293,,Nelson Mandela Bay,2003,34.1
+district,638,,Ngaka Modiri Molema,2003,20
+district,831,,Nkangala,2003,7.5
 province,NW,,North West,2003,18.7
-province,NW,,North West,2004,17.5
-province,NW,,North West,2005,15.9
-province,NW,,North West,2006,18.3
-province,NW,,North West,2007,17.6
-province,NW,,North West,2008,17.1
-province,NW,,North West,2009,16.8
-province,NW,,North West,2010,16.1
-province,NW,,North West,2011,15.6
-province,NW,,North West,2012,15.5
-province,NW,,North West,2013,14.1
-province,NW,,North West,2014,13.5
-province,NW,,North West,2015,15.6
-province,NW,,North West,2016,14.4
-province,NW,,North West,2017,13.2
-province,NW,,North West,2018,13.6
-province,NW,,North West,2019,13.8
 province,NC,,Northern Cape,2003,22.3
-province,NC,,Northern Cape,2004,22.1
-province,NC,,Northern Cape,2005,21.8
-province,NC,,Northern Cape,2006,21.9
-province,NC,,Northern Cape,2007,21
-province,NC,,Northern Cape,2008,21.8
-province,NC,,Northern Cape,2009,20.4
-province,NC,,Northern Cape,2010,21.2
-province,NC,,Northern Cape,2011,18.6
-province,NC,,Northern Cape,2012,19
-province,NC,,Northern Cape,2013,18
-province,NC,,Northern Cape,2014,16
-province,NC,,Northern Cape,2015,18.4
-province,NC,,Northern Cape,2016,17.9
-province,NC,,Northern Cape,2017,20.2
-province,NC,,Northern Cape,2018,19
-province,NC,,Northern Cape,2019,17.7
-municipality,DC15,,O.R.Tambo,2003,23.1
-municipality,DC15,,O.R.Tambo,2004,15.7
-municipality,DC15,,O.R.Tambo,2005,21.6
-municipality,DC15,,O.R.Tambo,2006,21.6
-municipality,DC15,,O.R.Tambo,2007,21.3
-municipality,DC15,,O.R.Tambo,2008,19.9
-municipality,DC15,,O.R.Tambo,2009,18.8
-municipality,DC15,,O.R.Tambo,2010,20
-municipality,DC15,,O.R.Tambo,2011,20
-municipality,DC15,,O.R.Tambo,2012,18.5
-municipality,DC15,,O.R.Tambo,2013,18.1
-municipality,DC15,,O.R.Tambo,2014,18.3
-municipality,DC15,,O.R.Tambo,2015,17.9
-municipality,DC15,,O.R.Tambo,2016,17.6
-municipality,DC15,,O.R.Tambo,2017,16
-municipality,DC15,,O.R.Tambo,2018,17
-municipality,DC15,,O.R.Tambo,2019,17
-municipality,DC3,,Overberg,2003,11.3
-municipality,DC3,,Overberg,2004,11.1
-municipality,DC3,,Overberg,2005,10.9
-municipality,DC3,,Overberg,2006,10.6
-municipality,DC3,,Overberg,2007,9.9
-municipality,DC3,,Overberg,2008,10.2
-municipality,DC3,,Overberg,2009,10
-municipality,DC3,,Overberg,2010,9.8
-municipality,DC3,,Overberg,2011,8.8
-municipality,DC3,,Overberg,2012,8.8
-municipality,DC3,,Overberg,2013,8.6
-municipality,DC3,,Overberg,2014,9.6
-municipality,DC3,,Overberg,2015,9.4
-municipality,DC3,,Overberg,2016,9.2
-municipality,DC3,,Overberg,2017,9
-municipality,DC3,,Overberg,2018,8.8
-municipality,DC3,,Overberg,2019,8.6
-municipality,DC7,,Pixley ka Seme,2003,17.4
-municipality,DC7,,Pixley ka Seme,2004,17.9
-municipality,DC7,,Pixley ka Seme,2005,17.7
-municipality,DC7,,Pixley ka Seme,2006,18.4
-municipality,DC7,,Pixley ka Seme,2007,18.2
-municipality,DC7,,Pixley ka Seme,2008,18
-municipality,DC7,,Pixley ka Seme,2009,17.7
-municipality,DC7,,Pixley ka Seme,2010,17.5
-municipality,DC7,,Pixley ka Seme,2011,16.8
-municipality,DC7,,Pixley ka Seme,2012,20.5
-municipality,DC7,,Pixley ka Seme,2013,16.5
-municipality,DC7,,Pixley ka Seme,2014,16.2
-municipality,DC7,,Pixley ka Seme,2015,17.2
-municipality,DC7,,Pixley ka Seme,2016,12.7
-municipality,DC7,,Pixley ka Seme,2017,15.2
-municipality,DC7,,Pixley ka Seme,2018,14.3
-municipality,DC7,,Pixley ka Seme,2019,14.1
-municipality,DC42,,Sedibeng,2003,17.6
-municipality,DC42,,Sedibeng,2004,16.3
-municipality,DC42,,Sedibeng,2005,15.9
-municipality,DC42,,Sedibeng,2006,16.5
-municipality,DC42,,Sedibeng,2007,15.1
-municipality,DC42,,Sedibeng,2008,15.3
-municipality,DC42,,Sedibeng,2009,15.5
-municipality,DC42,,Sedibeng,2010,15.4
-municipality,DC42,,Sedibeng,2011,15.2
-municipality,DC42,,Sedibeng,2012,15.4
-municipality,DC42,,Sedibeng,2013,14.6
-municipality,DC42,,Sedibeng,2014,14.4
-municipality,DC42,,Sedibeng,2015,14.7
-municipality,DC42,,Sedibeng,2016,14.6
-municipality,DC42,,Sedibeng,2017,15.4
-municipality,DC42,,Sedibeng,2018,14.3
-municipality,DC42,,Sedibeng,2019,13.9
-municipality,DC47,,Sekhukhune,2003,17.7
-municipality,DC47,,Sekhukhune,2004,17.1
-municipality,DC47,,Sekhukhune,2005,14.1
-municipality,DC47,,Sekhukhune,2006,14.3
-municipality,DC47,,Sekhukhune,2007,13.6
-municipality,DC47,,Sekhukhune,2008,12.6
-municipality,DC47,,Sekhukhune,2009,12.3
-municipality,DC47,,Sekhukhune,2010,12.2
-municipality,DC47,,Sekhukhune,2011,11.6
-municipality,DC47,,Sekhukhune,2012,11.8
-municipality,DC47,,Sekhukhune,2013,11.8
-municipality,DC47,,Sekhukhune,2014,11.8
-municipality,DC47,,Sekhukhune,2015,11.7
-municipality,DC47,,Sekhukhune,2016,11.6
-municipality,DC47,,Sekhukhune,2017,11.5
-municipality,DC47,,Sekhukhune,2018,11
-municipality,DC47,,Sekhukhune,2019,10.8
-municipality,DC43,,Sisonke,2003,30.6
-municipality,DC43,,Sisonke,2004,29.6
-municipality,DC43,,Sisonke,2005,28.9
-municipality,DC43,,Sisonke,2006,29.4
-municipality,DC43,,Sisonke,2007,28.4
-municipality,DC43,,Sisonke,2008,27.7
-municipality,DC43,,Sisonke,2009,26.4
-municipality,DC43,,Sisonke,2010,26
-municipality,DC43,,Sisonke,2011,25.8
-municipality,DC43,,Sisonke,2012,25.4
-municipality,DC43,,Sisonke,2013,24.9
-municipality,DC43,,Sisonke,2014,24.1
-municipality,DC43,,Sisonke,2015,23.7
-municipality,DC43,,Sisonke,2016,23.4
-municipality,DC43,,Sisonke,2017,30.6
-municipality,DC43,,Sisonke,2018,22.4
-municipality,DC43,,Sisonke,2019,22.2
+district,215,,O.R.Tambo,2003,23.1
+district,103,,Overberg,2003,11.3
+district,307,,Pixley ka Seme,2003,17.4
+district,742,,Sedibeng,2003,17.6
+district,947,,Sekhukhune,2003,17.7
+district,543,,Harry Gwala,2003,30.6
 country,ZA,,South Africa,2003,24
-country,ZA,,South Africa,2004,23.3
-country,ZA,,South Africa,2005,22.7
-country,ZA,,South Africa,2006,22.4
-country,ZA,,South Africa,2007,22.1
-country,ZA,,South Africa,2008,21.4
-country,ZA,,South Africa,2009,20.9
-country,ZA,,South Africa,2010,20.3
-country,ZA,,South Africa,2011,20
-country,ZA,,South Africa,2012,19.4
-country,ZA,,South Africa,2013,19.3
-country,ZA,,South Africa,2014,18.6
-country,ZA,,South Africa,2015,19.1
-country,ZA,,South Africa,2016,18.6
-country,ZA,,South Africa,2017,19
-country,ZA,,South Africa,2018,18.1
-country,ZA,,South Africa,2019,17.9
-municipality,DC19,,Thabo Mofutsanyane,2003,12.8
-municipality,DC19,,Thabo Mofutsanyane,2004,12.8
-municipality,DC19,,Thabo Mofutsanyane,2005,12.9
-municipality,DC19,,Thabo Mofutsanyane,2006,12.9
-municipality,DC19,,Thabo Mofutsanyane,2007,12.9
-municipality,DC19,,Thabo Mofutsanyane,2008,12.8
-municipality,DC19,,Thabo Mofutsanyane,2009,12.4
-municipality,DC19,,Thabo Mofutsanyane,2010,12.3
-municipality,DC19,,Thabo Mofutsanyane,2011,12.7
-municipality,DC19,,Thabo Mofutsanyane,2012,12.6
-municipality,DC19,,Thabo Mofutsanyane,2013,12.6
-municipality,DC19,,Thabo Mofutsanyane,2014,12.3
-municipality,DC19,,Thabo Mofutsanyane,2015,12.2
-municipality,DC19,,Thabo Mofutsanyane,2016,12.4
-municipality,DC19,,Thabo Mofutsanyane,2017,12.3
-municipality,DC19,,Thabo Mofutsanyane,2018,11.7
-municipality,DC19,,Thabo Mofutsanyane,2019,12.1
-municipality,DC21,,Ugu,2003,22.5
-municipality,DC21,,Ugu,2004,22.3
-municipality,DC21,,Ugu,2005,22
-municipality,DC21,,Ugu,2006,22.1
-municipality,DC21,,Ugu,2007,21.5
-municipality,DC21,,Ugu,2008,20
-municipality,DC21,,Ugu,2009,19.7
-municipality,DC21,,Ugu,2010,17.6
-municipality,DC21,,Ugu,2011,19.8
-municipality,DC21,,Ugu,2012,18.8
-municipality,DC21,,Ugu,2013,19.7
-municipality,DC21,,Ugu,2014,19.7
-municipality,DC21,,Ugu,2015,19.4
-municipality,DC21,,Ugu,2016,18.8
-municipality,DC21,,Ugu,2017,22.7
-municipality,DC21,,Ugu,2018,17.8
-municipality,DC21,,Ugu,2019,12.3
-municipality,DC22,,Umgungundlovu,2003,59.5
-municipality,DC22,,Umgungundlovu,2004,57.5
-municipality,DC22,,Umgungundlovu,2005,53.6
-municipality,DC22,,Umgungundlovu,2006,50.9
-municipality,DC22,,Umgungundlovu,2007,50.6
-municipality,DC22,,Umgungundlovu,2008,48.3
-municipality,DC22,,Umgungundlovu,2009,42.2
-municipality,DC22,,Umgungundlovu,2010,34.8
-municipality,DC22,,Umgungundlovu,2011,34.3
-municipality,DC22,,Umgungundlovu,2012,33.8
-municipality,DC22,,Umgungundlovu,2013,37.8
-municipality,DC22,,Umgungundlovu,2014,36.5
-municipality,DC22,,Umgungundlovu,2015,34.5
-municipality,DC22,,Umgungundlovu,2016,34.5
-municipality,DC22,,Umgungundlovu,2017,33.6
-municipality,DC22,,Umgungundlovu,2018,33.3
-municipality,DC22,,Umgungundlovu,2019,32.6
-municipality,DC27,,Umkhanyakude,2003,23.1
-municipality,DC27,,Umkhanyakude,2004,22.9
-municipality,DC27,,Umkhanyakude,2005,20.2
-municipality,DC27,,Umkhanyakude,2006,19.6
-municipality,DC27,,Umkhanyakude,2007,19.6
-municipality,DC27,,Umkhanyakude,2008,19.4
-municipality,DC27,,Umkhanyakude,2009,17.4
-municipality,DC27,,Umkhanyakude,2010,19.5
-municipality,DC27,,Umkhanyakude,2011,20
-municipality,DC27,,Umkhanyakude,2012,20.2
-municipality,DC27,,Umkhanyakude,2013,19.8
-municipality,DC27,,Umkhanyakude,2014,19.6
-municipality,DC27,,Umkhanyakude,2015,19.2
-municipality,DC27,,Umkhanyakude,2016,18.6
-municipality,DC27,,Umkhanyakude,2017,16.8
-municipality,DC27,,Umkhanyakude,2018,16.6
-municipality,DC27,,Umkhanyakude,2019,16.5
-municipality,DC24,,Umzinyathi,2003,27.4
-municipality,DC24,,Umzinyathi,2004,27.1
-municipality,DC24,,Umzinyathi,2005,25.8
-municipality,DC24,,Umzinyathi,2006,24.7
-municipality,DC24,,Umzinyathi,2007,24.5
-municipality,DC24,,Umzinyathi,2008,24.6
-municipality,DC24,,Umzinyathi,2009,23.9
-municipality,DC24,,Umzinyathi,2010,23.7
-municipality,DC24,,Umzinyathi,2011,24.2
-municipality,DC24,,Umzinyathi,2012,24.3
-municipality,DC24,,Umzinyathi,2013,24
-municipality,DC24,,Umzinyathi,2014,23.8
-municipality,DC24,,Umzinyathi,2015,23.7
-municipality,DC24,,Umzinyathi,2016,23.5
-municipality,DC24,,Umzinyathi,2017,23.2
-municipality,DC24,,Umzinyathi,2018,22.6
-municipality,DC24,,Umzinyathi,2019,22.3
-municipality,DC23,,Uthukela,2003,17.9
-municipality,DC23,,Uthukela,2004,17.2
-municipality,DC23,,Uthukela,2005,15.7
-municipality,DC23,,Uthukela,2006,15
-municipality,DC23,,Uthukela,2007,14.8
-municipality,DC23,,Uthukela,2008,12.3
-municipality,DC23,,Uthukela,2009,11.7
-municipality,DC23,,Uthukela,2010,14.1
-municipality,DC23,,Uthukela,2011,13.6
-municipality,DC23,,Uthukela,2012,14.1
-municipality,DC23,,Uthukela,2013,13.8
-municipality,DC23,,Uthukela,2014,8.9
-municipality,DC23,,Uthukela,2015,13.2
-municipality,DC23,,Uthukela,2016,13
-municipality,DC23,,Uthukela,2017,12.9
-municipality,DC23,,Uthukela,2018,12.6
-municipality,DC23,,Uthukela,2019,12.5
-municipality,DC28,,Uthungulu,2003,29.4
-municipality,DC28,,Uthungulu,2004,29
-municipality,DC28,,Uthungulu,2005,28.8
-municipality,DC28,,Uthungulu,2006,28.1
-municipality,DC28,,Uthungulu,2007,28.1
-municipality,DC28,,Uthungulu,2008,27.8
-municipality,DC28,,Uthungulu,2009,26.4
-municipality,DC28,,Uthungulu,2010,24.1
-municipality,DC28,,Uthungulu,2011,25.6
-municipality,DC28,,Uthungulu,2012,23.7
-municipality,DC28,,Uthungulu,2013,23.4
-municipality,DC28,,Uthungulu,2014,23.1
-municipality,DC28,,Uthungulu,2015,23.2
-municipality,DC28,,Uthungulu,2016,23.1
-municipality,DC28,,Uthungulu,2017,22.5
-municipality,DC28,,Uthungulu,2018,23
-municipality,DC28,,Uthungulu,2019,22.8
-municipality,DC34,,Vhembe,2003,20.5
-municipality,DC34,,Vhembe,2004,20
-municipality,DC34,,Vhembe,2005,18.4
-municipality,DC34,,Vhembe,2006,16.6
-municipality,DC34,,Vhembe,2007,16
-municipality,DC34,,Vhembe,2008,15.5
-municipality,DC34,,Vhembe,2009,15.6
-municipality,DC34,,Vhembe,2010,15.2
-municipality,DC34,,Vhembe,2011,14.7
-municipality,DC34,,Vhembe,2012,14.3
-municipality,DC34,,Vhembe,2013,14.4
-municipality,DC34,,Vhembe,2014,14
-municipality,DC34,,Vhembe,2015,13.9
-municipality,DC34,,Vhembe,2016,12.1
-municipality,DC34,,Vhembe,2017,13.4
-municipality,DC34,,Vhembe,2018,13.2
-municipality,DC34,,Vhembe,2019,13.1
-municipality,DC36,,Waterberg,2003,20.9
-municipality,DC36,,Waterberg,2004,20.8
-municipality,DC36,,Waterberg,2005,18.3
-municipality,DC36,,Waterberg,2006,18.4
-municipality,DC36,,Waterberg,2007,18.1
-municipality,DC36,,Waterberg,2008,18.4
-municipality,DC36,,Waterberg,2009,18.4
-municipality,DC36,,Waterberg,2010,18.1
-municipality,DC36,,Waterberg,2011,18
-municipality,DC36,,Waterberg,2012,19
-municipality,DC36,,Waterberg,2013,19.1
-municipality,DC36,,Waterberg,2014,18.8
-municipality,DC36,,Waterberg,2015,18.5
-municipality,DC36,,Waterberg,2016,18.2
-municipality,DC36,,Waterberg,2017,17.9
-municipality,DC36,,Waterberg,2018,17.6
-municipality,DC36,,Waterberg,2019,17.4
-municipality,DC1,,West Coast,2003,20.9
-municipality,DC1,,West Coast,2004,20.4
-municipality,DC1,,West Coast,2005,20.1
-municipality,DC1,,West Coast,2006,19.4
-municipality,DC1,,West Coast,2007,19.1
-municipality,DC1,,West Coast,2008,18.8
-municipality,DC1,,West Coast,2009,18.4
-municipality,DC1,,West Coast,2010,18
-municipality,DC1,,West Coast,2011,17.9
-municipality,DC1,,West Coast,2012,17.5
-municipality,DC1,,West Coast,2013,16.7
-municipality,DC1,,West Coast,2014,16.5
-municipality,DC1,,West Coast,2015,16.4
-municipality,DC1,,West Coast,2016,16
-municipality,DC1,,West Coast,2017,15.6
-municipality,DC1,,West Coast,2018,13.9
-municipality,DC1,,West Coast,2019,13.6
-municipality,DC48,,West Rand,2003,27.3
-municipality,DC48,,West Rand,2004,27.1
-municipality,DC48,,West Rand,2005,27.7
-municipality,DC48,,West Rand,2006,26.8
-municipality,DC48,,West Rand,2007,27.2
-municipality,DC48,,West Rand,2008,28.7
-municipality,DC48,,West Rand,2009,29.3
-municipality,DC48,,West Rand,2010,29
-municipality,DC48,,West Rand,2011,29.6
-municipality,DC48,,West Rand,2012,29.4
-municipality,DC48,,West Rand,2013,29.3
-municipality,DC48,,West Rand,2014,29.3
-municipality,DC48,,West Rand,2015,29
-municipality,DC48,,West Rand,2016,31
-municipality,DC48,,West Rand,2017,32.6
-municipality,DC48,,West Rand,2018,30
-municipality,DC48,,West Rand,2019,28.9
+district,419,,Thabo Mofutsanyana,2003,12.8
+district,521,,Ugu,2003,22.5
+district,522,,Umgungundlovu,2003,59.5
+district,527,,Umkhanyakude,2003,23.1
+district,524,,Umzinyathi,2003,27.4
+district,523,,Uthukela,2003,17.9
+district,528,,King Cetshwayo,2003,29.4
+district,934,,Vhembe,2003,20.5
+district,936,,Waterberg,2003,20.9
+district,101,,West Coast,2003,20.9
+district,748,,West Rand,2003,27.3
 province,WC,,Western Cape,2003,23.8
+district,416,,Xhariep,2003,6
+district,308,,Z F Mgcawu,2003,17.9
+district,526,,Zululand,2003,30.3
+district,244,,Alfred Nzo,2004,13.2
+district,525,,Amajuba,2004,38.7
+district,212,,Amathole,2004,24.3
+district,637,,Bojanala,2004,6.4
+district,292,,Buffalo City,2004,43.1
+district,210,,Sarah Baartman,2004,32.3
+district,102,,Cape Winelands,2004,18
+district,935,,Capricorn,2004,23.8
+district,105,,Central Karoo,2004,21.9
+district,213,,Chris Hani,2004,28.1
+district,191,,City of Cape Town,2004,28.7
+district,798,,City of Johannesburg,2004,21.5
+district,799,,City of Tshwane,2004,34.6
+district,640,,Dr Kenneth Kaunda,2004,41.5
+district,639,,Dr Ruth Segomotsi Mompati,2004,13.1
+province,EC,,Eastern Cape,2004,24.4
+district,104,,Garden Route,2004,18.3
+district,832,,Ehlanzeni,2004,19.8
+district,797,,Ekurhuleni,2004,13.2
+district,595,,eThekwini,2004,33
+district,420,,Fezile Dabi,2004,14.6
+district,309,,Frances Baard,2004,28.8
+province,FS,,Free State,2004,21.1
+province,GT,,Gauteng,2004,21.4
+district,830,,Gert Sibande,2004,19
+district,529,,iLembe,2004,16.5
+district,214,,Joe Gqabi,2004,17.6
+district,345,,John Taolo Gaetsewe,2004,16.3
+province,KZN,,KwaZulu-Natal,2004,30.7
+district,418,,Lejweleputswa,2004,14.9
+province,LIM,,Limpopo,2004,20
+district,494,,Mangaung,2004,46.9
+district,933,,Mopani,2004,17.9
+province,MP,,Mpumalanga,2004,16.5
+district,306,,Namakwa,2004,19.9
+district,293,,Nelson Mandela Bay,2004,32.4
+district,638,,Ngaka Modiri Molema,2004,20
+district,831,,Nkangala,2004,8.5
+province,NW,,North West,2004,17.5
+province,NC,,Northern Cape,2004,22.1
+district,215,,O.R.Tambo,2004,15.7
+district,103,,Overberg,2004,11.1
+district,307,,Pixley ka Seme,2004,17.9
+district,742,,Sedibeng,2004,16.3
+district,947,,Sekhukhune,2004,17.1
+district,543,,Harry Gwala,2004,29.6
+country,ZA,,South Africa,2004,23.3
+district,419,,Thabo Mofutsanyana,2004,12.8
+district,521,,Ugu,2004,22.3
+district,522,,Umgungundlovu,2004,57.5
+district,527,,Umkhanyakude,2004,22.9
+district,524,,Umzinyathi,2004,27.1
+district,523,,Uthukela,2004,17.2
+district,528,,King Cetshwayo,2004,29
+district,934,,Vhembe,2004,20
+district,936,,Waterberg,2004,20.8
+district,101,,West Coast,2004,20.4
+district,748,,West Rand,2004,27.1
 province,WC,,Western Cape,2004,24
+district,416,,Xhariep,2004,6
+district,308,,Z F Mgcawu,2004,17.6
+district,526,,Zululand,2004,29.9
+district,244,,Alfred Nzo,2005,13.1
+district,525,,Amajuba,2005,34.9
+district,212,,Amathole,2005,24.3
+district,637,,Bojanala,2005,6.6
+district,292,,Buffalo City,2005,44.3
+district,210,,Sarah Baartman,2005,31.3
+district,102,,Cape Winelands,2005,17.7
+district,935,,Capricorn,2005,21.9
+district,105,,Central Karoo,2005,19.9
+district,213,,Chris Hani,2005,27.8
+district,191,,City of Cape Town,2005,28
+district,798,,City of Johannesburg,2005,20.5
+district,799,,City of Tshwane,2005,33.1
+district,640,,Dr Kenneth Kaunda,2005,48.1
+district,639,,Dr Ruth Segomotsi Mompati,2005,15
+province,EC,,Eastern Cape,2005,25.7
+district,104,,Garden Route,2005,15.9
+district,832,,Ehlanzeni,2005,20
+district,797,,Ekurhuleni,2005,13.2
+district,595,,eThekwini,2005,31.7
+district,420,,Fezile Dabi,2005,14.6
+district,309,,Frances Baard,2005,27.6
+province,FS,,Free State,2005,21
+province,GT,,Gauteng,2005,20.8
+district,830,,Gert Sibande,2005,18.6
+district,529,,iLembe,2005,16.2
+district,214,,Joe Gqabi,2005,17.1
+district,345,,John Taolo Gaetsewe,2005,16
+province,KZN,,KwaZulu-Natal,2005,29.3
+district,418,,Lejweleputswa,2005,14.8
+province,LIM,,Limpopo,2005,18.1
+district,494,,Mangaung,2005,46.7
+district,933,,Mopani,2005,16.9
+province,MP,,Mpumalanga,2005,16.5
+district,306,,Namakwa,2005,22.8
+district,293,,Nelson Mandela Bay,2005,32
+district,638,,Ngaka Modiri Molema,2005,8.3
+district,831,,Nkangala,2005,8.8
+province,NW,,North West,2005,15.9
+province,NC,,Northern Cape,2005,21.8
+district,215,,O.R.Tambo,2005,21.6
+district,103,,Overberg,2005,10.9
+district,307,,Pixley ka Seme,2005,17.7
+district,742,,Sedibeng,2005,15.9
+district,947,,Sekhukhune,2005,14.1
+district,543,,Harry Gwala,2005,28.9
+country,ZA,,South Africa,2005,22.7
+district,419,,Thabo Mofutsanyana,2005,12.9
+district,521,,Ugu,2005,22
+district,522,,Umgungundlovu,2005,53.6
+district,527,,Umkhanyakude,2005,20.2
+district,524,,Umzinyathi,2005,25.8
+district,523,,Uthukela,2005,15.7
+district,528,,King Cetshwayo,2005,28.8
+district,934,,Vhembe,2005,18.4
+district,936,,Waterberg,2005,18.3
+district,101,,West Coast,2005,20.1
+district,748,,West Rand,2005,27.7
 province,WC,,Western Cape,2005,23.3
+district,416,,Xhariep,2005,5.9
+district,308,,Z F Mgcawu,2005,17.4
+district,526,,Zululand,2005,29.6
+district,244,,Alfred Nzo,2006,13.3
+district,525,,Amajuba,2006,33
+district,212,,Amathole,2006,24.1
+district,637,,Bojanala,2006,6.7
+district,292,,Buffalo City,2006,42.1
+district,210,,Sarah Baartman,2006,31.3
+district,102,,Cape Winelands,2006,17.7
+district,935,,Capricorn,2006,22.5
+district,105,,Central Karoo,2006,19.8
+district,213,,Chris Hani,2006,27.2
+district,191,,City of Cape Town,2006,26
+district,798,,City of Johannesburg,2006,20.1
+district,799,,City of Tshwane,2006,30.5
+district,640,,Dr Kenneth Kaunda,2006,47.6
+district,639,,Dr Ruth Segomotsi Mompati,2006,15.2
+province,EC,,Eastern Cape,2006,25.2
+district,104,,Garden Route,2006,16.4
+district,832,,Ehlanzeni,2006,20.1
+district,797,,Ekurhuleni,2006,13.3
+district,595,,eThekwini,2006,31.4
+district,420,,Fezile Dabi,2006,14.7
+district,309,,Frances Baard,2006,27.5
+province,FS,,Free State,2006,21.6
+province,GT,,Gauteng,2006,20.1
+district,830,,Gert Sibande,2006,18
+district,529,,iLembe,2006,17.7
+district,214,,Joe Gqabi,2006,16.4
+district,345,,John Taolo Gaetsewe,2006,15.8
+province,KZN,,KwaZulu-Natal,2006,28.7
+district,418,,Lejweleputswa,2006,14.4
+province,LIM,,Limpopo,2006,17.9
+district,494,,Mangaung,2006,49.3
+district,933,,Mopani,2006,17.5
+province,MP,,Mpumalanga,2006,16.9
+district,306,,Namakwa,2006,19
+district,293,,Nelson Mandela Bay,2006,31
+district,638,,Ngaka Modiri Molema,2006,17
+district,831,,Nkangala,2006,10.2
+province,NW,,North West,2006,18.3
+province,NC,,Northern Cape,2006,21.9
+district,215,,O.R.Tambo,2006,21.6
+district,103,,Overberg,2006,10.6
+district,307,,Pixley ka Seme,2006,18.4
+district,742,,Sedibeng,2006,16.5
+district,947,,Sekhukhune,2006,14.3
+district,543,,Harry Gwala,2006,29.4
+country,ZA,,South Africa,2006,22.4
+district,419,,Thabo Mofutsanyana,2006,12.9
+district,521,,Ugu,2006,22.1
+district,522,,Umgungundlovu,2006,50.9
+district,527,,Umkhanyakude,2006,19.6
+district,524,,Umzinyathi,2006,24.7
+district,523,,Uthukela,2006,15
+district,528,,King Cetshwayo,2006,28.1
+district,934,,Vhembe,2006,16.6
+district,936,,Waterberg,2006,18.4
+district,101,,West Coast,2006,19.4
+district,748,,West Rand,2006,26.8
 province,WC,,Western Cape,2006,22
+district,416,,Xhariep,2006,5.9
+district,308,,Z F Mgcawu,2006,19.6
+district,526,,Zululand,2006,28.7
+district,244,,Alfred Nzo,2007,12.7
+district,525,,Amajuba,2007,32.6
+district,212,,Amathole,2007,21.1
+district,637,,Bojanala,2007,6.8
+district,292,,Buffalo City,2007,40.7
+district,210,,Sarah Baartman,2007,32.9
+district,102,,Cape Winelands,2007,17.5
+district,935,,Capricorn,2007,21.8
+district,105,,Central Karoo,2007,19.7
+district,213,,Chris Hani,2007,26.7
+district,191,,City of Cape Town,2007,26.8
+district,798,,City of Johannesburg,2007,20
+district,799,,City of Tshwane,2007,30.5
+district,640,,Dr Kenneth Kaunda,2007,45.7
+district,639,,Dr Ruth Segomotsi Mompati,2007,14.1
+province,EC,,Eastern Cape,2007,24.4
+district,104,,Garden Route,2007,16.5
+district,832,,Ehlanzeni,2007,18.1
+district,797,,Ekurhuleni,2007,16.1
+district,595,,eThekwini,2007,30.4
+district,420,,Fezile Dabi,2007,14.6
+district,309,,Frances Baard,2007,27.4
+province,FS,,Free State,2007,21.4
+province,GT,,Gauteng,2007,20.7
+district,830,,Gert Sibande,2007,16.8
+district,529,,iLembe,2007,17.5
+district,214,,Joe Gqabi,2007,16.3
+district,345,,John Taolo Gaetsewe,2007,15.7
+province,KZN,,KwaZulu-Natal,2007,28.2
+district,418,,Lejweleputswa,2007,14.3
+province,LIM,,Limpopo,2007,17.4
+district,494,,Mangaung,2007,48.4
+district,933,,Mopani,2007,17.2
+province,MP,,Mpumalanga,2007,15.5
+district,306,,Namakwa,2007,19
+district,293,,Nelson Mandela Bay,2007,30.5
+district,638,,Ngaka Modiri Molema,2007,16.5
+district,831,,Nkangala,2007,9.9
+province,NW,,North West,2007,17.6
+province,NC,,Northern Cape,2007,21
+district,215,,O.R.Tambo,2007,21.3
+district,103,,Overberg,2007,9.9
+district,307,,Pixley ka Seme,2007,18.2
+district,742,,Sedibeng,2007,15.1
+district,947,,Sekhukhune,2007,13.6
+district,543,,Harry Gwala,2007,28.4
+country,ZA,,South Africa,2007,22.1
+district,419,,Thabo Mofutsanyana,2007,12.9
+district,521,,Ugu,2007,21.5
+district,522,,Umgungundlovu,2007,50.6
+district,527,,Umkhanyakude,2007,19.6
+district,524,,Umzinyathi,2007,24.5
+district,523,,Uthukela,2007,14.8
+district,528,,King Cetshwayo,2007,28.1
+district,934,,Vhembe,2007,16
+district,936,,Waterberg,2007,18.1
+district,101,,West Coast,2007,19.1
+district,748,,West Rand,2007,27.2
 province,WC,,Western Cape,2007,22.4
+district,416,,Xhariep,2007,5.9
+district,308,,Z F Mgcawu,2007,16.1
+district,526,,Zululand,2007,27.9
+district,244,,Alfred Nzo,2008,14.3
+district,525,,Amajuba,2008,32.4
+district,212,,Amathole,2008,20.9
+district,637,,Bojanala,2008,6.3
+district,292,,Buffalo City,2008,39.4
+district,210,,Sarah Baartman,2008,32.7
+district,102,,Cape Winelands,2008,17.2
+district,935,,Capricorn,2008,21.8
+district,105,,Central Karoo,2008,19.5
+district,213,,Chris Hani,2008,26
+district,191,,City of Cape Town,2008,25.9
+district,798,,City of Johannesburg,2008,19.5
+district,799,,City of Tshwane,2008,29.8
+district,640,,Dr Kenneth Kaunda,2008,44.9
+district,639,,Dr Ruth Segomotsi Mompati,2008,13.1
+province,EC,,Eastern Cape,2008,23.8
+district,104,,Garden Route,2008,16.4
+district,832,,Ehlanzeni,2008,17.7
+district,797,,Ekurhuleni,2008,13.3
+district,595,,eThekwini,2008,30.1
+district,420,,Fezile Dabi,2008,13.9
+district,309,,Frances Baard,2008,30
+province,FS,,Free State,2008,21.3
+province,GT,,Gauteng,2008,19.8
+district,830,,Gert Sibande,2008,16.3
+district,529,,iLembe,2008,16
+district,214,,Joe Gqabi,2008,16.1
+district,345,,John Taolo Gaetsewe,2008,15.4
+province,KZN,,KwaZulu-Natal,2008,27.2
+district,418,,Lejweleputswa,2008,14.3
+province,LIM,,Limpopo,2008,17.1
+district,494,,Mangaung,2008,48.7
+district,933,,Mopani,2008,17.1
+province,MP,,Mpumalanga,2008,15
+district,306,,Namakwa,2008,19.2
+district,293,,Nelson Mandela Bay,2008,29.6
+district,638,,Ngaka Modiri Molema,2008,16.6
+district,831,,Nkangala,2008,9.3
+province,NW,,North West,2008,17.1
+province,NC,,Northern Cape,2008,21.8
+district,215,,O.R.Tambo,2008,19.9
+district,103,,Overberg,2008,10.2
+district,307,,Pixley ka Seme,2008,18
+district,742,,Sedibeng,2008,15.3
+district,947,,Sekhukhune,2008,12.6
+district,543,,Harry Gwala,2008,27.7
+country,ZA,,South Africa,2008,21.4
+district,419,,Thabo Mofutsanyana,2008,12.8
+district,521,,Ugu,2008,20
+district,522,,Umgungundlovu,2008,48.3
+district,527,,Umkhanyakude,2008,19.4
+district,524,,Umzinyathi,2008,24.6
+district,523,,Uthukela,2008,12.3
+district,528,,King Cetshwayo,2008,27.8
+district,934,,Vhembe,2008,15.5
+district,936,,Waterberg,2008,18.4
+district,101,,West Coast,2008,18.8
+district,748,,West Rand,2008,28.7
 province,WC,,Western Cape,2008,21.8
+district,416,,Xhariep,2008,5.6
+district,308,,Z F Mgcawu,2008,15.8
+district,526,,Zululand,2008,26.3
+district,244,,Alfred Nzo,2009,15.5
+district,525,,Amajuba,2009,31.5
+district,212,,Amathole,2009,20.9
+district,637,,Bojanala,2009,6.4
+district,292,,Buffalo City,2009,36.4
+district,210,,Sarah Baartman,2009,32
+district,102,,Cape Winelands,2009,17.6
+district,935,,Capricorn,2009,19.6
+district,105,,Central Karoo,2009,19.4
+district,213,,Chris Hani,2009,26
+district,191,,City of Cape Town,2009,26.2
+district,798,,City of Johannesburg,2009,19.4
+district,799,,City of Tshwane,2009,29.1
+district,640,,Dr Kenneth Kaunda,2009,44.6
+district,639,,Dr Ruth Segomotsi Mompati,2009,11.5
+province,EC,,Eastern Cape,2009,23.3
+district,104,,Garden Route,2009,17
+district,832,,Ehlanzeni,2009,17.3
+district,797,,Ekurhuleni,2009,13.2
+district,595,,eThekwini,2009,29.1
+district,420,,Fezile Dabi,2009,14.6
+district,309,,Frances Baard,2009,30.2
+province,FS,,Free State,2009,20.9
+province,GT,,Gauteng,2009,19.6
+district,830,,Gert Sibande,2009,15.8
+district,529,,iLembe,2009,16.9
+district,214,,Joe Gqabi,2009,16.1
+district,345,,John Taolo Gaetsewe,2009,10.1
+province,KZN,,KwaZulu-Natal,2009,25.9
+district,418,,Lejweleputswa,2009,14.2
+province,LIM,,Limpopo,2009,16.3
+district,494,,Mangaung,2009,47.2
+district,933,,Mopani,2009,16.5
+province,MP,,Mpumalanga,2009,14.7
+district,306,,Namakwa,2009,17.2
+district,293,,Nelson Mandela Bay,2009,28
+district,638,,Ngaka Modiri Molema,2009,16
+district,831,,Nkangala,2009,9.2
+province,NW,,North West,2009,16.8
+province,NC,,Northern Cape,2009,20.4
+district,215,,O.R.Tambo,2009,18.8
+district,103,,Overberg,2009,10
+district,307,,Pixley ka Seme,2009,17.7
+district,742,,Sedibeng,2009,15.5
+district,947,,Sekhukhune,2009,12.3
+district,543,,Harry Gwala,2009,26.4
+country,ZA,,South Africa,2009,20.9
+district,419,,Thabo Mofutsanyana,2009,12.4
+district,521,,Ugu,2009,19.7
+district,522,,Umgungundlovu,2009,42.2
+district,527,,Umkhanyakude,2009,17.4
+district,524,,Umzinyathi,2009,23.9
+district,523,,Uthukela,2009,11.7
+district,528,,King Cetshwayo,2009,26.4
+district,934,,Vhembe,2009,15.6
+district,936,,Waterberg,2009,18.4
+district,101,,West Coast,2009,18.4
+district,748,,West Rand,2009,29.3
 province,WC,,Western Cape,2009,22
+district,416,,Xhariep,2009,5.5
+district,308,,Z F Mgcawu,2009,15.6
+district,526,,Zululand,2009,25.6
+district,244,,Alfred Nzo,2010,14.3
+district,525,,Amajuba,2010,31
+district,212,,Amathole,2010,20.8
+district,637,,Bojanala,2010,6
+district,292,,Buffalo City,2010,39.5
+district,210,,Sarah Baartman,2010,32.3
+district,102,,Cape Winelands,2010,17.3
+district,935,,Capricorn,2010,19.4
+district,105,,Central Karoo,2010,19.2
+district,213,,Chris Hani,2010,25.9
+district,191,,City of Cape Town,2010,23.7
+district,798,,City of Johannesburg,2010,19.2
+district,799,,City of Tshwane,2010,28.8
+district,640,,Dr Kenneth Kaunda,2010,42.4
+district,639,,Dr Ruth Segomotsi Mompati,2010,12.3
+province,EC,,Eastern Cape,2010,23.7
+district,104,,Garden Route,2010,16
+district,832,,Ehlanzeni,2010,17.2
+district,797,,Ekurhuleni,2010,13.1
+district,595,,eThekwini,2010,26.7
+district,420,,Fezile Dabi,2010,14.8
+district,309,,Frances Baard,2010,29.6
+province,FS,,Free State,2010,21
+province,GT,,Gauteng,2010,19.5
+district,830,,Gert Sibande,2010,16.7
+district,529,,iLembe,2010,15.5
+district,214,,Joe Gqabi,2010,16.7
+district,345,,John Taolo Gaetsewe,2010,14.9
+province,KZN,,KwaZulu-Natal,2010,24.2
+district,418,,Lejweleputswa,2010,14.2
+province,LIM,,Limpopo,2010,15.7
+district,494,,Mangaung,2010,47.6
+district,933,,Mopani,2010,14.5
+province,MP,,Mpumalanga,2010,14.7
+district,306,,Namakwa,2010,19.2
+district,293,,Nelson Mandela Bay,2010,27.7
+district,638,,Ngaka Modiri Molema,2010,16
+district,831,,Nkangala,2010,8.6
+province,NW,,North West,2010,16.1
+province,NC,,Northern Cape,2010,21.2
+district,215,,O.R.Tambo,2010,20
+district,103,,Overberg,2010,9.8
+district,307,,Pixley ka Seme,2010,17.5
+district,742,,Sedibeng,2010,15.4
+district,947,,Sekhukhune,2010,12.2
+district,543,,Harry Gwala,2010,26
+country,ZA,,South Africa,2010,20.3
+district,419,,Thabo Mofutsanyana,2010,12.3
+district,521,,Ugu,2010,17.6
+district,522,,Umgungundlovu,2010,34.8
+district,527,,Umkhanyakude,2010,19.5
+district,524,,Umzinyathi,2010,23.7
+district,523,,Uthukela,2010,14.1
+district,528,,King Cetshwayo,2010,24.1
+district,934,,Vhembe,2010,15.2
+district,936,,Waterberg,2010,18.1
+district,101,,West Coast,2010,18
+district,748,,West Rand,2010,29
 province,WC,,Western Cape,2010,20.4
+district,416,,Xhariep,2010,6
+district,308,,Z F Mgcawu,2010,14.8
+district,526,,Zululand,2010,23.9
+district,244,,Alfred Nzo,2011,14.1
+district,525,,Amajuba,2011,30
+district,212,,Amathole,2011,20.5
+district,637,,Bojanala,2011,5.3
+district,292,,Buffalo City,2011,35.9
+district,210,,Sarah Baartman,2011,32.1
+district,102,,Cape Winelands,2011,16.9
+district,935,,Capricorn,2011,18.8
+district,105,,Central Karoo,2011,19.1
+district,213,,Chris Hani,2011,25.9
+district,191,,City of Cape Town,2011,24.4
+district,798,,City of Johannesburg,2011,18.8
+district,799,,City of Tshwane,2011,27.5
+district,640,,Dr Kenneth Kaunda,2011,41.9
+district,639,,Dr Ruth Segomotsi Mompati,2011,12
+province,EC,,Eastern Cape,2011,23.3
+district,104,,Garden Route,2011,15.6
+district,832,,Ehlanzeni,2011,16.7
+district,797,,Ekurhuleni,2011,12.9
+district,595,,eThekwini,2011,28.2
+district,420,,Fezile Dabi,2011,14.4
+district,309,,Frances Baard,2011,25.4
+province,FS,,Free State,2011,20.6
+province,GT,,Gauteng,2011,19
+district,830,,Gert Sibande,2011,14.6
+district,529,,iLembe,2011,15.8
+district,214,,Joe Gqabi,2011,16.6
+district,345,,John Taolo Gaetsewe,2011,11.9
+province,KZN,,KwaZulu-Natal,2011,24.9
+district,418,,Lejweleputswa,2011,14.1
+province,LIM,,Limpopo,2011,15.3
+district,494,,Mangaung,2011,45.6
+district,933,,Mopani,2011,14.4
+province,MP,,Mpumalanga,2011,13.5
+district,306,,Namakwa,2011,17
+district,293,,Nelson Mandela Bay,2011,27.7
+district,638,,Ngaka Modiri Molema,2011,15.6
+district,831,,Nkangala,2011,7.6
+province,NW,,North West,2011,15.6
+province,NC,,Northern Cape,2011,18.6
+district,215,,O.R.Tambo,2011,20
+district,103,,Overberg,2011,8.8
+district,307,,Pixley ka Seme,2011,16.8
+district,742,,Sedibeng,2011,15.2
+district,947,,Sekhukhune,2011,11.6
+district,543,,Harry Gwala,2011,25.8
+country,ZA,,South Africa,2011,20
+district,419,,Thabo Mofutsanyana,2011,12.7
+district,521,,Ugu,2011,19.8
+district,522,,Umgungundlovu,2011,34.3
+district,527,,Umkhanyakude,2011,20
+district,524,,Umzinyathi,2011,24.2
+district,523,,Uthukela,2011,13.6
+district,528,,King Cetshwayo,2011,25.6
+district,934,,Vhembe,2011,14.7
+district,936,,Waterberg,2011,18
+district,101,,West Coast,2011,17.9
+district,748,,West Rand,2011,29.6
 province,WC,,Western Cape,2011,20.6
+district,416,,Xhariep,2011,6.2
+district,308,,Z F Mgcawu,2011,14.1
+district,526,,Zululand,2011,24.1
+district,244,,Alfred Nzo,2012,12.4
+district,525,,Amajuba,2012,14
+district,212,,Amathole,2012,20.3
+district,637,,Bojanala,2012,5
+district,292,,Buffalo City,2012,38.6
+district,210,,Sarah Baartman,2012,31.4
+district,102,,Cape Winelands,2012,16.7
+district,935,,Capricorn,2012,18.8
+district,105,,Central Karoo,2012,18.9
+district,213,,Chris Hani,2012,25.9
+district,191,,City of Cape Town,2012,24.1
+district,798,,City of Johannesburg,2012,18.6
+district,799,,City of Tshwane,2012,26
+district,640,,Dr Kenneth Kaunda,2012,42.2
+district,639,,Dr Ruth Segomotsi Mompati,2012,12.9
+province,EC,,Eastern Cape,2012,22.7
+district,104,,Garden Route,2012,15.4
+district,832,,Ehlanzeni,2012,14.2
+district,797,,Ekurhuleni,2012,13.1
+district,595,,eThekwini,2012,27.5
+district,420,,Fezile Dabi,2012,14.3
+district,309,,Frances Baard,2012,25.3
+province,FS,,Free State,2012,20.5
+province,GT,,Gauteng,2012,18.7
+district,830,,Gert Sibande,2012,14.5
+district,529,,iLembe,2012,15
+district,214,,Joe Gqabi,2012,16.1
+district,345,,John Taolo Gaetsewe,2012,11.5
+province,KZN,,KwaZulu-Natal,2012,23.4
+district,418,,Lejweleputswa,2012,14
+province,LIM,,Limpopo,2012,15.3
+district,494,,Mangaung,2012,45.3
+district,933,,Mopani,2012,14.2
+province,MP,,Mpumalanga,2012,12.4
+district,306,,Namakwa,2012,16.4
+district,293,,Nelson Mandela Bay,2012,26
+district,638,,Ngaka Modiri Molema,2012,15.2
+district,831,,Nkangala,2012,7.7
+province,NW,,North West,2012,15.5
+province,NC,,Northern Cape,2012,19
+district,215,,O.R.Tambo,2012,18.5
+district,103,,Overberg,2012,8.8
+district,307,,Pixley ka Seme,2012,20.5
+district,742,,Sedibeng,2012,15.4
+district,947,,Sekhukhune,2012,11.8
+district,543,,Harry Gwala,2012,25.4
+country,ZA,,South Africa,2012,19.4
+district,419,,Thabo Mofutsanyana,2012,12.6
+district,521,,Ugu,2012,18.8
+district,522,,Umgungundlovu,2012,33.8
+district,527,,Umkhanyakude,2012,20.2
+district,524,,Umzinyathi,2012,24.3
+district,523,,Uthukela,2012,14.1
+district,528,,King Cetshwayo,2012,23.7
+district,934,,Vhembe,2012,14.3
+district,936,,Waterberg,2012,19
+district,101,,West Coast,2012,17.5
+district,748,,West Rand,2012,29.4
 province,WC,,Western Cape,2012,20.4
+district,416,,Xhariep,2012,6.1
+district,308,,Z F Mgcawu,2012,13.8
+district,526,,Zululand,2012,22.4
+district,244,,Alfred Nzo,2013,12.4
+district,525,,Amajuba,2013,22.8
+district,212,,Amathole,2013,20.3
+district,637,,Bojanala,2013,5
+district,292,,Buffalo City,2013,37.3
+district,210,,Sarah Baartman,2013,30.7
+district,102,,Cape Winelands,2013,16.7
+district,935,,Capricorn,2013,18.8
+district,105,,Central Karoo,2013,18.8
+district,213,,Chris Hani,2013,19.6
+district,191,,City of Cape Town,2013,24.6
+district,798,,City of Johannesburg,2013,17.8
+district,799,,City of Tshwane,2013,24.8
+district,640,,Dr Kenneth Kaunda,2013,41.8
+district,639,,Dr Ruth Segomotsi Mompati,2013,4.2
+province,EC,,Eastern Cape,2013,21.5
+district,104,,Garden Route,2013,15.2
+district,832,,Ehlanzeni,2013,14.7
+district,797,,Ekurhuleni,2013,13.1
+district,595,,eThekwini,2013,28
+district,420,,Fezile Dabi,2013,14.2
+district,309,,Frances Baard,2013,25.9
+province,FS,,Free State,2013,20.3
+province,GT,,Gauteng,2013,18.1
+district,830,,Gert Sibande,2013,15.1
+district,529,,iLembe,2013,15.5
+district,214,,Joe Gqabi,2013,15.9
+district,345,,John Taolo Gaetsewe,2013,11.3
+province,KZN,,KwaZulu-Natal,2013,24.3
+district,418,,Lejweleputswa,2013,13.9
+province,LIM,,Limpopo,2013,15.3
+district,494,,Mangaung,2013,44.8
+district,933,,Mopani,2013,13.9
+province,MP,,Mpumalanga,2013,12.8
+district,306,,Namakwa,2013,17.1
+district,293,,Nelson Mandela Bay,2013,26
+district,638,,Ngaka Modiri Molema,2013,15.1
+district,831,,Nkangala,2013,7.8
+province,NW,,North West,2013,14.1
+province,NC,,Northern Cape,2013,18
+district,215,,O.R.Tambo,2013,18.1
+district,103,,Overberg,2013,8.6
+district,307,,Pixley ka Seme,2013,16.5
+district,742,,Sedibeng,2013,14.6
+district,947,,Sekhukhune,2013,11.8
+district,543,,Harry Gwala,2013,24.9
+country,ZA,,South Africa,2013,19.3
+district,419,,Thabo Mofutsanyana,2013,12.6
+district,521,,Ugu,2013,19.7
+district,522,,Umgungundlovu,2013,37.8
+district,527,,Umkhanyakude,2013,19.8
+district,524,,Umzinyathi,2013,24
+district,523,,Uthukela,2013,13.8
+district,528,,King Cetshwayo,2013,23.4
+district,934,,Vhembe,2013,14.4
+district,936,,Waterberg,2013,19.1
+district,101,,West Coast,2013,16.7
+district,748,,West Rand,2013,29.3
 province,WC,,Western Cape,2013,20.5
+district,416,,Xhariep,2013,5.5
+district,308,,Z F Mgcawu,2013,11.6
+district,526,,Zululand,2013,21.5
+district,244,,Alfred Nzo,2014,12.3
+district,525,,Amajuba,2014,23
+district,212,,Amathole,2014,20.5
+district,637,,Bojanala,2014,6
+district,292,,Buffalo City,2014,35.7
+district,210,,Sarah Baartman,2014,30.3
+district,102,,Cape Winelands,2014,16.5
+district,935,,Capricorn,2014,18.9
+district,105,,Central Karoo,2014,18.6
+district,213,,Chris Hani,2014,25.4
+district,191,,City of Cape Town,2014,24.9
+district,798,,City of Johannesburg,2014,16.9
+district,799,,City of Tshwane,2014,21.3
+district,640,,Dr Kenneth Kaunda,2014,36
+district,639,,Dr Ruth Segomotsi Mompati,2014,13
+province,EC,,Eastern Cape,2014,22.1
+district,104,,Garden Route,2014,14.9
+district,832,,Ehlanzeni,2014,14.4
+district,797,,Ekurhuleni,2014,12.8
+district,595,,eThekwini,2014,24.5
+district,420,,Fezile Dabi,2014,12.3
+district,309,,Frances Baard,2014,22.6
+province,FS,,Free State,2014,19.8
+province,GT,,Gauteng,2014,16.9
+district,830,,Gert Sibande,2014,14.7
+district,529,,iLembe,2014,14.3
+district,214,,Joe Gqabi,2014,15.8
+district,345,,John Taolo Gaetsewe,2014,11.4
+province,KZN,,KwaZulu-Natal,2014,22.6
+district,418,,Lejweleputswa,2014,13.8
+province,LIM,,Limpopo,2014,15.2
+district,494,,Mangaung,2014,44.4
+district,933,,Mopani,2014,14.2
+province,MP,,Mpumalanga,2014,12.5
+district,306,,Namakwa,2014,13.4
+district,293,,Nelson Mandela Bay,2014,26
+district,638,,Ngaka Modiri Molema,2014,10.2
+district,831,,Nkangala,2014,7.6
+province,NW,,North West,2014,13.5
+province,NC,,Northern Cape,2014,16
+district,215,,O.R.Tambo,2014,18.3
+district,103,,Overberg,2014,9.6
+district,307,,Pixley ka Seme,2014,16.2
+district,742,,Sedibeng,2014,14.4
+district,947,,Sekhukhune,2014,11.8
+district,543,,Harry Gwala,2014,24.1
+country,ZA,,South Africa,2014,18.6
+district,419,,Thabo Mofutsanyana,2014,12.3
+district,521,,Ugu,2014,19.7
+district,522,,Umgungundlovu,2014,36.5
+district,527,,Umkhanyakude,2014,19.6
+district,524,,Umzinyathi,2014,23.8
+district,523,,Uthukela,2014,8.9
+district,528,,King Cetshwayo,2014,23.1
+district,934,,Vhembe,2014,14
+district,936,,Waterberg,2014,18.8
+district,101,,West Coast,2014,16.5
+district,748,,West Rand,2014,29.3
 province,WC,,Western Cape,2014,20.7
+district,416,,Xhariep,2014,5.5
+district,308,,Z F Mgcawu,2014,9.4
+district,526,,Zululand,2014,21.2
+district,244,,Alfred Nzo,2015,11.9
+district,525,,Amajuba,2015,23.1
+district,212,,Amathole,2015,20.3
+district,637,,Bojanala,2015,6.1
+district,292,,Buffalo City,2015,36.3
+district,210,,Sarah Baartman,2015,28.7
+district,102,,Cape Winelands,2015,16.1
+district,935,,Capricorn,2015,17.1
+district,105,,Central Karoo,2015,18.4
+district,213,,Chris Hani,2015,25.2
+district,191,,City of Cape Town,2015,25.1
+district,798,,City of Johannesburg,2015,17.9
+district,799,,City of Tshwane,2015,24.5
+district,640,,Dr Kenneth Kaunda,2015,34.6
+district,639,,Dr Ruth Segomotsi Mompati,2015,12.2
+province,EC,,Eastern Cape,2015,21.8
+district,104,,Garden Route,2015,15
+district,832,,Ehlanzeni,2015,14.8
+district,797,,Ekurhuleni,2015,12.7
+district,595,,eThekwini,2015,27.2
+district,420,,Fezile Dabi,2015,15.5
+district,309,,Frances Baard,2015,27.5
+province,FS,,Free State,2015,20.1
+province,GT,,Gauteng,2015,17.9
+district,830,,Gert Sibande,2015,14.5
+district,529,,iLembe,2015,14.8
+district,214,,Joe Gqabi,2015,15.6
+district,345,,John Taolo Gaetsewe,2015,11.3
+province,KZN,,KwaZulu-Natal,2015,23.6
+district,418,,Lejweleputswa,2015,14.5
+province,LIM,,Limpopo,2015,14
+district,494,,Mangaung,2015,42.7
+district,933,,Mopani,2015,10.8
+province,MP,,Mpumalanga,2015,13.1
+district,306,,Namakwa,2015,17.6
+district,293,,Nelson Mandela Bay,2015,25.5
+district,638,,Ngaka Modiri Molema,2015,19.2
+district,831,,Nkangala,2015,9.1
+province,NW,,North West,2015,15.6
+province,NC,,Northern Cape,2015,18.4
+district,215,,O.R.Tambo,2015,17.9
+district,103,,Overberg,2015,9.4
+district,307,,Pixley ka Seme,2015,17.2
+district,742,,Sedibeng,2015,14.7
+district,947,,Sekhukhune,2015,11.7
+district,543,,Harry Gwala,2015,23.7
+country,ZA,,South Africa,2015,19.1
+district,419,,Thabo Mofutsanyana,2015,12.2
+district,521,,Ugu,2015,19.4
+district,522,,Umgungundlovu,2015,34.5
+district,527,,Umkhanyakude,2015,19.2
+district,524,,Umzinyathi,2015,23.7
+district,523,,Uthukela,2015,13.2
+district,528,,King Cetshwayo,2015,23.2
+district,934,,Vhembe,2015,13.9
+district,936,,Waterberg,2015,18.5
+district,101,,West Coast,2015,16.4
+district,748,,West Rand,2015,29
 province,WC,,Western Cape,2015,20.8
+district,416,,Xhariep,2015,5.5
+district,308,,Z F Mgcawu,2015,10.7
+district,526,,Zululand,2015,22
+district,244,,Alfred Nzo,2016,11.6
+district,525,,Amajuba,2016,22.4
+district,212,,Amathole,2016,20.5
+district,637,,Bojanala,2016,5.3
+district,292,,Buffalo City,2016,34.5
+district,210,,Sarah Baartman,2016,27.6
+district,102,,Cape Winelands,2016,15.8
+district,935,,Capricorn,2016,17.7
+district,105,,Central Karoo,2016,18.3
+district,213,,Chris Hani,2016,25
+district,191,,City of Cape Town,2016,24.8
+district,798,,City of Johannesburg,2016,18.2
+district,799,,City of Tshwane,2016,24.7
+district,640,,Dr Kenneth Kaunda,2016,38.7
+district,639,,Dr Ruth Segomotsi Mompati,2016,11.9
+province,EC,,Eastern Cape,2016,21.4
+district,104,,Garden Route,2016,14.8
+district,832,,Ehlanzeni,2016,14.9
+district,797,,Ekurhuleni,2016,13.4
+district,595,,eThekwini,2016,22.8
+district,420,,Fezile Dabi,2016,15.4
+district,309,,Frances Baard,2016,25.4
+province,FS,,Free State,2016,20
+province,GT,,Gauteng,2016,18.4
+district,830,,Gert Sibande,2016,14.6
+district,529,,iLembe,2016,14.5
+district,214,,Joe Gqabi,2016,15.4
+district,345,,John Taolo Gaetsewe,2016,11.1
+province,KZN,,KwaZulu-Natal,2016,21.7
+district,418,,Lejweleputswa,2016,14.4
+province,LIM,,Limpopo,2016,14.2
+district,494,,Mangaung,2016,42.3
+district,933,,Mopani,2016,13.5
+province,MP,,Mpumalanga,2016,13.1
+district,306,,Namakwa,2016,17.6
+district,293,,Nelson Mandela Bay,2016,25.5
+district,638,,Ngaka Modiri Molema,2016,14
+district,831,,Nkangala,2016,9
+province,NW,,North West,2016,14.4
+province,NC,,Northern Cape,2016,17.9
+district,215,,O.R.Tambo,2016,17.6
+district,103,,Overberg,2016,9.2
+district,307,,Pixley ka Seme,2016,12.7
+district,742,,Sedibeng,2016,14.6
+district,947,,Sekhukhune,2016,11.6
+district,543,,Harry Gwala,2016,23.4
+country,ZA,,South Africa,2016,18.6
+district,419,,Thabo Mofutsanyana,2016,12.4
+district,521,,Ugu,2016,18.8
+district,522,,Umgungundlovu,2016,34.5
+district,527,,Umkhanyakude,2016,18.6
+district,524,,Umzinyathi,2016,23.5
+district,523,,Uthukela,2016,13
+district,528,,King Cetshwayo,2016,23.1
+district,934,,Vhembe,2016,12.1
+district,936,,Waterberg,2016,18.2
+district,101,,West Coast,2016,16
+district,748,,West Rand,2016,31
 province,WC,,Western Cape,2016,20.5
+district,416,,Xhariep,2016,5.5
+district,308,,Z F Mgcawu,2016,14.9
+district,526,,Zululand,2016,17.9
+district,244,,Alfred Nzo,2017,11.6
+district,525,,Amajuba,2017,20.5
+district,212,,Amathole,2017,20.3
+district,637,,Bojanala,2017,5.2
+district,292,,Buffalo City,2017,34.2
+district,210,,Sarah Baartman,2017,27.2
+district,102,,Cape Winelands,2017,15.6
+district,935,,Capricorn,2017,17.6
+district,105,,Central Karoo,2017,18.1
+district,213,,Chris Hani,2017,24.9
+district,191,,City of Cape Town,2017,24.6
+district,798,,City of Johannesburg,2017,17.1
+district,799,,City of Tshwane,2017,24.9
+district,640,,Dr Kenneth Kaunda,2017,38.1
+district,639,,Dr Ruth Segomotsi Mompati,2017,6.2
+province,EC,,Eastern Cape,2017,21
+district,104,,Garden Route,2017,14.6
+district,832,,Ehlanzeni,2017,15.4
+district,797,,Ekurhuleni,2017,13.5
+district,595,,eThekwini,2017,30.4
+district,420,,Fezile Dabi,2017,15.3
+district,309,,Frances Baard,2017,30.4
+province,FS,,Free State,2017,19.9
+province,GT,,Gauteng,2017,18.3
+district,830,,Gert Sibande,2017,13.4
+district,529,,iLembe,2017,14.3
+district,214,,Joe Gqabi,2017,15.3
+district,345,,John Taolo Gaetsewe,2017,11
+province,KZN,,KwaZulu-Natal,2017,24.1
+district,418,,Lejweleputswa,2017,14.3
+province,LIM,,Limpopo,2017,14.6
+district,494,,Mangaung,2017,42.4
+district,933,,Mopani,2017,14.2
+province,MP,,Mpumalanga,2017,13
+district,306,,Namakwa,2017,17.6
+district,293,,Nelson Mandela Bay,2017,25.3
+district,638,,Ngaka Modiri Molema,2017,13
+district,831,,Nkangala,2017,8.9
+province,NW,,North West,2017,13.2
+province,NC,,Northern Cape,2017,20.2
+district,215,,O.R.Tambo,2017,16
+district,103,,Overberg,2017,9
+district,307,,Pixley ka Seme,2017,15.2
+district,742,,Sedibeng,2017,15.4
+district,947,,Sekhukhune,2017,11.5
+district,543,,Harry Gwala,2017,30.6
+country,ZA,,South Africa,2017,19
+district,419,,Thabo Mofutsanyana,2017,12.3
+district,521,,Ugu,2017,22.7
+district,522,,Umgungundlovu,2017,33.6
+district,527,,Umkhanyakude,2017,16.8
+district,524,,Umzinyathi,2017,23.2
+district,523,,Uthukela,2017,12.9
+district,528,,King Cetshwayo,2017,22.5
+district,934,,Vhembe,2017,13.4
+district,936,,Waterberg,2017,17.9
+district,101,,West Coast,2017,15.6
+district,748,,West Rand,2017,32.6
 province,WC,,Western Cape,2017,20.3
+district,416,,Xhariep,2017,5.5
+district,308,,Z F Mgcawu,2017,16.2
+district,526,,Zululand,2017,15.4
+district,244,,Alfred Nzo,2018,11.5
+district,525,,Amajuba,2018,21.4
+district,212,,Amathole,2018,19.4
+district,637,,Bojanala,2018,5
+district,292,,Buffalo City,2018,30.6
+district,210,,Sarah Baartman,2018,27
+district,102,,Cape Winelands,2018,15.6
+district,935,,Capricorn,2018,17.5
+district,105,,Central Karoo,2018,17.9
+district,213,,Chris Hani,2018,24.7
+district,191,,City of Cape Town,2018,24.4
+district,798,,City of Johannesburg,2018,16.9
+district,799,,City of Tshwane,2018,24
+district,640,,Dr Kenneth Kaunda,2018,36.7
+district,639,,Dr Ruth Segomotsi Mompati,2018,10.6
+province,EC,,Eastern Cape,2018,20.6
+district,104,,Garden Route,2018,14.5
+district,832,,Ehlanzeni,2018,16.5
+district,797,,Ekurhuleni,2018,13.2
+district,595,,eThekwini,2018,22.3
+district,420,,Fezile Dabi,2018,15.1
+district,309,,Frances Baard,2018,28.4
+province,FS,,Free State,2018,19.5
+province,GT,,Gauteng,2018,17.7
+district,830,,Gert Sibande,2018,12.1
+district,529,,iLembe,2018,14.1
+district,214,,Joe Gqabi,2018,16.3
+district,345,,John Taolo Gaetsewe,2018,10.9
+province,KZN,,KwaZulu-Natal,2018,20.9
+district,418,,Lejweleputswa,2018,13.7
+province,LIM,,Limpopo,2018,14.2
+district,494,,Mangaung,2018,40.9
+district,933,,Mopani,2018,13.3
+province,MP,,Mpumalanga,2018,13
+district,306,,Namakwa,2018,17.6
+district,293,,Nelson Mandela Bay,2018,24.4
+district,638,,Ngaka Modiri Molema,2018,13.5
+district,831,,Nkangala,2018,9
+province,NW,,North West,2018,13.6
+province,NC,,Northern Cape,2018,19
+district,215,,O.R.Tambo,2018,17
+district,103,,Overberg,2018,8.8
+district,307,,Pixley ka Seme,2018,14.3
+district,742,,Sedibeng,2018,14.3
+district,947,,Sekhukhune,2018,11
+district,543,,Harry Gwala,2018,22.4
+country,ZA,,South Africa,2018,18.1
+district,419,,Thabo Mofutsanyana,2018,11.7
+district,521,,Ugu,2018,17.8
+district,522,,Umgungundlovu,2018,33.3
+district,527,,Umkhanyakude,2018,16.6
+district,524,,Umzinyathi,2018,22.6
+district,523,,Uthukela,2018,12.6
+district,528,,King Cetshwayo,2018,23
+district,934,,Vhembe,2018,13.2
+district,936,,Waterberg,2018,17.6
+district,101,,West Coast,2018,13.9
+district,748,,West Rand,2018,30
 province,WC,,Western Cape,2018,20
+district,416,,Xhariep,2018,10.7
+district,308,,Z F Mgcawu,2018,16.5
+district,526,,Zululand,2018,16.3
+district,244,,Alfred Nzo,2019,11.7
+district,525,,Amajuba,2019,21.5
+district,212,,Amathole,2019,19.3
+district,637,,Bojanala,2019,5.3
+district,292,,Buffalo City,2019,31
+district,210,,Sarah Baartman,2019,26.6
+district,102,,Cape Winelands,2019,15.2
+district,935,,Capricorn,2019,17.3
+district,105,,Central Karoo,2019,17.7
+district,213,,Chris Hani,2019,24.6
+district,191,,City of Cape Town,2019,24.6
+district,798,,City of Johannesburg,2019,16.2
+district,799,,City of Tshwane,2019,23.3
+district,640,,Dr Kenneth Kaunda,2019,36.3
+district,639,,Dr Ruth Segomotsi Mompati,2019,10.8
+province,EC,,Eastern Cape,2019,20.6
+district,104,,Garden Route,2019,14.3
+district,832,,Ehlanzeni,2019,15.4
+district,797,,Ekurhuleni,2019,13
+district,595,,eThekwini,2019,24.3
+district,420,,Fezile Dabi,2019,15
+district,309,,Frances Baard,2019,24
+province,FS,,Free State,2019,19.8
+province,GT,,Gauteng,2019,17.1
+district,830,,Gert Sibande,2019,13.1
+district,529,,iLembe,2019,13.8
+district,214,,Joe Gqabi,2019,15.8
+district,345,,John Taolo Gaetsewe,2019,10.8
+province,KZN,,KwaZulu-Natal,2019,20.9
+district,418,,Lejweleputswa,2019,13.6
+province,LIM,,Limpopo,2019,14.2
+district,494,,Mangaung,2019,41.7
+district,933,,Mopani,2019,13.8
+province,MP,,Mpumalanga,2019,12.4
+district,306,,Namakwa,2019,17.6
+district,293,,Nelson Mandela Bay,2019,25.1
+district,638,,Ngaka Modiri Molema,2019,14
+district,831,,Nkangala,2019,7.7
+province,NW,,North West,2019,13.8
+province,NC,,Northern Cape,2019,17.7
+district,215,,O.R.Tambo,2019,17
+district,103,,Overberg,2019,8.6
+district,307,,Pixley ka Seme,2019,14.1
+district,742,,Sedibeng,2019,13.9
+district,947,,Sekhukhune,2019,10.8
+district,543,,Harry Gwala,2019,22.2
+country,ZA,,South Africa,2019,17.9
+district,419,,Thabo Mofutsanyana,2019,12.1
+district,521,,Ugu,2019,12.3
+district,522,,Umgungundlovu,2019,32.6
+district,527,,Umkhanyakude,2019,16.5
+district,524,,Umzinyathi,2019,22.3
+district,523,,Uthukela,2019,12.5
+district,528,,King Cetshwayo,2019,22.8
+district,934,,Vhembe,2019,13.1
+district,936,,Waterberg,2019,17.4
+district,101,,West Coast,2019,13.6
+district,748,,West Rand,2019,28.9
 province,WC,,Western Cape,2019,20
-municipality,DC16,,Xhariep,2003,6
-municipality,DC16,,Xhariep,2004,6
-municipality,DC16,,Xhariep,2005,5.9
-municipality,DC16,,Xhariep,2006,5.9
-municipality,DC16,,Xhariep,2007,5.9
-municipality,DC16,,Xhariep,2008,5.6
-municipality,DC16,,Xhariep,2009,5.5
-municipality,DC16,,Xhariep,2010,6
-municipality,DC16,,Xhariep,2011,6.2
-municipality,DC16,,Xhariep,2012,6.1
-municipality,DC16,,Xhariep,2013,5.5
-municipality,DC16,,Xhariep,2014,5.5
-municipality,DC16,,Xhariep,2015,5.5
-municipality,DC16,,Xhariep,2016,5.5
-municipality,DC16,,Xhariep,2017,5.5
-municipality,DC16,,Xhariep,2018,10.7
-municipality,DC16,,Xhariep,2019,11
-municipality,DC8,,Z F Mgcawu,2003,17.9
-municipality,DC8,,Z F Mgcawu,2004,17.6
-municipality,DC8,,Z F Mgcawu,2005,17.4
-municipality,DC8,,Z F Mgcawu,2006,19.6
-municipality,DC8,,Z F Mgcawu,2007,16.1
-municipality,DC8,,Z F Mgcawu,2008,15.8
-municipality,DC8,,Z F Mgcawu,2009,15.6
-municipality,DC8,,Z F Mgcawu,2010,14.8
-municipality,DC8,,Z F Mgcawu,2011,14.1
-municipality,DC8,,Z F Mgcawu,2012,13.8
-municipality,DC8,,Z F Mgcawu,2013,11.6
-municipality,DC8,,Z F Mgcawu,2014,9.4
-municipality,DC8,,Z F Mgcawu,2015,10.7
-municipality,DC8,,Z F Mgcawu,2016,14.9
-municipality,DC8,,Z F Mgcawu,2017,16.2
-municipality,DC8,,Z F Mgcawu,2018,16.5
-municipality,DC8,,Z F Mgcawu,2019,15.7
-municipality,DC26,,Zululand,2003,30.3
-municipality,DC26,,Zululand,2004,29.9
-municipality,DC26,,Zululand,2005,29.6
-municipality,DC26,,Zululand,2006,28.7
-municipality,DC26,,Zululand,2007,27.9
-municipality,DC26,,Zululand,2008,26.3
-municipality,DC26,,Zululand,2009,25.6
-municipality,DC26,,Zululand,2010,23.9
-municipality,DC26,,Zululand,2011,24.1
-municipality,DC26,,Zululand,2012,22.4
-municipality,DC26,,Zululand,2013,21.5
-municipality,DC26,,Zululand,2014,21.2
-municipality,DC26,,Zululand,2015,22
-municipality,DC26,,Zululand,2016,17.9
-municipality,DC26,,Zululand,2017,15.4
-municipality,DC26,,Zululand,2018,16.3
-municipality,DC26,,Zululand,2019,15.6
+district,416,,Xhariep,2019,11
+district,308,,Z F Mgcawu,2019,15.7
+district,526,,Zululand,2019,15.6

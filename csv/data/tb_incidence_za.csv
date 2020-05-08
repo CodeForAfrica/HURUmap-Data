@@ -1,0 +1,63 @@
+geo_level,geo_code,geo_version,name,variable,value
+district,244,,Alfred Nzo,TB Incidence  ,491
+district,525,,Amajuba,TB Incidence  ,484
+district,212,,Amathole,TB Incidence  ,639
+district,637,,Bojanala,TB Incidence  ,419
+district,292,,Buffalo City,TB Incidence  ,743
+district,210,,Sarah Baartman,TB Incidence  ,1022
+district,102,,Cape Winelands,TB Incidence  ,880
+district,935,,Capricorn,TB Incidence  ,328
+district,105,,Central Karoo,TB Incidence  ,814
+district,213,,Chris Hani,TB Incidence  ,623
+district,191,,City of Cape Town,TB Incidence  ,596
+district,798,,City of Johannesburg,TB Incidence  ,326
+district,799,,City of Tshwane,TB Incidence  ,330
+district,640,,Dr Kenneth Kaunda,TB Incidence  ,690
+district,639,,Dr Ruth Segomotsi Mompati,TB Incidence  ,661
+province,EC,,Eastern Cape,TB Incidence  ,692
+district,104,,Garden Route,TB Incidence  ,809
+district,832,,Ehlanzeni,TB Incidence  ,449
+district,797,,Ekurhuleni,TB Incidence  ,298
+district,420,,Fezile Dabi,TB Incidence  ,462
+district,309,,Frances Baard,TB Incidence  ,424
+province,FS,,Free State,TB Incidence  ,575
+province,GT,,Gauteng,TB Incidence  ,330
+district,830,,Gert Sibande,TB Incidence  ,460
+district,214,,Joe Gqabi,TB Incidence  ,550
+district,345,,John Taolo Gaetsewe,TB Incidence  ,590
+province,KZN,,KwaZulu-Natal,TB Incidence  ,685
+district,418,,Lejweleputswa,TB Incidence  ,691
+province,LIM,,Limpopo,TB Incidence  ,301
+district,494,,Mangaung,TB Incidence  ,616
+district,933,,Mopani,TB Incidence  ,287
+province,MP,,Mpumalanga,TB Incidence  ,402
+district,306,,Namakwa,TB Incidence  ,536
+district,293,,Nelson Mandela Bay,TB Incidence  ,938
+district,638,,Ngaka Modiri Molema,TB Incidence  ,526
+district,831,,Nkangala,TB Incidence  ,298
+province,NW,,North West,TB Incidence  ,528
+province,NC,,Northern Cape,TB Incidence  ,645
+district,215,,O.R.Tambo,TB Incidence  ,571
+district,103,,Overberg,TB Incidence  ,752
+district,307,,Pixley ka Seme,TB Incidence  ,943
+district,742,,Sedibeng,TB Incidence  ,406
+district,947,,Sekhukhune,TB Incidence  ,263
+district,543,,Harry Gwala,TB Incidence  ,678
+country,ZA,,South Africa,TB Incidence  ,520
+district,419,,Thabo Mofutsanyana,TB Incidence  ,474
+district,521,,Ugu,TB Incidence  ,810
+district,522,,Umgungundlovu,TB Incidence  ,678
+district,527,,Umkhanyakude,TB Incidence  ,577
+district,524,,Umzinyathi,TB Incidence  ,518
+district,523,,Uthukela,TB Incidence  ,533
+district,528,,King Cetshwayo,TB Incidence  ,859
+district,934,,Vhembe,TB Incidence  ,214
+district,936,,Waterberg,TB Incidence  ,493
+district,101,,West Coast,TB Incidence  ,837
+district,748,,West Rand,TB Incidence  ,397
+province,WC,,Western Cape,TB Incidence  ,681
+district,416,,Xhariep,TB Incidence  ,784
+district,308,,Z F Mgcawu,TB Incidence  ,856
+district,526,,Zululand,TB Incidence  ,683
+district,595,,eThekwini,TB Incidence  ,698
+district,529,,iLembe,TB Incidence  ,801

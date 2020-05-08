@@ -1,0 +1,63 @@
+geo_level,geo_code,geo_version,name,variable ,value
+district,244,,Alfred Nzo,Percent of health facilities with essential medicine,85
+district,525,,Amajuba,Percent of health facilities with essential medicine,90
+district,212,,Amathole,Percent of health facilities with essential medicine,95
+district,637,,Bojanala,Percent of health facilities with essential medicine,98
+district,292,,Buffalo City,Percent of health facilities with essential medicine,100
+district,213,,Chris Hani,Percent of health facilities with essential medicine,77
+district,191,,City of Cape Town,Percent of health facilities with essential medicine,92
+district,102,,Cape Winelands,Percent of health facilities with essential medicine,100
+district,935,,Capricorn,Percent of health facilities with essential medicine,80
+district,105,,Central Karoo,Percent of health facilities with essential medicine,100
+district,797,,Ekurhuleni,Percent of health facilities with essential medicine,81
+district,640,,Dr Kenneth Kaunda,Percent of health facilities with essential medicine,98
+province,EC,,Eastern Cape,Percent of health facilities with essential medicine,83
+district,832,,Ehlanzeni,Percent of health facilities with essential medicine,88
+district,420,,Fezile Dabi,Percent of health facilities with essential medicine,55
+district,309,,Frances Baard,Percent of health facilities with essential medicine,85
+province,FS,,Free State,Percent of health facilities with essential medicine,65
+district,830,,Gert Sibande,Percent of health facilities with essential medicine,84
+district,104,,Garden Route,Percent of health facilities with essential medicine,99
+province,GT,,Gauteng,Percent of health facilities with essential medicine,87
+district,,,Harry Gwala,Percent of health facilities with essential medicine,99
+district,345,,John Taolo Gaetsewe,Percent of health facilities with essential medicine,63
+district,214,,Joe Gqabi,Percent of health facilities with essential medicine,65
+district,798,,City of Johannesburg,Percent of health facilities with essential medicine,87
+district,528,,King Cetshwayo ,Percent of health facilities with essential medicine,96
+province,KZN,,KwaZulu-Natal,Percent of health facilities with essential medicine,88
+district,418,,Lejweleputswa,Percent of health facilities with essential medicine,60
+province,LIM,,Limpopo,Percent of health facilities with essential medicine,58
+district,494,,Mangaung,Percent of health facilities with essential medicine,70
+district,933,,Mopani,Percent of health facilities with essential medicine,58
+province,MP,,Mpumalanga,Percent of health facilities with essential medicine,85
+district,293,,Nelson Mandela Bay,Percent of health facilities with essential medicine,90
+district,638,,Ngaka Modiri Molema,Percent of health facilities with essential medicine,97
+district,306,,Namakwa,Percent of health facilities with essential medicine,100
+district,831,,Nkangala,Percent of health facilities with essential medicine,81
+province,NW,,North West,Percent of health facilities with essential medicine,98
+province,NC,,Northern Cape,Percent of health facilities with essential medicine,88
+district,215,,O.R.Tambo,Percent of health facilities with essential medicine,68
+district,103,,Overberg,Percent of health facilities with essential medicine,100
+district,307,,Pixley ka Seme,Percent of health facilities with essential medicine,100
+district,639,,Dr Ruth Segomotsi Mompati,Percent of health facilities with essential medicine,99
+district,210,,Sarah Baartman,Percent of health facilities with essential medicine,95
+district,742,,Sedibeng,Percent of health facilities with essential medicine,93
+district,947,,Sekhukhune,Percent of health facilities with essential medicine,61
+country,ZA,,South Africa,Percent of health facilities with essential medicine,82
+district,419,,Thabo Mofutsanyane,Percent of health facilities with essential medicine,78
+district,799,,City of Tshwane,Percent of health facilities with essential medicine,84
+district,521,,Ugu,Percent of health facilities with essential medicine,89
+district,934,,Vhembe,Percent of health facilities with essential medicine,29
+district,936,,Waterberg,Percent of health facilities with essential medicine,75
+district,101,,West Coast,Percent of health facilities with essential medicine,98
+district,748,,West Rand,Percent of health facilities with essential medicine,96
+province,WC,,Western Cape,Percent of health facilities with essential medicine,96
+district,416,,Xhariep,Percent of health facilities with essential medicine,72
+district,308,,Z F Mgcawu,Percent of health facilities with essential medicine,100
+district,526,,Zululand,Percent of health facilities with essential medicine,87
+district,595,,eThekwini,Percent of health facilities with essential medicine,94
+district,529,,iLembe,Percent of health facilities with essential medicine,82
+district,522,,Umgungundlovu,Percent of health facilities with essential medicine,90
+district,527,,Umkhanyakude,Percent of health facilities with essential medicine,64
+district,524,,Umzinyathi,Percent of health facilities with essential medicine,90
+district,523,,Uthukela,Percent of health facilities with essential medicine,91

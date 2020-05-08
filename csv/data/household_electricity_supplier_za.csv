@@ -175,14 +175,14 @@ municipality,8325,,Bushbuckridge,Municipality-receive bill from municipality,560
 municipality,8325,,Bushbuckridge,Not applicable,9962.83
 municipality,8325,,Bushbuckridge,Other supplier (e.g. metering services such as impact meters,254.5559
 municipality,8325,,Bushbuckridge,Unspecified,9385.295
-district,210,,Cacadu,Do not know,1429.293
-district,210,,Cacadu,Eskom-pre-paid,228131.6
-district,210,,Cacadu,Eskom-receive bill from eskom,7813.708
-district,210,,Cacadu,Municipality-prepaid,181400
-district,210,,Cacadu,Municipality-receive bill from municipality,17624.31
-district,210,,Cacadu,Not applicable,25706.45
-district,210,,Cacadu,Other supplier (e.g. metering services such as impact meters,1607.599
-district,210,,Cacadu,Unspecified,16209.9
+district,210,,Sarah Baartman,Do not know,1429.293
+district,210,,Sarah Baartman,Eskom-pre-paid,228131.6
+district,210,,Sarah Baartman,Eskom-receive bill from eskom,7813.708
+district,210,,Sarah Baartman,Municipality-prepaid,181400
+district,210,,Sarah Baartman,Municipality-receive bill from municipality,17624.31
+district,210,,Sarah Baartman,Not applicable,25706.45
+district,210,,Sarah Baartman,Other supplier (e.g. metering services such as impact meters,1607.599
+district,210,,Sarah Baartman,Unspecified,16209.9
 municipality,1033,,Cape Agulhas,Do not know,386.6424
 municipality,1033,,Cape Agulhas,Eskom-pre-paid,6361.842
 municipality,1033,,Cape Agulhas,Eskom-receive bill from eskom,1539.472
@@ -463,14 +463,14 @@ province,EC,,Eastern Cape,Municipality-receive bill from municipality,156349.5
 province,EC,,Eastern Cape,Not applicable,764884.2
 province,EC,,Eastern Cape,Other supplier (e.g. metering services such as impact meters,14098.85
 province,EC,,Eastern Cape,Unspecified,272702.4
-district,104,,Eden,Do not know,1321.19
-district,104,,Eden,Eskom-pre-paid,48119.92
-district,104,,Eden,Eskom-receive bill from eskom,10480.44
-district,104,,Eden,Municipality-prepaid,463465.5
-district,104,,Eden,Municipality-receive bill from municipality,42986.87
-district,104,,Eden,Not applicable,14597.59
-district,104,,Eden,Other supplier (e.g. metering services such as impact meters,2711.057
-district,104,,Eden,Unspecified,27595.11
+district,104,,Garden Route,Do not know,1321.19
+district,104,,Garden Route,Eskom-pre-paid,48119.92
+district,104,,Garden Route,Eskom-receive bill from eskom,10480.44
+district,104,,Garden Route,Municipality-prepaid,463465.5
+district,104,,Garden Route,Municipality-receive bill from municipality,42986.87
+district,104,,Garden Route,Not applicable,14597.59
+district,104,,Garden Route,Other supplier (e.g. metering services such as impact meters,2711.057
+district,104,,Garden Route,Unspecified,27595.11
 district,832,,Ehlanzeni,Do not know,2577.118
 district,832,,Ehlanzeni,Eskom-pre-paid,1456370
 district,832,,Ehlanzeni,Eskom-receive bill from eskom,21731.99
@@ -1847,14 +1847,14 @@ municipality,4191,,Setsoto,Municipality-receive bill from municipality,6973.902
 municipality,4191,,Setsoto,Not applicable,6451.878
 municipality,4191,,Setsoto,Other supplier (e.g. metering services such as impact meters,288.8516
 municipality,4191,,Setsoto,Unspecified,5487.889
-district,543,,Sisonke,Do not know,42.19935
-district,543,,Sisonke,Eskom-pre-paid,339462
-district,543,,Sisonke,Eskom-receive bill from eskom,5733.157
-district,543,,Sisonke,Municipality-prepaid,74709.75
-district,543,,Sisonke,Municipality-receive bill from municipality,1938.93
-district,543,,Sisonke,Not applicable,80165.79
-district,543,,Sisonke,Other supplier (e.g. metering services such as impact meters,182.6625
-district,543,,Sisonke,Unspecified,8630.562
+district,543,,Harry Gwala,Do not know,42.19935
+district,543,,Harry Gwala,Eskom-pre-paid,339462
+district,543,,Harry Gwala,Eskom-receive bill from eskom,5733.157
+district,543,,Harry Gwala,Municipality-prepaid,74709.75
+district,543,,Harry Gwala,Municipality-receive bill from municipality,1938.93
+district,543,,Harry Gwala,Not applicable,80165.79
+district,543,,Harry Gwala,Other supplier (e.g. metering services such as impact meters,182.6625
+district,543,,Harry Gwala,Unspecified,8630.562
 municipality,3078,,Siyancuma,Do not know,84.38997
 municipality,3078,,Siyancuma,Eskom-pre-paid,10242.03
 municipality,3078,,Siyancuma,Eskom-receive bill from eskom,1484.044
@@ -2143,14 +2143,14 @@ district,523,,Uthukela,Municipality-receive bill from municipality,9808.673
 district,523,,Uthukela,Not applicable,83552.94
 district,523,,Uthukela,Other supplier (e.g. metering services such as impact meters,973.0626
 district,523,,Uthukela,Unspecified,35751.14
-district,528,,Uthungulu,Do not know,594.0366
-district,528,,Uthungulu,Eskom-pre-paid,648273.8
-district,528,,Uthungulu,Eskom-receive bill from eskom,6653.066
-district,528,,Uthungulu,Municipality-prepaid,210645.2
-district,528,,Uthungulu,Municipality-receive bill from municipality,12925.22
-district,528,,Uthungulu,Not applicable,68124.98
-district,528,,Uthungulu,Other supplier (e.g. metering services such as impact meters,324.1309
-district,528,,Uthungulu,Unspecified,23594.14
+district,528,,King Cetshwayo,Do not know,594.0366
+district,528,,King Cetshwayo,Eskom-pre-paid,648273.8
+district,528,,King Cetshwayo,Eskom-receive bill from eskom,6653.066
+district,528,,King Cetshwayo,Municipality-prepaid,210645.2
+district,528,,King Cetshwayo,Municipality-receive bill from municipality,12925.22
+district,528,,King Cetshwayo,Not applicable,68124.98
+district,528,,King Cetshwayo,Other supplier (e.g. metering services such as impact meters,324.1309
+district,528,,King Cetshwayo,Unspecified,23594.14
 municipality,6405,,Ventersdorp/Tlokwe,Do not know,985.9781
 municipality,6405,,Ventersdorp/Tlokwe,Eskom-pre-paid,11801.48
 municipality,6405,,Ventersdorp/Tlokwe,Eskom-receive bill from eskom,5716.15

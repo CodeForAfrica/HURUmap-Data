@@ -109,11 +109,11 @@ municipality,8325,,Bushbuckridge,No,30611.57
 municipality,8325,,Bushbuckridge,Not applicable,463615
 municipality,8325,,Bushbuckridge,Unspecified,229.4222
 municipality,8325,,Bushbuckridge,Yes,51331.8
-district,210,,Cacadu,Do not know,16.89146
-district,210,,Cacadu,No,31375.83
-district,210,,Cacadu,Not applicable,418872.1
-district,210,,Cacadu,Unspecified,28.98945
-district,210,,Cacadu,Yes,29629.04
+district,210,,Sarah Baartman,Do not know,16.89146
+district,210,,Sarah Baartman,No,31375.83
+district,210,,Sarah Baartman,Not applicable,418872.1
+district,210,,Sarah Baartman,Unspecified,28.98945
+district,210,,Sarah Baartman,Yes,29629.04
 municipality,1033,,Cape Agulhas,Do not know,61.63472
 municipality,1033,,Cape Agulhas,No,1297.44
 municipality,1033,,Cape Agulhas,Not applicable,32215.88
@@ -289,11 +289,11 @@ province,EC,,Eastern Cape,No,518608
 province,EC,,Eastern Cape,Not applicable,5676753
 province,EC,,Eastern Cape,Unspecified,1604.442
 province,EC,,Eastern Cape,Yes,787958.3
-district,104,,Eden,Do not know,32.6671
-district,104,,Eden,No,24258.87
-district,104,,Eden,Not applicable,561586.2
-district,104,,Eden,Unspecified,232.1118
-district,104,,Eden,Yes,25167.86
+district,104,,Garden Route,Do not know,32.6671
+district,104,,Garden Route,No,24258.87
+district,104,,Garden Route,Not applicable,561586.2
+district,104,,Garden Route,Unspecified,232.1118
+district,104,,Garden Route,Yes,25167.86
 district,832,,Ehlanzeni,Do not know,1911.063
 district,832,,Ehlanzeni,No,94393.04
 district,832,,Ehlanzeni,Not applicable,1483392
@@ -1154,11 +1154,11 @@ municipality,4191,,Setsoto,No,11320.4
 municipality,4191,,Setsoto,Not applicable,89710.36
 municipality,4191,,Setsoto,Unspecified,0
 municipality,4191,,Setsoto,Yes,16331.23
-district,543,,Sisonke,Do not know,149.7019
-district,543,,Sisonke,No,31732.58
-district,543,,Sisonke,Not applicable,421628.2
-district,543,,Sisonke,Unspecified,0
-district,543,,Sisonke,Yes,57354.61
+district,543,,Harry Gwala,Do not know,149.7019
+district,543,,Harry Gwala,No,31732.58
+district,543,,Harry Gwala,Not applicable,421628.2
+district,543,,Harry Gwala,Unspecified,0
+district,543,,Harry Gwala,Yes,57354.61
 municipality,3078,,Siyancuma,Do not know,0
 municipality,3078,,Siyancuma,No,5276.324
 municipality,3078,,Siyancuma,Not applicable,27992
@@ -1339,11 +1339,11 @@ district,523,,Uthukela,No,75470.98
 district,523,,Uthukela,Not applicable,521839.7
 district,523,,Uthukela,Unspecified,70.80318
 district,523,,Uthukela,Yes,108871.6
-district,528,,Uthungulu,Do not know,13.13911
-district,528,,Uthungulu,No,96974.68
-district,528,,Uthungulu,Not applicable,742249.4
-district,528,,Uthungulu,Unspecified,48.3364
-district,528,,Uthungulu,Yes,131849.1
+district,528,,King Cetshwayo,Do not know,13.13911
+district,528,,King Cetshwayo,No,96974.68
+district,528,,King Cetshwayo,Not applicable,742249.4
+district,528,,King Cetshwayo,Unspecified,48.3364
+district,528,,King Cetshwayo,Yes,131849.1
 municipality,6405,,Ventersdorp/Tlokwe,Do not know,0
 municipality,6405,,Ventersdorp/Tlokwe,No,21829.26
 municipality,6405,,Ventersdorp/Tlokwe,Not applicable,200061.8

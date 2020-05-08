@@ -153,13 +153,13 @@ municipality,8325,,Bushbuckridge,Flowing water/stream/river/spring/rain water,31
 municipality,8325,,Bushbuckridge,Other water scheme (e.g. community water supply),92995.88
 municipality,8325,,Bushbuckridge,Own service (e.g. private borehole; own source on a farm; et,24404.45
 municipality,8325,,Bushbuckridge,Unspecified,25.51117
-district,210,,Cacadu,A municipality,429594.8
-district,210,,Cacadu,A water vendor,3024.714
-district,210,,Cacadu,Do not know,1920.67
-district,210,,Cacadu,Flowing water/stream/river/spring/rain water,16833.29
-district,210,,Cacadu,Other water scheme (e.g. community water supply),4497.399
-district,210,,Cacadu,Own service (e.g. private borehole; own source on a farm; et,23880.96
-district,210,,Cacadu,Unspecified,171.039
+district,210,,Sarah Baartman,A municipality,429594.8
+district,210,,Sarah Baartman,A water vendor,3024.714
+district,210,,Sarah Baartman,Do not know,1920.67
+district,210,,Sarah Baartman,Flowing water/stream/river/spring/rain water,16833.29
+district,210,,Sarah Baartman,Other water scheme (e.g. community water supply),4497.399
+district,210,,Sarah Baartman,Own service (e.g. private borehole; own source on a farm; et,23880.96
+district,210,,Sarah Baartman,Unspecified,171.039
 municipality,1033,,Cape Agulhas,A municipality,31233.45
 municipality,1033,,Cape Agulhas,A water vendor,325.6309
 municipality,1033,,Cape Agulhas,Do not know,244.8025
@@ -405,13 +405,13 @@ province,EC,,Eastern Cape,Flowing water/stream/river/spring/rain water,1894245
 province,EC,,Eastern Cape,Other water scheme (e.g. community water supply),405163.9
 province,EC,,Eastern Cape,Own service (e.g. private borehole; own source on a farm; et,193101.7
 province,EC,,Eastern Cape,Unspecified,1235.227
-district,104,,Eden,A municipality,577156.4
-district,104,,Eden,A water vendor,2340.272
-district,104,,Eden,Do not know,1541.134
-district,104,,Eden,Flowing water/stream/river/spring/rain water,11015.5
-district,104,,Eden,Other water scheme (e.g. community water supply),4736.973
-district,104,,Eden,Own service (e.g. private borehole; own source on a farm; et,13953.41
-district,104,,Eden,Unspecified,534.027
+district,104,,Garden Route,A municipality,577156.4
+district,104,,Garden Route,A water vendor,2340.272
+district,104,,Garden Route,Do not know,1541.134
+district,104,,Garden Route,Flowing water/stream/river/spring/rain water,11015.5
+district,104,,Garden Route,Other water scheme (e.g. community water supply),4736.973
+district,104,,Garden Route,Own service (e.g. private borehole; own source on a farm; et,13953.41
+district,104,,Garden Route,Unspecified,534.027
 district,832,,Ehlanzeni,A municipality,1271000
 district,832,,Ehlanzeni,A water vendor,82888.82
 district,832,,Ehlanzeni,Do not know,41365.35
@@ -1616,13 +1616,13 @@ municipality,4191,,Setsoto,Flowing water/stream/river/spring/rain water,418.1328
 municipality,4191,,Setsoto,Other water scheme (e.g. community water supply),195.9038
 municipality,4191,,Setsoto,Own service (e.g. private borehole; own source on a farm; et,8277.852
 municipality,4191,,Setsoto,Unspecified,0
-district,543,,Sisonke,A municipality,259199.7
-district,543,,Sisonke,A water vendor,3833.64
-district,543,,Sisonke,Do not know,1935.842
-district,543,,Sisonke,Flowing water/stream/river/spring/rain water,150715.1
-district,543,,Sisonke,Other water scheme (e.g. community water supply),67148.77
-district,543,,Sisonke,Own service (e.g. private borehole; own source on a farm; et,28032.09
-district,543,,Sisonke,Unspecified,0
+district,543,,Harry Gwala,A municipality,259199.7
+district,543,,Harry Gwala,A water vendor,3833.64
+district,543,,Harry Gwala,Do not know,1935.842
+district,543,,Harry Gwala,Flowing water/stream/river/spring/rain water,150715.1
+district,543,,Harry Gwala,Other water scheme (e.g. community water supply),67148.77
+district,543,,Harry Gwala,Own service (e.g. private borehole; own source on a farm; et,28032.09
+district,543,,Harry Gwala,Unspecified,0
 municipality,3078,,Siyancuma,A municipality,29776.1
 municipality,3078,,Siyancuma,A water vendor,44.27109
 municipality,3078,,Siyancuma,Do not know,30.06142
@@ -1875,13 +1875,13 @@ district,523,,Uthukela,Flowing water/stream/river/spring/rain water,80539.21
 district,523,,Uthukela,Other water scheme (e.g. community water supply),68568.41
 district,523,,Uthukela,Own service (e.g. private borehole; own source on a farm; et,53679.04
 district,523,,Uthukela,Unspecified,80.18655
-district,528,,Uthungulu,A municipality,720110.1
-district,528,,Uthungulu,A water vendor,35767.52
-district,528,,Uthungulu,Do not know,4406.05
-district,528,,Uthungulu,Flowing water/stream/river/spring/rain water,84026.74
-district,528,,Uthungulu,Other water scheme (e.g. community water supply),111451.8
-district,528,,Uthungulu,Own service (e.g. private borehole; own source on a farm; et,15187.16
-district,528,,Uthungulu,Unspecified,185.2471
+district,528,,King Cetshwayo,A municipality,720110.1
+district,528,,King Cetshwayo,A water vendor,35767.52
+district,528,,King Cetshwayo,Do not know,4406.05
+district,528,,King Cetshwayo,Flowing water/stream/river/spring/rain water,84026.74
+district,528,,King Cetshwayo,Other water scheme (e.g. community water supply),111451.8
+district,528,,King Cetshwayo,Own service (e.g. private borehole; own source on a farm; et,15187.16
+district,528,,King Cetshwayo,Unspecified,185.2471
 municipality,6405,,Ventersdorp/Tlokwe,A municipality,211018.7
 municipality,6405,,Ventersdorp/Tlokwe,A water vendor,2135.386
 municipality,6405,,Ventersdorp/Tlokwe,Do not know,2396.378
