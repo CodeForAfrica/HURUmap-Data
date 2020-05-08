@@ -1,0 +1,125 @@
+geo_level,geo_code,geo_version,name,variable,value
+district,244,,Alfred Nzo,Not smoking,88
+district,244,,Alfred Nzo,Smoking,12
+district,525,,Amajuba,Not smoking,83
+district,525,,Amajuba,Smoking,17
+district,212,,Amathole,Not smoking,86
+district,212,,Amathole,Smoking,14
+district,637,,Bojanala,Not smoking,81
+district,637,,Bojanala,Smoking,19
+district,292,,Buffalo City,Not smoking,78
+district,292,,Buffalo City,Smoking,22
+district,213,,Chris Hani,Not smoking,83
+district,213,,Chris Hani,Smoking,17
+district,191,,City of Cape Town,Not smoking,71
+district,191,,City of Cape Town,Smoking,29
+district,102,,Cape Winelands,Not smoking,69
+district,102,,Cape Winelands,Smoking,31
+district,935,,Capricorn,Not smoking,86
+district,935,,Capricorn,Smoking,14
+district,105,,Central Karoo,Not smoking,53
+district,105,,Central Karoo,Smoking,47
+district,797,,Ekurhuleni,Not smoking,80
+district,797,,Ekurhuleni,Smoking,20
+district,640,,Dr Kenneth Kaunda,Not smoking,79
+district,640,,Dr Kenneth Kaunda,Smoking,21
+province,EC,,Eastern Cape,Not smoking,83
+province,EC,,Eastern Cape,Smoking,17
+district,832,,Ehlanzeni,Not smoking,90
+district,832,,Ehlanzeni,Smoking,10
+district,420,,Fezile Dabi,Not smoking,80
+district,420,,Fezile Dabi,Smoking,20
+district,309,,Frances Baard,Not smoking,74
+district,309,,Frances Baard,Smoking,26
+province,FS,,Free State,Not smoking,80
+province,FS,,Free State,Smoking,20
+district,830,,Gert Sibande,Not smoking,78
+district,830,,Gert Sibande,Smoking,22
+district,104,,Garden Route,Not smoking,69
+district,104,,Garden Route,Smoking,31
+province,GT,,Gauteng,Not smoking,79
+province,GT,,Gauteng,Smoking,21
+district,543,,Harry Gwala,Not smoking,88
+district,543,,Harry Gwala,Smoking,12
+district,345,,John Taolo Gaetsewe,Not smoking,76
+district,345,,John Taolo Gaetsewe,Smoking,24
+district,214,,Joe Gqabi,Not smoking,83
+district,214,,Joe Gqabi,Smoking,17
+district,798,,City of Johannesburg,Not smoking,77
+district,798,,City of Johannesburg,Smoking,23
+district,528,,King Cetshwayo ,Not smoking,94
+district,528,,King Cetshwayo ,Smoking,6
+province,KZN,,KwaZulu-Natal,Not smoking,87
+province,KZN,,KwaZulu-Natal,Smoking,13
+district,418,,Lejweleputswa,Not smoking,80
+district,418,,Lejweleputswa,Smoking,20
+province,LIM,,Limpopo,Not smoking,88
+province,LIM,,Limpopo,Smoking,12
+district,494,,Mangaung,Not smoking,79
+district,494,,Mangaung,Smoking,21
+district,933,,Mopani,Not smoking,89
+district,933,,Mopani,Smoking,11
+province,MP,,Mpumalanga,Not smoking,82
+province,MP,,Mpumalanga,Smoking,18
+district,638,,Ngaka Modiri Molema,Not smoking,86
+district,638,,Ngaka Modiri Molema,Smoking,14
+district,306,,Namakwa,Not smoking,44
+district,306,,Namakwa,Smoking,56
+district,293,,Nelson Mandela Bay,Not smoking,80
+district,293,,Nelson Mandela Bay,Smoking,20
+district,831,,Nkangala,Not smoking,77
+district,831,,Nkangala,Smoking,23
+province,NW,,North West,Not smoking,80
+province,NW,,North West,Smoking,20
+province,NC,,Northern Cape,Not smoking,67
+province,NC,,Northern Cape,Smoking,33
+district,215,,O.R.Tambo,Not smoking,89
+district,215,,O.R.Tambo,Smoking,11
+district,103,,Overberg,Not smoking,66
+district,103,,Overberg,Smoking,34
+district,307,,Pixley ka Seme,Not smoking,71
+district,307,,Pixley ka Seme,Smoking,29
+district,639,,Dr Ruth Segomotsi Mompati,Not smoking,71
+district,639,,Dr Ruth Segomotsi Mompati,Smoking,29
+district,210,,Sarah Baartman,Not smoking,63
+district,210,,Sarah Baartman,Smoking,37
+district,742,,Sedibeng,Not smoking,74
+district,742,,Sedibeng,Smoking,26
+district,947,,Sekhukhune,Not smoking,92
+district,947,,Sekhukhune,Smoking,8
+country,ZA,,South Africa,Not smoking,81
+country,ZA,,South Africa,Smoking,19
+district,419,,Thabo Mofutsanyane,Not smoking,82
+district,419,,Thabo Mofutsanyane,Smoking,18
+district,799,,City of Tshwane,Not smoking,85
+district,799,,City of Tshwane,Smoking,15
+district,521,,Ugu,Not smoking,81
+district,521,,Ugu,Smoking,19
+district,934,,Vhembe,Not smoking,87
+district,934,,Vhembe,Smoking,13
+district,936,,Waterberg,Not smoking,86
+district,936,,Waterberg,Smoking,14
+district,101,,West Coast,Not smoking,57
+district,101,,West Coast,Smoking,43
+district,748,,West Rand,Not smoking,73
+district,748,,West Rand,Smoking,27
+province,WC,,Western Cape,Not smoking,69
+province,WC,,Western Cape,Smoking,31
+district,416,,Xhariep,Not smoking,79
+district,416,,Xhariep,Smoking,21
+district,308,,Z F Mgcawu,Not smoking,61
+district,308,,Z F Mgcawu,Smoking,39
+district,526,,Zululand,Not smoking,95
+district,526,,Zululand,Smoking,5
+district,595,,eThekwini,Not smoking,87
+district,595,,eThekwini,Smoking,13
+district,529,,iLembe,Not smoking,86
+district,529,,iLembe,Smoking,14
+district,522,,Umgungundlovu,Not smoking,83
+district,522,,Umgungundlovu,Smoking,17
+district,527,,Umkhanyakude,Not smoking,97
+district,527,,Umkhanyakude,Smoking,3
+district,524,,Umzinyathi,Not smoking,92
+district,524,,Umzinyathi,Smoking,8
+district,523,,Uthukela,Not smoking,86
+district,523,,Uthukela,Smoking,14

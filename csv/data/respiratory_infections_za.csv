@@ -1,0 +1,1117 @@
+geo_level,geo_code,geo_version,name,variable,value
+district,101,,West Coast,2000,26
+district,102,,Cape Winelands,2000,58
+district,103,,Overberg,2000,19
+district,104,,Garden Route,2000,37
+district,105,,Central Karoo,2000,6
+district,191,,City of Cape Town,2000,296
+district,210,,Sarah Baartman,2000,31
+district,212,,Amathole,2000,102
+district,213,,Chris Hani,2000,125
+district,214,,Joe Gqabi,2000,62
+district,215,,O.R.Tambo,2000,307
+district,244,,Alfred Nzo,2000,212
+district,292,,Buffalo City,2000,58
+district,293,,Nelson Mandela Bay,2000,96
+district,306,,Namakwa,2000,7
+district,307,,Pixley ka Seme,2000,21
+district,308,,Z F Mgcawu,2000,22
+district,309,,Frances Baard,2000,35
+district,345,,John Taolo Gaetsewe,2000,28
+district,416,,Xhariep,2000,17
+district,418,,Lejweleputswa,2000,94
+district,419,,Thabo Mofutsanyane,2000,158
+district,420,,Fezile Dabi,2000,62
+district,494,,Mangaung,2000,87
+district,521,,Ugu,2000,253
+district,522,,Umgungundlovu,2000,340
+district,523,,Uthukela,2000,156
+district,524,,Umzinyathi,2000,115
+district,525,,Amajuba,2000,78
+district,526,,Zululand,2000,160
+district,527,,Umkhanyakude,2000,156
+district,528,,King Cetshwayo,2000,319
+district,529,,iLembe,2000,230
+district,543,,Harry Gwala,2000,166
+district,595,,eThekwini,2000,997
+district,637,,Bojanala,2000,133
+district,638,,Ngaka Modiri Molema,2000,126
+district,639,,Dr Ruth Segomotsi Mompati,2000,73
+district,640,,Dr Kenneth Kaunda,2000,80
+district,742,,Sedibeng,2000,110
+district,748,,West Rand,2000,107
+district,797,,Ekurhuleni,2000,738
+district,798,,City of Johannesburg,2000,1111
+district,799,,City of Tshwane,2000,279
+district,830,,Gert Sibande,2000,251
+district,831,,Nkangala,2000,256
+district,832,,Ehlanzeni,2000,351
+district,933,,Mopani,2000,159
+district,934,,Vhembe,2000,171
+district,935,,Capricorn,2000,149
+district,936,,Waterberg,2000,78
+district,947,,Sekhukhune,2000,220
+province,EC,,Eastern Cape,2000,995
+province,FS,,Free State,2000,418
+province,GT,,Gauteng,2000,2344
+province,KZN,,KwaZulu-Natal,2000,2966
+province,LIM,,Limpopo,2000,776
+province,MP,,Mpumalanga,2000,859
+province,NC,,Northern Cape,2000,112
+province,NW,,North West,2000,412
+province,WC,,Western Cape,2000,441
+country,ZA,,South Africa,2000,9342
+district,101,,West Coast,2001,38
+district,102,,Cape Winelands,2001,80
+district,103,,Overberg,2001,25
+district,104,,Garden Route,2001,52
+district,105,,Central Karoo,2001,9
+district,191,,City of Cape Town,2001,398
+district,210,,Sarah Baartman,2001,42
+district,212,,Amathole,2001,150
+district,213,,Chris Hani,2001,164
+district,214,,Joe Gqabi,2001,87
+district,215,,O.R.Tambo,2001,488
+district,244,,Alfred Nzo,2001,246
+district,292,,Buffalo City,2001,87
+district,293,,Nelson Mandela Bay,2001,116
+district,306,,Namakwa,2001,10
+district,307,,Pixley ka Seme,2001,26
+district,308,,Z F Mgcawu,2001,27
+district,309,,Frances Baard,2001,42
+district,345,,John Taolo Gaetsewe,2001,34
+district,416,,Xhariep,2001,21
+district,418,,Lejweleputswa,2001,94
+district,419,,Thabo Mofutsanyane,2001,151
+district,420,,Fezile Dabi,2001,71
+district,494,,Mangaung,2001,91
+district,521,,Ugu,2001,187
+district,522,,Umgungundlovu,2001,188
+district,523,,Uthukela,2001,150
+district,524,,Umzinyathi,2001,94
+district,525,,Amajuba,2001,93
+district,526,,Zululand,2001,173
+district,527,,Umkhanyakude,2001,164
+district,528,,King Cetshwayo,2001,220
+district,529,,iLembe,2001,144
+district,543,,Harry Gwala,2001,127
+district,595,,eThekwini,2001,342
+district,637,,Bojanala,2001,180
+district,638,,Ngaka Modiri Molema,2001,159
+district,639,,Dr Ruth Segomotsi Mompati,2001,94
+district,640,,Dr Kenneth Kaunda,2001,90
+district,742,,Sedibeng,2001,105
+district,748,,West Rand,2001,117
+district,797,,Ekurhuleni,2001,685
+district,798,,City of Johannesburg,2001,1056
+district,799,,City of Tshwane,2001,370
+district,830,,Gert Sibande,2001,328
+district,831,,Nkangala,2001,292
+district,832,,Ehlanzeni,2001,455
+district,933,,Mopani,2001,238
+district,934,,Vhembe,2001,233
+district,935,,Capricorn,2001,189
+district,936,,Waterberg,2001,100
+district,947,,Sekhukhune,2001,296
+province,EC,,Eastern Cape,2001,1381
+province,FS,,Free State,2001,429
+province,GT,,Gauteng,2001,2333
+province,KZN,,KwaZulu-Natal,2001,1882
+province,LIM,,Limpopo,2001,1057
+province,MP,,Mpumalanga,2001,1075
+province,NC,,Northern Cape,2001,140
+province,NW,,North West,2001,524
+province,WC,,Western Cape,2001,600
+country,ZA,,South Africa,2001,9434
+district,101,,West Coast,2002,50
+district,102,,Cape Winelands,2002,105
+district,103,,Overberg,2002,32
+district,104,,Garden Route,2002,67
+district,105,,Central Karoo,2002,11
+district,191,,City of Cape Town,2002,457
+district,210,,Sarah Baartman,2002,51
+district,212,,Amathole,2002,125
+district,213,,Chris Hani,2002,157
+district,214,,Joe Gqabi,2002,86
+district,215,,O.R.Tambo,2002,392
+district,244,,Alfred Nzo,2002,237
+district,292,,Buffalo City,2002,82
+district,293,,Nelson Mandela Bay,2002,116
+district,306,,Namakwa,2002,13
+district,307,,Pixley ka Seme,2002,34
+district,308,,Z F Mgcawu,2002,34
+district,309,,Frances Baard,2002,56
+district,345,,John Taolo Gaetsewe,2002,42
+district,416,,Xhariep,2002,28
+district,418,,Lejweleputswa,2002,114
+district,419,,Thabo Mofutsanyane,2002,177
+district,420,,Fezile Dabi,2002,82
+district,494,,Mangaung,2002,117
+district,521,,Ugu,2002,172
+district,522,,Umgungundlovu,2002,217
+district,523,,Uthukela,2002,178
+district,524,,Umzinyathi,2002,129
+district,525,,Amajuba,2002,100
+district,526,,Zululand,2002,227
+district,527,,Umkhanyakude,2002,186
+district,528,,King Cetshwayo,2002,231
+district,529,,iLembe,2002,144
+district,543,,Harry Gwala,2002,137
+district,595,,eThekwini,2002,389
+district,637,,Bojanala,2002,209
+district,638,,Ngaka Modiri Molema,2002,173
+district,639,,Dr Ruth Segomotsi Mompati,2002,113
+district,640,,Dr Kenneth Kaunda,2002,105
+district,742,,Sedibeng,2002,125
+district,748,,West Rand,2002,132
+district,797,,Ekurhuleni,2002,547
+district,798,,City of Johannesburg,2002,667
+district,799,,City of Tshwane,2002,412
+district,830,,Gert Sibande,2002,348
+district,831,,Nkangala,2002,302
+district,832,,Ehlanzeni,2002,454
+district,933,,Mopani,2002,236
+district,934,,Vhembe,2002,244
+district,935,,Capricorn,2002,216
+district,936,,Waterberg,2002,116
+district,947,,Sekhukhune,2002,303
+province,EC,,Eastern Cape,2002,1247
+province,FS,,Free State,2002,518
+province,GT,,Gauteng,2002,1883
+province,KZN,,KwaZulu-Natal,2002,2113
+province,LIM,,Limpopo,2002,1114
+province,MP,,Mpumalanga,2002,1103
+province,NC,,Northern Cape,2002,179
+province,NW,,North West,2002,600
+province,WC,,Western Cape,2002,722
+country,ZA,,South Africa,2002,9489
+district,101,,West Coast,2003,58
+district,102,,Cape Winelands,2003,120
+district,103,,Overberg,2003,37
+district,104,,Garden Route,2003,76
+district,105,,Central Karoo,2003,12
+district,191,,City of Cape Town,2003,512
+district,210,,Sarah Baartman,2003,56
+district,212,,Amathole,2003,124
+district,213,,Chris Hani,2003,133
+district,214,,Joe Gqabi,2003,77
+district,215,,O.R.Tambo,2003,364
+district,244,,Alfred Nzo,2003,204
+district,292,,Buffalo City,2003,79
+district,293,,Nelson Mandela Bay,2003,130
+district,306,,Namakwa,2003,15
+district,307,,Pixley ka Seme,2003,35
+district,308,,Z F Mgcawu,2003,38
+district,309,,Frances Baard,2003,60
+district,345,,John Taolo Gaetsewe,2003,42
+district,416,,Xhariep,2003,30
+district,418,,Lejweleputswa,2003,116
+district,419,,Thabo Mofutsanyane,2003,175
+district,420,,Fezile Dabi,2003,86
+district,494,,Mangaung,2003,120
+district,521,,Ugu,2003,135
+district,522,,Umgungundlovu,2003,181
+district,523,,Uthukela,2003,169
+district,524,,Umzinyathi,2003,133
+district,525,,Amajuba,2003,99
+district,526,,Zululand,2003,227
+district,527,,Umkhanyakude,2003,197
+district,528,,King Cetshwayo,2003,225
+district,529,,iLembe,2003,148
+district,543,,Harry Gwala,2003,109
+district,595,,eThekwini,2003,399
+district,637,,Bojanala,2003,227
+district,638,,Ngaka Modiri Molema,2003,172
+district,639,,Dr Ruth Segomotsi Mompati,2003,111
+district,640,,Dr Kenneth Kaunda,2003,111
+district,742,,Sedibeng,2003,132
+district,748,,West Rand,2003,135
+district,797,,Ekurhuleni,2003,584
+district,798,,City of Johannesburg,2003,701
+district,799,,City of Tshwane,2003,431
+district,830,,Gert Sibande,2003,310
+district,831,,Nkangala,2003,272
+district,832,,Ehlanzeni,2003,407
+district,933,,Mopani,2003,265
+district,934,,Vhembe,2003,270
+district,935,,Capricorn,2003,235
+district,936,,Waterberg,2003,127
+district,947,,Sekhukhune,2003,283
+province,EC,,Eastern Cape,2003,1169
+province,FS,,Free State,2003,526
+province,GT,,Gauteng,2003,1983
+province,KZN,,KwaZulu-Natal,2003,2022
+province,LIM,,Limpopo,2003,1181
+province,MP,,Mpumalanga,2003,989
+province,NC,,Northern Cape,2003,190
+province,NW,,North West,2003,621
+province,WC,,Western Cape,2003,814
+country,ZA,,South Africa,2003,9502
+district,101,,West Coast,2004,59
+district,102,,Cape Winelands,2004,123
+district,103,,Overberg,2004,37
+district,104,,Garden Route,2004,76
+district,105,,Central Karoo,2004,13
+district,191,,City of Cape Town,2004,524
+district,210,,Sarah Baartman,2004,55
+district,212,,Amathole,2004,123
+district,213,,Chris Hani,2004,122
+district,214,,Joe Gqabi,2004,67
+district,215,,O.R.Tambo,2004,321
+district,244,,Alfred Nzo,2004,195
+district,292,,Buffalo City,2004,75
+district,293,,Nelson Mandela Bay,2004,123
+district,306,,Namakwa,2004,16
+district,307,,Pixley ka Seme,2004,37
+district,308,,Z F Mgcawu,2004,40
+district,309,,Frances Baard,2004,59
+district,345,,John Taolo Gaetsewe,2004,45
+district,416,,Xhariep,2004,28
+district,418,,Lejweleputswa,2004,120
+district,419,,Thabo Mofutsanyane,2004,157
+district,420,,Fezile Dabi,2004,88
+district,494,,Mangaung,2004,124
+district,521,,Ugu,2004,128
+district,522,,Umgungundlovu,2004,174
+district,523,,Uthukela,2004,162
+district,524,,Umzinyathi,2004,134
+district,525,,Amajuba,2004,99
+district,526,,Zululand,2004,205
+district,527,,Umkhanyakude,2004,201
+district,528,,King Cetshwayo,2004,200
+district,529,,iLembe,2004,132
+district,543,,Harry Gwala,2004,100
+district,595,,eThekwini,2004,404
+district,637,,Bojanala,2004,233
+district,638,,Ngaka Modiri Molema,2004,174
+district,639,,Dr Ruth Segomotsi Mompati,2004,111
+district,640,,Dr Kenneth Kaunda,2004,114
+district,742,,Sedibeng,2004,137
+district,748,,West Rand,2004,138
+district,797,,Ekurhuleni,2004,603
+district,798,,City of Johannesburg,2004,720
+district,799,,City of Tshwane,2004,438
+district,830,,Gert Sibande,2004,283
+district,831,,Nkangala,2004,288
+district,832,,Ehlanzeni,2004,435
+district,933,,Mopani,2004,297
+district,934,,Vhembe,2004,291
+district,935,,Capricorn,2004,253
+district,936,,Waterberg,2004,137
+district,947,,Sekhukhune,2004,302
+province,EC,,Eastern Cape,2004,1082
+province,FS,,Free State,2004,517
+province,GT,,Gauteng,2004,2036
+province,KZN,,KwaZulu-Natal,2004,1940
+province,LIM,,Limpopo,2004,1280
+province,MP,,Mpumalanga,2004,1006
+province,NC,,Northern Cape,2004,195
+province,NW,,North West,2004,632
+province,WC,,Western Cape,2004,831
+country,ZA,,South Africa,2004,9526
+district,101,,West Coast,2005,62
+district,102,,Cape Winelands,2005,129
+district,103,,Overberg,2005,38
+district,104,,Garden Route,2005,81
+district,105,,Central Karoo,2005,13
+district,191,,City of Cape Town,2005,548
+district,210,,Sarah Baartman,2005,57
+district,212,,Amathole,2005,128
+district,213,,Chris Hani,2005,122
+district,214,,Joe Gqabi,2005,61
+district,215,,O.R.Tambo,2005,298
+district,244,,Alfred Nzo,2005,186
+district,292,,Buffalo City,2005,76
+district,293,,Nelson Mandela Bay,2005,131
+district,306,,Namakwa,2005,16
+district,307,,Pixley ka Seme,2005,36
+district,308,,Z F Mgcawu,2005,40
+district,309,,Frances Baard,2005,60
+district,345,,John Taolo Gaetsewe,2005,44
+district,416,,Xhariep,2005,28
+district,418,,Lejweleputswa,2005,115
+district,419,,Thabo Mofutsanyane,2005,156
+district,420,,Fezile Dabi,2005,89
+district,494,,Mangaung,2005,122
+district,521,,Ugu,2005,142
+district,522,,Umgungundlovu,2005,184
+district,523,,Uthukela,2005,159
+district,524,,Umzinyathi,2005,130
+district,525,,Amajuba,2005,101
+district,526,,Zululand,2005,190
+district,527,,Umkhanyakude,2005,205
+district,528,,King Cetshwayo,2005,197
+district,529,,iLembe,2005,138
+district,543,,Harry Gwala,2005,101
+district,595,,eThekwini,2005,453
+district,637,,Bojanala,2005,244
+district,638,,Ngaka Modiri Molema,2005,179
+district,639,,Dr Ruth Segomotsi Mompati,2005,110
+district,640,,Dr Kenneth Kaunda,2005,118
+district,742,,Sedibeng,2005,146
+district,748,,West Rand,2005,146
+district,797,,Ekurhuleni,2005,624
+district,798,,City of Johannesburg,2005,741
+district,799,,City of Tshwane,2005,455
+district,830,,Gert Sibande,2005,260
+district,831,,Nkangala,2005,280
+district,832,,Ehlanzeni,2005,390
+district,933,,Mopani,2005,263
+district,934,,Vhembe,2005,283
+district,935,,Capricorn,2005,251
+district,936,,Waterberg,2005,137
+district,947,,Sekhukhune,2005,271
+province,EC,,Eastern Cape,2005,1059
+province,FS,,Free State,2005,511
+province,GT,,Gauteng,2005,2111
+province,KZN,,KwaZulu-Natal,2005,2001
+province,LIM,,Limpopo,2005,1204
+province,MP,,Mpumalanga,2005,930
+province,NC,,Northern Cape,2005,197
+province,NW,,North West,2005,651
+province,WC,,Western Cape,2005,871
+country,ZA,,South Africa,2005,9540
+district,101,,West Coast,2006,62
+district,102,,Cape Winelands,2006,127
+district,103,,Overberg,2006,37
+district,104,,Garden Route,2006,79
+district,105,,Central Karoo,2006,13
+district,191,,City of Cape Town,2006,514
+district,210,,Sarah Baartman,2006,56
+district,212,,Amathole,2006,144
+district,213,,Chris Hani,2006,130
+district,214,,Joe Gqabi,2006,69
+district,215,,O.R.Tambo,2006,342
+district,244,,Alfred Nzo,2006,205
+district,292,,Buffalo City,2006,94
+district,293,,Nelson Mandela Bay,2006,135
+district,306,,Namakwa,2006,17
+district,307,,Pixley ka Seme,2006,37
+district,308,,Z F Mgcawu,2006,42
+district,309,,Frances Baard,2006,58
+district,345,,John Taolo Gaetsewe,2006,45
+district,416,,Xhariep,2006,27
+district,418,,Lejweleputswa,2006,119
+district,419,,Thabo Mofutsanyane,2006,151
+district,420,,Fezile Dabi,2006,91
+district,494,,Mangaung,2006,125
+district,521,,Ugu,2006,134
+district,522,,Umgungundlovu,2006,168
+district,523,,Uthukela,2006,150
+district,524,,Umzinyathi,2006,123
+district,525,,Amajuba,2006,100
+district,526,,Zululand,2006,176
+district,527,,Umkhanyakude,2006,186
+district,528,,King Cetshwayo,2006,183
+district,529,,iLembe,2006,129
+district,543,,Harry Gwala,2006,98
+district,595,,eThekwini,2006,444
+district,637,,Bojanala,2006,249
+district,638,,Ngaka Modiri Molema,2006,175
+district,639,,Dr Ruth Segomotsi Mompati,2006,108
+district,640,,Dr Kenneth Kaunda,2006,120
+district,742,,Sedibeng,2006,148
+district,748,,West Rand,2006,150
+district,797,,Ekurhuleni,2006,630
+district,798,,City of Johannesburg,2006,744
+district,799,,City of Tshwane,2006,468
+district,830,,Gert Sibande,2006,265
+district,831,,Nkangala,2006,285
+district,832,,Ehlanzeni,2006,361
+district,933,,Mopani,2006,246
+district,934,,Vhembe,2006,277
+district,935,,Capricorn,2006,257
+district,936,,Waterberg,2006,144
+district,947,,Sekhukhune,2006,270
+province,EC,,Eastern Cape,2006,1176
+province,FS,,Free State,2006,513
+province,GT,,Gauteng,2006,2140
+province,KZN,,KwaZulu-Natal,2006,1890
+province,LIM,,Limpopo,2006,1193
+province,MP,,Mpumalanga,2006,911
+province,NC,,Northern Cape,2006,198
+province,NW,,North West,2006,652
+province,WC,,Western Cape,2006,831
+country,ZA,,South Africa,2006,9511
+district,101,,West Coast,2007,66
+district,102,,Cape Winelands,2007,135
+district,103,,Overberg,2007,39
+district,104,,Garden Route,2007,83
+district,105,,Central Karoo,2007,13
+district,191,,City of Cape Town,2007,556
+district,210,,Sarah Baartman,2007,59
+district,212,,Amathole,2007,137
+district,213,,Chris Hani,2007,129
+district,214,,Joe Gqabi,2007,60
+district,215,,O.R.Tambo,2007,301
+district,244,,Alfred Nzo,2007,184
+district,292,,Buffalo City,2007,82
+district,293,,Nelson Mandela Bay,2007,133
+district,306,,Namakwa,2007,18
+district,307,,Pixley ka Seme,2007,35
+district,308,,Z F Mgcawu,2007,42
+district,309,,Frances Baard,2007,61
+district,345,,John Taolo Gaetsewe,2007,46
+district,416,,Xhariep,2007,27
+district,418,,Lejweleputswa,2007,119
+district,419,,Thabo Mofutsanyane,2007,158
+district,420,,Fezile Dabi,2007,92
+district,494,,Mangaung,2007,124
+district,521,,Ugu,2007,128
+district,522,,Umgungundlovu,2007,175
+district,523,,Uthukela,2007,153
+district,524,,Umzinyathi,2007,131
+district,525,,Amajuba,2007,106
+district,526,,Zululand,2007,186
+district,527,,Umkhanyakude,2007,183
+district,528,,King Cetshwayo,2007,182
+district,529,,iLembe,2007,122
+district,543,,Harry Gwala,2007,97
+district,595,,eThekwini,2007,443
+district,637,,Bojanala,2007,255
+district,638,,Ngaka Modiri Molema,2007,178
+district,639,,Dr Ruth Segomotsi Mompati,2007,106
+district,640,,Dr Kenneth Kaunda,2007,124
+district,742,,Sedibeng,2007,149
+district,748,,West Rand,2007,152
+district,797,,Ekurhuleni,2007,639
+district,798,,City of Johannesburg,2007,756
+district,799,,City of Tshwane,2007,476
+district,830,,Gert Sibande,2007,265
+district,831,,Nkangala,2007,280
+district,832,,Ehlanzeni,2007,363
+district,933,,Mopani,2007,240
+district,934,,Vhembe,2007,276
+district,935,,Capricorn,2007,257
+district,936,,Waterberg,2007,138
+district,947,,Sekhukhune,2007,264
+province,EC,,Eastern Cape,2007,1086
+province,FS,,Free State,2007,519
+province,GT,,Gauteng,2007,2172
+province,KZN,,KwaZulu-Natal,2007,1908
+province,LIM,,Limpopo,2007,1174
+province,MP,,Mpumalanga,2007,907
+province,NC,,Northern Cape,2007,202
+province,NW,,North West,2007,663
+province,WC,,Western Cape,2007,891
+country,ZA,,South Africa,2007,9527
+district,101,,West Coast,2008,70
+district,102,,Cape Winelands,2008,137
+district,103,,Overberg,2008,40
+district,104,,Garden Route,2008,87
+district,105,,Central Karoo,2008,14
+district,191,,City of Cape Town,2008,558
+district,210,,Sarah Baartman,2008,62
+district,212,,Amathole,2008,145
+district,213,,Chris Hani,2008,132
+district,214,,Joe Gqabi,2008,60
+district,215,,O.R.Tambo,2008,304
+district,244,,Alfred Nzo,2008,181
+district,292,,Buffalo City,2008,84
+district,293,,Nelson Mandela Bay,2008,143
+district,306,,Namakwa,2008,18
+district,307,,Pixley ka Seme,2008,36
+district,308,,Z F Mgcawu,2008,44
+district,309,,Frances Baard,2008,64
+district,345,,John Taolo Gaetsewe,2008,48
+district,416,,Xhariep,2008,27
+district,418,,Lejweleputswa,2008,116
+district,419,,Thabo Mofutsanyane,2008,144
+district,420,,Fezile Dabi,2008,88
+district,494,,Mangaung,2008,126
+district,521,,Ugu,2008,126
+district,522,,Umgungundlovu,2008,167
+district,523,,Uthukela,2008,142
+district,524,,Umzinyathi,2008,125
+district,525,,Amajuba,2008,102
+district,526,,Zululand,2008,176
+district,527,,Umkhanyakude,2008,167
+district,528,,King Cetshwayo,2008,173
+district,529,,iLembe,2008,108
+district,543,,Harry Gwala,2008,97
+district,595,,eThekwini,2008,437
+district,637,,Bojanala,2008,253
+district,638,,Ngaka Modiri Molema,2008,176
+district,639,,Dr Ruth Segomotsi Mompati,2008,107
+district,640,,Dr Kenneth Kaunda,2008,116
+district,742,,Sedibeng,2008,146
+district,748,,West Rand,2008,151
+district,797,,Ekurhuleni,2008,652
+district,798,,City of Johannesburg,2008,776
+district,799,,City of Tshwane,2008,486
+district,830,,Gert Sibande,2008,233
+district,831,,Nkangala,2008,270
+district,832,,Ehlanzeni,2008,351
+district,933,,Mopani,2008,232
+district,934,,Vhembe,2008,271
+district,935,,Capricorn,2008,252
+district,936,,Waterberg,2008,136
+district,947,,Sekhukhune,2008,255
+province,EC,,Eastern Cape,2008,1110
+province,FS,,Free State,2008,502
+province,GT,,Gauteng,2008,2210
+province,KZN,,KwaZulu-Natal,2008,1821
+province,LIM,,Limpopo,2008,1147
+province,MP,,Mpumalanga,2008,853
+province,NC,,Northern Cape,2008,211
+province,NW,,North West,2008,653
+province,WC,,Western Cape,2008,907
+country,ZA,,South Africa,2008,9417
+district,101,,West Coast,2009,66
+district,102,,Cape Winelands,2009,132
+district,103,,Overberg,2009,38
+district,104,,Garden Route,2009,81
+district,105,,Central Karoo,2009,13
+district,191,,City of Cape Town,2009,516
+district,210,,Sarah Baartman,2009,59
+district,212,,Amathole,2009,138
+district,213,,Chris Hani,2009,127
+district,214,,Joe Gqabi,2009,59
+district,215,,O.R.Tambo,2009,284
+district,244,,Alfred Nzo,2009,172
+district,292,,Buffalo City,2009,78
+district,293,,Nelson Mandela Bay,2009,137
+district,306,,Namakwa,2009,17
+district,307,,Pixley ka Seme,2009,35
+district,308,,Z F Mgcawu,2009,43
+district,309,,Frances Baard,2009,61
+district,345,,John Taolo Gaetsewe,2009,47
+district,416,,Xhariep,2009,26
+district,418,,Lejweleputswa,2009,118
+district,419,,Thabo Mofutsanyane,2009,138
+district,420,,Fezile Dabi,2009,89
+district,494,,Mangaung,2009,130
+district,521,,Ugu,2009,117
+district,522,,Umgungundlovu,2009,153
+district,523,,Uthukela,2009,132
+district,524,,Umzinyathi,2009,117
+district,525,,Amajuba,2009,100
+district,526,,Zululand,2009,167
+district,527,,Umkhanyakude,2009,162
+district,528,,King Cetshwayo,2009,161
+district,529,,iLembe,2009,101
+district,543,,Harry Gwala,2009,91
+district,595,,eThekwini,2009,406
+district,637,,Bojanala,2009,252
+district,638,,Ngaka Modiri Molema,2009,170
+district,639,,Dr Ruth Segomotsi Mompati,2009,102
+district,640,,Dr Kenneth Kaunda,2009,123
+district,742,,Sedibeng,2009,151
+district,748,,West Rand,2009,155
+district,797,,Ekurhuleni,2009,702
+district,798,,City of Johannesburg,2009,838
+district,799,,City of Tshwane,2009,494
+district,830,,Gert Sibande,2009,233
+district,831,,Nkangala,2009,273
+district,832,,Ehlanzeni,2009,354
+district,933,,Mopani,2009,245
+district,934,,Vhembe,2009,284
+district,935,,Capricorn,2009,266
+district,936,,Waterberg,2009,143
+district,947,,Sekhukhune,2009,260
+province,EC,,Eastern Cape,2009,1055
+province,FS,,Free State,2009,501
+province,GT,,Gauteng,2009,2339
+province,KZN,,KwaZulu-Natal,2009,1709
+province,LIM,,Limpopo,2009,1198
+province,MP,,Mpumalanga,2009,860
+province,NC,,Northern Cape,2009,203
+province,NW,,North West,2009,647
+province,WC,,Western Cape,2009,847
+country,ZA,,South Africa,2009,9366
+district,101,,West Coast,2010,69
+district,102,,Cape Winelands,2010,138
+district,103,,Overberg,2010,41
+district,104,,Garden Route,2010,86
+district,105,,Central Karoo,2010,13
+district,191,,City of Cape Town,2010,566
+district,210,,Sarah Baartman,2010,60
+district,212,,Amathole,2010,138
+district,213,,Chris Hani,2010,129
+district,214,,Joe Gqabi,2010,59
+district,215,,O.R.Tambo,2010,283
+district,244,,Alfred Nzo,2010,175
+district,292,,Buffalo City,2010,81
+district,293,,Nelson Mandela Bay,2010,134
+district,306,,Namakwa,2010,18
+district,307,,Pixley ka Seme,2010,34
+district,308,,Z F Mgcawu,2010,42
+district,309,,Frances Baard,2010,60
+district,345,,John Taolo Gaetsewe,2010,45
+district,416,,Xhariep,2010,26
+district,418,,Lejweleputswa,2010,111
+district,419,,Thabo Mofutsanyane,2010,146
+district,420,,Fezile Dabi,2010,86
+district,494,,Mangaung,2010,124
+district,521,,Ugu,2010,131
+district,522,,Umgungundlovu,2010,166
+district,523,,Uthukela,2010,136
+district,524,,Umzinyathi,2010,124
+district,525,,Amajuba,2010,100
+district,526,,Zululand,2010,183
+district,527,,Umkhanyakude,2010,184
+district,528,,King Cetshwayo,2010,178
+district,529,,iLembe,2010,114
+district,543,,Harry Gwala,2010,98
+district,595,,eThekwini,2010,450
+district,637,,Bojanala,2010,240
+district,638,,Ngaka Modiri Molema,2010,163
+district,639,,Dr Ruth Segomotsi Mompati,2010,95
+district,640,,Dr Kenneth Kaunda,2010,110
+district,742,,Sedibeng,2010,142
+district,748,,West Rand,2010,145
+district,797,,Ekurhuleni,2010,647
+district,798,,City of Johannesburg,2010,781
+district,799,,City of Tshwane,2010,464
+district,830,,Gert Sibande,2010,225
+district,831,,Nkangala,2010,257
+district,832,,Ehlanzeni,2010,350
+district,933,,Mopani,2010,228
+district,934,,Vhembe,2010,265
+district,935,,Capricorn,2010,246
+district,936,,Waterberg,2010,132
+district,947,,Sekhukhune,2010,240
+province,EC,,Eastern Cape,2010,1058
+province,FS,,Free State,2010,493
+province,GT,,Gauteng,2010,2178
+province,KZN,,KwaZulu-Natal,2010,1864
+province,LIM,,Limpopo,2010,1111
+province,MP,,Mpumalanga,2010,831
+province,NC,,Northern Cape,2010,199
+province,NW,,North West,2010,608
+province,WC,,Western Cape,2010,913
+country,ZA,,South Africa,2010,9258
+district,101,,West Coast,2011,69
+district,102,,Cape Winelands,2011,131
+district,103,,Overberg,2011,41
+district,104,,Garden Route,2011,86
+district,105,,Central Karoo,2011,13
+district,191,,City of Cape Town,2011,570
+district,210,,Sarah Baartman,2011,62
+district,212,,Amathole,2011,143
+district,213,,Chris Hani,2011,126
+district,214,,Joe Gqabi,2011,60
+district,215,,O.R.Tambo,2011,291
+district,244,,Alfred Nzo,2011,181
+district,292,,Buffalo City,2011,87
+district,293,,Nelson Mandela Bay,2011,144
+district,306,,Namakwa,2011,19
+district,307,,Pixley ka Seme,2011,33
+district,308,,Z F Mgcawu,2011,42
+district,309,,Frances Baard,2011,61
+district,345,,John Taolo Gaetsewe,2011,44
+district,416,,Xhariep,2011,25
+district,418,,Lejweleputswa,2011,101
+district,419,,Thabo Mofutsanyane,2011,135
+district,420,,Fezile Dabi,2011,79
+district,494,,Mangaung,2011,113
+district,521,,Ugu,2011,127
+district,522,,Umgungundlovu,2011,172
+district,523,,Uthukela,2011,134
+district,524,,Umzinyathi,2011,116
+district,525,,Amajuba,2011,90
+district,526,,Zululand,2011,154
+district,527,,Umkhanyakude,2011,153
+district,528,,King Cetshwayo,2011,177
+district,529,,iLembe,2011,110
+district,543,,Harry Gwala,2011,101
+district,595,,eThekwini,2011,447
+district,637,,Bojanala,2011,266
+district,638,,Ngaka Modiri Molema,2011,171
+district,639,,Dr Ruth Segomotsi Mompati,2011,95
+district,640,,Dr Kenneth Kaunda,2011,112
+district,742,,Sedibeng,2011,139
+district,748,,West Rand,2011,146
+district,797,,Ekurhuleni,2011,640
+district,798,,City of Johannesburg,2011,773
+district,799,,City of Tshwane,2011,489
+district,830,,Gert Sibande,2011,206
+district,831,,Nkangala,2011,264
+district,832,,Ehlanzeni,2011,301
+district,933,,Mopani,2011,205
+district,934,,Vhembe,2011,288
+district,935,,Capricorn,2011,261
+district,936,,Waterberg,2011,148
+district,947,,Sekhukhune,2011,231
+province,EC,,Eastern Cape,2011,1094
+province,FS,,Free State,2011,453
+province,GT,,Gauteng,2011,2187
+province,KZN,,KwaZulu-Natal,2011,1780
+province,LIM,,Limpopo,2011,1133
+province,MP,,Mpumalanga,2011,771
+province,NC,,Northern Cape,2011,199
+province,NW,,North West,2011,645
+province,WC,,Western Cape,2011,909
+country,ZA,,South Africa,2011,9174
+district,101,,West Coast,2012,68
+district,102,,Cape Winelands,2012,132
+district,103,,Overberg,2012,41
+district,104,,Garden Route,2012,85
+district,105,,Central Karoo,2012,12
+district,191,,City of Cape Town,2012,572
+district,210,,Sarah Baartman,2012,60
+district,212,,Amathole,2012,145
+district,213,,Chris Hani,2012,122
+district,214,,Joe Gqabi,2012,56
+district,215,,O.R.Tambo,2012,300
+district,244,,Alfred Nzo,2012,181
+district,292,,Buffalo City,2012,87
+district,293,,Nelson Mandela Bay,2012,133
+district,306,,Namakwa,2012,17
+district,307,,Pixley ka Seme,2012,30
+district,308,,Z F Mgcawu,2012,39
+district,309,,Frances Baard,2012,56
+district,345,,John Taolo Gaetsewe,2012,41
+district,416,,Xhariep,2012,23
+district,418,,Lejweleputswa,2012,99
+district,419,,Thabo Mofutsanyane,2012,133
+district,420,,Fezile Dabi,2012,77
+district,494,,Mangaung,2012,110
+district,521,,Ugu,2012,133
+district,522,,Umgungundlovu,2012,181
+district,523,,Uthukela,2012,124
+district,524,,Umzinyathi,2012,114
+district,525,,Amajuba,2012,90
+district,526,,Zululand,2012,154
+district,527,,Umkhanyakude,2012,135
+district,528,,King Cetshwayo,2012,163
+district,529,,iLembe,2012,109
+district,543,,Harry Gwala,2012,108
+district,595,,eThekwini,2012,484
+district,637,,Bojanala,2012,233
+district,638,,Ngaka Modiri Molema,2012,159
+district,639,,Dr Ruth Segomotsi Mompati,2012,88
+district,640,,Dr Kenneth Kaunda,2012,105
+district,742,,Sedibeng,2012,134
+district,748,,West Rand,2012,138
+district,797,,Ekurhuleni,2012,665
+district,798,,City of Johannesburg,2012,821
+district,799,,City of Tshwane,2012,475
+district,830,,Gert Sibande,2012,202
+district,831,,Nkangala,2012,238
+district,832,,Ehlanzeni,2012,305
+district,933,,Mopani,2012,200
+district,934,,Vhembe,2012,241
+district,935,,Capricorn,2012,235
+district,936,,Waterberg,2012,122
+district,947,,Sekhukhune,2012,216
+province,EC,,Eastern Cape,2012,1085
+province,FS,,Free State,2012,442
+province,GT,,Gauteng,2012,2232
+province,KZN,,KwaZulu-Natal,2012,1796
+province,LIM,,Limpopo,2012,1014
+province,MP,,Mpumalanga,2012,745
+province,NC,,Northern Cape,2012,184
+province,NW,,North West,2012,585
+province,WC,,Western Cape,2012,910
+country,ZA,,South Africa,2012,8994
+district,101,,West Coast,2013,66
+district,102,,Cape Winelands,2013,130
+district,103,,Overberg,2013,40
+district,104,,Garden Route,2013,82
+district,105,,Central Karoo,2013,12
+district,191,,City of Cape Town,2013,553
+district,210,,Sarah Baartman,2013,58
+district,212,,Amathole,2013,137
+district,213,,Chris Hani,2013,126
+district,214,,Joe Gqabi,2013,57
+district,215,,O.R.Tambo,2013,279
+district,244,,Alfred Nzo,2013,164
+district,292,,Buffalo City,2013,82
+district,293,,Nelson Mandela Bay,2013,133
+district,306,,Namakwa,2013,17
+district,307,,Pixley ka Seme,2013,31
+district,308,,Z F Mgcawu,2013,40
+district,309,,Frances Baard,2013,58
+district,345,,John Taolo Gaetsewe,2013,42
+district,416,,Xhariep,2013,24
+district,418,,Lejweleputswa,2013,105
+district,419,,Thabo Mofutsanyane,2013,140
+district,420,,Fezile Dabi,2013,83
+district,494,,Mangaung,2013,121
+district,521,,Ugu,2013,130
+district,522,,Umgungundlovu,2013,152
+district,523,,Uthukela,2013,125
+district,524,,Umzinyathi,2013,113
+district,525,,Amajuba,2013,91
+district,526,,Zululand,2013,161
+district,527,,Umkhanyakude,2013,138
+district,528,,King Cetshwayo,2013,183
+district,529,,iLembe,2013,113
+district,543,,Harry Gwala,2013,89
+district,595,,eThekwini,2013,461
+district,637,,Bojanala,2013,228
+district,638,,Ngaka Modiri Molema,2013,154
+district,639,,Dr Ruth Segomotsi Mompati,2013,88
+district,640,,Dr Kenneth Kaunda,2013,104
+district,742,,Sedibeng,2013,138
+district,748,,West Rand,2013,138
+district,797,,Ekurhuleni,2013,651
+district,798,,City of Johannesburg,2013,800
+district,799,,City of Tshwane,2013,467
+district,830,,Gert Sibande,2013,205
+district,831,,Nkangala,2013,242
+district,832,,Ehlanzeni,2013,304
+district,933,,Mopani,2013,187
+district,934,,Vhembe,2013,229
+district,935,,Capricorn,2013,222
+district,936,,Waterberg,2013,118
+district,947,,Sekhukhune,2013,212
+province,EC,,Eastern Cape,2013,1035
+province,FS,,Free State,2013,473
+province,GT,,Gauteng,2013,2193
+province,KZN,,KwaZulu-Natal,2013,1756
+province,LIM,,Limpopo,2013,969
+province,MP,,Mpumalanga,2013,750
+province,NC,,Northern Cape,2013,189
+province,NW,,North West,2013,573
+province,WC,,Western Cape,2013,882
+country,ZA,,South Africa,2013,8821
+district,101,,West Coast,2014,63
+district,102,,Cape Winelands,2014,124
+district,103,,Overberg,2014,41
+district,104,,Garden Route,2014,82
+district,105,,Central Karoo,2014,11
+district,191,,City of Cape Town,2014,562
+district,210,,Sarah Baartman,2014,58
+district,212,,Amathole,2014,132
+district,213,,Chris Hani,2014,119
+district,214,,Joe Gqabi,2014,54
+district,215,,O.R.Tambo,2014,263
+district,244,,Alfred Nzo,2014,155
+district,292,,Buffalo City,2014,85
+district,293,,Nelson Mandela Bay,2014,128
+district,306,,Namakwa,2014,18
+district,307,,Pixley ka Seme,2014,29
+district,308,,Z F Mgcawu,2014,38
+district,309,,Frances Baard,2014,52
+district,345,,John Taolo Gaetsewe,2014,39
+district,416,,Xhariep,2014,22
+district,418,,Lejweleputswa,2014,94
+district,419,,Thabo Mofutsanyane,2014,136
+district,420,,Fezile Dabi,2014,74
+district,494,,Mangaung,2014,107
+district,521,,Ugu,2014,130
+district,522,,Umgungundlovu,2014,156
+district,523,,Uthukela,2014,132
+district,524,,Umzinyathi,2014,121
+district,525,,Amajuba,2014,98
+district,526,,Zululand,2014,158
+district,527,,Umkhanyakude,2014,128
+district,528,,King Cetshwayo,2014,179
+district,529,,iLembe,2014,104
+district,543,,Harry Gwala,2014,86
+district,595,,eThekwini,2014,504
+district,637,,Bojanala,2014,220
+district,638,,Ngaka Modiri Molema,2014,151
+district,639,,Dr Ruth Segomotsi Mompati,2014,83
+district,640,,Dr Kenneth Kaunda,2014,105
+district,742,,Sedibeng,2014,123
+district,748,,West Rand,2014,130
+district,797,,Ekurhuleni,2014,617
+district,798,,City of Johannesburg,2014,704
+district,799,,City of Tshwane,2014,459
+district,830,,Gert Sibande,2014,214
+district,831,,Nkangala,2014,248
+district,832,,Ehlanzeni,2014,282
+district,933,,Mopani,2014,177
+district,934,,Vhembe,2014,232
+district,935,,Capricorn,2014,232
+district,936,,Waterberg,2014,114
+district,947,,Sekhukhune,2014,218
+province,EC,,Eastern Cape,2014,995
+province,FS,,Free State,2014,433
+province,GT,,Gauteng,2014,2032
+province,KZN,,KwaZulu-Natal,2014,1795
+province,LIM,,Limpopo,2014,974
+province,MP,,Mpumalanga,2014,744
+province,NC,,Northern Cape,2014,175
+province,NW,,North West,2014,558
+province,WC,,Western Cape,2014,883
+country,ZA,,South Africa,2014,8590
+district,101,,West Coast,2015,61
+district,102,,Cape Winelands,2015,122
+district,103,,Overberg,2015,41
+district,104,,Garden Route,2015,83
+district,105,,Central Karoo,2015,11
+district,191,,City of Cape Town,2015,568
+district,210,,Sarah Baartman,2015,59
+district,212,,Amathole,2015,133
+district,213,,Chris Hani,2015,118
+district,214,,Joe Gqabi,2015,52
+district,215,,O.R.Tambo,2015,270
+district,244,,Alfred Nzo,2015,162
+district,292,,Buffalo City,2015,92
+district,293,,Nelson Mandela Bay,2015,131
+district,306,,Namakwa,2015,16
+district,307,,Pixley ka Seme,2015,27
+district,308,,Z F Mgcawu,2015,34
+district,309,,Frances Baard,2015,50
+district,345,,John Taolo Gaetsewe,2015,36
+district,416,,Xhariep,2015,21
+district,418,,Lejweleputswa,2015,97
+district,419,,Thabo Mofutsanyane,2015,146
+district,420,,Fezile Dabi,2015,82
+district,494,,Mangaung,2015,104
+district,521,,Ugu,2015,144
+district,522,,Umgungundlovu,2015,166
+district,523,,Uthukela,2015,120
+district,524,,Umzinyathi,2015,109
+district,525,,Amajuba,2015,92
+district,526,,Zululand,2015,150
+district,527,,Umkhanyakude,2015,121
+district,528,,King Cetshwayo,2015,163
+district,529,,iLembe,2015,98
+district,543,,Harry Gwala,2015,87
+district,595,,eThekwini,2015,539
+district,637,,Bojanala,2015,209
+district,638,,Ngaka Modiri Molema,2015,138
+district,639,,Dr Ruth Segomotsi Mompati,2015,75
+district,640,,Dr Kenneth Kaunda,2015,104
+district,742,,Sedibeng,2015,137
+district,748,,West Rand,2015,138
+district,797,,Ekurhuleni,2015,586
+district,798,,City of Johannesburg,2015,700
+district,799,,City of Tshwane,2015,414
+district,830,,Gert Sibande,2015,204
+district,831,,Nkangala,2015,222
+district,832,,Ehlanzeni,2015,246
+district,933,,Mopani,2015,154
+district,934,,Vhembe,2015,191
+district,935,,Capricorn,2015,195
+district,936,,Waterberg,2015,96
+district,947,,Sekhukhune,2015,189
+province,EC,,Eastern Cape,2015,1017
+province,FS,,Free State,2015,450
+province,GT,,Gauteng,2015,1975
+province,KZN,,KwaZulu-Natal,2015,1788
+province,LIM,,Limpopo,2015,826
+province,MP,,Mpumalanga,2015,673
+province,NC,,Northern Cape,2015,162
+province,NW,,North West,2015,526
+province,WC,,Western Cape,2015,885
+country,ZA,,South Africa,2015,8299
+district,101,,West Coast,2016,56
+district,102,,Cape Winelands,2016,114
+district,103,,Overberg,2016,38
+district,104,,Garden Route,2016,79
+district,105,,Central Karoo,2016,11
+district,191,,City of Cape Town,2016,515
+district,210,,Sarah Baartman,2016,55
+district,212,,Amathole,2016,126
+district,213,,Chris Hani,2016,111
+district,214,,Joe Gqabi,2016,50
+district,215,,O.R.Tambo,2016,250
+district,244,,Alfred Nzo,2016,152
+district,292,,Buffalo City,2016,80
+district,293,,Nelson Mandela Bay,2016,121
+district,306,,Namakwa,2016,15
+district,307,,Pixley ka Seme,2016,26
+district,308,,Z F Mgcawu,2016,33
+district,309,,Frances Baard,2016,47
+district,345,,John Taolo Gaetsewe,2016,34
+district,416,,Xhariep,2016,20
+district,418,,Lejweleputswa,2016,92
+district,419,,Thabo Mofutsanyane,2016,132
+district,420,,Fezile Dabi,2016,76
+district,494,,Mangaung,2016,97
+district,521,,Ugu,2016,137
+district,522,,Umgungundlovu,2016,155
+district,523,,Uthukela,2016,110
+district,524,,Umzinyathi,2016,101
+district,525,,Amajuba,2016,85
+district,526,,Zululand,2016,142
+district,527,,Umkhanyakude,2016,116
+district,528,,King Cetshwayo,2016,192
+district,529,,iLembe,2016,120
+district,543,,Harry Gwala,2016,83
+district,595,,eThekwini,2016,524
+district,637,,Bojanala,2016,195
+district,638,,Ngaka Modiri Molema,2016,132
+district,639,,Dr Ruth Segomotsi Mompati,2016,72
+district,640,,Dr Kenneth Kaunda,2016,98
+district,742,,Sedibeng,2016,128
+district,748,,West Rand,2016,130
+district,797,,Ekurhuleni,2016,558
+district,798,,City of Johannesburg,2016,671
+district,799,,City of Tshwane,2016,388
+district,830,,Gert Sibande,2016,188
+district,831,,Nkangala,2016,209
+district,832,,Ehlanzeni,2016,234
+district,933,,Mopani,2016,148
+district,934,,Vhembe,2016,181
+district,935,,Capricorn,2016,185
+district,936,,Waterberg,2016,90
+district,947,,Sekhukhune,2016,179
+province,EC,,Eastern Cape,2016,945
+province,FS,,Free State,2016,418
+province,GT,,Gauteng,2016,1875
+province,KZN,,KwaZulu-Natal,2016,1763
+province,LIM,,Limpopo,2016,783
+province,MP,,Mpumalanga,2016,631
+province,NC,,Northern Cape,2016,154
+province,NW,,North West,2016,497
+province,WC,,Western Cape,2016,813
+country,ZA,,South Africa,2016,7878
+district,101,,West Coast,2017,54
+district,102,,Cape Winelands,2017,109
+district,103,,Overberg,2017,36
+district,104,,Garden Route,2017,75
+district,105,,Central Karoo,2017,10
+district,191,,City of Cape Town,2017,490
+district,210,,Sarah Baartman,2017,52
+district,212,,Amathole,2017,120
+district,213,,Chris Hani,2017,106
+district,214,,Joe Gqabi,2017,47
+district,215,,O.R.Tambo,2017,237
+district,244,,Alfred Nzo,2017,145
+district,292,,Buffalo City,2017,76
+district,293,,Nelson Mandela Bay,2017,115
+district,306,,Namakwa,2017,14
+district,307,,Pixley ka Seme,2017,25
+district,308,,Z F Mgcawu,2017,31
+district,309,,Frances Baard,2017,45
+district,345,,John Taolo Gaetsewe,2017,32
+district,416,,Xhariep,2017,19
+district,418,,Lejweleputswa,2017,88
+district,419,,Thabo Mofutsanyane,2017,125
+district,420,,Fezile Dabi,2017,72
+district,494,,Mangaung,2017,93
+district,521,,Ugu,2017,130
+district,522,,Umgungundlovu,2017,147
+district,523,,Uthukela,2017,105
+district,524,,Umzinyathi,2017,96
+district,525,,Amajuba,2017,80
+district,526,,Zululand,2017,135
+district,527,,Umkhanyakude,2017,110
+district,528,,King Cetshwayo,2017,182
+district,529,,iLembe,2017,114
+district,543,,Harry Gwala,2017,79
+district,595,,eThekwini,2017,498
+district,637,,Bojanala,2017,186
+district,638,,Ngaka Modiri Molema,2017,126
+district,639,,Dr Ruth Segomotsi Mompati,2017,69
+district,640,,Dr Kenneth Kaunda,2017,93
+district,742,,Sedibeng,2017,122
+district,748,,West Rand,2017,124
+district,797,,Ekurhuleni,2017,530
+district,798,,City of Johannesburg,2017,638
+district,799,,City of Tshwane,2017,369
+district,830,,Gert Sibande,2017,179
+district,831,,Nkangala,2017,198
+district,832,,Ehlanzeni,2017,222
+district,933,,Mopani,2017,141
+district,934,,Vhembe,2017,172
+district,935,,Capricorn,2017,176
+district,936,,Waterberg,2017,86
+district,947,,Sekhukhune,2017,170
+province,EC,,Eastern Cape,2017,898
+province,FS,,Free State,2017,397
+province,GT,,Gauteng,2017,1783
+province,KZN,,KwaZulu-Natal,2017,1676
+province,LIM,,Limpopo,2017,744
+province,MP,,Mpumalanga,2017,600
+province,NC,,Northern Cape,2017,147
+province,NW,,North West,2017,473
+province,WC,,Western Cape,2017,773
+country,ZA,,South Africa,2017,7489

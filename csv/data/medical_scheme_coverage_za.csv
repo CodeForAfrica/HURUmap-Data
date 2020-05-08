@@ -1,63 +1,63 @@
-name,geo_level,geo_code,geo_version,variable,value
-Alfred Nzo,district,244,,medical scheme coverage,"3,8"
-Amajuba,district,525,,medical scheme coverage,"7,4"
-Amathole,district,212,,medical scheme coverage,"4,3"
-Bojanala,district,637,,medical scheme coverage,"14,0"
-Buffalo City,municipality,292,,medical scheme coverage,"22,4"
-Cape Winelands,district,102,,medical scheme coverage,"16,4"
-Capricorn,district,935,,medical scheme coverage,"8,3"
-Central Karoo,district,105,,medical scheme coverage,"12,5"
-Chris Hani,district,213,,medical scheme coverage,"4,9"
-City of Cape Town,municipality,191,,medical scheme coverage,"22,2"
-City of Johannesburg,municipality,798,,medical scheme coverage,"22,2"
-City of Tshwane,municipality,799,,medical scheme coverage,"30,6"
-Dr Kenneth Kaunda,district,640,,medical scheme coverage,"12,8"
-Dr Ruth Segomotsi Mompati,district,639,,medical scheme coverage,"7,3"
-Eastern Cape,province,EC,,medical scheme coverage,"9,8"
-Ehlanzeni,district,832,,medical scheme coverage,"10,2"
-Ekurhuleni,municipality,797,,medical scheme coverage,"23,8"
-eThekwini,municipality,595,,medical scheme coverage,"18,9"
-Fezile Dabi,district,420,,medical scheme coverage,"13,2"
-Frances Baard,district,309,,medical scheme coverage,"15,7"
-Free State,province,FS,,medical scheme coverage,"13,5"
-Garden Route,,,,medical scheme coverage,"16,5"
-Gauteng,province,GT,,medical scheme coverage,"24,6"
-Gert Sibande,district,830,,medical scheme coverage,"13,1"
-Harry Gwala,,,,medical scheme coverage,"5,6"
-iLembe,district,529,,medical scheme coverage,"8,6"
-Joe Gqabi,district,214,,medical scheme coverage,"5,0"
-John Taolo Gaetsewe,district,345,,medical scheme coverage,"13,9"
-King Cetshwayo,,,,medical scheme coverage,"8,7"
-KwaZulu-Natal,province,KZN,,medical scheme coverage,"11,2"
-Lejweleputswa,district,418,,medical scheme coverage,"12,0"
-Limpopo,province,LIM,,medical scheme coverage,"7,2"
-Mangaung,municipality,494,,medical scheme coverage,"20,0"
-Mopani,district,933,,medical scheme coverage,"6,8"
-Mpumalanga,province,MP,,medical scheme coverage,"12,5"
-Namakwa,district,306,,medical scheme coverage,"17,5"
-Nelson Mandela Bay,,,,medical scheme coverage,"20,4"
-Ngaka Modiri Molema,district,638,,medical scheme coverage,"9,7"
-Nkangala,district,831,,medical scheme coverage,"14,8"
-North West,province,NW,,medical scheme coverage,"11,9"
-Northern Cape,province,NC,,medical scheme coverage,"15,1"
-O.R.Tambo,district,215,,medical scheme coverage,"4,2"
-Overberg,district,103,,medical scheme coverage,"16,4"
-Pixley ka Seme,district,307,,medical scheme coverage,"13,1"
-Sarah Baartman,,,,medical scheme coverage,"8,8"
-Sedibeng,district,742,,medical scheme coverage,"20,8"
-Sekhukhune,district,947,,medical scheme coverage,"5,6"
-South Africa,country,ZA,,medical scheme coverage,"15,4"
-Thabo Mofutsanyana,,,,medical scheme coverage,"9,2"
-Ugu,district,521,,medical scheme coverage,"7,1"
-Umgungundlovu,district,522,,medical scheme coverage,"11,0"
-Umkhanyakude,district,527,,medical scheme coverage,"5,0"
-Umzinyathi,district,524,,medical scheme coverage,"5,4"
-Uthukela,district,523,,medical scheme coverage,"6,4"
-Vhembe,district,934,,medical scheme coverage,"6,6"
-Waterberg,district,936,,medical scheme coverage,"9,1"
-West Coast,district,101,,medical scheme coverage,"17,3"
-West Rand,district,748,,medical scheme coverage,"24,1"
-Western Cape,province,WC,,medical scheme coverage,"20,1"
-Xhariep,district,416,,medical scheme coverage,"10,5"
-Zululand,district,526,,medical scheme coverage,"5,2"
-Z F Mgcawu,district,308,,medical scheme coverage,"15,8"
+geo_level,geo_code,geo_version,name,variable,value
+district,244,,Alfred Nzo,Medical scheme coverage,3.8
+district,525,,Amajuba,Medical scheme coverage,7.4
+district,212,,Amathole,Medical scheme coverage,4.3
+district,637,,Bojanala,Medical scheme coverage,14
+district,292,,Buffalo City,Medical scheme coverage,22.4
+district,210,,Sarah Baartman,Medical scheme coverage,8.8
+district,102,,Cape Winelands,Medical scheme coverage,16.4
+district,935,,Capricorn,Medical scheme coverage,8.3
+district,105,,Central Karoo,Medical scheme coverage,12.5
+district,213,,Chris Hani,Medical scheme coverage,4.9
+district,191,,City of Cape Town,Medical scheme coverage,22.2
+district,798,,City of Johannesburg,Medical scheme coverage,22.2
+district,799,,City of Tshwane,Medical scheme coverage,30.6
+district,640,,Dr Kenneth Kaunda,Medical scheme coverage,12.8
+district,639,,Dr Ruth Segomotsi Mompati,Medical scheme coverage,7.3
+province,EC,,Eastern Cape,Medical scheme coverage,9.8
+district,104,,Garden Route,Medical scheme coverage,16.5
+district,832,,Ehlanzeni,Medical scheme coverage,10.2
+district,797,,Ekurhuleni,Medical scheme coverage,23.8
+district,595,,eThekwini,Medical scheme coverage,18.9
+district,420,,Fezile Dabi,Medical scheme coverage,13.2
+district,309,,Frances Baard,Medical scheme coverage,15.7
+province,FS,,Free State,Medical scheme coverage,13.5
+province,GT,,Gauteng,Medical scheme coverage,24.6
+district,830,,Gert Sibande,Medical scheme coverage,13.1
+district,529,,iLembe,Medical scheme coverage,8.6
+district,214,,Joe Gqabi,Medical scheme coverage,5
+district,345,,John Taolo Gaetsewe,Medical scheme coverage,13.9
+province,KZN,,KwaZulu-Natal,Medical scheme coverage,11.2
+district,418,,Lejweleputswa,Medical scheme coverage,12
+province,LIM,,Limpopo,Medical scheme coverage,7.2
+district,494,,Mangaung,Medical scheme coverage,20
+district,933,,Mopani,Medical scheme coverage,6.8
+province,MP,,Mpumalanga,Medical scheme coverage,12.5
+district,306,,Namakwa,Medical scheme coverage,17.5
+district,293,,Nelson Mandela Bay,Medical scheme coverage,20.4
+district,638,,Ngaka Modiri Molema,Medical scheme coverage,9.7
+district,831,,Nkangala,Medical scheme coverage,14.8
+province,NW,,North West,Medical scheme coverage,11.9
+province,NC,,Northern Cape,Medical scheme coverage,15.1
+district,215,,O.R.Tambo,Medical scheme coverage,4.2
+district,103,,Overberg,Medical scheme coverage,16.4
+district,307,,Pixley ka Seme,Medical scheme coverage,13.1
+district,742,,Sedibeng,Medical scheme coverage,20.8
+district,947,,Sekhukhune,Medical scheme coverage,5.6
+district,543,,Harry Gwala,Medical scheme coverage,5.6
+country,ZA,,South Africa,Medical scheme coverage,15.4
+district,419,,Thabo Mofutsanyana,Medical scheme coverage,9.2
+district,521,,Ugu,Medical scheme coverage,7.1
+district,522,,Umgungundlovu,Medical scheme coverage,11
+district,527,,Umkhanyakude,Medical scheme coverage,5
+district,524,,Umzinyathi,Medical scheme coverage,5.4
+district,523,,Uthukela,Medical scheme coverage,6.4
+district,528,,King Cetshwayo ,Medical scheme coverage,8.7
+district,934,,Vhembe,Medical scheme coverage,6.6
+district,936,,Waterberg,Medical scheme coverage,9.1
+district,101,,West Coast,Medical scheme coverage,17.3
+district,748,,West Rand,Medical scheme coverage,24.1
+province,WC,,Western Cape,Medical scheme coverage,20.1
+district,416,,Xhariep,Medical scheme coverage,10.5
+district,308,,Z F Mgcawu,Medical scheme coverage,15.8
+district,526,,Zululand,Medical scheme coverage,5.2
