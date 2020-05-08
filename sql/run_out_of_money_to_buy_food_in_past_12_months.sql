@@ -28,6 +28,3 @@ ALTER TABLE ONLY public.run_out_of_money_to_buy_food_in_past_12_months ADD CONST
 
 INSERT INTO public.run_out_of_money_to_buy_food_in_past_12_months VALUES
  ON CONFLICT DO NOTHING;
-      
-INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allRunOutOfMoneyToBuyFoodInPast12Months','"Community Survey, 2016"','https://open.africa/dataset/community-survey-south-africa-2016/resource/0ac091dd-4008-43bd-81d1-8ab370457aa8') ON CONFLICT DO NOTHING;
-INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allRunOutOfMoneyToBuyFoodInPast12Months','"Community Survey, 2016"','https://open.africa/dataset/community-survey-south-africa-2016/resource/0ac091dd-4008-43bd-81d1-8ab370457aa8') ON CONFLICT DO NOTHING;
