@@ -13,1393 +13,904 @@ SET default_tablespace = '';
 SET default_with_oids = false;
 
 CREATE TABLE IF NOT EXISTS public.health_professionals_per_100000_uninsured (
-	geo_level NUMERIC,
-	geo_code NUMERIC,
+	geo_level TEXT,
+	geo_code TEXT,
 	geo_version NUMERIC,
-	parent_level NUMERIC,
-	parent_code NUMERIC,
-	zululand NUMERIC,
-	za NUMERIC,
-	z_f mgcawu NUMERIC,
-	xhariep NUMERIC,
-	western_cape NUMERIC,
-	west_rand NUMERIC,
-	west_coast NUMERIC,
-	wc NUMERIC,
-	waterberg NUMERIC,
-	vhembe NUMERIC,
-	variable NUMERIC,
-	value
-district NUMERIC,
-	uthukela NUMERIC,
-	umzinyathi NUMERIC,
-	umkhanyakude NUMERIC,
-	umgungundlovu NUMERIC,
-	ugu NUMERIC,
-	thabo_mofutsanyane NUMERIC,
-	student_nurses NUMERIC,
-	south_africa NUMERIC,
-	sekhukhune NUMERIC,
-	sedibeng NUMERIC,
-	sarah_baartman NUMERIC,
-	radiographers NUMERIC,
-	psychologists NUMERIC,
-	professional_nurses NUMERIC,
-	pixley_ka seme NUMERIC,
-	physiotherapists NUMERIC,
-	pharmacists NUMERIC,
-	overberg NUMERIC,
-	occupational_therapists NUMERIC,
-	o.r.tambo NUMERIC,
-	nw NUMERIC,
-	nursing_assistants NUMERIC,
-	northern_cape NUMERIC,
-	north_west NUMERIC,
-	nkangala NUMERIC,
-	ngaka_modiri molema NUMERIC,
-	nelson_mandela bay NUMERIC,
-	nc NUMERIC,
-	name NUMERIC,
-	namakwa NUMERIC,
-	mpumalanga NUMERIC,
-	mp NUMERIC,
-	mopani NUMERIC,
-	medical_specialists NUMERIC,
-	medical_researchers NUMERIC,
-	medical_practitioners NUMERIC,
-	mangaung NUMERIC,
-	limpopo NUMERIC,
-	lim NUMERIC,
-	lejweleputswa NUMERIC,
-	kzn NUMERIC,
-	kwazulu-natal NUMERIC,
-	king_cetshwayo NUMERIC,
-	john_taolo gaetsewe NUMERIC,
-	joe_gqabi NUMERIC,
-	ilembe NUMERIC,
-	harry_gwala NUMERIC,
-	gt NUMERIC,
-	gert_sibande NUMERIC,
-	gauteng NUMERIC,
-	garden_route NUMERIC,
-	fs NUMERIC,
-	free_state NUMERIC,
-	frances_baard NUMERIC,
-	fezile_dabi NUMERIC,
-	ethekwini NUMERIC,
-	environmental_health practitioners NUMERIC,
-	enrolled_nurses NUMERIC,
-	ekurhuleni NUMERIC,
-	ehlanzeni NUMERIC,
-	ec NUMERIC,
-	eastern_cape NUMERIC,
-	dr_ruth segomotsi mompati NUMERIC,
-	dr_kenneth kaunda NUMERIC,
-	dental_therapists NUMERIC,
-	dental_specialists NUMERIC,
-	dental_practitioners NUMERIC,
-	country_code NUMERIC,
-	clinical_associates NUMERIC,
-	city_of tshwane NUMERIC,
-	city_of johannesburg NUMERIC,
-	city_of cape town NUMERIC,
-	chris_hani NUMERIC,
-	central_karoo NUMERIC,
-	capricorn NUMERIC,
-	cape_winelands NUMERIC,
-	buffalo_city NUMERIC,
-	bojanala NUMERIC,
-	amathole NUMERIC,
-	amajuba NUMERIC,
-	alfred_nzo NUMERIC,
-	99.7
-district NUMERIC,
-	99.2
-district NUMERIC,
-	97.6
-district NUMERIC,
-	96.7
-district NUMERIC,
-	96.6
-district NUMERIC,
-	95.1
-district NUMERIC,
-	95
-district NUMERIC,
-	947 NUMERIC,
-	94.3
-district NUMERIC,
-	936 NUMERIC,
-	935 NUMERIC,
-	934 NUMERIC,
-	933 NUMERIC,
-	93.9
-district NUMERIC,
-	93.4
-province NUMERIC,
-	93.3
-district NUMERIC,
-	92.9
-district NUMERIC,
-	92.4
-district NUMERIC,
-	90.4
-district NUMERIC,
-	9.9
-district NUMERIC,
-	9.7
-district NUMERIC,
-	9.6
-district NUMERIC,
-	9.6
-country NUMERIC,
-	9.4
-district NUMERIC,
-	9.3
-district NUMERIC,
-	9
-province NUMERIC,
-	9
-district NUMERIC,
-	89.8
-district NUMERIC,
-	89.7
-district NUMERIC,
-	88
-province NUMERIC,
-	85.1
-district NUMERIC,
-	84.8
-district NUMERIC,
-	84.6
-district NUMERIC,
-	84
-district NUMERIC,
-	832 NUMERIC,
-	831 NUMERIC,
-	830 NUMERIC,
-	83.5
-district NUMERIC,
-	83.3
-province NUMERIC,
-	82.6
-province NUMERIC,
-	82.6
-district NUMERIC,
-	82.1
-district NUMERIC,
-	81.6
-district NUMERIC,
-	81.5
-province NUMERIC,
-	81.5
-district NUMERIC,
-	81
-district NUMERIC,
-	80.6
-district NUMERIC,
-	8.9
-district NUMERIC,
-	8.8
-district NUMERIC,
-	8.7
-district NUMERIC,
-	8.6
-province NUMERIC,
-	8.5
-district NUMERIC,
-	8.4
-district NUMERIC,
-	8.3
-district NUMERIC,
-	8.2
-district NUMERIC,
-	8.1
-province NUMERIC,
-	8.1
-district NUMERIC,
-	8
-district NUMERIC,
-	799 NUMERIC,
-	798 NUMERIC,
-	797 NUMERIC,
-	79.8
-province NUMERIC,
-	79.5
-district NUMERIC,
-	79.4
-province NUMERIC,
-	78.1
-province NUMERIC,
-	78.1
-district NUMERIC,
-	78
-district NUMERIC,
-	75.6
-district NUMERIC,
-	748 NUMERIC,
-	742 NUMERIC,
-	74.6
-district NUMERIC,
-	72.9
-district NUMERIC,
-	71.6
-district NUMERIC,
-	71.4
-district NUMERIC,
-	70.8
-district NUMERIC,
-	70.4
-district NUMERIC,
-	70.1
-province NUMERIC,
-	7.8
-district NUMERIC,
-	7.6
-district NUMERIC,
-	7.5
-district NUMERIC,
-	7.5
-country NUMERIC,
-	7.1
-district NUMERIC,
-	69.6
-district NUMERIC,
-	69.4
-district NUMERIC,
-	69.2
-district NUMERIC,
-	69
-district NUMERIC,
-	68.6
-district NUMERIC,
-	68.3
-province NUMERIC,
-	640 NUMERIC,
-	64.6
-country NUMERIC,
-	639 NUMERIC,
-	638 NUMERIC,
-	637 NUMERIC,
-	63.9
-district NUMERIC,
-	63.2
-district NUMERIC,
-	63
-district NUMERIC,
-	62.9
-district NUMERIC,
-	62.7
-district NUMERIC,
-	62.6
-country NUMERIC,
-	62.3
-district NUMERIC,
-	62.2
-district NUMERIC,
-	62.1
-district NUMERIC,
-	62
-district NUMERIC,
-	60.4
-district NUMERIC,
-	60.2
-district NUMERIC,
-	6.9
-district NUMERIC,
-	6.7
-district NUMERIC,
-	6.6
-province NUMERIC,
-	6.6
-district NUMERIC,
-	6.5
-district NUMERIC,
-	6.3
-district NUMERIC,
-	6.2
-district NUMERIC,
-	6.1
-district NUMERIC,
-	6
-province NUMERIC,
-	595 NUMERIC,
-	59.2
-district NUMERIC,
-	58.9
-province NUMERIC,
-	58.8
-province NUMERIC,
-	58.3
-district NUMERIC,
-	58.1
-district NUMERIC,
-	57.4
-district NUMERIC,
-	56.2
-district NUMERIC,
-	55.4
-district NUMERIC,
-	543 NUMERIC,
-	54.7
-district NUMERIC,
-	54.2
-district NUMERIC,
-	53.1
-district NUMERIC,
-	529 NUMERIC,
-	528 NUMERIC,
-	527 NUMERIC,
-	526 NUMERIC,
-	525 NUMERIC,
-	524 NUMERIC,
-	523 NUMERIC,
-	522 NUMERIC,
-	521 NUMERIC,
-	52.7
-district NUMERIC,
-	52.3
-district NUMERIC,
-	50.8
-district NUMERIC,
-	50.3
-province NUMERIC,
-	50
-district NUMERIC,
-	5.9
-province NUMERIC,
-	5.9
-district NUMERIC,
-	5.8
-province NUMERIC,
-	5.8
-district NUMERIC,
-	5.8
-country NUMERIC,
-	5.7
-district NUMERIC,
-	5.6
-district NUMERIC,
-	5.5
-district NUMERIC,
-	5.4
-district NUMERIC,
-	5.3
-province NUMERIC,
-	5.2
-district NUMERIC,
-	5
-province NUMERIC,
-	5
-district NUMERIC,
-	4940 NUMERIC,
-	49.4
-province NUMERIC,
-	48.9
-district NUMERIC,
-	48.7
-district NUMERIC,
-	48.2
-district NUMERIC,
-	46.9
-district NUMERIC,
-	46.5
-district NUMERIC,
-	46.3
-district NUMERIC,
-	46.2
-province NUMERIC,
-	45.8
-district NUMERIC,
-	45.7
-district NUMERIC,
-	45.5
-district NUMERIC,
-	45.4
-district NUMERIC,
-	45.1
-district NUMERIC,
-	44.7
-district NUMERIC,
-	44.1
-district NUMERIC,
-	43.8
-district NUMERIC,
-	43.7
-district NUMERIC,
-	43
-district NUMERIC,
-	420 NUMERIC,
-	42.2
-district NUMERIC,
-	419 NUMERIC,
-	418 NUMERIC,
-	416 NUMERIC,
-	40.9
-province NUMERIC,
-	40.7
-district NUMERIC,
-	40.4
-district NUMERIC,
-	40.1
-district NUMERIC,
-	4.9
-district NUMERIC,
-	4.8
-district NUMERIC,
-	4.7
-district NUMERIC,
-	4.5
-district NUMERIC,
-	4.4
-district NUMERIC,
-	4.3
-district NUMERIC,
-	4.2
-district NUMERIC,
-	4.1
-district NUMERIC,
-	4
-province NUMERIC,
-	4
-district NUMERIC,
-	39.9
-district NUMERIC,
-	39.4
-district NUMERIC,
-	39
-province NUMERIC,
-	38.9
-district NUMERIC,
-	38.3
-province NUMERIC,
-	37.8
-district NUMERIC,
-	37.7
-district NUMERIC,
-	37.4
-district NUMERIC,
-	37
-district NUMERIC,
-	36.7
-province NUMERIC,
-	36.4
-district NUMERIC,
-	35.8
-district NUMERIC,
-	35.1
-province NUMERIC,
-	35
-district NUMERIC,
-	345 NUMERIC,
-	34.8
-district NUMERIC,
-	33.7
-district NUMERIC,
-	33.6
-province NUMERIC,
-	33.1
-district NUMERIC,
-	32.9
-district NUMERIC,
-	32.4
-district NUMERIC,
-	32.3
-district NUMERIC,
-	32
-district NUMERIC,
-	31.6
-country NUMERIC,
-	31.1
-district NUMERIC,
-	309 NUMERIC,
-	308 NUMERIC,
-	307 NUMERIC,
-	306 NUMERIC,
-	30.9
-district NUMERIC,
-	30.8
-district NUMERIC,
-	30.7
-province NUMERIC,
-	30.5
-district NUMERIC,
-	30.4
-district NUMERIC,
-	30
-district NUMERIC,
-	3.9
-district NUMERIC,
-	3.8
-province NUMERIC,
-	3.8
-district NUMERIC,
-	3.7
-district NUMERIC,
-	3.6
-province NUMERIC,
-	3.6
-district NUMERIC,
-	3.5
-province NUMERIC,
-	3.5
-district NUMERIC,
-	3.4
-province NUMERIC,
-	3.4
-district NUMERIC,
-	3.3
-province NUMERIC,
-	3.3
-district NUMERIC,
-	3.2
-province NUMERIC,
-	3.2
-district NUMERIC,
-	3.1
-province NUMERIC,
-	3.1
-district NUMERIC,
-	3
-province NUMERIC,
-	3
-district NUMERIC,
-	3
-country NUMERIC,
-	2930 NUMERIC,
-	292 NUMERIC,
-	28
-district NUMERIC,
-	27.7
-district NUMERIC,
-	27.5
-province NUMERIC,
-	27.4
-province NUMERIC,
-	26.5
-district NUMERIC,
-	26.4
-district NUMERIC,
-	26.3
-district NUMERIC,
-	26.1
-district NUMERIC,
-	254.2 NUMERIC,
-	25.9
-province NUMERIC,
-	25.8
-province NUMERIC,
-	25.6
-district NUMERIC,
-	25
-district NUMERIC,
-	246.1
-district NUMERIC,
-	244 NUMERIC,
-	24.5
-province NUMERIC,
-	23.6
-province NUMERIC,
-	23.5
-district NUMERIC,
-	23.4
-district NUMERIC,
-	23
-district NUMERIC,
-	22.9
-district NUMERIC,
-	22.8
-province NUMERIC,
-	22.5
-district NUMERIC,
-	22.4
-district NUMERIC,
-	22.3
-district NUMERIC,
-	22
-district NUMERIC,
-	215 NUMERIC,
-	214 NUMERIC,
-	213 NUMERIC,
-	212 NUMERIC,
-	210 NUMERIC,
-	21.7
-district NUMERIC,
-	21.6
-district NUMERIC,
-	21.4
-district NUMERIC,
-	21.3
-district NUMERIC,
-	21
-district NUMERIC,
-	20.8
-district NUMERIC,
-	20.6
-province NUMERIC,
-	20.1
-district NUMERIC,
-	2.9
-province NUMERIC,
-	2.9
-district NUMERIC,
-	2.8
-district NUMERIC,
-	2.7
-province NUMERIC,
-	2.7
-district NUMERIC,
-	2.6
-province NUMERIC,
-	2.6
-district NUMERIC,
-	2.6
-country NUMERIC,
-	2.5
-province NUMERIC,
-	2.5
-district NUMERIC,
-	2.5
-country NUMERIC,
-	2.4
-province NUMERIC,
-	2.4
-district NUMERIC,
-	2.3
-province NUMERIC,
-	2.3
-district NUMERIC,
-	2.2
-province NUMERIC,
-	2.2
-district NUMERIC,
-	2.1
-province NUMERIC,
-	2.1
-district NUMERIC,
-	2
-province NUMERIC,
-	2
-district NUMERIC,
-	198.3
-district NUMERIC,
-	193.2
-district NUMERIC,
-	192.1
-district NUMERIC,
-	1910 NUMERIC,
-	19.8
-district NUMERIC,
-	19.7
-district NUMERIC,
-	19.2
-district NUMERIC,
-	19
-district NUMERIC,
-	183.7
-district NUMERIC,
-	182.4
-district NUMERIC,
-	181.8
-district NUMERIC,
-	18.9
-district NUMERIC,
-	18.8
-province NUMERIC,
-	18.3
-district NUMERIC,
-	18.2
-district NUMERIC,
-	176.3
-district NUMERIC,
-	175
-district NUMERIC,
-	174
-district NUMERIC,
-	173.7
-district NUMERIC,
-	172.3
-district NUMERIC,
-	172.1
-district NUMERIC,
-	170.9
-district NUMERIC,
-	17.9
-district NUMERIC,
-	17.8
-district NUMERIC,
-	17.3
-district NUMERIC,
-	17.2
-province NUMERIC,
-	17.2
-district NUMERIC,
-	17.1
-province NUMERIC,
-	169
-province NUMERIC,
-	168.5
-district NUMERIC,
-	168.4
-province NUMERIC,
-	165.2
-district NUMERIC,
-	164.6
-province NUMERIC,
-	163.5
-district NUMERIC,
-	162.2
-district NUMERIC,
-	161.2
-district NUMERIC,
-	16.7
-district NUMERIC,
-	16.4
-district NUMERIC,
-	16.3
-district NUMERIC,
-	158.2
-district NUMERIC,
-	154
-district NUMERIC,
-	153.8
-district NUMERIC,
-	153.5
-district NUMERIC,
-	15.9
-district NUMERIC,
-	15.5
-district NUMERIC,
-	15.3
-district NUMERIC,
-	15.2
-district NUMERIC,
-	147.6
-district NUMERIC,
-	147
-district NUMERIC,
-	145.3
-province NUMERIC,
-	144.8
-district NUMERIC,
-	142.1
-country NUMERIC,
-	141.5
-province NUMERIC,
-	14.8
-district NUMERIC,
-	14.6
-district NUMERIC,
-	14.5
-province NUMERIC,
-	14.3
-district NUMERIC,
-	14
-district NUMERIC,
-	136
-district NUMERIC,
-	135.1
-province NUMERIC,
-	134.8
-district NUMERIC,
-	133.1
-district NUMERIC,
-	131.6
-district NUMERIC,
-	131.5
-province NUMERIC,
-	130.6
-district NUMERIC,
-	13.9
-district NUMERIC,
-	13.8
-province NUMERIC,
-	13.8
-district NUMERIC,
-	13.7
-district NUMERIC,
-	13.1
-district NUMERIC,
-	13
-district NUMERIC,
-	127.7
-district NUMERIC,
-	125.2
-district NUMERIC,
-	123.5
-district NUMERIC,
-	12.9
-province NUMERIC,
-	12.8
-district NUMERIC,
-	12.5
-district NUMERIC,
-	12.3
-province NUMERIC,
-	12.1
-district NUMERIC,
-	119.5
-district NUMERIC,
-	119
-district NUMERIC,
-	118.6
-district NUMERIC,
-	116.9
-district NUMERIC,
-	116.2
-district NUMERIC,
-	115.7
-district NUMERIC,
-	114.9
-district NUMERIC,
-	111.8
-district NUMERIC,
-	110.1
-district NUMERIC,
-	11.9
-district NUMERIC,
-	11.8
-district NUMERIC,
-	11.6
-district NUMERIC,
-	11.6
-country NUMERIC,
-	11.4
-district NUMERIC,
-	11.1
-province NUMERIC,
-	11
-district NUMERIC,
-	106.3
-district NUMERIC,
-	105 NUMERIC,
-	104.4
-district NUMERIC,
-	104 NUMERIC,
-	103.2
-district NUMERIC,
-	103 NUMERIC,
-	102 NUMERIC,
-	101.4
-province NUMERIC,
-	101 NUMERIC,
-	100
-district NUMERIC,
-	10.9
-district NUMERIC,
-	10.8
-province NUMERIC,
-	10.8
-district NUMERIC,
-	10.7
-district NUMERIC,
-	10.4
-district NUMERIC,
-	10.3
-district NUMERIC,
-	10.2
-district NUMERIC,
-	1.9
-province NUMERIC,
-	1.9
-district NUMERIC,
-	1.8
-province NUMERIC,
-	1.8
-district NUMERIC,
-	1.7
-province NUMERIC,
-	1.7
-district NUMERIC,
-	1.6
-district NUMERIC,
-	1.5
-province NUMERIC,
-	1.5
-district NUMERIC,
-	1.4
-district NUMERIC,
-	1.4
-country NUMERIC,
-	1.3
-province NUMERIC,
-	1.3
-district NUMERIC,
-	1.2
-province NUMERIC,
-	1.2
-district NUMERIC,
-	1.1
-province NUMERIC,
-	1.1
-district NUMERIC,
-	1
-province NUMERIC,
-	1
-district NUMERIC,
-	1
-country NUMERIC,
-	0.9
-province NUMERIC,
-	0.9
-district NUMERIC,
-	0.8
-province NUMERIC,
-	0.8
-district NUMERIC,
-	0.8
-country NUMERIC,
-	0.7
-province NUMERIC,
-	0.7
-district NUMERIC,
-	0.7
-country NUMERIC,
-	0.6
-province NUMERIC,
-	0.6
-district NUMERIC,
-	0.5
-district NUMERIC,
-	0.4
-province NUMERIC,
-	0.4
-district NUMERIC,
-	0.3
-province NUMERIC,
-	0.3
-district NUMERIC,
-	0.3
-country NUMERIC,
-	0.2
-province NUMERIC,
-	0.2
-district NUMERIC,
-	0.1
-province NUMERIC,
-	0.1
-district NUMERIC,
-	0.1
-country NUMERIC,
-	0
-province NUMERIC,
-	0
-district NUMERIC,
-	 NUMERIC
+	parent_level TEXT,
+	parent_code TEXT,
+	variable TEXT,
+	value NUMERIC,
+	name TEXT
 );
 
-ALTER TABLE ONLY public.health_professionals_per_100000_uninsured ADD CONSTRAINT pk_health_professionals_per_100000_uninsured PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, zululand, za, z_f mgcawu, xhariep, western_cape, west_rand, west_coast, wc, waterberg, vhembe, variable, value
-district, uthukela, umzinyathi, umkhanyakude, umgungundlovu, ugu, thabo_mofutsanyane, student_nurses, south_africa, sekhukhune, sedibeng, sarah_baartman, radiographers, psychologists, professional_nurses, pixley_ka seme, physiotherapists, pharmacists, overberg, occupational_therapists, o.r.tambo, nw, nursing_assistants, northern_cape, north_west, nkangala, ngaka_modiri molema, nelson_mandela bay, nc, name, namakwa, mpumalanga, mp, mopani, medical_specialists, medical_researchers, medical_practitioners, mangaung, limpopo, lim, lejweleputswa, kzn, kwazulu-natal, king_cetshwayo, john_taolo gaetsewe, joe_gqabi, ilembe, harry_gwala, gt, gert_sibande, gauteng, garden_route, fs, free_state, frances_baard, fezile_dabi, ethekwini, environmental_health practitioners, enrolled_nurses, ekurhuleni, ehlanzeni, ec, eastern_cape, dr_ruth segomotsi mompati, dr_kenneth kaunda, dental_therapists, dental_specialists, dental_practitioners, country_code, clinical_associates, city_of tshwane, city_of johannesburg, city_of cape town, chris_hani, central_karoo, capricorn, cape_winelands, buffalo_city, bojanala, amathole, amajuba, alfred_nzo, 99.7
-district, 99.2
-district, 97.6
-district, 96.7
-district, 96.6
-district, 95.1
-district, 95
-district, 947, 94.3
-district, 936, 935, 934, 933, 93.9
-district, 93.4
-province, 93.3
-district, 92.9
-district, 92.4
-district, 90.4
-district, 9.9
-district, 9.7
-district, 9.6
-district, 9.6
-country, 9.4
-district, 9.3
-district, 9
-province, 9
-district, 89.8
-district, 89.7
-district, 88
-province, 85.1
-district, 84.8
-district, 84.6
-district, 84
-district, 832, 831, 830, 83.5
-district, 83.3
-province, 82.6
-province, 82.6
-district, 82.1
-district, 81.6
-district, 81.5
-province, 81.5
-district, 81
-district, 80.6
-district, 8.9
-district, 8.8
-district, 8.7
-district, 8.6
-province, 8.5
-district, 8.4
-district, 8.3
-district, 8.2
-district, 8.1
-province, 8.1
-district, 8
-district, 799, 798, 797, 79.8
-province, 79.5
-district, 79.4
-province, 78.1
-province, 78.1
-district, 78
-district, 75.6
-district, 748, 742, 74.6
-district, 72.9
-district, 71.6
-district, 71.4
-district, 70.8
-district, 70.4
-district, 70.1
-province, 7.8
-district, 7.6
-district, 7.5
-district, 7.5
-country, 7.1
-district, 69.6
-district, 69.4
-district, 69.2
-district, 69
-district, 68.6
-district, 68.3
-province, 640, 64.6
-country, 639, 638, 637, 63.9
-district, 63.2
-district, 63
-district, 62.9
-district, 62.7
-district, 62.6
-country, 62.3
-district, 62.2
-district, 62.1
-district, 62
-district, 60.4
-district, 60.2
-district, 6.9
-district, 6.7
-district, 6.6
-province, 6.6
-district, 6.5
-district, 6.3
-district, 6.2
-district, 6.1
-district, 6
-province, 595, 59.2
-district, 58.9
-province, 58.8
-province, 58.3
-district, 58.1
-district, 57.4
-district, 56.2
-district, 55.4
-district, 543, 54.7
-district, 54.2
-district, 53.1
-district, 529, 528, 527, 526, 525, 524, 523, 522, 521, 52.7
-district, 52.3
-district, 50.8
-district, 50.3
-province, 50
-district, 5.9
-province, 5.9
-district, 5.8
-province, 5.8
-district, 5.8
-country, 5.7
-district, 5.6
-district, 5.5
-district, 5.4
-district, 5.3
-province, 5.2
-district, 5
-province, 5
-district, 4940, 49.4
-province, 48.9
-district, 48.7
-district, 48.2
-district, 46.9
-district, 46.5
-district, 46.3
-district, 46.2
-province, 45.8
-district, 45.7
-district, 45.5
-district, 45.4
-district, 45.1
-district, 44.7
-district, 44.1
-district, 43.8
-district, 43.7
-district, 43
-district, 420, 42.2
-district, 419, 418, 416, 40.9
-province, 40.7
-district, 40.4
-district, 40.1
-district, 4.9
-district, 4.8
-district, 4.7
-district, 4.5
-district, 4.4
-district, 4.3
-district, 4.2
-district, 4.1
-district, 4
-province, 4
-district, 39.9
-district, 39.4
-district, 39
-province, 38.9
-district, 38.3
-province, 37.8
-district, 37.7
-district, 37.4
-district, 37
-district, 36.7
-province, 36.4
-district, 35.8
-district, 35.1
-province, 35
-district, 345, 34.8
-district, 33.7
-district, 33.6
-province, 33.1
-district, 32.9
-district, 32.4
-district, 32.3
-district, 32
-district, 31.6
-country, 31.1
-district, 309, 308, 307, 306, 30.9
-district, 30.8
-district, 30.7
-province, 30.5
-district, 30.4
-district, 30
-district, 3.9
-district, 3.8
-province, 3.8
-district, 3.7
-district, 3.6
-province, 3.6
-district, 3.5
-province, 3.5
-district, 3.4
-province, 3.4
-district, 3.3
-province, 3.3
-district, 3.2
-province, 3.2
-district, 3.1
-province, 3.1
-district, 3
-province, 3
-district, 3
-country, 2930, 292, 28
-district, 27.7
-district, 27.5
-province, 27.4
-province, 26.5
-district, 26.4
-district, 26.3
-district, 26.1
-district, 254.2, 25.9
-province, 25.8
-province, 25.6
-district, 25
-district, 246.1
-district, 244, 24.5
-province, 23.6
-province, 23.5
-district, 23.4
-district, 23
-district, 22.9
-district, 22.8
-province, 22.5
-district, 22.4
-district, 22.3
-district, 22
-district, 215, 214, 213, 212, 210, 21.7
-district, 21.6
-district, 21.4
-district, 21.3
-district, 21
-district, 20.8
-district, 20.6
-province, 20.1
-district, 2.9
-province, 2.9
-district, 2.8
-district, 2.7
-province, 2.7
-district, 2.6
-province, 2.6
-district, 2.6
-country, 2.5
-province, 2.5
-district, 2.5
-country, 2.4
-province, 2.4
-district, 2.3
-province, 2.3
-district, 2.2
-province, 2.2
-district, 2.1
-province, 2.1
-district, 2
-province, 2
-district, 198.3
-district, 193.2
-district, 192.1
-district, 1910, 19.8
-district, 19.7
-district, 19.2
-district, 19
-district, 183.7
-district, 182.4
-district, 181.8
-district, 18.9
-district, 18.8
-province, 18.3
-district, 18.2
-district, 176.3
-district, 175
-district, 174
-district, 173.7
-district, 172.3
-district, 172.1
-district, 170.9
-district, 17.9
-district, 17.8
-district, 17.3
-district, 17.2
-province, 17.2
-district, 17.1
-province, 169
-province, 168.5
-district, 168.4
-province, 165.2
-district, 164.6
-province, 163.5
-district, 162.2
-district, 161.2
-district, 16.7
-district, 16.4
-district, 16.3
-district, 158.2
-district, 154
-district, 153.8
-district, 153.5
-district, 15.9
-district, 15.5
-district, 15.3
-district, 15.2
-district, 147.6
-district, 147
-district, 145.3
-province, 144.8
-district, 142.1
-country, 141.5
-province, 14.8
-district, 14.6
-district, 14.5
-province, 14.3
-district, 14
-district, 136
-district, 135.1
-province, 134.8
-district, 133.1
-district, 131.6
-district, 131.5
-province, 130.6
-district, 13.9
-district, 13.8
-province, 13.8
-district, 13.7
-district, 13.1
-district, 13
-district, 127.7
-district, 125.2
-district, 123.5
-district, 12.9
-province, 12.8
-district, 12.5
-district, 12.3
-province, 12.1
-district, 119.5
-district, 119
-district, 118.6
-district, 116.9
-district, 116.2
-district, 115.7
-district, 114.9
-district, 111.8
-district, 110.1
-district, 11.9
-district, 11.8
-district, 11.6
-district, 11.6
-country, 11.4
-district, 11.1
-province, 11
-district, 106.3
-district, 105, 104.4
-district, 104, 103.2
-district, 103, 102, 101.4
-province, 101, 100
-district, 10.9
-district, 10.8
-province, 10.8
-district, 10.7
-district, 10.4
-district, 10.3
-district, 10.2
-district, 1.9
-province, 1.9
-district, 1.8
-province, 1.8
-district, 1.7
-province, 1.7
-district, 1.6
-district, 1.5
-province, 1.5
-district, 1.4
-district, 1.4
-country, 1.3
-province, 1.3
-district, 1.2
-province, 1.2
-district, 1.1
-province, 1.1
-district, 1
-province, 1
-district, 1
-country, 0.9
-province, 0.9
-district, 0.8
-province, 0.8
-district, 0.8
-country, 0.7
-province, 0.7
-district, 0.7
-country, 0.6
-province, 0.6
-district, 0.5
-district, 0.4
-province, 0.4
-district, 0.3
-province, 0.3
-district, 0.3
-country, 0.2
-province, 0.2
-district, 0.1
-province, 0.1
-district, 0.1
-country, 0
-province, 0
-district, );
+ALTER TABLE ONLY public.health_professionals_per_100000_uninsured ADD CONSTRAINT pk_health_professionals_per_100000_uninsured PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable, value, name);
 
 INSERT INTO public.health_professionals_per_100000_uninsured VALUES
- ON CONFLICT DO NOTHING;
+('level2','ZA_2_00101',2009,'level1','ZA_1_001','Psychologists',1,'West Coast'),
+('level2','ZA_2_00101',2009,'level1','ZA_1_001','Medical specialists',1.5,'West Coast'),
+('level2','ZA_2_00101',2009,'level1','ZA_1_001','Occupational therapists',1.5,'West Coast'),
+('level2','ZA_2_00101',2009,'level1','ZA_1_001','Clinical Associates',1.9,'West Coast'),
+('level2','ZA_2_00101',2009,'level1','ZA_1_001','Physiotherapists',2.3,'West Coast'),
+('level2','ZA_2_00101',2009,'level1','ZA_1_001','Radiographers',3.6,'West Coast'),
+('level2','ZA_2_00101',2009,'level1','ZA_1_001','Pharmacists',12.1,'West Coast'),
+('level2','ZA_2_00101',2009,'level1','ZA_1_001','Medical practitioners',18.8,'West Coast'),
+('level2','ZA_2_00101',2009,'level1','ZA_1_001','Dental therapists',37.7,'West Coast'),
+('level2','ZA_2_00101',2009,'level1','ZA_1_001','Nursing assistants',37.8,'West Coast'),
+('level2','ZA_2_00101',2009,'level1','ZA_1_001','Professional nurses',62.2,'West Coast'),
+('level2','ZA_2_00102',2009,'level1','ZA_1_001','Psychologists',0.6,'Cape Winelands'),
+('level2','ZA_2_00102',2009,'level1','ZA_1_001','Dental practitioners',1.5,'Cape Winelands'),
+('level2','ZA_2_00102',2009,'level1','ZA_1_001','Occupational therapists',1.7,'Cape Winelands'),
+('level2','ZA_2_00102',2009,'level1','ZA_1_001','Physiotherapists',1.9,'Cape Winelands'),
+('level2','ZA_2_00102',2009,'level1','ZA_1_001','Radiographers',5.5,'Cape Winelands'),
+('level2','ZA_2_00102',2009,'level1','ZA_1_001','Clinical Associates',5.8,'Cape Winelands'),
+('level2','ZA_2_00102',2009,'level1','ZA_1_001','Medical specialists',11,'Cape Winelands'),
+('level2','ZA_2_00102',2009,'level1','ZA_1_001','Pharmacists',13.7,'Cape Winelands'),
+('level2','ZA_2_00102',2009,'level1','ZA_1_001','Medical practitioners',30,'Cape Winelands'),
+('level2','ZA_2_00102',2009,'level1','ZA_1_001','Dental therapists',46.2,'Cape Winelands'),
+('level2','ZA_2_00102',2009,'level1','ZA_1_001','Nursing assistants',48.2,'Cape Winelands'),
+('level2','ZA_2_00102',2009,'level1','ZA_1_001','Professional nurses',79.4,'Cape Winelands'),
+('level2','ZA_2_00103',2009,'level1','ZA_1_001','Medical researchers',0.8,'Overberg'),
+('level2','ZA_2_00103',2009,'level1','ZA_1_001','Psychologists',0.8,'Overberg'),
+('level2','ZA_2_00103',2009,'level1','ZA_1_001','Occupational therapists',1.2,'Overberg'),
+('level2','ZA_2_00103',2009,'level1','ZA_1_001','Physiotherapists',1.2,'Overberg'),
+('level2','ZA_2_00103',2009,'level1','ZA_1_001','Medical specialists',1.6,'Overberg'),
+('level2','ZA_2_00103',2009,'level1','ZA_1_001','Clinical Associates',1.7,'Overberg'),
+('level2','ZA_2_00103',2009,'level1','ZA_1_001','Radiographers',4.4,'Overberg'),
+('level2','ZA_2_00103',2009,'level1','ZA_1_001','Pharmacists',16.4,'Overberg'),
+('level2','ZA_2_00103',2009,'level1','ZA_1_001','Medical practitioners',19.2,'Overberg'),
+('level2','ZA_2_00103',2009,'level1','ZA_1_001','Dental therapists',30.5,'Overberg'),
+('level2','ZA_2_00103',2009,'level1','ZA_1_001','Nursing assistants',31.6,'Overberg'),
+('level2','ZA_2_00103',2009,'level1','ZA_1_001','Professional nurses',71.6,'Overberg'),
+('level2','ZA_2_00104',2009,'level1','ZA_1_001','Psychologists',0.4,'Garden Route'),
+('level2','ZA_2_00104',2009,'level1','ZA_1_001','Occupational therapists',1.7,'Garden Route'),
+('level2','ZA_2_00104',2009,'level1','ZA_1_001','Clinical Associates',2.3,'Garden Route'),
+('level2','ZA_2_00104',2009,'level1','ZA_1_001','Physiotherapists',2.3,'Garden Route'),
+('level2','ZA_2_00104',2009,'level1','ZA_1_001','Radiographers',4.7,'Garden Route'),
+('level2','ZA_2_00104',2009,'level1','ZA_1_001','Medical specialists',9.6,'Garden Route'),
+('level2','ZA_2_00104',2009,'level1','ZA_1_001','Pharmacists',21.3,'Garden Route'),
+('level2','ZA_2_00104',2009,'level1','ZA_1_001','Medical practitioners',35,'Garden Route'),
+('level2','ZA_2_00104',2009,'level1','ZA_1_001','Dental therapists',43.8,'Garden Route'),
+('level2','ZA_2_00104',2009,'level1','ZA_1_001','Nursing assistants',52.3,'Garden Route'),
+('level2','ZA_2_00104',2009,'level1','ZA_1_001','Professional nurses',94.3,'Garden Route'),
+('level2','ZA_2_00105',2009,'level1','ZA_1_001','Occupational therapists',1.5,'Central Karoo'),
+('level2','ZA_2_00105',2009,'level1','ZA_1_001','Physiotherapists',1.5,'Central Karoo'),
+('level2','ZA_2_00105',2009,'level1','ZA_1_001','Clinical Associates',3,'Central Karoo'),
+('level2','ZA_2_00105',2009,'level1','ZA_1_001','Radiographers',5.9,'Central Karoo'),
+('level2','ZA_2_00105',2009,'level1','ZA_1_001','Medical practitioners',26.5,'Central Karoo'),
+('level2','ZA_2_00105',2009,'level1','ZA_1_001','Pharmacists',28,'Central Karoo'),
+('level2','ZA_2_00105',2009,'level1','ZA_1_001','Dental therapists',45.5,'Central Karoo'),
+('level2','ZA_2_00105',2009,'level1','ZA_1_001','Nursing assistants',81,'Central Karoo'),
+('level2','ZA_2_00105',2009,'level1','ZA_1_001','Professional nurses',125.2,'Central Karoo'),
+('level2','ZA_2_00191',2009,'level1','ZA_1_001','Medical researchers',0.1,'City of Cape Town'),
+('level2','ZA_2_00191',2009,'level1','ZA_1_001','Dental specialists',0.1,'City of Cape Town'),
+('level2','ZA_2_00191',2009,'level1','ZA_1_001','Dental practitioners',0.7,'City of Cape Town'),
+('level2','ZA_2_00191',2009,'level1','ZA_1_001','Clinical Associates',2.2,'City of Cape Town'),
+('level2','ZA_2_00191',2009,'level1','ZA_1_001','Psychologists',2.4,'City of Cape Town'),
+('level2','ZA_2_00191',2009,'level1','ZA_1_001','Physiotherapists',3.6,'City of Cape Town'),
+('level2','ZA_2_00191',2009,'level1','ZA_1_001','Occupational therapists',3.8,'City of Cape Town'),
+('level2','ZA_2_00191',2009,'level1','ZA_1_001','Radiographers',11.6,'City of Cape Town'),
+('level2','ZA_2_00191',2009,'level1','ZA_1_001','Pharmacists',17.8,'City of Cape Town'),
+('level2','ZA_2_00191',2009,'level1','ZA_1_001','Medical specialists',35.1,'City of Cape Town'),
+('level2','ZA_2_00191',2009,'level1','ZA_1_001','Medical practitioners',45.5,'City of Cape Town'),
+('level2','ZA_2_00191',2009,'level1','ZA_1_001','Dental therapists',56.2,'City of Cape Town'),
+('level2','ZA_2_00191',2009,'level1','ZA_1_001','Nursing assistants',100,'City of Cape Town'),
+('level2','ZA_2_00191',2009,'level1','ZA_1_001','Professional nurses',115.7,'City of Cape Town'),
+('level2','ZA_2_00210',2009,'level1','ZA_1_002','Dental therapists',0.2,'Sarah Baartman'),
+('level2','ZA_2_00210',2009,'level1','ZA_1_002','Medical specialists',1,'Sarah Baartman'),
+('level2','ZA_2_00210',2009,'level1','ZA_1_002','Environmental health practitioners',1,'Sarah Baartman'),
+('level2','ZA_2_00210',2009,'level1','ZA_1_002','Clinical Associates',1.9,'Sarah Baartman'),
+('level2','ZA_2_00210',2009,'level1','ZA_1_002','Physiotherapists',3.5,'Sarah Baartman'),
+('level2','ZA_2_00210',2009,'level1','ZA_1_002','Psychologists',3.5,'Sarah Baartman'),
+('level2','ZA_2_00210',2009,'level1','ZA_1_002','Dental practitioners',3.7,'Sarah Baartman'),
+('level2','ZA_2_00210',2009,'level1','ZA_1_002','Occupational therapists',4.5,'Sarah Baartman'),
+('level2','ZA_2_00210',2009,'level1','ZA_1_002','Radiographers',4.5,'Sarah Baartman'),
+('level2','ZA_2_00210',2009,'level1','ZA_1_002','Pharmacists',20.6,'Sarah Baartman'),
+('level2','ZA_2_00210',2009,'level1','ZA_1_002','Medical practitioners',21.4,'Sarah Baartman'),
+('level2','ZA_2_00210',2009,'level1','ZA_1_002','Enrolled nurses',40.4,'Sarah Baartman'),
+('level2','ZA_2_00210',2009,'level1','ZA_1_002','Nursing assistants',58.1,'Sarah Baartman'),
+('level2','ZA_2_00210',2009,'level1','ZA_1_002','Professional nurses',168.4,'Sarah Baartman'),
+('level2','ZA_2_00212',2009,'level1','ZA_1_002','Medical specialists',0.1,'Amathole'),
+('level2','ZA_2_00212',2009,'level1','ZA_1_002','Psychologists',0.2,'Amathole'),
+('level2','ZA_2_00212',2009,'level1','ZA_1_002','Dental therapists',0.3,'Amathole'),
+('level2','ZA_2_00212',2009,'level1','ZA_1_002','Environmental health practitioners',0.4,'Amathole'),
+('level2','ZA_2_00212',2009,'level1','ZA_1_002','Occupational therapists',1.8,'Amathole'),
+('level2','ZA_2_00212',2009,'level1','ZA_1_002','Clinical Associates',1.9,'Amathole'),
+('level2','ZA_2_00212',2009,'level1','ZA_1_002','Physiotherapists',1.9,'Amathole'),
+('level2','ZA_2_00212',2009,'level1','ZA_1_002','Dental practitioners',2.5,'Amathole'),
+('level2','ZA_2_00212',2009,'level1','ZA_1_002','Radiographers',3.8,'Amathole'),
+('level2','ZA_2_00212',2009,'level1','ZA_1_002','Pharmacists',8.3,'Amathole'),
+('level2','ZA_2_00212',2009,'level1','ZA_1_002','Medical practitioners',10.8,'Amathole'),
+('level2','ZA_2_00212',2009,'level1','ZA_1_002','Enrolled nurses',40.9,'Amathole'),
+('level2','ZA_2_00212',2009,'level1','ZA_1_002','Nursing assistants',74.6,'Amathole'),
+('level2','ZA_2_00212',2009,'level1','ZA_1_002','Professional nurses',147.6,'Amathole'),
+('level2','ZA_2_00213',2009,'level1','ZA_1_002','Medical specialists',0.1,'Chris Hani'),
+('level2','ZA_2_00213',2009,'level1','ZA_1_002','Environmental health practitioners',0.1,'Chris Hani'),
+('level2','ZA_2_00213',2009,'level1','ZA_1_002','Psychologists',0.5,'Chris Hani'),
+('level2','ZA_2_00213',2009,'level1','ZA_1_002','Occupational therapists',2.2,'Chris Hani'),
+('level2','ZA_2_00213',2009,'level1','ZA_1_002','Physiotherapists',2.2,'Chris Hani'),
+('level2','ZA_2_00213',2009,'level1','ZA_1_002','Clinical Associates',2.3,'Chris Hani'),
+('level2','ZA_2_00213',2009,'level1','ZA_1_002','Dental practitioners',2.3,'Chris Hani'),
+('level2','ZA_2_00213',2009,'level1','ZA_1_002','Radiographers',4.5,'Chris Hani'),
+('level2','ZA_2_00213',2009,'level1','ZA_1_002','Pharmacists',9,'Chris Hani'),
+('level2','ZA_2_00213',2009,'level1','ZA_1_002','Medical practitioners',21,'Chris Hani'),
+('level2','ZA_2_00213',2009,'level1','ZA_1_002','Enrolled nurses',55.4,'Chris Hani'),
+('level2','ZA_2_00213',2009,'level1','ZA_1_002','Nursing assistants',90.4,'Chris Hani'),
+('level2','ZA_2_00213',2009,'level1','ZA_1_002','Professional nurses',198.3,'Chris Hani'),
+('level2','ZA_2_00214',2009,'level1','ZA_1_002','Environmental health practitioners',0.6,'Joe Gqabi'),
+('level2','ZA_2_00214',2009,'level1','ZA_1_002','Physiotherapists',1.4,'Joe Gqabi'),
+('level2','ZA_2_00214',2009,'level1','ZA_1_002','Occupational therapists',2.2,'Joe Gqabi'),
+('level2','ZA_2_00214',2009,'level1','ZA_1_002','Dental practitioners',2.2,'Joe Gqabi'),
+('level2','ZA_2_00214',2009,'level1','ZA_1_002','Clinical Associates',2.8,'Joe Gqabi'),
+('level2','ZA_2_00214',2009,'level1','ZA_1_002','Radiographers',5.9,'Joe Gqabi'),
+('level2','ZA_2_00214',2009,'level1','ZA_1_002','Pharmacists',8.1,'Joe Gqabi'),
+('level2','ZA_2_00214',2009,'level1','ZA_1_002','Medical practitioners',19.8,'Joe Gqabi'),
+('level2','ZA_2_00214',2009,'level1','ZA_1_002','Enrolled nurses',46.9,'Joe Gqabi'),
+('level2','ZA_2_00214',2009,'level1','ZA_1_002','Nursing assistants',81.5,'Joe Gqabi'),
+('level2','ZA_2_00214',2009,'level1','ZA_1_002','Professional nurses',162.2,'Joe Gqabi'),
+('level2','ZA_2_00215',2009,'level1','ZA_1_002','Psychologists',0.3,'O.R.Tambo'),
+('level2','ZA_2_00215',2009,'level1','ZA_1_002','Dental therapists',0.3,'O.R.Tambo'),
+('level2','ZA_2_00215',2009,'level1','ZA_1_002','Environmental health practitioners',0.3,'O.R.Tambo'),
+('level2','ZA_2_00215',2009,'level1','ZA_1_002','Clinical Associates',0.9,'O.R.Tambo'),
+('level2','ZA_2_00215',2009,'level1','ZA_1_002','Occupational therapists',1.5,'O.R.Tambo'),
+('level2','ZA_2_00215',2009,'level1','ZA_1_002','Dental practitioners',1.5,'O.R.Tambo'),
+('level2','ZA_2_00215',2009,'level1','ZA_1_002','Physiotherapists',2.1,'O.R.Tambo'),
+('level2','ZA_2_00215',2009,'level1','ZA_1_002','Medical specialists',3.6,'O.R.Tambo'),
+('level2','ZA_2_00215',2009,'level1','ZA_1_002','Radiographers',4.2,'O.R.Tambo'),
+('level2','ZA_2_00215',2009,'level1','ZA_1_002','Pharmacists',14.8,'O.R.Tambo'),
+('level2','ZA_2_00215',2009,'level1','ZA_1_002','Medical practitioners',34.8,'O.R.Tambo'),
+('level2','ZA_2_00215',2009,'level1','ZA_1_002','Enrolled nurses',63.2,'O.R.Tambo'),
+('level2','ZA_2_00215',2009,'level1','ZA_1_002','Nursing assistants',92.9,'O.R.Tambo'),
+('level2','ZA_2_00215',2009,'level1','ZA_1_002','Professional nurses',153.5,'O.R.Tambo'),
+('level2','ZA_2_00244',2009,'level1','ZA_1_002','Environmental health practitioners',0.1,'Alfred Nzo'),
+('level2','ZA_2_00244',2009,'level1','ZA_1_002','Occupational therapists',0.5,'Alfred Nzo'),
+('level2','ZA_2_00244',2009,'level1','ZA_1_002','Dental practitioners',1.3,'Alfred Nzo'),
+('level2','ZA_2_00244',2009,'level1','ZA_1_002','Clinical Associates',1.4,'Alfred Nzo'),
+('level2','ZA_2_00244',2009,'level1','ZA_1_002','Physiotherapists',1.5,'Alfred Nzo'),
+('level2','ZA_2_00244',2009,'level1','ZA_1_002','Radiographers',2.2,'Alfred Nzo'),
+('level2','ZA_2_00244',2009,'level1','ZA_1_002','Pharmacists',4.1,'Alfred Nzo'),
+('level2','ZA_2_00244',2009,'level1','ZA_1_002','Medical practitioners',10.4,'Alfred Nzo'),
+('level2','ZA_2_00244',2009,'level1','ZA_1_002','Enrolled nurses',33.6,'Alfred Nzo'),
+('level2','ZA_2_00244',2009,'level1','ZA_1_002','Nursing assistants',68.6,'Alfred Nzo'),
+('level2','ZA_2_00244',2009,'level1','ZA_1_002','Professional nurses',104.4,'Alfred Nzo'),
+('level2','ZA_2_00292',2009,'level1','ZA_1_002','Medical researchers',0.2,'Buffalo City'),
+('level2','ZA_2_00292',2009,'level1','ZA_1_002','Environmental health practitioners',0.2,'Buffalo City'),
+('level2','ZA_2_00292',2009,'level1','ZA_1_002','Clinical Associates',0.6,'Buffalo City'),
+('level2','ZA_2_00292',2009,'level1','ZA_1_002','Psychologists',0.9,'Buffalo City'),
+('level2','ZA_2_00292',2009,'level1','ZA_1_002','Dental therapists',0.9,'Buffalo City'),
+('level2','ZA_2_00292',2009,'level1','ZA_1_002','Occupational therapists',3.1,'Buffalo City'),
+('level2','ZA_2_00292',2009,'level1','ZA_1_002','Dental practitioners',3.6,'Buffalo City'),
+('level2','ZA_2_00292',2009,'level1','ZA_1_002','Physiotherapists',4,'Buffalo City'),
+('level2','ZA_2_00292',2009,'level1','ZA_1_002','Medical specialists',8.8,'Buffalo City'),
+('level2','ZA_2_00292',2009,'level1','ZA_1_002','Radiographers',12.9,'Buffalo City'),
+('level2','ZA_2_00292',2009,'level1','ZA_1_002','Pharmacists',21,'Buffalo City'),
+('level2','ZA_2_00292',2009,'level1','ZA_1_002','Medical practitioners',70.8,'Buffalo City'),
+('level2','ZA_2_00292',2009,'level1','ZA_1_002','Enrolled nurses',71.4,'Buffalo City'),
+('level2','ZA_2_00292',2009,'level1','ZA_1_002','Nursing assistants',116.9,'Buffalo City'),
+('level2','ZA_2_00292',2009,'level1','ZA_1_002','Professional nurses',254.2,'Buffalo City'),
+('level2','ZA_2_00293',2009,'level1','ZA_1_002','Medical researchers',0.1,'Nelson Mandela Bay'),
+('level2','ZA_2_00293',2009,'level1','ZA_1_002','Dental therapists',0.3,'Nelson Mandela Bay'),
+('level2','ZA_2_00293',2009,'level1','ZA_1_002','Environmental health practitioners',0.3,'Nelson Mandela Bay'),
+('level2','ZA_2_00293',2009,'level1','ZA_1_002','Dental practitioners',3.4,'Nelson Mandela Bay'),
+('level2','ZA_2_00293',2009,'level1','ZA_1_002','Psychologists',3.5,'Nelson Mandela Bay'),
+('level2','ZA_2_00293',2009,'level1','ZA_1_002','Occupational therapists',3.6,'Nelson Mandela Bay'),
+('level2','ZA_2_00293',2009,'level1','ZA_1_002','Physiotherapists',4.1,'Nelson Mandela Bay'),
+('level2','ZA_2_00293',2009,'level1','ZA_1_002','Medical specialists',7.5,'Nelson Mandela Bay'),
+('level2','ZA_2_00293',2009,'level1','ZA_1_002','Radiographers',10.3,'Nelson Mandela Bay'),
+('level2','ZA_2_00293',2009,'level1','ZA_1_002','Pharmacists',17.1,'Nelson Mandela Bay'),
+('level2','ZA_2_00293',2009,'level1','ZA_1_002','Enrolled nurses',45.8,'Nelson Mandela Bay'),
+('level2','ZA_2_00293',2009,'level1','ZA_1_002','Medical practitioners',49.4,'Nelson Mandela Bay'),
+('level2','ZA_2_00293',2009,'level1','ZA_1_002','Nursing assistants',63.9,'Nelson Mandela Bay'),
+('level2','ZA_2_00293',2009,'level1','ZA_1_002','Professional nurses',182.4,'Nelson Mandela Bay'),
+('level2','ZA_2_00306',2009,'level1','ZA_1_003','Dental specialists',0,'Namakwa'),
+('level2','ZA_2_00306',2009,'level1','ZA_1_003','Psychologists',1.1,'Namakwa'),
+('level2','ZA_2_00306',2009,'level1','ZA_1_003','Enrolled nurses',3.2,'Namakwa'),
+('level2','ZA_2_00306',2009,'level1','ZA_1_003','Clinical Associates',7.5,'Namakwa'),
+('level2','ZA_2_00306',2009,'level1','ZA_1_003','Occupational therapists',7.5,'Namakwa'),
+('level2','ZA_2_00306',2009,'level1','ZA_1_003','Radiographers',10.7,'Namakwa'),
+('level2','ZA_2_00306',2009,'level1','ZA_1_003','Physiotherapists',11.8,'Namakwa'),
+('level2','ZA_2_00306',2009,'level1','ZA_1_003','Pharmacists',12.8,'Namakwa'),
+('level2','ZA_2_00306',2009,'level1','ZA_1_003','Medical practitioners',22.4,'Namakwa'),
+('level2','ZA_2_00306',2009,'level1','ZA_1_003','Dental therapists',32,'Namakwa'),
+('level2','ZA_2_00306',2009,'level1','ZA_1_003','Nursing assistants',89.8,'Namakwa'),
+('level2','ZA_2_00306',2009,'level1','ZA_1_003','Professional nurses',158.2,'Namakwa'),
+('level2','ZA_2_00307',2009,'level1','ZA_1_003','Clinical Associates',0,'Pixley ka Seme'),
+('level2','ZA_2_00307',2009,'level1','ZA_1_003','Psychologists',1.1,'Pixley ka Seme'),
+('level2','ZA_2_00307',2009,'level1','ZA_1_003','Environmental health practitioners',2.7,'Pixley ka Seme'),
+('level2','ZA_2_00307',2009,'level1','ZA_1_003','Occupational therapists',3.3,'Pixley ka Seme'),
+('level2','ZA_2_00307',2009,'level1','ZA_1_003','Physiotherapists',3.3,'Pixley ka Seme'),
+('level2','ZA_2_00307',2009,'level1','ZA_1_003','Dental practitioners',3.8,'Pixley ka Seme'),
+('level2','ZA_2_00307',2009,'level1','ZA_1_003','Radiographers',6.5,'Pixley ka Seme'),
+('level2','ZA_2_00307',2009,'level1','ZA_1_003','Medical practitioners',10.9,'Pixley ka Seme'),
+('level2','ZA_2_00307',2009,'level1','ZA_1_003','Pharmacists',17.9,'Pixley ka Seme'),
+('level2','ZA_2_00307',2009,'level1','ZA_1_003','Enrolled nurses',21.7,'Pixley ka Seme'),
+('level2','ZA_2_00307',2009,'level1','ZA_1_003','Nursing assistants',79.8,'Pixley ka Seme'),
+('level2','ZA_2_00307',2009,'level1','ZA_1_003','Professional nurses',116.2,'Pixley ka Seme'),
+('level2','ZA_2_00308',2009,'level1','ZA_1_003','Medical specialists',0.5,'Z F Mgcawu'),
+('level2','ZA_2_00308',2009,'level1','ZA_1_003','Psychologists',1.3,'Z F Mgcawu'),
+('level2','ZA_2_00308',2009,'level1','ZA_1_003','Dental therapists',1.3,'Z F Mgcawu'),
+('level2','ZA_2_00308',2009,'level1','ZA_1_003','Dental practitioners',2.2,'Z F Mgcawu'),
+('level2','ZA_2_00308',2009,'level1','ZA_1_003','Environmental health practitioners',3.1,'Z F Mgcawu'),
+('level2','ZA_2_00308',2009,'level1','ZA_1_003','Occupational therapists',4,'Z F Mgcawu'),
+('level2','ZA_2_00308',2009,'level1','ZA_1_003','Physiotherapists',5.8,'Z F Mgcawu'),
+('level2','ZA_2_00308',2009,'level1','ZA_1_003','Radiographers',6.7,'Z F Mgcawu'),
+('level2','ZA_2_00308',2009,'level1','ZA_1_003','Pharmacists',11.1,'Z F Mgcawu'),
+('level2','ZA_2_00308',2009,'level1','ZA_1_003','Medical practitioners',26.3,'Z F Mgcawu'),
+('level2','ZA_2_00308',2009,'level1','ZA_1_003','Enrolled nurses',26.3,'Z F Mgcawu'),
+('level2','ZA_2_00308',2009,'level1','ZA_1_003','Nursing assistants',85.1,'Z F Mgcawu'),
+('level2','ZA_2_00308',2009,'level1','ZA_1_003','Professional nurses',111.8,'Z F Mgcawu'),
+('level2','ZA_2_00309',2009,'level1','ZA_1_003','Medical researchers',0.3,'Frances Baard'),
+('level2','ZA_2_00309',2009,'level1','ZA_1_003','Dental therapists',1.6,'Frances Baard'),
+('level2','ZA_2_00309',2009,'level1','ZA_1_003','Environmental health practitioners',2.2,'Frances Baard'),
+('level2','ZA_2_00309',2009,'level1','ZA_1_003','Psychologists',4.4,'Frances Baard'),
+('level2','ZA_2_00309',2009,'level1','ZA_1_003','Dental practitioners',5.9,'Frances Baard'),
+('level2','ZA_2_00309',2009,'level1','ZA_1_003','Medical specialists',6.5,'Frances Baard'),
+('level2','ZA_2_00309',2009,'level1','ZA_1_003','Physiotherapists',8.1,'Frances Baard'),
+('level2','ZA_2_00309',2009,'level1','ZA_1_003','Occupational therapists',9.3,'Frances Baard'),
+('level2','ZA_2_00309',2009,'level1','ZA_1_003','Radiographers',14,'Frances Baard'),
+('level2','ZA_2_00309',2009,'level1','ZA_1_003','Pharmacists',23.6,'Frances Baard'),
+('level2','ZA_2_00309',2009,'level1','ZA_1_003','Enrolled nurses',26.4,'Frances Baard'),
+('level2','ZA_2_00309',2009,'level1','ZA_1_003','Medical practitioners',97.6,'Frances Baard'),
+('level2','ZA_2_00309',2009,'level1','ZA_1_003','Nursing assistants',99.2,'Frances Baard'),
+('level2','ZA_2_00309',2009,'level1','ZA_1_003','Professional nurses',181.8,'Frances Baard'),
+('level2','ZA_2_00345',2009,'level1','ZA_1_003','Medical specialists',0.5,'John Taolo Gaetsewe'),
+('level2','ZA_2_00345',2009,'level1','ZA_1_003','Clinical Associates',0.9,'John Taolo Gaetsewe'),
+('level2','ZA_2_00345',2009,'level1','ZA_1_003','Dental practitioners',0.9,'John Taolo Gaetsewe'),
+('level2','ZA_2_00345',2009,'level1','ZA_1_003','Environmental health practitioners',0.9,'John Taolo Gaetsewe'),
+('level2','ZA_2_00345',2009,'level1','ZA_1_003','Occupational therapists',1.9,'John Taolo Gaetsewe'),
+('level2','ZA_2_00345',2009,'level1','ZA_1_003','Physiotherapists',2.4,'John Taolo Gaetsewe'),
+('level2','ZA_2_00345',2009,'level1','ZA_1_003','Radiographers',3.3,'John Taolo Gaetsewe'),
+('level2','ZA_2_00345',2009,'level1','ZA_1_003','Pharmacists',5.7,'John Taolo Gaetsewe'),
+('level2','ZA_2_00345',2009,'level1','ZA_1_003','Medical practitioners',9.4,'John Taolo Gaetsewe'),
+('level2','ZA_2_00345',2009,'level1','ZA_1_003','Enrolled nurses',10.8,'John Taolo Gaetsewe'),
+('level2','ZA_2_00345',2009,'level1','ZA_1_003','Nursing assistants',54.2,'John Taolo Gaetsewe'),
+('level2','ZA_2_00345',2009,'level1','ZA_1_003','Professional nurses',127.7,'John Taolo Gaetsewe'),
+('level2','ZA_2_00416',2009,'level1','ZA_1_004','Medical researchers',0.7,'Xhariep'),
+('level2','ZA_2_00416',2009,'level1','ZA_1_004','Clinical Associates',1.4,'Xhariep'),
+('level2','ZA_2_00416',2009,'level1','ZA_1_004','Radiographers',3.6,'Xhariep'),
+('level2','ZA_2_00416',2009,'level1','ZA_1_004','Physiotherapists',4.3,'Xhariep'),
+('level2','ZA_2_00416',2009,'level1','ZA_1_004','Occupational therapists',5,'Xhariep'),
+('level2','ZA_2_00416',2009,'level1','ZA_1_004','Dental practitioners',5,'Xhariep'),
+('level2','ZA_2_00416',2009,'level1','ZA_1_004','Environmental health practitioners',5.7,'Xhariep'),
+('level2','ZA_2_00416',2009,'level1','ZA_1_004','Pharmacists',20.1,'Xhariep'),
+('level2','ZA_2_00416',2009,'level1','ZA_1_004','Medical practitioners',23,'Xhariep'),
+('level2','ZA_2_00416',2009,'level1','ZA_1_004','Enrolled nurses',37.4,'Xhariep'),
+('level2','ZA_2_00416',2009,'level1','ZA_1_004','Professional nurses',69,'Xhariep'),
+('level2','ZA_2_00416',2009,'level1','ZA_1_004','Nursing assistants',84.8,'Xhariep'),
+('level2','ZA_2_00418',2009,'level1','ZA_1_004','Clinical Associates',0.7,'Lejweleputswa'),
+('level2','ZA_2_00418',2009,'level1','ZA_1_004','Medical specialists',1.2,'Lejweleputswa'),
+('level2','ZA_2_00418',2009,'level1','ZA_1_004','Physiotherapists',1.3,'Lejweleputswa'),
+('level2','ZA_2_00418',2009,'level1','ZA_1_004','Dental practitioners',1.8,'Lejweleputswa'),
+('level2','ZA_2_00418',2009,'level1','ZA_1_004','Environmental health practitioners',1.8,'Lejweleputswa'),
+('level2','ZA_2_00418',2009,'level1','ZA_1_004','Occupational therapists',2,'Lejweleputswa'),
+('level2','ZA_2_00418',2009,'level1','ZA_1_004','Radiographers',2.9,'Lejweleputswa'),
+('level2','ZA_2_00418',2009,'level1','ZA_1_004','Pharmacists',8.9,'Lejweleputswa'),
+('level2','ZA_2_00418',2009,'level1','ZA_1_004','Medical practitioners',18.3,'Lejweleputswa'),
+('level2','ZA_2_00418',2009,'level1','ZA_1_004','Nursing assistants',30.9,'Lejweleputswa'),
+('level2','ZA_2_00418',2009,'level1','ZA_1_004','Enrolled nurses',40.7,'Lejweleputswa'),
+('level2','ZA_2_00418',2009,'level1','ZA_1_004','Professional nurses',70.8,'Lejweleputswa'),
+('level2','ZA_2_00419',2009,'level1','ZA_1_004','Clinical Associates',0.1,'Thabo Mofutsanyane'),
+('level2','ZA_2_00419',2009,'level1','ZA_1_004','Medical researchers',0.1,'Thabo Mofutsanyane'),
+('level2','ZA_2_00419',2009,'level1','ZA_1_004','Psychologists',0.3,'Thabo Mofutsanyane'),
+('level2','ZA_2_00419',2009,'level1','ZA_1_004','Occupational therapists',1.7,'Thabo Mofutsanyane'),
+('level2','ZA_2_00419',2009,'level1','ZA_1_004','Medical specialists',2.3,'Thabo Mofutsanyane'),
+('level2','ZA_2_00419',2009,'level1','ZA_1_004','Physiotherapists',2.3,'Thabo Mofutsanyane'),
+('level2','ZA_2_00419',2009,'level1','ZA_1_004','Dental practitioners',2.9,'Thabo Mofutsanyane'),
+('level2','ZA_2_00419',2009,'level1','ZA_1_004','Environmental health practitioners',3,'Thabo Mofutsanyane'),
+('level2','ZA_2_00419',2009,'level1','ZA_1_004','Radiographers',4.4,'Thabo Mofutsanyane'),
+('level2','ZA_2_00419',2009,'level1','ZA_1_004','Pharmacists',10.2,'Thabo Mofutsanyane'),
+('level2','ZA_2_00419',2009,'level1','ZA_1_004','Medical practitioners',22.4,'Thabo Mofutsanyane'),
+('level2','ZA_2_00419',2009,'level1','ZA_1_004','Enrolled nurses',22.8,'Thabo Mofutsanyane'),
+('level2','ZA_2_00419',2009,'level1','ZA_1_004','Nursing assistants',53.1,'Thabo Mofutsanyane'),
+('level2','ZA_2_00419',2009,'level1','ZA_1_004','Professional nurses',60.2,'Thabo Mofutsanyane'),
+('level2','ZA_2_00420',2009,'level1','ZA_1_004','Psychologists',0.7,'Fezile Dabi'),
+('level2','ZA_2_00420',2009,'level1','ZA_1_004','Medical specialists',0.9,'Fezile Dabi'),
+('level2','ZA_2_00420',2009,'level1','ZA_1_004','Physiotherapists',1.6,'Fezile Dabi'),
+('level2','ZA_2_00420',2009,'level1','ZA_1_004','Clinical Associates',1.8,'Fezile Dabi'),
+('level2','ZA_2_00420',2009,'level1','ZA_1_004','Environmental health practitioners',1.8,'Fezile Dabi'),
+('level2','ZA_2_00420',2009,'level1','ZA_1_004','Occupational therapists',2.3,'Fezile Dabi'),
+('level2','ZA_2_00420',2009,'level1','ZA_1_004','Dental practitioners',2.5,'Fezile Dabi'),
+('level2','ZA_2_00420',2009,'level1','ZA_1_004','Radiographers',4.1,'Fezile Dabi'),
+('level2','ZA_2_00420',2009,'level1','ZA_1_004','Pharmacists',13.8,'Fezile Dabi'),
+('level2','ZA_2_00420',2009,'level1','ZA_1_004','Medical practitioners',23.4,'Fezile Dabi'),
+('level2','ZA_2_00420',2009,'level1','ZA_1_004','Enrolled nurses',33.1,'Fezile Dabi'),
+('level2','ZA_2_00420',2009,'level1','ZA_1_004','Nursing assistants',60.4,'Fezile Dabi'),
+('level2','ZA_2_00420',2009,'level1','ZA_1_004','Professional nurses',62,'Fezile Dabi'),
+('level2','ZA_2_00494',2009,'level1','ZA_1_004','Dental specialists',0.2,'Mangaung'),
+('level2','ZA_2_00494',2009,'level1','ZA_1_004','Medical researchers',0.3,'Mangaung'),
+('level2','ZA_2_00494',2009,'level1','ZA_1_004','Clinical Associates',0.6,'Mangaung'),
+('level2','ZA_2_00494',2009,'level1','ZA_1_004','Environmental health practitioners',2.2,'Mangaung'),
+('level2','ZA_2_00494',2009,'level1','ZA_1_004','Psychologists',2.5,'Mangaung'),
+('level2','ZA_2_00494',2009,'level1','ZA_1_004','Dental practitioners',3.7,'Mangaung'),
+('level2','ZA_2_00494',2009,'level1','ZA_1_004','Occupational therapists',5.6,'Mangaung'),
+('level2','ZA_2_00494',2009,'level1','ZA_1_004','Physiotherapists',6.2,'Mangaung'),
+('level2','ZA_2_00494',2009,'level1','ZA_1_004','Radiographers',13,'Mangaung'),
+('level2','ZA_2_00494',2009,'level1','ZA_1_004','Pharmacists',19.7,'Mangaung'),
+('level2','ZA_2_00494',2009,'level1','ZA_1_004','Medical specialists',45.1,'Mangaung'),
+('level2','ZA_2_00494',2009,'level1','ZA_1_004','Medical practitioners',46.5,'Mangaung'),
+('level2','ZA_2_00494',2009,'level1','ZA_1_004','Enrolled nurses',58.8,'Mangaung'),
+('level2','ZA_2_00494',2009,'level1','ZA_1_004','Professional nurses',161.2,'Mangaung'),
+('level2','ZA_2_00494',2009,'level1','ZA_1_004','Nursing assistants',169,'Mangaung'),
+('level2','ZA_2_00521',2009,'level1','ZA_1_005','Psychologists',0.7,'Ugu'),
+('level2','ZA_2_00521',2009,'level1','ZA_1_005','Environmental health practitioners',0.7,'Ugu'),
+('level2','ZA_2_00521',2009,'level1','ZA_1_005','Occupational therapists',1.4,'Ugu'),
+('level2','ZA_2_00521',2009,'level1','ZA_1_005','Dental therapists',1.8,'Ugu'),
+('level2','ZA_2_00521',2009,'level1','ZA_1_005','Clinical Associates',1.9,'Ugu'),
+('level2','ZA_2_00521',2009,'level1','ZA_1_005','Dental practitioners',2.2,'Ugu'),
+('level2','ZA_2_00521',2009,'level1','ZA_1_005','Physiotherapists',3,'Ugu'),
+('level2','ZA_2_00521',2009,'level1','ZA_1_005','Medical specialists',3.5,'Ugu'),
+('level2','ZA_2_00521',2009,'level1','ZA_1_005','Radiographers',4.7,'Ugu'),
+('level2','ZA_2_00521',2009,'level1','ZA_1_005','Student nurses',9.7,'Ugu'),
+('level2','ZA_2_00521',2009,'level1','ZA_1_005','Pharmacists',10.7,'Ugu'),
+('level2','ZA_2_00521',2009,'level1','ZA_1_005','Medical practitioners',30.4,'Ugu'),
+('level2','ZA_2_00521',2009,'level1','ZA_1_005','Nursing assistants',57.4,'Ugu'),
+('level2','ZA_2_00521',2009,'level1','ZA_1_005','Enrolled nurses',78.1,'Ugu'),
+('level2','ZA_2_00521',2009,'level1','ZA_1_005','Professional nurses',172.1,'Ugu'),
+('level2','ZA_2_00522',2009,'level1','ZA_1_005','Environmental health practitioners',0.8,'Umgungundlovu'),
+('level2','ZA_2_00522',2009,'level1','ZA_1_005','Clinical Associates',1.5,'Umgungundlovu'),
+('level2','ZA_2_00522',2009,'level1','ZA_1_005','Dental therapists',1.5,'Umgungundlovu'),
+('level2','ZA_2_00522',2009,'level1','ZA_1_005','Dental practitioners',2.4,'Umgungundlovu'),
+('level2','ZA_2_00522',2009,'level1','ZA_1_005','Psychologists',3,'Umgungundlovu'),
+('level2','ZA_2_00522',2009,'level1','ZA_1_005','Occupational therapists',3.9,'Umgungundlovu'),
+('level2','ZA_2_00522',2009,'level1','ZA_1_005','Physiotherapists',4.3,'Umgungundlovu'),
+('level2','ZA_2_00522',2009,'level1','ZA_1_005','Radiographers',8,'Umgungundlovu'),
+('level2','ZA_2_00522',2009,'level1','ZA_1_005','Student nurses',8.5,'Umgungundlovu'),
+('level2','ZA_2_00522',2009,'level1','ZA_1_005','Pharmacists',10.3,'Umgungundlovu'),
+('level2','ZA_2_00522',2009,'level1','ZA_1_005','Medical specialists',19.2,'Umgungundlovu'),
+('level2','ZA_2_00522',2009,'level1','ZA_1_005','Medical practitioners',60.2,'Umgungundlovu'),
+('level2','ZA_2_00522',2009,'level1','ZA_1_005','Nursing assistants',69.6,'Umgungundlovu'),
+('level2','ZA_2_00522',2009,'level1','ZA_1_005','Enrolled nurses',110.1,'Umgungundlovu'),
+('level2','ZA_2_00522',2009,'level1','ZA_1_005','Professional nurses',246.1,'Umgungundlovu'),
+('level2','ZA_2_00523',2009,'level1','ZA_1_005','Medical researchers',0.1,'Uthukela'),
+('level2','ZA_2_00523',2009,'level1','ZA_1_005','Psychologists',0.3,'Uthukela'),
+('level2','ZA_2_00523',2009,'level1','ZA_1_005','Dental therapists',0.3,'Uthukela'),
+('level2','ZA_2_00523',2009,'level1','ZA_1_005','Environmental health practitioners',0.6,'Uthukela'),
+('level2','ZA_2_00523',2009,'level1','ZA_1_005','Occupational therapists',1.3,'Uthukela'),
+('level2','ZA_2_00523',2009,'level1','ZA_1_005','Clinical Associates',1.4,'Uthukela'),
+('level2','ZA_2_00523',2009,'level1','ZA_1_005','Dental practitioners',1.4,'Uthukela'),
+('level2','ZA_2_00523',2009,'level1','ZA_1_005','Medical specialists',2.5,'Uthukela'),
+('level2','ZA_2_00523',2009,'level1','ZA_1_005','Physiotherapists',3.2,'Uthukela'),
+('level2','ZA_2_00523',2009,'level1','ZA_1_005','Radiographers',4.3,'Uthukela'),
+('level2','ZA_2_00523',2009,'level1','ZA_1_005','Pharmacists',4.9,'Uthukela'),
+('level2','ZA_2_00523',2009,'level1','ZA_1_005','Medical practitioners',22,'Uthukela'),
+('level2','ZA_2_00523',2009,'level1','ZA_1_005','Nursing assistants',39,'Uthukela'),
+('level2','ZA_2_00523',2009,'level1','ZA_1_005','Enrolled nurses',70.1,'Uthukela'),
+('level2','ZA_2_00523',2009,'level1','ZA_1_005','Professional nurses',119,'Uthukela'),
+('level2','ZA_2_00524',2009,'level1','ZA_1_005','Medical specialists',0.2,'Umzinyathi'),
+('level2','ZA_2_00524',2009,'level1','ZA_1_005','Medical researchers',0.2,'Umzinyathi'),
+('level2','ZA_2_00524',2009,'level1','ZA_1_005','Psychologists',0.2,'Umzinyathi'),
+('level2','ZA_2_00524',2009,'level1','ZA_1_005','Dental therapists',0.6,'Umzinyathi'),
+('level2','ZA_2_00524',2009,'level1','ZA_1_005','Environmental health practitioners',0.6,'Umzinyathi'),
+('level2','ZA_2_00524',2009,'level1','ZA_1_005','Dental practitioners',1.1,'Umzinyathi'),
+('level2','ZA_2_00524',2009,'level1','ZA_1_005','Occupational therapists',1.5,'Umzinyathi'),
+('level2','ZA_2_00524',2009,'level1','ZA_1_005','Clinical Associates',2,'Umzinyathi'),
+('level2','ZA_2_00524',2009,'level1','ZA_1_005','Physiotherapists',2,'Umzinyathi'),
+('level2','ZA_2_00524',2009,'level1','ZA_1_005','Radiographers',3.3,'Umzinyathi'),
+('level2','ZA_2_00524',2009,'level1','ZA_1_005','Pharmacists',6.6,'Umzinyathi'),
+('level2','ZA_2_00524',2009,'level1','ZA_1_005','Student nurses',10.8,'Umzinyathi'),
+('level2','ZA_2_00524',2009,'level1','ZA_1_005','Medical practitioners',17.3,'Umzinyathi'),
+('level2','ZA_2_00524',2009,'level1','ZA_1_005','Nursing assistants',54.7,'Umzinyathi'),
+('level2','ZA_2_00524',2009,'level1','ZA_1_005','Enrolled nurses',106.3,'Umzinyathi'),
+('level2','ZA_2_00524',2009,'level1','ZA_1_005','Professional nurses',176.3,'Umzinyathi'),
+('level2','ZA_2_00525',2009,'level1','ZA_1_005','Medical researchers',0.2,'Amajuba'),
+('level2','ZA_2_00525',2009,'level1','ZA_1_005','Environmental health practitioners',0.6,'Amajuba'),
+('level2','ZA_2_00525',2009,'level1','ZA_1_005','Psychologists',0.9,'Amajuba'),
+('level2','ZA_2_00525',2009,'level1','ZA_1_005','Dental therapists',1.1,'Amajuba'),
+('level2','ZA_2_00525',2009,'level1','ZA_1_005','Dental practitioners',1.5,'Amajuba'),
+('level2','ZA_2_00525',2009,'level1','ZA_1_005','Medical specialists',2.2,'Amajuba'),
+('level2','ZA_2_00525',2009,'level1','ZA_1_005','Occupational therapists',2.4,'Amajuba'),
+('level2','ZA_2_00525',2009,'level1','ZA_1_005','Clinical Associates',2.8,'Amajuba'),
+('level2','ZA_2_00525',2009,'level1','ZA_1_005','Physiotherapists',3.7,'Amajuba'),
+('level2','ZA_2_00525',2009,'level1','ZA_1_005','Radiographers',6.3,'Amajuba'),
+('level2','ZA_2_00525',2009,'level1','ZA_1_005','Student nurses',8.3,'Amajuba'),
+('level2','ZA_2_00525',2009,'level1','ZA_1_005','Pharmacists',9,'Amajuba'),
+('level2','ZA_2_00525',2009,'level1','ZA_1_005','Medical practitioners',44.7,'Amajuba'),
+('level2','ZA_2_00525',2009,'level1','ZA_1_005','Nursing assistants',69.4,'Amajuba'),
+('level2','ZA_2_00525',2009,'level1','ZA_1_005','Enrolled nurses',82.6,'Amajuba'),
+('level2','ZA_2_00525',2009,'level1','ZA_1_005','Professional nurses',163.5,'Amajuba'),
+('level2','ZA_2_00526',2009,'level1','ZA_1_005','Psychologists',0,'Zululand'),
+('level2','ZA_2_00526',2009,'level1','ZA_1_005','Medical specialists',0.2,'Zululand'),
+('level2','ZA_2_00526',2009,'level1','ZA_1_005','Dental therapists',0.5,'Zululand'),
+('level2','ZA_2_00526',2009,'level1','ZA_1_005','Environmental health practitioners',0.7,'Zululand'),
+('level2','ZA_2_00526',2009,'level1','ZA_1_005','Occupational therapists',0.9,'Zululand'),
+('level2','ZA_2_00526',2009,'level1','ZA_1_005','Dental practitioners',1.4,'Zululand'),
+('level2','ZA_2_00526',2009,'level1','ZA_1_005','Clinical Associates',1.7,'Zululand'),
+('level2','ZA_2_00526',2009,'level1','ZA_1_005','Physiotherapists',2.2,'Zululand'),
+('level2','ZA_2_00526',2009,'level1','ZA_1_005','Radiographers',3.1,'Zululand'),
+('level2','ZA_2_00526',2009,'level1','ZA_1_005','Student nurses',5.8,'Zululand'),
+('level2','ZA_2_00526',2009,'level1','ZA_1_005','Pharmacists',6.3,'Zululand'),
+('level2','ZA_2_00526',2009,'level1','ZA_1_005','Medical practitioners',14.3,'Zululand'),
+('level2','ZA_2_00526',2009,'level1','ZA_1_005','Nursing assistants',45.7,'Zululand'),
+('level2','ZA_2_00526',2009,'level1','ZA_1_005','Enrolled nurses',84.6,'Zululand'),
+('level2','ZA_2_00526',2009,'level1','ZA_1_005','Professional nurses',135.1,'Zululand'),
+('level2','ZA_2_00527',2009,'level1','ZA_1_005','Medical specialists',0.3,'Umkhanyakude'),
+('level2','ZA_2_00527',2009,'level1','ZA_1_005','Psychologists',0.3,'Umkhanyakude'),
+('level2','ZA_2_00527',2009,'level1','ZA_1_005','Student nurses',0.8,'Umkhanyakude'),
+('level2','ZA_2_00527',2009,'level1','ZA_1_005','Clinical Associates',1.3,'Umkhanyakude'),
+('level2','ZA_2_00527',2009,'level1','ZA_1_005','Dental practitioners',1.3,'Umkhanyakude'),
+('level2','ZA_2_00527',2009,'level1','ZA_1_005','Dental therapists',1.3,'Umkhanyakude'),
+('level2','ZA_2_00527',2009,'level1','ZA_1_005','Environmental health practitioners',2.2,'Umkhanyakude'),
+('level2','ZA_2_00527',2009,'level1','ZA_1_005','Physiotherapists',2.5,'Umkhanyakude'),
+('level2','ZA_2_00527',2009,'level1','ZA_1_005','Occupational therapists',2.7,'Umkhanyakude'),
+('level2','ZA_2_00527',2009,'level1','ZA_1_005','Radiographers',4.3,'Umkhanyakude'),
+('level2','ZA_2_00527',2009,'level1','ZA_1_005','Pharmacists',6.6,'Umkhanyakude'),
+('level2','ZA_2_00527',2009,'level1','ZA_1_005','Medical practitioners',11.9,'Umkhanyakude'),
+('level2','ZA_2_00527',2009,'level1','ZA_1_005','Nursing assistants',50,'Umkhanyakude'),
+('level2','ZA_2_00527',2009,'level1','ZA_1_005','Enrolled nurses',119.5,'Umkhanyakude'),
+('level2','ZA_2_00527',2009,'level1','ZA_1_005','Professional nurses',145.3,'Umkhanyakude'),
+('level2','ZA_2_00528',2009,'level1','ZA_1_005','Medical researchers',0.1,'King Cetshwayo'),
+('level2','ZA_2_00528',2009,'level1','ZA_1_005','Psychologists',0.3,'King Cetshwayo'),
+('level2','ZA_2_00528',2009,'level1','ZA_1_005','Dental therapists',0.4,'King Cetshwayo'),
+('level2','ZA_2_00528',2009,'level1','ZA_1_005','Clinical Associates',0.5,'King Cetshwayo'),
+('level2','ZA_2_00528',2009,'level1','ZA_1_005','Environmental health practitioners',0.9,'King Cetshwayo'),
+('level2','ZA_2_00528',2009,'level1','ZA_1_005','Occupational therapists',1.2,'King Cetshwayo'),
+('level2','ZA_2_00528',2009,'level1','ZA_1_005','Physiotherapists',1.4,'King Cetshwayo'),
+('level2','ZA_2_00528',2009,'level1','ZA_1_005','Dental practitioners',1.6,'King Cetshwayo'),
+('level2','ZA_2_00528',2009,'level1','ZA_1_005','Medical specialists',4,'King Cetshwayo'),
+('level2','ZA_2_00528',2009,'level1','ZA_1_005','Radiographers',5,'King Cetshwayo'),
+('level2','ZA_2_00528',2009,'level1','ZA_1_005','Pharmacists',7.8,'King Cetshwayo'),
+('level2','ZA_2_00528',2009,'level1','ZA_1_005','Student nurses',11,'King Cetshwayo'),
+('level2','ZA_2_00528',2009,'level1','ZA_1_005','Medical practitioners',36.7,'King Cetshwayo'),
+('level2','ZA_2_00528',2009,'level1','ZA_1_005','Nursing assistants',52.7,'King Cetshwayo'),
+('level2','ZA_2_00528',2009,'level1','ZA_1_005','Enrolled nurses',118.6,'King Cetshwayo'),
+('level2','ZA_2_00528',2009,'level1','ZA_1_005','Professional nurses',175,'King Cetshwayo'),
+('level2','ZA_2_00529',2009,'level1','ZA_1_005','Psychologists',0.2,'iLembe'),
+('level2','ZA_2_00529',2009,'level1','ZA_1_005','Environmental health practitioners',0.5,'iLembe'),
+('level2','ZA_2_00529',2009,'level1','ZA_1_005','Dental therapists',1.2,'iLembe'),
+('level2','ZA_2_00529',2009,'level1','ZA_1_005','Occupational therapists',1.4,'iLembe'),
+('level2','ZA_2_00529',2009,'level1','ZA_1_005','Clinical Associates',1.7,'iLembe'),
+('level2','ZA_2_00529',2009,'level1','ZA_1_005','Dental practitioners',2,'iLembe'),
+('level2','ZA_2_00529',2009,'level1','ZA_1_005','Physiotherapists',3.2,'iLembe'),
+('level2','ZA_2_00529',2009,'level1','ZA_1_005','Radiographers',5,'iLembe'),
+('level2','ZA_2_00529',2009,'level1','ZA_1_005','Medical specialists',5.7,'iLembe'),
+('level2','ZA_2_00529',2009,'level1','ZA_1_005','Pharmacists',7.8,'iLembe'),
+('level2','ZA_2_00529',2009,'level1','ZA_1_005','Medical practitioners',30.9,'iLembe'),
+('level2','ZA_2_00529',2009,'level1','ZA_1_005','Nursing assistants',43.7,'iLembe'),
+('level2','ZA_2_00529',2009,'level1','ZA_1_005','Enrolled nurses',75.6,'iLembe'),
+('level2','ZA_2_00529',2009,'level1','ZA_1_005','Professional nurses',133.1,'iLembe'),
+('level2','ZA_2_00543',2009,'level1','ZA_1_005','Medical specialists',0.2,'Harry Gwala'),
+('level2','ZA_2_00543',2009,'level1','ZA_1_005','Psychologists',0.6,'Harry Gwala'),
+('level2','ZA_2_00543',2009,'level1','ZA_1_005','Clinical Associates',1,'Harry Gwala'),
+('level2','ZA_2_00543',2009,'level1','ZA_1_005','Dental practitioners',1,'Harry Gwala'),
+('level2','ZA_2_00543',2009,'level1','ZA_1_005','Dental therapists',1.2,'Harry Gwala'),
+('level2','ZA_2_00543',2009,'level1','ZA_1_005','Environmental health practitioners',1.4,'Harry Gwala'),
+('level2','ZA_2_00543',2009,'level1','ZA_1_005','Occupational therapists',2,'Harry Gwala'),
+('level2','ZA_2_00543',2009,'level1','ZA_1_005','Physiotherapists',2.4,'Harry Gwala'),
+('level2','ZA_2_00543',2009,'level1','ZA_1_005','Radiographers',3.3,'Harry Gwala'),
+('level2','ZA_2_00543',2009,'level1','ZA_1_005','Pharmacists',6.9,'Harry Gwala'),
+('level2','ZA_2_00543',2009,'level1','ZA_1_005','Medical practitioners',15.9,'Harry Gwala'),
+('level2','ZA_2_00543',2009,'level1','ZA_1_005','Nursing assistants',62.1,'Harry Gwala'),
+('level2','ZA_2_00543',2009,'level1','ZA_1_005','Enrolled nurses',78,'Harry Gwala'),
+('level2','ZA_2_00543',2009,'level1','ZA_1_005','Professional nurses',153.8,'Harry Gwala'),
+('level2','ZA_2_00595',2009,'level1','ZA_1_005','Clinical Associates',0.4,'eThekwini'),
+('level2','ZA_2_00595',2009,'level1','ZA_1_005','Environmental health practitioners',0.7,'eThekwini'),
+('level2','ZA_2_00595',2009,'level1','ZA_1_005','Psychologists',0.8,'eThekwini'),
+('level2','ZA_2_00595',2009,'level1','ZA_1_005','Dental therapists',1,'eThekwini'),
+('level2','ZA_2_00595',2009,'level1','ZA_1_005','Dental practitioners',1.2,'eThekwini'),
+('level2','ZA_2_00595',2009,'level1','ZA_1_005','Occupational therapists',1.6,'eThekwini'),
+('level2','ZA_2_00595',2009,'level1','ZA_1_005','Physiotherapists',4.1,'eThekwini'),
+('level2','ZA_2_00595',2009,'level1','ZA_1_005','Student nurses',6.2,'eThekwini'),
+('level2','ZA_2_00595',2009,'level1','ZA_1_005','Radiographers',8.4,'eThekwini'),
+('level2','ZA_2_00595',2009,'level1','ZA_1_005','Pharmacists',10.4,'eThekwini'),
+('level2','ZA_2_00595',2009,'level1','ZA_1_005','Medical specialists',16.3,'eThekwini'),
+('level2','ZA_2_00595',2009,'level1','ZA_1_005','Medical practitioners',48.7,'eThekwini'),
+('level2','ZA_2_00595',2009,'level1','ZA_1_005','Nursing assistants',69.2,'eThekwini'),
+('level2','ZA_2_00595',2009,'level1','ZA_1_005','Enrolled nurses',93.3,'eThekwini'),
+('level2','ZA_2_00595',2009,'level1','ZA_1_005','Professional nurses',173.7,'eThekwini'),
+('level2','ZA_2_00637',2009,'level1','ZA_1_006','Clinical Associates',0.1,'Bojanala'),
+('level2','ZA_2_00637',2009,'level1','ZA_1_006','Dental therapists',0.1,'Bojanala'),
+('level2','ZA_2_00637',2009,'level1','ZA_1_006','Psychologists',0.6,'Bojanala'),
+('level2','ZA_2_00637',2009,'level1','ZA_1_006','Student nurses',1.1,'Bojanala'),
+('level2','ZA_2_00637',2009,'level1','ZA_1_006','Environmental health practitioners',1.1,'Bojanala'),
+('level2','ZA_2_00637',2009,'level1','ZA_1_006','Occupational therapists',1.2,'Bojanala'),
+('level2','ZA_2_00637',2009,'level1','ZA_1_006','Medical specialists',1.5,'Bojanala'),
+('level2','ZA_2_00637',2009,'level1','ZA_1_006','Dental practitioners',1.5,'Bojanala'),
+('level2','ZA_2_00637',2009,'level1','ZA_1_006','Physiotherapists',2.1,'Bojanala'),
+('level2','ZA_2_00637',2009,'level1','ZA_1_006','Radiographers',2.3,'Bojanala'),
+('level2','ZA_2_00637',2009,'level1','ZA_1_006','Pharmacists',5.8,'Bojanala'),
+('level2','ZA_2_00637',2009,'level1','ZA_1_006','Medical practitioners',18.2,'Bojanala'),
+('level2','ZA_2_00637',2009,'level1','ZA_1_006','Enrolled nurses',19,'Bojanala'),
+('level2','ZA_2_00637',2009,'level1','ZA_1_006','Nursing assistants',50.3,'Bojanala'),
+('level2','ZA_2_00637',2009,'level1','ZA_1_006','Professional nurses',99.7,'Bojanala'),
+('level2','ZA_2_00638',2009,'level1','ZA_1_006','Dental therapists',0.7,'Ngaka Modiri Molema'),
+('level2','ZA_2_00638',2009,'level1','ZA_1_006','Student nurses',0.8,'Ngaka Modiri Molema'),
+('level2','ZA_2_00638',2009,'level1','ZA_1_006','Clinical Associates',1,'Ngaka Modiri Molema'),
+('level2','ZA_2_00638',2009,'level1','ZA_1_006','Psychologists',1.5,'Ngaka Modiri Molema'),
+('level2','ZA_2_00638',2009,'level1','ZA_1_006','Occupational therapists',1.6,'Ngaka Modiri Molema'),
+('level2','ZA_2_00638',2009,'level1','ZA_1_006','Medical specialists',1.7,'Ngaka Modiri Molema'),
+('level2','ZA_2_00638',2009,'level1','ZA_1_006','Environmental health practitioners',2.1,'Ngaka Modiri Molema'),
+('level2','ZA_2_00638',2009,'level1','ZA_1_006','Radiographers',2.4,'Ngaka Modiri Molema'),
+('level2','ZA_2_00638',2009,'level1','ZA_1_006','Dental practitioners',2.5,'Ngaka Modiri Molema'),
+('level2','ZA_2_00638',2009,'level1','ZA_1_006','Physiotherapists',3,'Ngaka Modiri Molema'),
+('level2','ZA_2_00638',2009,'level1','ZA_1_006','Pharmacists',8.9,'Ngaka Modiri Molema'),
+('level2','ZA_2_00638',2009,'level1','ZA_1_006','Medical practitioners',22.5,'Ngaka Modiri Molema'),
+('level2','ZA_2_00638',2009,'level1','ZA_1_006','Enrolled nurses',25.8,'Ngaka Modiri Molema'),
+('level2','ZA_2_00638',2009,'level1','ZA_1_006','Nursing assistants',72.9,'Ngaka Modiri Molema'),
+('level2','ZA_2_00638',2009,'level1','ZA_1_006','Professional nurses',131.5,'Ngaka Modiri Molema'),
+('level2','ZA_2_00639',2009,'level1','ZA_1_006','Psychologists',0.5,'Dr Ruth Segomotsi Mompati'),
+('level2','ZA_2_00639',2009,'level1','ZA_1_006','Dental therapists',0.5,'Dr Ruth Segomotsi Mompati'),
+('level2','ZA_2_00639',2009,'level1','ZA_1_006','Clinical Associates',1.6,'Dr Ruth Segomotsi Mompati'),
+('level2','ZA_2_00639',2009,'level1','ZA_1_006','Occupational therapists',1.8,'Dr Ruth Segomotsi Mompati'),
+('level2','ZA_2_00639',2009,'level1','ZA_1_006','Medical specialists',2,'Dr Ruth Segomotsi Mompati'),
+('level2','ZA_2_00639',2009,'level1','ZA_1_006','Environmental health practitioners',2.2,'Dr Ruth Segomotsi Mompati'),
+('level2','ZA_2_00639',2009,'level1','ZA_1_006','Radiographers',2.9,'Dr Ruth Segomotsi Mompati'),
+('level2','ZA_2_00639',2009,'level1','ZA_1_006','Physiotherapists',3.6,'Dr Ruth Segomotsi Mompati'),
+('level2','ZA_2_00639',2009,'level1','ZA_1_006','Dental practitioners',3.8,'Dr Ruth Segomotsi Mompati'),
+('level2','ZA_2_00639',2009,'level1','ZA_1_006','Pharmacists',9.4,'Dr Ruth Segomotsi Mompati'),
+('level2','ZA_2_00639',2009,'level1','ZA_1_006','Medical practitioners',16.4,'Dr Ruth Segomotsi Mompati'),
+('level2','ZA_2_00639',2009,'level1','ZA_1_006','Enrolled nurses',40.1,'Dr Ruth Segomotsi Mompati'),
+('level2','ZA_2_00639',2009,'level1','ZA_1_006','Nursing assistants',96.7,'Dr Ruth Segomotsi Mompati'),
+('level2','ZA_2_00639',2009,'level1','ZA_1_006','Professional nurses',164.6,'Dr Ruth Segomotsi Mompati'),
+('level2','ZA_2_00640',2009,'level1','ZA_1_006','Dental therapists',0.3,'Dr Kenneth Kaunda'),
+('level2','ZA_2_00640',2009,'level1','ZA_1_006','Environmental health practitioners',1.5,'Dr Kenneth Kaunda'),
+('level2','ZA_2_00640',2009,'level1','ZA_1_006','Clinical Associates',1.9,'Dr Kenneth Kaunda'),
+('level2','ZA_2_00640',2009,'level1','ZA_1_006','Dental practitioners',2.2,'Dr Kenneth Kaunda'),
+('level2','ZA_2_00640',2009,'level1','ZA_1_006','Psychologists',2.7,'Dr Kenneth Kaunda'),
+('level2','ZA_2_00640',2009,'level1','ZA_1_006','Occupational therapists',4,'Dr Kenneth Kaunda'),
+('level2','ZA_2_00640',2009,'level1','ZA_1_006','Physiotherapists',4,'Dr Kenneth Kaunda'),
+('level2','ZA_2_00640',2009,'level1','ZA_1_006','Radiographers',7.1,'Dr Kenneth Kaunda'),
+('level2','ZA_2_00640',2009,'level1','ZA_1_006','Medical specialists',11.6,'Dr Kenneth Kaunda'),
+('level2','ZA_2_00640',2009,'level1','ZA_1_006','Pharmacists',13.1,'Dr Kenneth Kaunda'),
+('level2','ZA_2_00640',2009,'level1','ZA_1_006','Enrolled nurses',40.4,'Dr Kenneth Kaunda'),
+('level2','ZA_2_00640',2009,'level1','ZA_1_006','Medical practitioners',54.2,'Dr Kenneth Kaunda'),
+('level2','ZA_2_00640',2009,'level1','ZA_1_006','Nursing assistants',134.8,'Dr Kenneth Kaunda'),
+('level2','ZA_2_00640',2009,'level1','ZA_1_006','Professional nurses',193.2,'Dr Kenneth Kaunda'),
+('level2','ZA_2_00742',2009,'level1','ZA_1_007','Medical researchers',0.1,'Sedibeng'),
+('level2','ZA_2_00742',2009,'level1','ZA_1_007','Dental specialists',0.3,'Sedibeng'),
+('level2','ZA_2_00742',2009,'level1','ZA_1_007','Psychologists',0.6,'Sedibeng'),
+('level2','ZA_2_00742',2009,'level1','ZA_1_007','Dental therapists',0.8,'Sedibeng'),
+('level2','ZA_2_00742',2009,'level1','ZA_1_007','Clinical Associates',0.9,'Sedibeng'),
+('level2','ZA_2_00742',2009,'level1','ZA_1_007','Student nurses',0.9,'Sedibeng'),
+('level2','ZA_2_00742',2009,'level1','ZA_1_007','Environmental health practitioners',1,'Sedibeng'),
+('level2','ZA_2_00742',2009,'level1','ZA_1_007','Physiotherapists',1.9,'Sedibeng'),
+('level2','ZA_2_00742',2009,'level1','ZA_1_007','Dental practitioners',2.3,'Sedibeng'),
+('level2','ZA_2_00742',2009,'level1','ZA_1_007','Occupational therapists',2.8,'Sedibeng'),
+('level2','ZA_2_00742',2009,'level1','ZA_1_007','Medical specialists',4.3,'Sedibeng'),
+('level2','ZA_2_00742',2009,'level1','ZA_1_007','Radiographers',4.8,'Sedibeng'),
+('level2','ZA_2_00742',2009,'level1','ZA_1_007','Pharmacists',17.8,'Sedibeng'),
+('level2','ZA_2_00742',2009,'level1','ZA_1_007','Medical practitioners',23.5,'Sedibeng'),
+('level2','ZA_2_00742',2009,'level1','ZA_1_007','Nursing assistants',43,'Sedibeng'),
+('level2','ZA_2_00742',2009,'level1','ZA_1_007','Enrolled nurses',62.3,'Sedibeng'),
+('level2','ZA_2_00742',2009,'level1','ZA_1_007','Professional nurses',123.5,'Sedibeng'),
+('level2','ZA_2_00748',2009,'level1','ZA_1_007','Dental therapists',0.7,'West Rand'),
+('level2','ZA_2_00748',2009,'level1','ZA_1_007','Clinical Associates',1,'West Rand'),
+('level2','ZA_2_00748',2009,'level1','ZA_1_007','Student nurses',1.3,'West Rand'),
+('level2','ZA_2_00748',2009,'level1','ZA_1_007','Environmental health practitioners',1.5,'West Rand'),
+('level2','ZA_2_00748',2009,'level1','ZA_1_007','Dental practitioners',2.4,'West Rand'),
+('level2','ZA_2_00748',2009,'level1','ZA_1_007','Physiotherapists',2.7,'West Rand'),
+('level2','ZA_2_00748',2009,'level1','ZA_1_007','Occupational therapists',3.1,'West Rand'),
+('level2','ZA_2_00748',2009,'level1','ZA_1_007','Psychologists',4.1,'West Rand'),
+('level2','ZA_2_00748',2009,'level1','ZA_1_007','Radiographers',5,'West Rand'),
+('level2','ZA_2_00748',2009,'level1','ZA_1_007','Medical specialists',8.6,'West Rand'),
+('level2','ZA_2_00748',2009,'level1','ZA_1_007','Pharmacists',15.5,'West Rand'),
+('level2','ZA_2_00748',2009,'level1','ZA_1_007','Medical practitioners',38.3,'West Rand'),
+('level2','ZA_2_00748',2009,'level1','ZA_1_007','Nursing assistants',83.3,'West Rand'),
+('level2','ZA_2_00748',2009,'level1','ZA_1_007','Enrolled nurses',96.6,'West Rand'),
+('level2','ZA_2_00748',2009,'level1','ZA_1_007','Professional nurses',183.7,'West Rand'),
+('level2','ZA_2_00797',2009,'level1','ZA_1_007','Medical researchers',0,'Ekurhuleni'),
+('level2','ZA_2_00797',2009,'level1','ZA_1_007','Clinical Associates',0.1,'Ekurhuleni'),
+('level2','ZA_2_00797',2009,'level1','ZA_1_007','Dental therapists',0.4,'Ekurhuleni'),
+('level2','ZA_2_00797',2009,'level1','ZA_1_007','Psychologists',0.8,'Ekurhuleni'),
+('level2','ZA_2_00797',2009,'level1','ZA_1_007','Environmental health practitioners',0.9,'Ekurhuleni'),
+('level2','ZA_2_00797',2009,'level1','ZA_1_007','Dental practitioners',1.1,'Ekurhuleni'),
+('level2','ZA_2_00797',2009,'level1','ZA_1_007','Student nurses',1.7,'Ekurhuleni'),
+('level2','ZA_2_00797',2009,'level1','ZA_1_007','Occupational therapists',2.1,'Ekurhuleni'),
+('level2','ZA_2_00797',2009,'level1','ZA_1_007','Physiotherapists',2.1,'Ekurhuleni'),
+('level2','ZA_2_00797',2009,'level1','ZA_1_007','Medical specialists',3.9,'Ekurhuleni'),
+('level2','ZA_2_00797',2009,'level1','ZA_1_007','Radiographers',4,'Ekurhuleni'),
+('level2','ZA_2_00797',2009,'level1','ZA_1_007','Pharmacists',9.6,'Ekurhuleni'),
+('level2','ZA_2_00797',2009,'level1','ZA_1_007','Medical practitioners',31.1,'Ekurhuleni'),
+('level2','ZA_2_00797',2009,'level1','ZA_1_007','Nursing assistants',40.1,'Ekurhuleni'),
+('level2','ZA_2_00797',2009,'level1','ZA_1_007','Enrolled nurses',48.9,'Ekurhuleni'),
+('level2','ZA_2_00797',2009,'level1','ZA_1_007','Professional nurses',92.4,'Ekurhuleni'),
+('level2','ZA_2_00798',2009,'level1','ZA_1_007','Clinical Associates',0.1,'City of Johannesburg'),
+('level2','ZA_2_00798',2009,'level1','ZA_1_007','Medical researchers',0.1,'City of Johannesburg'),
+('level2','ZA_2_00798',2009,'level1','ZA_1_007','Dental therapists',0.2,'City of Johannesburg'),
+('level2','ZA_2_00798',2009,'level1','ZA_1_007','Environmental health practitioners',0.5,'City of Johannesburg'),
+('level2','ZA_2_00798',2009,'level1','ZA_1_007','Dental specialists',0.9,'City of Johannesburg'),
+('level2','ZA_2_00798',2009,'level1','ZA_1_007','Dental practitioners',1.5,'City of Johannesburg'),
+('level2','ZA_2_00798',2009,'level1','ZA_1_007','Psychologists',2,'City of Johannesburg'),
+('level2','ZA_2_00798',2009,'level1','ZA_1_007','Occupational therapists',2.2,'City of Johannesburg'),
+('level2','ZA_2_00798',2009,'level1','ZA_1_007','Physiotherapists',2.3,'City of Johannesburg'),
+('level2','ZA_2_00798',2009,'level1','ZA_1_007','Radiographers',6.9,'City of Johannesburg'),
+('level2','ZA_2_00798',2009,'level1','ZA_1_007','Pharmacists',9,'City of Johannesburg'),
+('level2','ZA_2_00798',2009,'level1','ZA_1_007','Student nurses',15.3,'City of Johannesburg'),
+('level2','ZA_2_00798',2009,'level1','ZA_1_007','Medical specialists',21.6,'City of Johannesburg'),
+('level2','ZA_2_00798',2009,'level1','ZA_1_007','Medical practitioners',32.4,'City of Johannesburg'),
+('level2','ZA_2_00798',2009,'level1','ZA_1_007','Nursing assistants',58.3,'City of Johannesburg'),
+('level2','ZA_2_00798',2009,'level1','ZA_1_007','Enrolled nurses',62.6,'City of Johannesburg'),
+('level2','ZA_2_00798',2009,'level1','ZA_1_007','Professional nurses',114.9,'City of Johannesburg'),
+('level2','ZA_2_00799',2009,'level1','ZA_1_007','Medical researchers',0.1,'City of Tshwane'),
+('level2','ZA_2_00799',2009,'level1','ZA_1_007','Environmental health practitioners',0.2,'City of Tshwane'),
+('level2','ZA_2_00799',2009,'level1','ZA_1_007','Clinical Associates',0.6,'City of Tshwane'),
+('level2','ZA_2_00799',2009,'level1','ZA_1_007','Dental therapists',0.6,'City of Tshwane'),
+('level2','ZA_2_00799',2009,'level1','ZA_1_007','Student nurses',2,'City of Tshwane'),
+('level2','ZA_2_00799',2009,'level1','ZA_1_007','Dental specialists',2.8,'City of Tshwane'),
+('level2','ZA_2_00799',2009,'level1','ZA_1_007','Psychologists',3.5,'City of Tshwane'),
+('level2','ZA_2_00799',2009,'level1','ZA_1_007','Physiotherapists',3.6,'City of Tshwane'),
+('level2','ZA_2_00799',2009,'level1','ZA_1_007','Occupational therapists',3.9,'City of Tshwane'),
+('level2','ZA_2_00799',2009,'level1','ZA_1_007','Dental practitioners',5.2,'City of Tshwane'),
+('level2','ZA_2_00799',2009,'level1','ZA_1_007','Radiographers',9.9,'City of Tshwane'),
+('level2','ZA_2_00799',2009,'level1','ZA_1_007','Pharmacists',14,'City of Tshwane'),
+('level2','ZA_2_00799',2009,'level1','ZA_1_007','Medical specialists',30.7,'City of Tshwane'),
+('level2','ZA_2_00799',2009,'level1','ZA_1_007','Medical practitioners',39.9,'City of Tshwane'),
+('level2','ZA_2_00799',2009,'level1','ZA_1_007','Nursing assistants',81,'City of Tshwane'),
+('level2','ZA_2_00799',2009,'level1','ZA_1_007','Enrolled nurses',95.1,'City of Tshwane'),
+('level2','ZA_2_00799',2009,'level1','ZA_1_007','Professional nurses',172.3,'City of Tshwane'),
+('level2','ZA_2_00830',2009,'level1','ZA_1_008','Medical specialists',0.2,'Gert Sibande'),
+('level2','ZA_2_00830',2009,'level1','ZA_1_008','Dental therapists',0.6,'Gert Sibande'),
+('level2','ZA_2_00830',2009,'level1','ZA_1_008','Psychologists',0.8,'Gert Sibande'),
+('level2','ZA_2_00830',2009,'level1','ZA_1_008','Environmental health practitioners',1,'Gert Sibande'),
+('level2','ZA_2_00830',2009,'level1','ZA_1_008','Clinical Associates',2.3,'Gert Sibande'),
+('level2','ZA_2_00830',2009,'level1','ZA_1_008','Occupational therapists',2.4,'Gert Sibande'),
+('level2','ZA_2_00830',2009,'level1','ZA_1_008','Physiotherapists',2.5,'Gert Sibande'),
+('level2','ZA_2_00830',2009,'level1','ZA_1_008','Dental practitioners',3.2,'Gert Sibande'),
+('level2','ZA_2_00830',2009,'level1','ZA_1_008','Radiographers',3.8,'Gert Sibande'),
+('level2','ZA_2_00830',2009,'level1','ZA_1_008','Pharmacists',9,'Gert Sibande'),
+('level2','ZA_2_00830',2009,'level1','ZA_1_008','Medical practitioners',22.3,'Gert Sibande'),
+('level2','ZA_2_00830',2009,'level1','ZA_1_008','Nursing assistants',36.4,'Gert Sibande'),
+('level2','ZA_2_00830',2009,'level1','ZA_1_008','Enrolled nurses',45.4,'Gert Sibande'),
+('level2','ZA_2_00830',2009,'level1','ZA_1_008','Professional nurses',141.5,'Gert Sibande'),
+('level2','ZA_2_00831',2009,'level1','ZA_1_008','Dental therapists',0.2,'Nkangala'),
+('level2','ZA_2_00831',2009,'level1','ZA_1_008','Environmental health practitioners',0.9,'Nkangala'),
+('level2','ZA_2_00831',2009,'level1','ZA_1_008','Psychologists',1,'Nkangala'),
+('level2','ZA_2_00831',2009,'level1','ZA_1_008','Clinical Associates',1.2,'Nkangala'),
+('level2','ZA_2_00831',2009,'level1','ZA_1_008','Occupational therapists',1.7,'Nkangala'),
+('level2','ZA_2_00831',2009,'level1','ZA_1_008','Medical specialists',2.3,'Nkangala'),
+('level2','ZA_2_00831',2009,'level1','ZA_1_008','Dental practitioners',2.3,'Nkangala'),
+('level2','ZA_2_00831',2009,'level1','ZA_1_008','Physiotherapists',2.5,'Nkangala'),
+('level2','ZA_2_00831',2009,'level1','ZA_1_008','Radiographers',3.2,'Nkangala'),
+('level2','ZA_2_00831',2009,'level1','ZA_1_008','Pharmacists',5,'Nkangala'),
+('level2','ZA_2_00831',2009,'level1','ZA_1_008','Medical practitioners',21.6,'Nkangala'),
+('level2','ZA_2_00831',2009,'level1','ZA_1_008','Enrolled nurses',25.6,'Nkangala'),
+('level2','ZA_2_00831',2009,'level1','ZA_1_008','Nursing assistants',27.4,'Nkangala'),
+('level2','ZA_2_00831',2009,'level1','ZA_1_008','Professional nurses',101.4,'Nkangala'),
+('level2','ZA_2_00832',2009,'level1','ZA_1_008','Dental specialists',0.1,'Ehlanzeni'),
+('level2','ZA_2_00832',2009,'level1','ZA_1_008','Dental therapists',0.6,'Ehlanzeni'),
+('level2','ZA_2_00832',2009,'level1','ZA_1_008','Psychologists',1.1,'Ehlanzeni'),
+('level2','ZA_2_00832',2009,'level1','ZA_1_008','Clinical Associates',1.7,'Ehlanzeni'),
+('level2','ZA_2_00832',2009,'level1','ZA_1_008','Environmental health practitioners',1.9,'Ehlanzeni'),
+('level2','ZA_2_00832',2009,'level1','ZA_1_008','Medical specialists',2.6,'Ehlanzeni'),
+('level2','ZA_2_00832',2009,'level1','ZA_1_008','Dental practitioners',2.6,'Ehlanzeni'),
+('level2','ZA_2_00832',2009,'level1','ZA_1_008','Occupational therapists',2.9,'Ehlanzeni'),
+('level2','ZA_2_00832',2009,'level1','ZA_1_008','Physiotherapists',3,'Ehlanzeni'),
+('level2','ZA_2_00832',2009,'level1','ZA_1_008','Radiographers',3.7,'Ehlanzeni'),
+('level2','ZA_2_00832',2009,'level1','ZA_1_008','Pharmacists',10.2,'Ehlanzeni'),
+('level2','ZA_2_00832',2009,'level1','ZA_1_008','Medical practitioners',32.3,'Ehlanzeni'),
+('level2','ZA_2_00832',2009,'level1','ZA_1_008','Nursing assistants',45.7,'Ehlanzeni'),
+('level2','ZA_2_00832',2009,'level1','ZA_1_008','Enrolled nurses',64.6,'Ehlanzeni'),
+('level2','ZA_2_00832',2009,'level1','ZA_1_008','Professional nurses',174,'Ehlanzeni'),
+('level2','ZA_2_00933',2009,'level1','ZA_1_009','Clinical Associates',0.3,'Mopani'),
+('level2','ZA_2_00933',2009,'level1','ZA_1_009','Medical specialists',0.7,'Mopani'),
+('level2','ZA_2_00933',2009,'level1','ZA_1_009','Environmental health practitioners',1.3,'Mopani'),
+('level2','ZA_2_00933',2009,'level1','ZA_1_009','Psychologists',2.1,'Mopani'),
+('level2','ZA_2_00933',2009,'level1','ZA_1_009','Dental therapists',2.3,'Mopani'),
+('level2','ZA_2_00933',2009,'level1','ZA_1_009','Radiographers',2.4,'Mopani'),
+('level2','ZA_2_00933',2009,'level1','ZA_1_009','Dental practitioners',2.8,'Mopani'),
+('level2','ZA_2_00933',2009,'level1','ZA_1_009','Physiotherapists',2.9,'Mopani'),
+('level2','ZA_2_00933',2009,'level1','ZA_1_009','Occupational therapists',3.5,'Mopani'),
+('level2','ZA_2_00933',2009,'level1','ZA_1_009','Pharmacists',8,'Mopani'),
+('level2','ZA_2_00933',2009,'level1','ZA_1_009','Student nurses',12.3,'Mopani'),
+('level2','ZA_2_00933',2009,'level1','ZA_1_009','Medical practitioners',17.2,'Mopani'),
+('level2','ZA_2_00933',2009,'level1','ZA_1_009','Enrolled nurses',63,'Mopani'),
+('level2','ZA_2_00933',2009,'level1','ZA_1_009','Nursing assistants',82.1,'Mopani'),
+('level2','ZA_2_00933',2009,'level1','ZA_1_009','Professional nurses',154,'Mopani'),
+('level2','ZA_2_00934',2009,'level1','ZA_1_009','Medical specialists',0.1,'Vhembe'),
+('level2','ZA_2_00934',2009,'level1','ZA_1_009','Clinical Associates',0.2,'Vhembe'),
+('level2','ZA_2_00934',2009,'level1','ZA_1_009','Psychologists',1.1,'Vhembe'),
+('level2','ZA_2_00934',2009,'level1','ZA_1_009','Environmental health practitioners',1.1,'Vhembe'),
+('level2','ZA_2_00934',2009,'level1','ZA_1_009','Radiographers',2.5,'Vhembe'),
+('level2','ZA_2_00934',2009,'level1','ZA_1_009','Dental practitioners',2.5,'Vhembe'),
+('level2','ZA_2_00934',2009,'level1','ZA_1_009','Dental therapists',3,'Vhembe'),
+('level2','ZA_2_00934',2009,'level1','ZA_1_009','Physiotherapists',3.1,'Vhembe'),
+('level2','ZA_2_00934',2009,'level1','ZA_1_009','Student nurses',4.4,'Vhembe'),
+('level2','ZA_2_00934',2009,'level1','ZA_1_009','Occupational therapists',4.4,'Vhembe'),
+('level2','ZA_2_00934',2009,'level1','ZA_1_009','Pharmacists',7.6,'Vhembe'),
+('level2','ZA_2_00934',2009,'level1','ZA_1_009','Medical practitioners',16.7,'Vhembe'),
+('level2','ZA_2_00934',2009,'level1','ZA_1_009','Enrolled nurses',62.2,'Vhembe'),
+('level2','ZA_2_00934',2009,'level1','ZA_1_009','Nursing assistants',81.5,'Vhembe'),
+('level2','ZA_2_00934',2009,'level1','ZA_1_009','Professional nurses',192.1,'Vhembe'),
+('level2','ZA_2_00935',2009,'level1','ZA_1_009','Medical researchers',0.1,'Capricorn'),
+('level2','ZA_2_00935',2009,'level1','ZA_1_009','Clinical Associates',0.2,'Capricorn'),
+('level2','ZA_2_00935',2009,'level1','ZA_1_009','Dental specialists',0.2,'Capricorn'),
+('level2','ZA_2_00935',2009,'level1','ZA_1_009','Environmental health practitioners',0.7,'Capricorn'),
+('level2','ZA_2_00935',2009,'level1','ZA_1_009','Dental therapists',1.9,'Capricorn'),
+('level2','ZA_2_00935',2009,'level1','ZA_1_009','Psychologists',3.4,'Capricorn'),
+('level2','ZA_2_00935',2009,'level1','ZA_1_009','Physiotherapists',3.9,'Capricorn'),
+('level2','ZA_2_00935',2009,'level1','ZA_1_009','Medical specialists',4.4,'Capricorn'),
+('level2','ZA_2_00935',2009,'level1','ZA_1_009','Dental practitioners',4.5,'Capricorn'),
+('level2','ZA_2_00935',2009,'level1','ZA_1_009','Occupational therapists',5.3,'Capricorn'),
+('level2','ZA_2_00935',2009,'level1','ZA_1_009','Radiographers',5.5,'Capricorn'),
+('level2','ZA_2_00935',2009,'level1','ZA_1_009','Student nurses',7.1,'Capricorn'),
+('level2','ZA_2_00935',2009,'level1','ZA_1_009','Pharmacists',14.5,'Capricorn'),
+('level2','ZA_2_00935',2009,'level1','ZA_1_009','Medical practitioners',44.1,'Capricorn'),
+('level2','ZA_2_00935',2009,'level1','ZA_1_009','Enrolled nurses',84,'Capricorn'),
+('level2','ZA_2_00935',2009,'level1','ZA_1_009','Nursing assistants',95,'Capricorn'),
+('level2','ZA_2_00935',2009,'level1','ZA_1_009','Professional nurses',173.7,'Capricorn'),
+('level2','ZA_2_00936',2009,'level1','ZA_1_009','Medical specialists',0.8,'Waterberg'),
+('level2','ZA_2_00936',2009,'level1','ZA_1_009','Environmental health practitioners',1.5,'Waterberg'),
+('level2','ZA_2_00936',2009,'level1','ZA_1_009','Dental therapists',3.2,'Waterberg'),
+('level2','ZA_2_00936',2009,'level1','ZA_1_009','Psychologists',3.5,'Waterberg'),
+('level2','ZA_2_00936',2009,'level1','ZA_1_009','Occupational therapists',4.5,'Waterberg'),
+('level2','ZA_2_00936',2009,'level1','ZA_1_009','Physiotherapists',4.7,'Waterberg'),
+('level2','ZA_2_00936',2009,'level1','ZA_1_009','Radiographers',4.9,'Waterberg'),
+('level2','ZA_2_00936',2009,'level1','ZA_1_009','Dental practitioners',5.5,'Waterberg'),
+('level2','ZA_2_00936',2009,'level1','ZA_1_009','Pharmacists',13.9,'Waterberg'),
+('level2','ZA_2_00936',2009,'level1','ZA_1_009','Medical practitioners',32.9,'Waterberg'),
+('level2','ZA_2_00936',2009,'level1','ZA_1_009','Enrolled nurses',88,'Waterberg'),
+('level2','ZA_2_00936',2009,'level1','ZA_1_009','Nursing assistants',93.4,'Waterberg'),
+('level2','ZA_2_00936',2009,'level1','ZA_1_009','Professional nurses',172.1,'Waterberg'),
+('level2','ZA_2_00947',2009,'level1','ZA_1_009','Clinical Associates',0.3,'Sekhukhune'),
+('level2','ZA_2_00947',2009,'level1','ZA_1_009','Medical specialists',0.3,'Sekhukhune'),
+('level2','ZA_2_00947',2009,'level1','ZA_1_009','Student nurses',0.3,'Sekhukhune'),
+('level2','ZA_2_00947',2009,'level1','ZA_1_009','Environmental health practitioners',0.9,'Sekhukhune'),
+('level2','ZA_2_00947',2009,'level1','ZA_1_009','Psychologists',1.7,'Sekhukhune'),
+('level2','ZA_2_00947',2009,'level1','ZA_1_009','Dental therapists',2.1,'Sekhukhune'),
+('level2','ZA_2_00947',2009,'level1','ZA_1_009','Occupational therapists',2.8,'Sekhukhune'),
+('level2','ZA_2_00947',2009,'level1','ZA_1_009','Physiotherapists',2.8,'Sekhukhune'),
+('level2','ZA_2_00947',2009,'level1','ZA_1_009','Dental practitioners',2.8,'Sekhukhune'),
+('level2','ZA_2_00947',2009,'level1','ZA_1_009','Radiographers',3,'Sekhukhune'),
+('level2','ZA_2_00947',2009,'level1','ZA_1_009','Pharmacists',9.6,'Sekhukhune'),
+('level2','ZA_2_00947',2009,'level1','ZA_1_009','Medical practitioners',15.2,'Sekhukhune'),
+('level2','ZA_2_00947',2009,'level1','ZA_1_009','Enrolled nurses',62.9,'Sekhukhune'),
+('level2','ZA_2_00947',2009,'level1','ZA_1_009','Nursing assistants',69,'Sekhukhune'),
+('level2','ZA_2_00947',2009,'level1','ZA_1_009','Professional nurses',130.6,'Sekhukhune'),
+('level1','ZA_1_002',2009,'country','ZA','Medical researchers',0,'Eastern Cape'),
+('level1','ZA_1_002',2009,'country','ZA','Dental therapists',0.3,'Eastern Cape'),
+('level1','ZA_1_002',2009,'country','ZA','Environmental health practitioners',0.4,'Eastern Cape'),
+('level1','ZA_1_002',2009,'country','ZA','Psychologists',1.1,'Eastern Cape'),
+('level1','ZA_1_002',2009,'country','ZA','Clinical Associates',1.3,'Eastern Cape'),
+('level1','ZA_1_002',2009,'country','ZA','Occupational therapists',2.3,'Eastern Cape'),
+('level1','ZA_1_002',2009,'country','ZA','Dental practitioners',2.4,'Eastern Cape'),
+('level1','ZA_1_002',2009,'country','ZA','Physiotherapists',2.6,'Eastern Cape'),
+('level1','ZA_1_002',2009,'country','ZA','Medical specialists',3,'Eastern Cape'),
+('level1','ZA_1_002',2009,'country','ZA','Radiographers',5.9,'Eastern Cape'),
+('level1','ZA_1_002',2009,'country','ZA','Pharmacists',13,'Eastern Cape'),
+('level1','ZA_1_002',2009,'country','ZA','Medical practitioners',30.8,'Eastern Cape'),
+('level1','ZA_1_002',2009,'country','ZA','Enrolled nurses',50.8,'Eastern Cape'),
+('level1','ZA_1_002',2009,'country','ZA','Nursing assistants',81.6,'Eastern Cape'),
+('level1','ZA_1_002',2009,'country','ZA','Professional nurses',170.9,'Eastern Cape'),
+('level1','ZA_1_004',2009,'country','ZA','Dental specialists',0,'Free State'),
+('level1','ZA_1_004',2009,'country','ZA','Medical researchers',0.2,'Free State'),
+('level1','ZA_1_004',2009,'country','ZA','Clinical Associates',0.8,'Free State'),
+('level1','ZA_1_004',2009,'country','ZA','Psychologists',1,'Free State'),
+('level1','ZA_1_004',2009,'country','ZA','Environmental health practitioners',2.6,'Free State'),
+('level1','ZA_1_004',2009,'country','ZA','Dental practitioners',3,'Free State'),
+('level1','ZA_1_004',2009,'country','ZA','Physiotherapists',3.1,'Free State'),
+('level1','ZA_1_004',2009,'country','ZA','Occupational therapists',3.2,'Free State'),
+('level1','ZA_1_004',2009,'country','ZA','Radiographers',6.1,'Free State'),
+('level1','ZA_1_004',2009,'country','ZA','Medical specialists',12.5,'Free State'),
+('level1','ZA_1_004',2009,'country','ZA','Pharmacists',13.8,'Free State'),
+('level1','ZA_1_004',2009,'country','ZA','Medical practitioners',27.7,'Free State'),
+('level1','ZA_1_004',2009,'country','ZA','Enrolled nurses',39.4,'Free State'),
+('level1','ZA_1_004',2009,'country','ZA','Nursing assistants',80.6,'Free State'),
+('level1','ZA_1_004',2009,'country','ZA','Professional nurses',89.7,'Free State'),
+('level1','ZA_1_007',2009,'country','ZA','Medical researchers',0.1,'Gauteng'),
+('level1','ZA_1_007',2009,'country','ZA','Clinical Associates',0.4,'Gauteng'),
+('level1','ZA_1_007',2009,'country','ZA','Dental therapists',0.4,'Gauteng'),
+('level1','ZA_1_007',2009,'country','ZA','Dental specialists',1,'Gauteng'),
+('level1','ZA_1_007',2009,'country','ZA','Environmental health practitioners',1.1,'Gauteng'),
+('level1','ZA_1_007',2009,'country','ZA','Psychologists',2.1,'Gauteng'),
+('level1','ZA_1_007',2009,'country','ZA','Dental practitioners',2.4,'Gauteng'),
+('level1','ZA_1_007',2009,'country','ZA','Physiotherapists',2.6,'Gauteng'),
+('level1','ZA_1_007',2009,'country','ZA','Occupational therapists',2.7,'Gauteng'),
+('level1','ZA_1_007',2009,'country','ZA','Radiographers',6.6,'Gauteng'),
+('level1','ZA_1_007',2009,'country','ZA','Pharmacists',11.4,'Gauteng'),
+('level1','ZA_1_007',2009,'country','ZA','Medical specialists',17.2,'Gauteng'),
+('level1','ZA_1_007',2009,'country','ZA','Student nurses',20.8,'Gauteng'),
+('level1','ZA_1_007',2009,'country','ZA','Medical practitioners',33.7,'Gauteng'),
+('level1','ZA_1_007',2009,'country','ZA','Nursing assistants',59.2,'Gauteng'),
+('level1','ZA_1_007',2009,'country','ZA','Enrolled nurses',68.6,'Gauteng'),
+('level1','ZA_1_007',2009,'country','ZA','Professional nurses',131.6,'Gauteng'),
+('level1','ZA_1_005',2009,'country','ZA','Medical researchers',0,'KwaZulu-Natal'),
+('level1','ZA_1_005',2009,'country','ZA','Psychologists',0.8,'KwaZulu-Natal'),
+('level1','ZA_1_005',2009,'country','ZA','Environmental health practitioners',0.8,'KwaZulu-Natal'),
+('level1','ZA_1_005',2009,'country','ZA','Dental therapists',1,'KwaZulu-Natal'),
+('level1','ZA_1_005',2009,'country','ZA','Clinical Associates',1.2,'KwaZulu-Natal'),
+('level1','ZA_1_005',2009,'country','ZA','Dental practitioners',1.5,'KwaZulu-Natal'),
+('level1','ZA_1_005',2009,'country','ZA','Occupational therapists',1.8,'KwaZulu-Natal'),
+('level1','ZA_1_005',2009,'country','ZA','Physiotherapists',3.2,'KwaZulu-Natal'),
+('level1','ZA_1_005',2009,'country','ZA','Student nurses',6,'KwaZulu-Natal'),
+('level1','ZA_1_005',2009,'country','ZA','Radiographers',6,'KwaZulu-Natal'),
+('level1','ZA_1_005',2009,'country','ZA','Medical specialists',8.2,'KwaZulu-Natal'),
+('level1','ZA_1_005',2009,'country','ZA','Pharmacists',8.6,'KwaZulu-Natal'),
+('level1','ZA_1_005',2009,'country','ZA','Medical practitioners',35.8,'KwaZulu-Natal'),
+('level1','ZA_1_005',2009,'country','ZA','Nursing assistants',58.9,'KwaZulu-Natal'),
+('level1','ZA_1_005',2009,'country','ZA','Enrolled nurses',93.9,'KwaZulu-Natal'),
+('level1','ZA_1_005',2009,'country','ZA','Professional nurses',168.5,'KwaZulu-Natal'),
+('level1','ZA_1_009',2009,'country','ZA','Medical researchers',0,'Limpopo'),
+('level1','ZA_1_009',2009,'country','ZA','Dental specialists',0,'Limpopo'),
+('level1','ZA_1_009',2009,'country','ZA','Clinical Associates',0.2,'Limpopo'),
+('level1','ZA_1_009',2009,'country','ZA','Environmental health practitioners',1.2,'Limpopo'),
+('level1','ZA_1_009',2009,'country','ZA','Medical specialists',1.3,'Limpopo'),
+('level1','ZA_1_009',2009,'country','ZA','Psychologists',2.2,'Limpopo'),
+('level1','ZA_1_009',2009,'country','ZA','Dental therapists',2.5,'Limpopo'),
+('level1','ZA_1_009',2009,'country','ZA','Physiotherapists',3.4,'Limpopo'),
+('level1','ZA_1_009',2009,'country','ZA','Dental practitioners',3.4,'Limpopo'),
+('level1','ZA_1_009',2009,'country','ZA','Radiographers',3.5,'Limpopo'),
+('level1','ZA_1_009',2009,'country','ZA','Occupational therapists',4.1,'Limpopo'),
+('level1','ZA_1_009',2009,'country','ZA','Student nurses',5.2,'Limpopo'),
+('level1','ZA_1_009',2009,'country','ZA','Pharmacists',10.8,'Limpopo'),
+('level1','ZA_1_009',2009,'country','ZA','Medical practitioners',24.5,'Limpopo'),
+('level1','ZA_1_009',2009,'country','ZA','Enrolled nurses',70.4,'Limpopo'),
+('level1','ZA_1_009',2009,'country','ZA','Nursing assistants',83.5,'Limpopo'),
+('level1','ZA_1_009',2009,'country','ZA','Professional nurses',165.2,'Limpopo'),
+('level1','ZA_1_008',2009,'country','ZA','Dental specialists',0,'Mpumalanga'),
+('level1','ZA_1_008',2009,'country','ZA','Dental therapists',0.4,'Mpumalanga'),
+('level1','ZA_1_008',2009,'country','ZA','Psychologists',1,'Mpumalanga'),
+('level1','ZA_1_008',2009,'country','ZA','Environmental health practitioners',1.3,'Mpumalanga'),
+('level1','ZA_1_008',2009,'country','ZA','Clinical Associates',1.7,'Mpumalanga'),
+('level1','ZA_1_008',2009,'country','ZA','Medical specialists',1.9,'Mpumalanga'),
+('level1','ZA_1_008',2009,'country','ZA','Occupational therapists',2.4,'Mpumalanga'),
+('level1','ZA_1_008',2009,'country','ZA','Physiotherapists',2.7,'Mpumalanga'),
+('level1','ZA_1_008',2009,'country','ZA','Dental practitioners',2.7,'Mpumalanga'),
+('level1','ZA_1_008',2009,'country','ZA','Radiographers',3.6,'Mpumalanga'),
+('level1','ZA_1_008',2009,'country','ZA','Pharmacists',8.1,'Mpumalanga'),
+('level1','ZA_1_008',2009,'country','ZA','Student nurses',14.6,'Mpumalanga'),
+('level1','ZA_1_008',2009,'country','ZA','Medical practitioners',26.1,'Mpumalanga'),
+('level1','ZA_1_008',2009,'country','ZA','Nursing assistants',37,'Mpumalanga'),
+('level1','ZA_1_008',2009,'country','ZA','Enrolled nurses',46.3,'Mpumalanga'),
+('level1','ZA_1_008',2009,'country','ZA','Professional nurses',142.1,'Mpumalanga'),
+('level1','ZA_1_003',2009,'country','ZA','Clinical Associates',0.2,'Northern Cape'),
+('level1','ZA_1_003',2009,'country','ZA','Medical researchers',0.2,'Northern Cape'),
+('level1','ZA_1_003',2009,'country','ZA','Dental therapists',0.8,'Northern Cape'),
+('level1','ZA_1_003',2009,'country','ZA','Psychologists',2,'Northern Cape'),
+('level1','ZA_1_003',2009,'country','ZA','Medical specialists',2.3,'Northern Cape'),
+('level1','ZA_1_003',2009,'country','ZA','Environmental health practitioners',2.5,'Northern Cape'),
+('level1','ZA_1_003',2009,'country','ZA','Dental practitioners',3.8,'Northern Cape'),
+('level1','ZA_1_003',2009,'country','ZA','Occupational therapists',5.4,'Northern Cape'),
+('level1','ZA_1_003',2009,'country','ZA','Physiotherapists',5.9,'Northern Cape'),
+('level1','ZA_1_003',2009,'country','ZA','Radiographers',8.6,'Northern Cape'),
+('level1','ZA_1_003',2009,'country','ZA','Pharmacists',17.2,'Northern Cape'),
+('level1','ZA_1_003',2009,'country','ZA','Enrolled nurses',22.9,'Northern Cape'),
+('level1','ZA_1_003',2009,'country','ZA','Medical practitioners',42.2,'Northern Cape'),
+('level1','ZA_1_003',2009,'country','ZA','Nursing assistants',82.6,'Northern Cape'),
+('level1','ZA_1_003',2009,'country','ZA','Professional nurses',147,'Northern Cape'),
+('level1','ZA_1_006',2009,'country','ZA','Dental therapists',0.4,'North West'),
+('level1','ZA_1_006',2009,'country','ZA','Student nurses',0.7,'North West'),
+('level1','ZA_1_006',2009,'country','ZA','Clinical Associates',0.9,'North West'),
+('level1','ZA_1_006',2009,'country','ZA','Psychologists',1.2,'North West'),
+('level1','ZA_1_006',2009,'country','ZA','Environmental health practitioners',1.5,'North West'),
+('level1','ZA_1_006',2009,'country','ZA','Occupational therapists',1.9,'North West'),
+('level1','ZA_1_006',2009,'country','ZA','Dental practitioners',2.2,'North West'),
+('level1','ZA_1_006',2009,'country','ZA','Physiotherapists',2.9,'North West'),
+('level1','ZA_1_006',2009,'country','ZA','Radiographers',3.3,'North West'),
+('level1','ZA_1_006',2009,'country','ZA','Medical specialists',3.5,'North West'),
+('level1','ZA_1_006',2009,'country','ZA','Pharmacists',8.7,'North West'),
+('level1','ZA_1_006',2009,'country','ZA','Medical practitioners',25.9,'North West'),
+('level1','ZA_1_006',2009,'country','ZA','Enrolled nurses',27.5,'North West'),
+('level1','ZA_1_006',2009,'country','ZA','Nursing assistants',78.1,'North West'),
+('level1','ZA_1_006',2009,'country','ZA','Professional nurses',136,'North West'),
+('level1','ZA_1_001',2009,'country','ZA','Dental therapists',0,'Western Cape'),
+('level1','ZA_1_001',2009,'country','ZA','Medical researchers',0.1,'Western Cape'),
+('level1','ZA_1_001',2009,'country','ZA','Dental specialists',0.6,'Western Cape'),
+('level1','ZA_1_001',2009,'country','ZA','Psychologists',1.7,'Western Cape'),
+('level1','ZA_1_001',2009,'country','ZA','Occupational therapists',2.9,'Western Cape'),
+('level1','ZA_1_001',2009,'country','ZA','Physiotherapists',3,'Western Cape'),
+('level1','ZA_1_001',2009,'country','ZA','Dental practitioners',3.3,'Western Cape'),
+('level1','ZA_1_001',2009,'country','ZA','Radiographers',9,'Western Cape'),
+('level1','ZA_1_001',2009,'country','ZA','Pharmacists',18.9,'Western Cape'),
+('level1','ZA_1_001',2009,'country','ZA','Medical specialists',25,'Western Cape'),
+('level1','ZA_1_001',2009,'country','ZA','Medical practitioners',38.9,'Western Cape'),
+('level1','ZA_1_001',2009,'country','ZA','Enrolled nurses',50,'Western Cape'),
+('level1','ZA_1_001',2009,'country','ZA','Nursing assistants',79.5,'Western Cape'),
+('level1','ZA_1_001',2009,'country','ZA','Professional nurses',103.2,'Western Cape'),
+('country','ZA',2009,'continent','AFR','Medical researchers',0.1,'South Africa'),
+('country','ZA',2009,'continent','AFR','Dental specialists',0.3,'South Africa'),
+('country','ZA',2009,'continent','AFR','Dental therapists',0.7,'South Africa'),
+('country','ZA',2009,'continent','AFR','Clinical Associates',0.8,'South Africa'),
+('country','ZA',2009,'continent','AFR','Environmental health practitioners',1,'South Africa'),
+('country','ZA',2009,'continent','AFR','Psychologists',1.4,'South Africa'),
+('country','ZA',2009,'continent','AFR','Dental practitioners',2.5,'South Africa'),
+('country','ZA',2009,'continent','AFR','Occupational therapists',2.6,'South Africa'),
+('country','ZA',2009,'continent','AFR','Physiotherapists',3,'South Africa'),
+('country','ZA',2009,'continent','AFR','Radiographers',5.8,'South Africa'),
+('country','ZA',2009,'continent','AFR','Student nurses',7.6,'South Africa'),
+('country','ZA',2009,'continent','AFR','Medical specialists',9.7,'South Africa'),
+('country','ZA',2009,'continent','AFR','Pharmacists',11.6,'South Africa'),
+('country','ZA',2009,'continent','AFR','Medical practitioners',32,'South Africa'),
+('country','ZA',2009,'continent','AFR','Enrolled nurses',62.7,'South Africa'),
+('country','ZA',2009,'continent','AFR','Nursing assistants',68.3,'South Africa'),
+('country','ZA',2009,'continent','AFR','Professional nurses',144.8,'South Africa') ON CONFLICT DO NOTHING;
+      
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allHealthProfessionalsPer100000Uninsureds','"South African Health Review, 2019"','https://open.africa/dataset/south-african-health-review-2019/resource/886a8faa-7444-4cc5-9adc-5d72d2d62a67') ON CONFLICT DO NOTHING;
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allHealthProfessionalsPer100000Uninsureds','"South African Health Review, 2019"','https://open.africa/dataset/south-african-health-review-2019/resource/886a8faa-7444-4cc5-9adc-5d72d2d62a67') ON CONFLICT DO NOTHING;
