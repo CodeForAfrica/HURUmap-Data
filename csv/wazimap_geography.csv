@@ -144,16 +144,16 @@ id,geo_level,geo_code,parent_level,parent_code,version,name,long_name,square_kms
 143,level1,ET_1_009,country,ET,2009,SNNPR,SNNPR,105476
 144,level1,ET_1_010,country,ET,2009,Somali,Somali,279252
 145,level1,ET_1_011,country,ET,2009,Tigray,Tigray,84722
-146,country,ZA,continent,AFR,2009,South Africa,South Africa,1221037
-147,level1,ZA_1_005,country,ZA,2009,KwaZulu-Natal,KwaZulu-Natal,94361
-148,level1,ZA_1_004,country,ZA,2009,Free State,KwaZulu-Natal,129825
-149,level1,ZA_1_002,country,ZA,2009,Eastern Cape,KwaZulu-Natal,168966
-150,level1,ZA_1_008,country,ZA,2009,Mpumalanga,KwaZulu-Natal,76495
-151,level1,ZA_1_009,country,ZA,2009,Limpopo,KwaZulu-Natal,125754
-152,level1,ZA_1_003,country,ZA,2009,Northern Cape,KwaZulu-Natal,372889
-153,level1,ZA_1_006,country,ZA,2009,North West,KwaZulu-Natal,104882
-154,level1,ZA_1_001,country,ZA,2009,Western Cape,KwaZulu-Natal,129462
-155,level1,ZA_1_007,country,ZA,2009,Gauteng,KwaZulu-Natal,18178
+146,country,ZA,continent,AFR,2009,South Africa,South Africa,1229341.489
+147,level1,ZA_1_005,country,ZA,2009,KwaZulu-Natal,KwaZulu-Natal,94451.0198
+148,level1,ZA_1_004,country,ZA,2009,Free State,Free State,130011.4865
+149,level1,ZA_1_002,country,ZA,2009,Eastern Cape,Eastern Cape,169309.8341
+150,level1,ZA_1_008,country,ZA,2009,Mpumalanga,Mpumalanga,76544.3039
+151,level1,ZA_1_009,country,ZA,2009,Limpopo,Limpopo,125806.0524
+152,level1,ZA_1_003,country,ZA,2009,Northern Cape,Northern Cape,378276.6097
+153,level1,ZA_1_006,country,ZA,2009,North West,North West,105238.1313
+154,level1,ZA_1_001,country,ZA,2009,Western Cape,Western Cape,131521.5591
+155,level1,ZA_1_007,country,ZA,2009,Gauteng,Gauteng,18182.4923
 156,country,UG,continent,AFR,2009,Uganda,Uganda,241038
 157,country,ZM,continent,AFR,2009,Zambia,Zambia,752618
 158,country,BF,continent,AFR,2009,Burkina Faso,Burkina Faso,274200
