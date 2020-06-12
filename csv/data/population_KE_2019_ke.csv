@@ -1,0 +1,387 @@
+geo_level,geo_code,name,variable,total
+county,30,Baringo,Baringo,666763
+county,36,Bomet,Bomet,875689
+county,39,Bungoma,Bungoma,1670570
+county,40,Busia,Busia,893681
+county,28,Elgeyo-Marakwet,Elgeyo-Marakwet,454480
+county,14,Embu,Embu,608599
+county,7,Garissa,Garissa,841353
+county,43,Homa Bay,Homa Bay,1131950
+county,11,Isiolo,Isiolo,268002
+county,34,Kajiado,Kajiado,1117840
+county,37,Kakamega,Kakamega,1867579
+country,KE,Kenya,Kenya,47564296
+county,35,Kericho,Kericho,901777
+county,22,Kiambu,Kiambu,2417735
+county,3,Kilifi,Kilifi,1453787
+county,20,Kirinyaga,Kirinyaga,610411
+county,45,Kisii,Kisii,1266860
+county,42,Kisumu,Kisumu,1155574
+county,15,Kitui,Kitui,1136187
+county,2,Kwale,Kwale,866820
+county,31,Laikipia,Laikipia,518560
+county,5,Lamu,Lamu,143920
+county,16,Machakos,Machakos,1421932
+county,17,Makueni,Makueni,987653
+county,9,Mandera,Mandera,867457
+county,10,Marsabit,Marsabit,459785
+county,12,Meru,Meru,1545714
+county,44,Migori,Migori,1116436
+county,1,Mombasa,Mombasa,1208333
+county,21,Murang'a,Murang'a,1056640
+county,47,Nairobi,Nairobi,4397073
+county,32,Nakuru,Nakuru,2162202
+county,29,Nandi,Nandi,885711
+county,33,Narok,Narok,1157873
+county,46,Nyamira,Nyamira,605576
+county,18,Nyandarua,Nyandarua,638289
+county,19,Nyeri,Nyeri,759164
+county,25,Samburu,Samburu,310327
+county,41,Siaya,Siaya,993183
+county,6,Taita Taveta,Taita Taveta,340671
+county,4,Tana River,Tana River,315943
+county,13,Tharaka-Nithi,Tharaka-Nithi,393177
+county,26,Trans Nzoia,Trans Nzoia,990341
+county,23,Turkana,Turkana,926976
+county,27,Uasin Gishu,Uasin Gishu,1163186
+county,38,Vihiga,Vihiga,590013
+county,8,Wajir,Wajir,781263
+county,24,West Pokot,West Pokot,621241
+subcounty,,Aberdare Forest,Aberdare Forest,164
+subcounty,,Ainabkoi,Ainabkoi,138184
+subcounty,,Athi River,Athi River,322499
+subcounty,,Awendo,Awendo,117290
+subcounty,,Balambala,Balambala,32257
+subcounty,,Banisa,Banisa,152598
+subcounty,,Baringo Central,Baringo Central,96951
+subcounty,,Baringo North,Baringo North,104871
+subcounty,,Belgut,Belgut,145072
+subcounty,,Bomet Central,Bomet Central,175215
+subcounty,,Bomet East,Bomet East,144275
+subcounty,,Bondo,Bondo,197883
+subcounty,,Borabu,Borabu,73167
+subcounty,,Bumula,Bumula,215892
+subcounty,,Buna,Buna,49886
+subcounty,,Bungoma Central,Bungoma Central,177748
+subcounty,,Bungoma East,Bungoma East,114548
+subcounty,,Bungoma North,Bungoma North,121317
+subcounty,,Bungoma South,Bungoma South,287765
+subcounty,,Bungoma West,Bungoma West,119875
+subcounty,,Bunyala,Bunyala,85977
+subcounty,,Bureti,Bureti,199470
+subcounty,,Busia,Busia,142408
+subcounty,,Butere,Butere,154100
+subcounty,,Butula,Butula,140334
+subcounty,,Buuri East,Buuri East,76598
+subcounty,,Buuri West,Buuri West,80762
+subcounty,,Changamwe,Changamwe,131882
+subcounty,,Chepalungu,Chepalungu,164837
+subcounty,,Cheptais,Cheptais,136035
+subcounty,,Chesumei,Chesumei,164133
+subcounty,,Chonyi,Chonyi,62335
+subcounty,,Dadaab,Dadaab,185252
+subcounty,,Dagoretti,Dagoretti,434208
+subcounty,,East Pokot,East Pokot,79923
+subcounty,,Eldas,Eldas,88509
+subcounty,,Embakasi,Embakasi,988808
+subcounty,,Embu East,Embu East,129564
+subcounty,,Embu North,Embu North,79556
+subcounty,,Embu West,Embu West,127100
+subcounty,,Emuhaya,Emuhaya,97141
+subcounty,,Endebess,Endebess,111782
+subcounty,,Etago,Etago,83787
+subcounty,,Fafi,Fafi,134040
+subcounty,,Ganze,Ganze,143906
+subcounty,,Garbatulla,Garbatulla,99730
+subcounty,,Garissa,Garissa,163914
+subcounty,,Gatanga,Gatanga,187989
+subcounty,,Gatundu North,Gatundu North,109870
+subcounty,,Gatundu South,Gatundu South,122103
+subcounty,,Gem,Gem,179792
+subcounty,,Gilgil,Gilgil,185209
+subcounty,,Githunguri,Githunguri,165232
+subcounty,,Gucha,Gucha,83740
+subcounty,,Gucha South,Gucha South,83623
+subcounty,,Habaswein,Habaswein,174134
+subcounty,,Hamisi,Hamisi,159241
+subcounty,,Homa Bay,Homa Bay,117439
+subcounty,,Hulugho,Hulugho,133984
+subcounty,,Igam bang'ombe,Igam bang'ombe,53210
+subcounty,,Igem be Central,Igem be Central,221412
+subcounty,,Igembe North,Igembe North,169317
+subcounty,,Igembe South,Igembe South,161646
+subcounty,,Ijara,Ijara,141591
+subcounty,,Ikutha,Ikutha,82964
+subcounty,,Imenti North,Imenti North,177567
+subcounty,,Imenti South,Imenti South,206506
+subcounty,,Isinya,Isinya,210473
+subcounty,,Isiolo,Isiolo,121066
+subcounty,,Jomvu,Jomvu,163415
+subcounty,,Juja,Juja,300948
+subcounty,,Kabete,Kabete,199653
+subcounty,,Kahuro,Kahuro,88193
+subcounty,,Kajiado Central,Kajiado Central,161862
+subcounty,,Kajiado North,Kajiado North,306596
+subcounty,,Kajiado West,Kajiado West,182849
+subcounty,,Kakamega Central,Kakamega Central,188212
+subcounty,,Kakamega East,Kakamega East,167641
+subcounty,,Kakamega Forest,Kakamega Forest,17
+subcounty,,Kakamega North,Kakamega North,238330
+subcounty,,Kakamega South,Kakamega South,111743
+subcounty,,Kalama,Kalama,54462
+subcounty,,Kaloleni,Kaloleni,193682
+subcounty,,Kamukunji,Kamukunji,268276
+subcounty,,Kandara,Kandara,175098
+subcounty,,Kangema,Kangema,80447
+subcounty,,Kangundo,Kangundo,97917
+subcounty,,Kapseret,Kapseret,198499
+subcounty,,Kasarani,Kasarani,780656
+subcounty,,Kathiani,Kathiani,111890
+subcounty,,Kathonzweni,Kathonzweni,79780
+subcounty,,Katulani,Katulani,47108
+subcounty,,Kauma,Kauma,22638
+subcounty,,Keiyo North,Keiyo North,99176
+subcounty,,Keiyo South,Keiyo South,120750
+subcounty,,Kenyenya,Kenyenya,131740
+subcounty,,Kericho East,Kericho East,170625
+subcounty,,Kesses,Kesses,148798
+subcounty,,Khwisero,Khwisero,113476
+subcounty,,Kiambaa,Kiambaa,236400
+subcounty,,Kiambu,Kiambu,145903
+subcounty,,Kibish,Kibish,36769
+subcounty,,Kibra,Kibra,185777
+subcounty,,Kibwezi,Kibwezi,197000
+subcounty,,Kieni East,Kieni East,110376
+subcounty,,Kieni West,Kieni West,88525
+subcounty,,Kigumo,Kigumo,136921
+subcounty,,Kikuyu,Kikuyu,187122
+subcounty,,Kilifi North,Kilifi North,178824
+subcounty,,Kilifi South,Kilifi South,206753
+subcounty,,Kilungu,Kilungu,60952
+subcounty,,Kimilili-Bungoma,Kimilili-Bungoma,162038
+subcounty,,Kiminini,Kiminini,242823
+subcounty,,Kinango,Kinango,94220
+subcounty,,Kinangop,Kinangop,111410
+subcounty,,Kipipiri,Kipipiri,93855
+subcounty,,Kipkelion,Kipkelion,122530
+subcounty,,Kipkomo,Kipkomo,102633
+subcounty,,Kirinyaga Central,Kirinyaga Central,122740
+subcounty,,Kirinyaga East,Kirinyaga East,135559
+subcounty,,Kirinyaga West,Kirinyaga West,114660
+subcounty,,Kisasi,Kisasi,46142
+subcounty,,Kisauni,Kisauni,291930
+subcounty,,Kisii Central,Kisii Central,166906
+subcounty,,Kisii South,Kisii South,135134
+subcounty,,Kisumu Central,Kisumu Central,174145
+subcounty,,Kisumu East,Kisumu East,220997
+subcounty,,Kisumu West,Kisumu West,172821
+subcounty,,Kitui Central,Kitui Central,105991
+subcounty,,Kitui West,Kitui West,70871
+subcounty,,Kitutu Central,Kitutu Central,154175
+subcounty,,Koibatek,Koibatek,129535
+subcounty,,Konoin,Konoin,163507
+subcounty,,Kuresoi North,Kuresoi North,175074
+subcounty,,Kuresoi South,Kuresoi South,155324
+subcounty,,Kuria East,Kuria East,96872
+subcounty,,Kuria West,Kuria West,208513
+subcounty,,Kutulo,Kutulo,72394
+subcounty,,Kwanza,Kwanza,203821
+subcounty,,Kyuso,Kyuso,76867
+subcounty,,Lafey,Lafey,83457
+subcounty,,Lagdera,Lagdera,50315
+subcounty,,Laikipia Central,Laikipia Central,95594
+subcounty,,Laikipia East,Laikipia East,102815
+subcounty,,Laikipia North,Laikipia North,36184
+subcounty,,Laikipia West,Laikipia West,129263
+subcounty,,Lamu East,Lamu East,22258
+subcounty,,Lamu West,Lamu West,121662
+subcounty,,Lang'ata,Lang'ata,197489
+subcounty,,Lari,Lari,135303
+subcounty,,Likoni,Likoni,250358
+subcounty,,Likuyani,Likuyani,152055
+subcounty,,Limuru,Limuru,159314
+subcounty,,Loima,Loima,107795
+subcounty,,Loitokitok,Loitokitok,191846
+subcounty,,Loiyangalani,Loiyangalani,35713
+subcounty,,Londiani,Londiani,137580
+subcounty,,Lower Yatta,Lower Yatta,63329
+subcounty,,Luanda,Luanda,106694
+subcounty,,Lugari,Lugari,122728
+subcounty,,Lungalunga,Lungalunga,198423
+subcounty,,Maara,Maara,114894
+subcounty,,Machakos,Machakos,170606
+subcounty,,Magarini,Magarini,191610
+subcounty,,Makadara,Makadara,189536
+subcounty,,Makindu,Makindu,84946
+subcounty,,Makueni,Makueni,130375
+subcounty,,Malindi,Malindi,333226
+subcounty,,Mandera Central,Mandera Central,157220
+subcounty,,Mandera East,Mandera East,159638
+subcounty,,Mandera North,Mandera North,143850
+subcounty,,Mandera West,Mandera West,98300
+subcounty,,Manga,Manga,94209
+subcounty,,Marakwet East,Marakwet East,97041
+subcounty,,Marakwet West,Marakwet West,137513
+subcounty,,Marani,Marani,107464
+subcounty,,Marigat,Marigat,90955
+subcounty,,Mars abit Central,Mars abit Central,79181
+subcounty,,Marsabit North,Marsabit North,54297
+subcounty,,Marsabit South,Marsabit South,65376
+subcounty,,Mas aba South,Mas aba South,122396
+subcounty,,Mas huuru,Mas huuru,64214
+subcounty,,Masaba North,Masaba North,111860
+subcounty,,Masinga,Masinga,148522
+subcounty,,Matete,Matete,66172
+subcounty,,Mathare,Mathare,206564
+subcounty,,Mathioya,Mathioya,92814
+subcounty,,Mathira East,Mathira East,99065
+subcounty,,Mathira West,Mathira West,59895
+subcounty,,Matinyani,Matinyani,47811
+subcounty,,Matuga,Matuga,194252
+subcounty,,Matungu,Matungu,166940
+subcounty,,Matungulu,Matungulu,161557
+subcounty,,Mau Forest,Mau Forest,32
+subcounty,,Mbeere North,Mbeere North,108881
+subcounty,,Mbeere South,Mbeere South,163476
+subcounty,,Mbooni East,Mbooni East,97756
+subcounty,,Mbooni West,Mbooni West,102594
+subcounty,,Merti,Merti,47206
+subcounty,,Meru Central,Meru Central,133818
+subcounty,,Meru National Park,Meru National Park,385
+subcounty,,Meru South,Meru South,91080
+subcounty,,Migwani,Migwani,79255
+subcounty,,Mirangine,Mirangine,67214
+subcounty,,Mogotio,Mogotio,91104
+subcounty,,Moiben,Moiben,181338
+subcounty,,Molo,Molo,156732
+subcounty,,Moyale,Moyale,108949
+subcounty,,Msambweni,Msambweni,177690
+subcounty,,Mt Elgon,Mt Elgon,78873
+subcounty,,Mt Elgon Forest,Mt Elgon Forest,3621
+subcounty,,Mt Kenya Forest,Mt Kenya Forest,1163
+subcounty,,Muhoroni,Muhoroni,154116
+subcounty,,Mukaa,Mukaa,107549
+subcounty,,Mukurwe-ini,Mukurwe-ini,89137
+subcounty,,Mum oni,Mum oni,29344
+subcounty,,Mumias East,Mumias East,116851
+subcounty,,Mumias West,Mumias West,115354
+subcounty,,Murang'a East,Murang'a East,110311
+subcounty,,Murang'a South,Murang'a South,184824
+subcounty,,Mutitu,Mutitu,55287
+subcounty,,Mutitu North,Mutitu North,21215
+subcounty,,Mutomo,Mutomo,113356
+subcounty,,Mvita,Mvita,154171
+subcounty,,Mwala,Mwala,181896
+subcounty,,Mwatate,Mwatate,81659
+subcounty,,Mwea East,Mwea East,132554
+subcounty,,Mwea West,Mwea West,104828
+subcounty,,Mwingi Central,Mwingi Central,108713
+subcounty,,Mwingi East,Mwingi East,85139
+subcounty,,Naivasha,Naivasha,355383
+subcounty,,Nakuru East,Nakuru East,193926
+subcounty,,Nakuru North,Nakuru North,218050
+subcounty,,Nakuru West,Nakuru West,198661
+subcounty,,Nambale,Nambale,111636
+subcounty,,Nandi Central,Nandi Central,147553
+subcounty,,Nandi East,Nandi East,119173
+subcounty,,Nandi North,Nandi North,166171
+subcounty,,Nandi South,Nandi South,172750
+subcounty,,Narok East,Narok East,115323
+subcounty,,Narok North,Narok North,251862
+subcounty,,Narok South,Narok South,238472
+subcounty,,Narok West,Narok West,195287
+subcounty,,Navakholo,Navakholo,153977
+subcounty,,Ndhiwa,Ndhiwa,218136
+subcounty,,Njiru,Njiru,626482
+subcounty,,Njoro,Njoro,238773
+subcounty,,North Horr,North Horr,71447
+subcounty,,Nyahururu,Nyahururu,154704
+subcounty,,Nyakach,Nyakach,150320
+subcounty,,Nyali,Nyali,216577
+subcounty,,Nyamache,Nyamache,130898
+subcounty,,Nyamira North,Nyamira North,167267
+subcounty,,Nyamira South,Nyamira South,159073
+subcounty,,Nyandarua Central,Nyandarua Central,75262
+subcounty,,Nyandarua North,Nyandarua North,98698
+subcounty,,Nyandarua South,Nyandarua South,93870
+subcounty,,Nyandarua West,Nyandarua West,97965
+subcounty,,Nyando,Nyando,161508
+subcounty,,Nyatike,Nyatike,176162
+subcounty,,Nyeri Central,Nyeri Central,140338
+subcounty,,Nyeri South,Nyeri South,91081
+subcounty,,Nzambani,Nzambani,46788
+subcounty,,Nzaui,Nzaui,126701
+subcounty,,Pokot Central,Pokot Central,119016
+subcounty,,Pokot North,Pokot North,134485
+subcounty,,Pokot South,Pokot South,80661
+subcounty,,Rabai,Rabai,120813
+subcounty,,Rachuonyo East,Rachuonyo East,121822
+subcounty,,Rachuonyo North,Rachuonyo North,178686
+subcounty,,Rachuonyo South,Rachuonyo South,130814
+subcounty,,Rangwe,Rangwe,117732
+subcounty,,Rarieda,Rarieda,152570
+subcounty,,Rongai,Rongai,199906
+subcounty,,Rongo,Rongo,124587
+subcounty,,Ruiru,Ruiru,371111
+subcounty,,Sabatia,Sabatia,131628
+subcounty,,Samburu Central,Samburu Central,164942
+subcounty,,Samburu East,Samburu East,77994
+subcounty,,Samburu North,Samburu North,67391
+subcounty,,Samburu-Kwale,Samburu-Kwale,202235
+subcounty,,Sameta,Sameta,66997
+subcounty,,Samia,Samia,107176
+subcounty,,Seme,Seme,121667
+subcounty,,Siaya,Siaya,224343
+subcounty,,Soin Sigowet,Soin Sigowet,126500
+subcounty,,Sololo,Sololo,44822
+subcounty,,Sotik,Sotik,227855
+subcounty,,Soy,Soy,229094
+subcounty,,Starehe,Starehe,210423
+subcounty,,Suba North,Suba North,124938
+subcounty,,Suba South,Suba South,122383
+subcounty,,Subukia,Subukia,85164
+subcounty,,Suna East,Suna East,122674
+subcounty,,Suna West,Suna West,128890
+subcounty,,Taita Taveta,Taita Taveta,55959
+subcounty,,Tana Delta,Tana Delta,116757
+subcounty,,Tana North,Tana North,110640
+subcounty,,Tarbaj,Tarbaj,57232
+subcounty,,Taita Taveta,Taita Taveta,91222
+subcounty,,Teso North,Teso North,138034
+subcounty,,Teso South,Teso South,168116
+subcounty,,Tetu,Tetu,80453
+subcounty,,Thagicu,Thagicu,15136
+subcounty,,Tharaka North,Tharaka North,58345
+subcounty,,Tharaka South,Tharaka South,75250
+subcounty,,Thika East,Thika East,38956
+subcounty,,Thika West,Thika West,245820
+subcounty,,Tiaty East,Tiaty East,73424
+subcounty,,Tigania Central,Tigania Central,104730
+subcounty,,Tigania East,Tigania East,72549
+subcounty,,Tigania West,Tigania West,139961
+subcounty,,Tinderet,Tinderet,115931
+subcounty,,Tongaren,Tongaren,100343
+subcounty,,Trans Mara East,Trans Mara East,111183
+subcounty,,Trans Mara West,Trans Mara West,245714
+subcounty,,Trans Nzoia East,Trans Nzoia East,229538
+subcounty,,Trans Nzoia West,Trans Nzoia West,202377
+subcounty,,Tseikuru,Tseikuru,40871
+subcounty,,Turbo,Turbo,267273
+subcounty,,Turkana Central,Turkana Central,185305
+subcounty,,Turkana East,Turkana East,138526
+subcounty,,Turkana North,Turkana North,65218
+subcounty,,Turkana South,Turkana South,153736
+subcounty,,Turkana West,Turkana West,239627
+subcounty,,Ugenya,Ugenya,134354
+subcounty,,Ugunja,Ugunja,104241
+subcounty,,Uriri,Uriri,141448
+subcounty,,Vihiga,Vihiga,95292
+subcounty,,Voi,Voi,111831
+subcounty,,Wajir East,Wajir East,110654
+subcounty,,Wajir North,Wajir North,62206
+subcounty,,Wajir South,Wajir South,116814
+subcounty,,Wajir West,Wajir West,121828
+subcounty,,Webuye West,Webuye West,152515
+subcounty,,West Pokot,West Pokot,184446
+subcounty,,Westlands,Westlands,308854
+subcounty,,Yatta,Yatta,172583
