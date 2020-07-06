@@ -1,0 +1,145 @@
+geo_level,geo_code,geo_version,name,variable,value
+county,30,,Baringo,Bag-valve-mask,15
+county,30,,Baringo,Invasive mechanical,3
+county,30,,Baringo,Non-invasive mechanical,1
+county,36,,Bomet,Bag-valve-mask,4
+county,36,,Bomet,Invasive mechanical,1
+county,36,,Bomet,Non-invasive mechanical,1
+county,39,,Bungoma,Bag-valve-mask,20
+county,39,,Bungoma,Invasive mechanical,3
+county,39,,Bungoma,Non-invasive mechanical,8
+county,40,,Busia,Bag-valve-mask,12
+county,40,,Busia,Invasive mechanical,0
+county,40,,Busia,Non-invasive mechanical,2
+county,28,,Elgeyo-Marakwet,Bag-valve-mask,26
+county,28,,Elgeyo-Marakwet,Invasive mechanical,7
+county,28,,Elgeyo-Marakwet,Non-invasive mechanical,5
+county,14,,Embu,Bag-valve-mask,12
+county,14,,Embu,Invasive mechanical,0
+county,14,,Embu,Non-invasive mechanical,1
+county,7,,Garissa,Bag-valve-mask,11
+county,7,,Garissa,Invasive mechanical,1
+county,7,,Garissa,Non-invasive mechanical,4
+county,43,,Homa Bay,Bag-valve-mask,36
+county,43,,Homa Bay,Invasive mechanical,1
+county,43,,Homa Bay,Non-invasive mechanical,3
+county,11,,Isiolo,Bag-valve-mask,31
+county,11,,Isiolo,Invasive mechanical,3
+county,11,,Isiolo,Non-invasive mechanical,6
+county,34,,Kajiado,Bag-valve-mask,23
+county,34,,Kajiado,Invasive mechanical,2
+county,34,,Kajiado,Non-invasive mechanical,5
+county,37,,Kakamega,Bag-valve-mask,26
+county,37,,Kakamega,Invasive mechanical,2
+county,37,,Kakamega,Non-invasive mechanical,4
+county,35,,Kericho,Bag-valve-mask,8
+county,35,,Kericho,Invasive mechanical,5
+county,35,,Kericho,Non-invasive mechanical,0
+county,22,,Kiambu,Bag-valve-mask,24
+county,22,,Kiambu,Invasive mechanical,6
+county,22,,Kiambu,Non-invasive mechanical,4
+county,3,,Kilifi,Bag-valve-mask,29
+county,3,,Kilifi,Invasive mechanical,4
+county,3,,Kilifi,Non-invasive mechanical,5
+county,20,,Kirinyaga,Bag-valve-mask,17
+county,20,,Kirinyaga,Invasive mechanical,3
+county,20,,Kirinyaga,Non-invasive mechanical,0
+county,45,,Kisii,Bag-valve-mask,14
+county,45,,Kisii,Invasive mechanical,2
+county,45,,Kisii,Non-invasive mechanical,3
+county,42,,Kisumu,Bag-valve-mask,28
+county,42,,Kisumu,Invasive mechanical,4
+county,42,,Kisumu,Non-invasive mechanical,9
+county,15,,Kitui,Bag-valve-mask,13
+county,15,,Kitui,Invasive mechanical,2
+county,15,,Kitui,Non-invasive mechanical,0
+county,2,,Kwale,Bag-valve-mask,35
+county,2,,Kwale,Invasive mechanical,1
+county,2,,Kwale,Non-invasive mechanical,3
+county,31,,Laikipia,Bag-valve-mask,9
+county,31,,Laikipia,Invasive mechanical,0
+county,31,,Laikipia,Non-invasive mechanical,0
+county,5,,Lamu,Bag-valve-mask,19
+county,5,,Lamu,Invasive mechanical,0
+county,5,,Lamu,Non-invasive mechanical,0
+county,16,,Machakos,Bag-valve-mask,17
+county,16,,Machakos,Invasive mechanical,2
+county,16,,Machakos,Non-invasive mechanical,2
+county,17,,Makueni,Bag-valve-mask,32
+county,17,,Makueni,Invasive mechanical,2
+county,17,,Makueni,Non-invasive mechanical,3
+county,9,,Mandera,Bag-valve-mask,11
+county,9,,Mandera,Invasive mechanical,0
+county,9,,Mandera,Non-invasive mechanical,0
+county,10,,Marsabit,Bag-valve-mask,8
+county,10,,Marsabit,Invasive mechanical,3
+county,10,,Marsabit,Non-invasive mechanical,3
+county,12,,Meru,Bag-valve-mask,29
+county,12,,Meru,Invasive mechanical,0
+county,12,,Meru,Non-invasive mechanical,0
+county,44,,Migori,Bag-valve-mask,23
+county,44,,Migori,Invasive mechanical,2
+county,44,,Migori,Non-invasive mechanical,1
+county,1,,Mombasa,Bag-valve-mask,28
+county,1,,Mombasa,Invasive mechanical,2
+county,1,,Mombasa,Non-invasive mechanical,2
+county,21,,Murang'a,Bag-valve-mask,10
+county,21,,Murang'a,Invasive mechanical,4
+county,21,,Murang'a,Non-invasive mechanical,6
+county,47,,Nairobi,Bag-valve-mask,40
+county,47,,Nairobi,Invasive mechanical,14
+county,47,,Nairobi,Non-invasive mechanical,8
+county,32,,Nakuru,Bag-valve-mask,19
+county,32,,Nakuru,Invasive mechanical,6
+county,32,,Nakuru,Non-invasive mechanical,6
+county,29,,Nandi,Bag-valve-mask,26
+county,29,,Nandi,Invasive mechanical,1
+county,29,,Nandi,Non-invasive mechanical,0
+county,33,,Narok,Bag-valve-mask,22
+county,33,,Narok,Invasive mechanical,2
+county,33,,Narok,Non-invasive mechanical,2
+county,46,,Nyamira,Bag-valve-mask,9
+county,46,,Nyamira,Invasive mechanical,1
+county,46,,Nyamira,Non-invasive mechanical,2
+county,18,,Nyandarua,Bag-valve-mask,18
+county,18,,Nyandarua,Invasive mechanical,0
+county,18,,Nyandarua,Non-invasive mechanical,3
+county,19,,Nyeri,Bag-valve-mask,12
+county,19,,Nyeri,Invasive mechanical,4
+county,19,,Nyeri,Non-invasive mechanical,4
+county,25,,Samburu,Bag-valve-mask,37
+county,25,,Samburu,Invasive mechanical,7
+county,25,,Samburu,Non-invasive mechanical,5
+county,41,,Siaya,Bag-valve-mask,31
+county,41,,Siaya,Invasive mechanical,4
+county,41,,Siaya,Non-invasive mechanical,11
+county,6,,Taita-Taveta,Bag-valve-mask,70
+county,6,,Taita-Taveta,Invasive mechanical,2
+county,6,,Taita-Taveta,Non-invasive mechanical,13
+county,4,,Tana River,Bag-valve-mask,12
+county,4,,Tana River,Invasive mechanical,0
+county,4,,Tana River,Non-invasive mechanical,2
+county,13,,Tharaka-Nithi,Bag-valve-mask,13
+county,13,,Tharaka-Nithi,Invasive mechanical,3
+county,13,,Tharaka-Nithi,Non-invasive mechanical,2
+county,26,,Trans-Nzoia,Bag-valve-mask,6
+county,26,,Trans-Nzoia,Invasive mechanical,0
+county,26,,Trans-Nzoia,Non-invasive mechanical,7
+county,23,,Turkana,Bag-valve-mask,4
+county,23,,Turkana,Invasive mechanical,1
+county,23,,Turkana,Non-invasive mechanical,1
+county,27,,Uasin Gishu,Bag-valve-mask,23
+county,27,,Uasin Gishu,Invasive mechanical,8
+county,27,,Uasin Gishu,Non-invasive mechanical,4
+county,38,,Vihiga,Bag-valve-mask,9
+county,38,,Vihiga,Invasive mechanical,7
+county,38,,Vihiga,Non-invasive mechanical,5
+county,8,,Wajir,Bag-valve-mask,10
+county,8,,Wajir,Invasive mechanical,0
+county,8,,Wajir,Non-invasive mechanical,2
+county,24,,West Pokot,Bag-valve-mask,18
+county,24,,West Pokot,Invasive mechanical,1
+county,24,,West Pokot,Non-invasive mechanical,2
+country,KE,,Kenya,Bag-valve-mask,20
+country,KE,,Kenya,Invasive mechanical,3
+country,KE,,Kenya,Non-invasive mechanical,3

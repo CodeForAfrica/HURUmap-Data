@@ -1,0 +1,145 @@
+geo_level,geo_code,geo_version,name,variable,value
+county,30,,Baringo,Diabetes,0.2
+county,36,,Bomet,Diabetes,0.5
+county,39,,Bungoma,Diabetes,0.3
+county,40,,Busia,Diabetes,1.2
+county,28,,Elgeyo-Marakwet,Diabetes,0
+county,14,,Embu,Diabetes,1.7
+county,7,,Garissa,Diabetes,1.9
+county,43,,Homa Bay,Diabetes,0.5
+county,11,,Isiolo,Diabetes,0.9
+county,34,,Kajiado,Diabetes,1
+county,37,,Kakamega,Diabetes,0.4
+country,KE,,Kenya,Diabetes,1.1
+county,35,,Kericho,Diabetes,0.8
+county,22,,Kiambu,Diabetes,3
+county,3,,Kilifi,Diabetes,1.3
+county,20,,Kirinyaga,Diabetes,0.6
+county,45,,Kisii,Diabetes,2
+county,42,,Kisumu,Diabetes,0.2
+county,15,,Kitui,Diabetes,1.2
+county,2,,Kwale,Diabetes,0.7
+county,31,,Laikipia,Diabetes,3.3
+county,5,,Lamu,Diabetes,2.2
+county,16,,Machakos,Diabetes,2.1
+county,17,,Makueni,Diabetes,1.2
+county,9,,Mandera,Diabetes,0.4
+county,10,,Marsabit,Diabetes,0.7
+county,12,,Meru,Diabetes,0.6
+county,44,,Migori,Diabetes,0.2
+county,1,,Mombasa,Diabetes,0.7
+county,21,,Murang'a,Diabetes,1.6
+county,47,,Nairobi,Diabetes,2.5
+county,32,,Nakuru,Diabetes,1.7
+county,29,,Nandi,Diabetes,1.1
+county,33,,Narok,Diabetes,0.3
+county,46,,Nyamira,Diabetes,1.3
+county,18,,Nyandarua,Diabetes,2.8
+county,19,,Nyeri,Diabetes,3.3
+county,25,,Samburu,Diabetes,0.8
+county,41,,Siaya,Diabetes,0.7
+county,6,,Taita-Taveta,Diabetes,0.8
+county,4,,Tana River,Diabetes,0
+county,13,,Tharaka-Nithi,Diabetes,0.5
+county,26,,Trans-Nzoia,Diabetes,0.2
+county,23,,Turkana,Diabetes,0
+county,27,,Uasin Gishu,Diabetes,1.3
+county,38,,Vihiga,Diabetes,0.5
+county,8,,Wajir,Diabetes,2
+county,24,,West Pokot,Diabetes,0.4
+county,30,,Baringo,Heart problem,0.3
+county,36,,Bomet,Heart problem,0.6
+county,39,,Bungoma,Heart problem,0.5
+county,40,,Busia,Heart problem,0.4
+county,28,,Elgeyo-Marakwet,Heart problem,0.3
+county,14,,Embu,Heart problem,0.1
+county,7,,Garissa,Heart problem,0
+county,43,,Homa Bay,Heart problem,0.1
+county,11,,Isiolo,Heart problem,0.6
+county,34,,Kajiado,Heart problem,0
+county,37,,Kakamega,Heart problem,0.1
+country,KE,,Kenya,Heart problem,0.3
+county,35,,Kericho,Heart problem,0.3
+county,22,,Kiambu,Heart problem,0
+county,3,,Kilifi,Heart problem,0.3
+county,20,,Kirinyaga,Heart problem,0.3
+county,45,,Kisii,Heart problem,0
+county,42,,Kisumu,Heart problem,0
+county,15,,Kitui,Heart problem,3
+county,2,,Kwale,Heart problem,0.1
+county,31,,Laikipia,Heart problem,0
+county,5,,Lamu,Heart problem,0
+county,16,,Machakos,Heart problem,1.1
+county,17,,Makueni,Heart problem,0
+county,9,,Mandera,Heart problem,0.3
+county,10,,Marsabit,Heart problem,1.5
+county,12,,Meru,Heart problem,0.8
+county,44,,Migori,Heart problem,0.2
+county,1,,Mombasa,Heart problem,1.3
+county,21,,Murang'a,Heart problem,0
+county,47,,Nairobi,Heart problem,0
+county,32,,Nakuru,Heart problem,0.2
+county,29,,Nandi,Heart problem,0
+county,33,,Narok,Heart problem,0
+county,46,,Nyamira,Heart problem,0.5
+county,18,,Nyandarua,Heart problem,0
+county,19,,Nyeri,Heart problem,0.5
+county,25,,Samburu,Heart problem,0.4
+county,41,,Siaya,Heart problem,0.6
+county,6,,Taita-Taveta,Heart problem,0.1
+county,4,,Tana River,Heart problem,0.8
+county,13,,Tharaka-Nithi,Heart problem,0.4
+county,26,,Trans-Nzoia,Heart problem,0.2
+county,23,,Turkana,Heart problem,0
+county,27,,Uasin Gishu,Heart problem,0.5
+county,38,,Vihiga,Heart problem,0
+county,8,,Wajir,Heart problem,5
+county,24,,West Pokot,Heart problem,0.6
+county,30,,Baringo,TB,0
+county,36,,Bomet,TB,0
+county,39,,Bungoma,TB,0
+county,40,,Busia,TB,0.2
+county,28,,Elgeyo-Marakwet,TB,0.5
+county,14,,Embu,TB,0
+county,7,,Garissa,TB,0
+county,43,,Homa Bay,TB,0.2
+county,11,,Isiolo,TB,0.3
+county,34,,Kajiado,TB,1.3
+county,37,,Kakamega,TB,0
+country,KE,,Kenya,TB,0.3
+county,35,,Kericho,TB,0.2
+county,22,,Kiambu,TB,0
+county,3,,Kilifi,TB,0.3
+county,20,,Kirinyaga,TB,0
+county,45,,Kisii,TB,0
+county,42,,Kisumu,TB,0
+county,15,,Kitui,TB,0.6
+county,2,,Kwale,TB,0.2
+county,31,,Laikipia,TB,0.4
+county,5,,Lamu,TB,0
+county,16,,Machakos,TB,0.4
+county,17,,Makueni,TB,0
+county,9,,Mandera,TB,0.2
+county,10,,Marsabit,TB,0
+county,12,,Meru,TB,0.3
+county,44,,Migori,TB,0.3
+county,1,,Mombasa,TB,0.4
+county,21,,Murang'a,TB,1
+county,47,,Nairobi,TB,0.5
+county,32,,Nakuru,TB,0
+county,29,,Nandi,TB,0.4
+county,33,,Narok,TB,0
+county,46,,Nyamira,TB,0
+county,18,,Nyandarua,TB,0
+county,19,,Nyeri,TB,0
+county,25,,Samburu,TB,0
+county,41,,Siaya,TB,0.5
+county,6,,Taita-Taveta,TB,0
+county,4,,Tana River,TB,0
+county,13,,Tharaka-Nithi,TB,0.4
+county,26,,Trans-Nzoia,TB,0
+county,23,,Turkana,TB,1.3
+county,27,,Uasin Gishu,TB,0.6
+county,38,,Vihiga,TB,0.2
+county,8,,Wajir,TB,1.4
+county,24,,West Pokot,TB,0.5

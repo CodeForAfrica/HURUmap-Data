@@ -1,0 +1,385 @@
+geo_level,geo_code,geo_version,name,variable,value
+county,30,,Baringo,Piped into dwelling,3.6
+county,36,,Bomet,Piped into dwelling,5
+county,39,,Bungoma,Piped into dwelling,3.7
+county,40,,Busia,Piped into dwelling,1.8
+county,28,,Elgeyo-Marakwet,Piped into dwelling,5.6
+county,14,,Embu,Piped into dwelling,20.7
+county,7,,Garissa,Piped into dwelling,3.4
+county,43,,Homa Bay,Piped into dwelling,1
+county,11,,Isiolo,Piped into dwelling,6
+county,34,,Kajiado,Piped into dwelling,7.9
+county,37,,Kakamega,Piped into dwelling,3.1
+country,KE,,Kenya,Piped into dwelling,10.1
+county,35,,Kericho,Piped into dwelling,9.1
+county,22,,Kiambu,Piped into dwelling,22.8
+county,3,,Kilifi,Piped into dwelling,10.2
+county,20,,Kirinyaga,Piped into dwelling,17.2
+county,45,,Kisii,Piped into dwelling,1
+county,42,,Kisumu,Piped into dwelling,8.3
+county,15,,Kitui,Piped into dwelling,2.8
+county,2,,Kwale,Piped into dwelling,4.3
+county,31,,Laikipia,Piped into dwelling,12.5
+county,5,,Lamu,Piped into dwelling,8.4
+county,16,,Machakos,Piped into dwelling,3.4
+county,17,,Makueni,Piped into dwelling,3
+county,9,,Mandera,Piped into dwelling,1.1
+county,10,,Marsabit,Piped into dwelling,0.7
+county,12,,Meru,Piped into dwelling,17.9
+county,44,,Migori,Piped into dwelling,1.2
+county,1,,Mombasa,Piped into dwelling,7.2
+county,12,,Murang'a,Piped into dwelling,16.7
+county,47,,Nairobi,Piped into dwelling,22.7
+county,32,,Nakuru,Piped into dwelling,9.4
+county,29,,Nandi,Piped into dwelling,4.9
+county,33,,Narok,Piped into dwelling,1.5
+county,46,,Nyamira,Piped into dwelling,0.9
+county,18,,Nyandarua,Piped into dwelling,8.8
+county,19,,Nyeri,Piped into dwelling,24.1
+county,25,,Samburu,Piped into dwelling,2
+county,41,,Siaya,Piped into dwelling,1.7
+county,6,,Taita-Taveta,Piped into dwelling,12
+county,4,,Tana River,Piped into dwelling,2.9
+county,13,,Tharaka-Nithi,Piped into dwelling,18.8
+county,26,,Trans-Nzoia,Piped into dwelling,5.3
+county,23,,Turkana,Piped into dwelling,2.5
+county,27,,Uasin Gishu,Piped into dwelling,13.2
+county,38,,Vihiga,Piped into dwelling,1.5
+county,8,,Wajir,Piped into dwelling,1.4
+county,24,,West Pokot,Piped into dwelling,3.4
+county,30,,Baringo,Piped to yard,9.1
+county,36,,Bomet,Piped to yard,5.7
+county,39,,Bungoma,Piped to yard,4.8
+county,40,,Busia,Piped to yard,3.3
+county,28,,Elgeyo-Marakwet,Piped to yard,13
+county,14,,Embu,Piped to yard,28.6
+county,7,,Garissa,Piped to yard,8.6
+county,43,,Homa Bay,Piped to yard,2
+county,11,,Isiolo,Piped to yard,27.2
+county,34,,Kajiado,Piped to yard,10.1
+county,37,,Kakamega,Piped to yard,3.7
+country,KE,,Kenya,Piped to yard,14.1
+county,35,,Kericho,Piped to yard,10.1
+county,22,,Kiambu,Piped to yard,30.2
+county,3,,Kilifi,Piped to yard,13.2
+county,20,,Kirinyaga,Piped to yard,30
+county,45,,Kisii,Piped to yard,1.1
+county,42,,Kisumu,Piped to yard,10.9
+county,15,,Kitui,Piped to yard,2.3
+county,2,,Kwale,Piped to yard,5.5
+county,31,,Laikipia,Piped to yard,19.7
+county,5,,Lamu,Piped to yard,3.7
+county,16,,Machakos,Piped to yard,3.1
+county,17,,Makueni,Piped to yard,3.7
+county,9,,Mandera,Piped to yard,2.3
+county,10,,Marsabit,Piped to yard,1.2
+county,12,,Meru,Piped to yard,24.6
+county,44,,Migori,Piped to yard,1.5
+county,1,,Mombasa,Piped to yard,5.2
+county,12,,Murang'a,Piped to yard,20.7
+county,47,,Nairobi,Piped to yard,28.4
+county,32,,Nakuru,Piped to yard,18.1
+county,29,,Nandi,Piped to yard,7.3
+county,33,,Narok,Piped to yard,3.1
+county,46,,Nyamira,Piped to yard,1
+county,18,,Nyandarua,Piped to yard,18.8
+county,19,,Nyeri,Piped to yard,40.2
+county,25,,Samburu,Piped to yard,4.9
+county,41,,Siaya,Piped to yard,3.4
+county,6,,Taita-Taveta,Piped to yard,24.1
+county,4,,Tana River,Piped to yard,7.8
+county,13,,Tharaka-Nithi,Piped to yard,24.1
+county,26,,Trans-Nzoia,Piped to yard,7.4
+county,23,,Turkana,Piped to yard,6.5
+county,27,,Uasin Gishu,Piped to yard,16.5
+county,38,,Vihiga,Piped to yard,2.8
+county,8,,Wajir,Piped to yard,1.9
+county,24,,West Pokot,Piped to yard,5.1
+county,30,,Baringo,Public tap/standpipe,3.4
+county,36,,Bomet,Public tap/standpipe,4.3
+county,39,,Bungoma,Public tap/standpipe,5.7
+county,40,,Busia,Public tap/standpipe,5.8
+county,28,,Elgeyo-Marakwet,Public tap/standpipe,4.9
+county,14,,Embu,Public tap/standpipe,8.1
+county,7,,Garissa,Public tap/standpipe,11.2
+county,43,,Homa Bay,Public tap/standpipe,5.8
+county,11,,Isiolo,Public tap/standpipe,12.7
+county,34,,Kajiado,Public tap/standpipe,8.6
+county,37,,Kakamega,Public tap/standpipe,3.8
+country,KE,,Kenya,Public tap/standpipe,9.9
+county,35,,Kericho,Public tap/standpipe,5.8
+county,22,,Kiambu,Public tap/standpipe,8
+county,3,,Kilifi,Public tap/standpipe,36
+county,20,,Kirinyaga,Public tap/standpipe,5.9
+county,45,,Kisii,Public tap/standpipe,1
+county,42,,Kisumu,Public tap/standpipe,22.1
+county,15,,Kitui,Public tap/standpipe,9.3
+county,2,,Kwale,Public tap/standpipe,18.3
+county,31,,Laikipia,Public tap/standpipe,6.5
+county,5,,Lamu,Public tap/standpipe,18.3
+county,16,,Machakos,Public tap/standpipe,7.1
+county,17,,Makueni,Public tap/standpipe,9.8
+county,9,,Mandera,Public tap/standpipe,2.6
+county,10,,Marsabit,Public tap/standpipe,7.3
+county,12,,Meru,Public tap/standpipe,6.8
+county,44,,Migori,Public tap/standpipe,3
+county,1,,Mombasa,Public tap/standpipe,20.5
+county,12,,Murang'a,Public tap/standpipe,5
+county,47,,Nairobi,Public tap/standpipe,18.9
+county,32,,Nakuru,Public tap/standpipe,8.6
+county,29,,Nandi,Public tap/standpipe,3.2
+county,33,,Narok,Public tap/standpipe,3.8
+county,46,,Nyamira,Public tap/standpipe,0.6
+county,18,,Nyandarua,Public tap/standpipe,3.3
+county,19,,Nyeri,Public tap/standpipe,5.3
+county,25,,Samburu,Public tap/standpipe,6.1
+county,41,,Siaya,Public tap/standpipe,13
+county,6,,Taita-Taveta,Public tap/standpipe,20.3
+county,4,,Tana River,Public tap/standpipe,10.8
+county,13,,Tharaka-Nithi,Public tap/standpipe,6.9
+county,26,,Trans-Nzoia,Public tap/standpipe,7.4
+county,23,,Turkana,Public tap/standpipe,21.2
+county,27,,Uasin Gishu,Public tap/standpipe,9.4
+county,38,,Vihiga,Public tap/standpipe,1.6
+county,8,,Wajir,Public tap/standpipe,1.6
+county,24,,West Pokot,Public tap/standpipe,3.1
+county,30,,Baringo,Bottled/water vendor,3.5
+county,36,,Bomet,Bottled/water vendor,1.8
+county,39,,Bungoma,Bottled/water vendor,1.9
+county,40,,Busia,Bottled/water vendor,2.6
+county,28,,Elgeyo-Marakwet,Bottled/water vendor,0.5
+county,14,,Embu,Bottled/water vendor,4.7
+county,7,,Garissa,Bottled/water vendor,3.6
+county,43,,Homa Bay,Bottled/water vendor,3.7
+county,11,,Isiolo,Bottled/water vendor,4.6
+county,34,,Kajiado,Bottled/water vendor,35.2
+county,37,,Kakamega,Bottled/water vendor,1.2
+country,KE,,Kenya,Bottled/water vendor,11.3
+county,35,,Kericho,Bottled/water vendor,2.3
+county,22,,Kiambu,Bottled/water vendor,12.4
+county,3,,Kilifi,Bottled/water vendor,11.6
+county,20,,Kirinyaga,Bottled/water vendor,2.9
+county,45,,Kisii,Bottled/water vendor,1.1
+county,42,,Kisumu,Bottled/water vendor,8.5
+county,15,,Kitui,Bottled/water vendor,6.8
+county,2,,Kwale,Bottled/water vendor,5
+county,31,,Laikipia,Bottled/water vendor,3.4
+county,5,,Lamu,Bottled/water vendor,9.5
+county,16,,Machakos,Bottled/water vendor,22.5
+county,17,,Makueni,Bottled/water vendor,12.1
+county,9,,Mandera,Bottled/water vendor,17.1
+county,10,,Marsabit,Bottled/water vendor,16.6
+county,12,,Meru,Bottled/water vendor,11.8
+county,44,,Migori,Bottled/water vendor,3.3
+county,1,,Mombasa,Bottled/water vendor,54.9
+county,12,,Murang'a,Bottled/water vendor,4.5
+county,47,,Nairobi,Bottled/water vendor,24
+county,32,,Nakuru,Bottled/water vendor,15.9
+county,29,,Nandi,Bottled/water vendor,0.8
+county,33,,Narok,Bottled/water vendor,8
+county,46,,Nyamira,Bottled/water vendor,0.7
+county,18,,Nyandarua,Bottled/water vendor,3.1
+county,19,,Nyeri,Bottled/water vendor,2.4
+county,25,,Samburu,Bottled/water vendor,3.8
+county,41,,Siaya,Bottled/water vendor,4.4
+county,6,,Taita-Taveta,Bottled/water vendor,11.8
+county,4,,Tana River,Bottled/water vendor,5.5
+county,13,,Tharaka-Nithi,Bottled/water vendor,2.1
+county,26,,Trans-Nzoia,Bottled/water vendor,3
+county,23,,Turkana,Bottled/water vendor,3
+county,27,,Uasin Gishu,Bottled/water vendor,3.5
+county,38,,Vihiga,Bottled/water vendor,1.3
+county,8,,Wajir,Bottled/water vendor,7.8
+county,24,,West Pokot,Bottled/water vendor,0.8
+county,30,,Baringo,Borehole/tube well,10.1
+county,36,,Bomet,Borehole/tube well,2
+county,39,,Bungoma,Borehole/tube well,11.6
+county,40,,Busia,Borehole/tube well,28.6
+county,28,,Elgeyo-Marakwet,Borehole/tube well,5.1
+county,14,,Embu,Borehole/tube well,5.5
+county,7,,Garissa,Borehole/tube well,26.3
+county,43,,Homa Bay,Borehole/tube well,12.5
+county,11,,Isiolo,Borehole/tube well,12
+county,34,,Kajiado,Borehole/tube well,22.3
+county,37,,Kakamega,Borehole/tube well,10.1
+country,KE,,Kenya,Borehole/tube well,9.9
+county,35,,Kericho,Borehole/tube well,4
+county,22,,Kiambu,Borehole/tube well,10.3
+county,3,,Kilifi,Borehole/tube well,4
+county,20,,Kirinyaga,Borehole/tube well,3.7
+county,45,,Kisii,Borehole/tube well,1.1
+county,42,,Kisumu,Borehole/tube well,11.4
+county,15,,Kitui,Borehole/tube well,13.2
+county,2,,Kwale,Borehole/tube well,12.7
+county,31,,Laikipia,Borehole/tube well,10.3
+county,5,,Lamu,Borehole/tube well,7
+county,16,,Machakos,Borehole/tube well,23.2
+county,17,,Makueni,Borehole/tube well,11.8
+county,9,,Mandera,Borehole/tube well,21.3
+county,10,,Marsabit,Borehole/tube well,23.2
+county,12,,Meru,Borehole/tube well,7.5
+county,44,,Migori,Borehole/tube well,8.1
+county,1,,Mombasa,Borehole/tube well,5.2
+county,12,,Murang'a,Borehole/tube well,6.2
+county,47,,Nairobi,Borehole/tube well,4.3
+county,32,,Nakuru,Borehole/tube well,10.4
+county,29,,Nandi,Borehole/tube well,6.9
+county,33,,Narok,Borehole/tube well,4.5
+county,46,,Nyamira,Borehole/tube well,1
+county,18,,Nyandarua,Borehole/tube well,5.4
+county,19,,Nyeri,Borehole/tube well,1
+county,25,,Samburu,Borehole/tube well,15.8
+county,41,,Siaya,Borehole/tube well,12.9
+county,6,,Taita-Taveta,Borehole/tube well,5.1
+county,4,,Tana River,Borehole/tube well,22.1
+county,13,,Tharaka-Nithi,Borehole/tube well,5.1
+county,26,,Trans-Nzoia,Borehole/tube well,16.3
+county,23,,Turkana,Borehole/tube well,13.2
+county,27,,Uasin Gishu,Borehole/tube well,14.9
+county,38,,Vihiga,Borehole/tube well,2.1
+county,8,,Wajir,Borehole/tube well,31.7
+county,24,,West Pokot,Borehole/tube well,11.5
+county,30,,Baringo,Protected spring/well,4.8
+county,36,,Bomet,Protected spring/well,8.2
+county,39,,Bungoma,Protected spring/well,54
+county,40,,Busia,Protected spring/well,33.1
+county,28,,Elgeyo-Marakwet,Protected spring/well,13.3
+county,14,,Embu,Protected spring/well,3.5
+county,7,,Garissa,Protected spring/well,3.3
+county,43,,Homa Bay,Protected spring/well,14.4
+county,11,,Isiolo,Protected spring/well,5.1
+county,34,,Kajiado,Protected spring/well,4
+county,37,,Kakamega,Protected spring/well,50.7
+country,KE,,Kenya,Protected spring/well,14.1
+county,35,,Kericho,Protected spring/well,13.6
+county,22,,Kiambu,Protected spring/well,9.5
+county,3,,Kilifi,Protected spring/well,5.2
+county,20,,Kirinyaga,Protected spring/well,8.8
+county,45,,Kisii,Protected spring/well,43.5
+county,42,,Kisumu,Protected spring/well,10.6
+county,15,,Kitui,Protected spring/well,7.6
+county,2,,Kwale,Protected spring/well,11.6
+county,31,,Laikipia,Protected spring/well,9.9
+county,5,,Lamu,Protected spring/well,18.7
+county,16,,Machakos,Protected spring/well,9
+county,17,,Makueni,Protected spring/well,8.5
+county,9,,Mandera,Protected spring/well,7.4
+county,10,,Marsabit,Protected spring/well,10.5
+county,12,,Meru,Protected spring/well,4.4
+county,44,,Migori,Protected spring/well,20.6
+county,1,,Mombasa,Protected spring/well,5.8
+county,12,,Murang'a,Protected spring/well,9.5
+county,47,,Nairobi,Protected spring/well,1
+county,32,,Nakuru,Protected spring/well,8.1
+county,29,,Nandi,Protected spring/well,21.9
+county,33,,Narok,Protected spring/well,9.9
+county,46,,Nyamira,Protected spring/well,40.3
+county,18,,Nyandarua,Protected spring/well,22
+county,19,,Nyeri,Protected spring/well,2.7
+county,25,,Samburu,Protected spring/well,5.7
+county,41,,Siaya,Protected spring/well,16.5
+county,6,,Taita-Taveta,Protected spring/well,5.5
+county,4,,Tana River,Protected spring/well,10.9
+county,13,,Tharaka-Nithi,Protected spring/well,3.6
+county,26,,Trans-Nzoia,Protected spring/well,38.2
+county,23,,Turkana,Protected spring/well,4.5
+county,27,,Uasin Gishu,Protected spring/well,25.9
+county,38,,Vihiga,Protected spring/well,56.7
+county,8,,Wajir,Protected spring/well,11.7
+county,24,,West Pokot,Protected spring/well,7.3
+county,30,,Baringo,Surface water,6.5
+county,36,,Bomet,Surface water,21
+county,39,,Bungoma,Surface water,8
+county,40,,Busia,Surface water,8.7
+county,28,,Elgeyo-Marakwet,Surface water,7.5
+county,14,,Embu,Surface water,5.2
+county,7,,Garissa,Surface water,4.3
+county,43,,Homa Bay,Surface water,20.5
+county,11,,Isiolo,Surface water,10.9
+county,34,,Kajiado,Surface water,3.2
+county,37,,Kakamega,Surface water,7.8
+country,KE,,Kenya,Surface water,8.9
+county,35,,Kericho,Surface water,10.9
+county,22,,Kiambu,Surface water,2.1
+county,3,,Kilifi,Surface water,4.5
+county,20,,Kirinyaga,Surface water,3.6
+county,45,,Kisii,Surface water,12.2
+county,42,,Kisumu,Surface water,10.7
+county,15,,Kitui,Surface water,9.4
+county,2,,Kwale,Surface water,11.7
+county,31,,Laikipia,Surface water,10.2
+county,5,,Lamu,Surface water,27.3
+county,16,,Machakos,Surface water,13.6
+county,17,,Makueni,Surface water,18.7
+county,9,,Mandera,Surface water,5.3
+county,10,,Marsabit,Surface water,21.8
+county,12,,Meru,Surface water,4.7
+county,44,,Migori,Surface water,21.4
+county,1,,Mombasa,Surface water,0.8
+county,12,,Murang'a,Surface water,11.4
+county,47,,Nairobi,Surface water,0.3
+county,32,,Nakuru,Surface water,16
+county,29,,Nandi,Surface water,15.5
+county,33,,Narok,Surface water,14.9
+county,46,,Nyamira,Surface water,18
+county,18,,Nyandarua,Surface water,24.2
+county,19,,Nyeri,Surface water,10.4
+county,25,,Samburu,Surface water,16.7
+county,41,,Siaya,Surface water,11.9
+county,6,,Taita-Taveta,Surface water,4.2
+county,4,,Tana River,Surface water,8.1
+county,13,,Tharaka-Nithi,Surface water,4.4
+county,26,,Trans-Nzoia,Surface water,6.2
+county,23,,Turkana,Surface water,13.3
+county,27,,Uasin Gishu,Surface water,10.2
+county,38,,Vihiga,Surface water,8.4
+county,8,,Wajir,Surface water,9.7
+county,24,,West Pokot,Surface water,5
+county,30,,Baringo,Dam/lake/pond/stream/river,59.1
+county,36,,Bomet,Dam/lake/pond/stream/river,52
+county,39,,Bungoma,Dam/lake/pond/stream/river,10.2
+county,40,,Busia,Dam/lake/pond/stream/river,16
+county,28,,Elgeyo-Marakwet,Dam/lake/pond/stream/river,50
+county,14,,Embu,Dam/lake/pond/stream/river,23.8
+county,7,,Garissa,Dam/lake/pond/stream/river,39.3
+county,43,,Homa Bay,Dam/lake/pond/stream/river,40
+county,11,,Isiolo,Dam/lake/pond/stream/river,21.4
+county,34,,Kajiado,Dam/lake/pond/stream/river,8.6
+county,37,,Kakamega,Dam/lake/pond/stream/river,19.5
+country,KE,,Kenya,Dam/lake/pond/stream/river,21.7
+county,35,,Kericho,Dam/lake/pond/stream/river,44
+county,22,,Kiambu,Dam/lake/pond/stream/river,4.7
+county,3,,Kilifi,Dam/lake/pond/stream/river,15.4
+county,20,,Kirinyaga,Dam/lake/pond/stream/river,28
+county,45,,Kisii,Dam/lake/pond/stream/river,39.1
+county,42,,Kisumu,Dam/lake/pond/stream/river,17.6
+county,15,,Kitui,Dam/lake/pond/stream/river,48.5
+county,2,,Kwale,Dam/lake/pond/stream/river,30.8
+county,31,,Laikipia,Dam/lake/pond/stream/river,27.3
+county,5,,Lamu,Dam/lake/pond/stream/river,7.1
+county,16,,Machakos,Dam/lake/pond/stream/river,18.3
+county,17,,Makueni,Dam/lake/pond/stream/river,32.4
+county,9,,Mandera,Dam/lake/pond/stream/river,42.9
+county,10,,Marsabit,Dam/lake/pond/stream/river,18.6
+county,12,,Meru,Dam/lake/pond/stream/river,22
+county,44,,Migori,Dam/lake/pond/stream/river,40.9
+county,1,,Mombasa,Dam/lake/pond/stream/river,0.4
+county,12,,Murang'a,Dam/lake/pond/stream/river,26
+county,47,,Nairobi,Dam/lake/pond/stream/river,0.1
+county,32,,Nakuru,Dam/lake/pond/stream/river,13.6
+county,29,,Nandi,Dam/lake/pond/stream/river,39.6
+county,33,,Narok,Dam/lake/pond/stream/river,54.1
+county,46,,Nyamira,Dam/lake/pond/stream/river,37.6
+county,18,,Nyandarua,Dam/lake/pond/stream/river,14.4
+county,19,,Nyeri,Dam/lake/pond/stream/river,13.9
+county,25,,Samburu,Dam/lake/pond/stream/river,45.1
+county,41,,Siaya,Dam/lake/pond/stream/river,36.2
+county,6,,Taita-Taveta,Dam/lake/pond/stream/river,16.9
+county,4,,Tana River,Dam/lake/pond/stream/river,31.9
+county,13,,Tharaka-Nithi,Dam/lake/pond/stream/river,35.1
+county,26,,Trans-Nzoia,Dam/lake/pond/stream/river,16.3
+county,23,,Turkana,Dam/lake/pond/stream/river,35.8
+county,27,,Uasin Gishu,Dam/lake/pond/stream/river,6.3
+county,38,,Vihiga,Dam/lake/pond/stream/river,25.7
+county,8,,Wajir,Dam/lake/pond/stream/river,34.1
+county,24,,West Pokot,Dam/lake/pond/stream/river,63.6

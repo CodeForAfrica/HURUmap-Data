@@ -1,0 +1,1381 @@
+geo_level,geo_code,geo_version,name,variable,value
+county,30,,Baringo,Closed,0
+county,36,,Bomet,Closed,0
+county,39,,Bungoma,Closed,0
+county,40,,Busia,Closed,0
+county,28,,Elgeyo-Marakwet,Closed,0
+county,14,,Embu,Closed,3
+county,7,,Garissa,Closed,0
+county,43,,Homa Bay,Closed,1
+county,11,,Isiolo,Closed,0
+county,34,,Kajiado,Closed,0
+county,37,,Kakamega,Closed,0
+country,KE,,Kenya,Closed,114
+county,35,,Kericho,Closed,0
+county,22,,Kiambu,Closed,2
+county,3,,Kilifi,Closed,2
+county,20,,Kirinyaga,Closed,0
+county,45,,Kisii,Closed,0
+county,42,,Kisumu,Closed,1
+county,15,,Kitui,Closed,4
+county,2,,Kwale,Closed,1
+county,31,,Laikipia,Closed,0
+county,5,,Lamu,Closed,0
+county,16,,Machakos,Closed,0
+county,17,,Makueni,Closed,0
+county,9,,Mandera,Closed,0
+county,10,,Marsabit,Closed,0
+county,12,,Meru,Closed,3
+county,44,,Migori,Closed,2
+county,1,,Mombasa,Closed,0
+county,21,,Murang'a,Closed,0
+county,47,,Nairobi,Closed,90
+county,32,,Nakuru,Closed,0
+county,29,,Nandi,Closed,0
+county,33,,Narok,Closed,0
+county,46,,Nyamira,Closed,1
+county,18,,Nyandarua,Closed,0
+county,19,,Nyeri,Closed,0
+county,25,,Samburu,Closed,0
+county,41,,Siaya,Closed,4
+county,6,,Taita-Taveta,Closed,0
+county,4,,Tana River,Closed,0
+county,13,,Tharaka-Nithi,Closed,0
+county,26,,Trans-Nzoia,Closed,0
+county,23,,Turkana,Closed,0
+county,27,,Uasin Gishu,Closed,0
+county,38,,Vihiga,Closed,0
+county,8,,Wajir,Closed,0
+county,24,,West Pokot,Closed,0
+subcounty,27144,,Ainabkoi,Closed,0
+subcounty,35190,,Ainamoi,Closed,0
+subcounty,29152,,Aldai,Closed,0
+subcounty,41234,,Alego Usonga,Closed,1
+subcounty,16080,,Mavoko,Closed,0
+subcounty,44254,,Awendo,Closed,0
+subcounty,7028,,Balambala,Closed,0
+subcounty,9040,,Banissa,Closed,0
+subcounty,30159,,Baringo Central,Closed,0
+subcounty,30158,,Baringo North,Closed,0
+subcounty,45264,,Bobasi,Closed,0
+subcounty,45263,,Bomachoge Borabu,Closed,0
+subcounty,45265,,Bomachoge Chache,Closed,0
+subcounty,36197,,Bomet Central,Closed,0
+subcounty,36196,,Bomet East,Closed,0
+subcounty,45261,,Bonchari,Closed,0
+subcounty,41236,,Bondo,Closed,0
+subcounty,46273,,Borabu,Closed,0
+subcounty,39219,,Bumula,Closed,0
+,,,Bunyala,Closed,0
+subcounty,4020,,Bura,Closed,0
+subcounty,35191,,Buret,Closed,0
+subcounty,37207,,Butere,Closed,0
+subcounty,40229,,Butula,Closed,0
+subcounty,12057,,Buuri,Closed,0
+subcounty,1001,,Changamwe,Closed,0
+subcounty,36195,,Chepalungu,Closed,0
+,,,Cheptais,Closed,0
+subcounty,26140,,Cherangany,Closed,0
+subcounty,29154,,Chesumei,Closed,0
+,,,Chuka,Closed,0
+subcounty,7030,,Dadaab,Closed,0
+,,,Dagoretti North,Closed,5
+,,,Dagoretti South,Closed,5
+,,,East Pokot,Closed,0
+subcounty,8037,,Eldas,Closed,0
+subcounty,47284,,Embakasi Central,Closed,3
+subcounty,47285,,Embakasi East,Closed,3
+subcounty,47283,,Embakasi North,Closed,21
+subcounty,47282,,Embakasi South,Closed,4
+subcounty,47286,,Embakasi West,Closed,4
+subcounty,38215,,Emuhaya,Closed,0
+subcounty,26137,,Endebess,Closed,0
+subcounty,7031,,Fafi,Closed,0
+subcounty,4019,,Galole,Closed,0
+subcounty,3015,,Ganze,Closed,0
+,,,Garbatulla,Closed,0
+,,,Garissa,Closed,0
+subcounty,4018,,Garsen,Closed,0
+subcounty,21110,,Gatanga,Closed,0
+subcounty,22112,,Gatundu North,Closed,0
+subcounty,22111,,Gatundu South,Closed,0
+subcounty,41235,,Gem,Closed,0
+subcounty,32169,,Gilgil,Closed,0
+subcounty,22116,,Githunguri,Closed,0
+subcounty,38213,,Hamisi,Closed,0
+subcounty,43249,,Homa Bay Town,Closed,0
+,,,Hulugho,Closed,0
+,,,Igambangombe,Closed,0
+subcounty,12052,,Igembe Central,Closed,0
+subcounty,12053,,Igembe North,Closed,0
+subcounty,12051,,Igembe South,Closed,3
+subcounty,7032,,Ijara,Closed,0
+subcounty,37210,,Ikolomani,Closed,0
+subcounty,12058,,Central Imenti,Closed,0
+subcounty,12056,,North Imenti,Closed,0
+subcounty,12059,,South Imenti,Closed,0
+,,,Isiolo,Closed,0
+subcounty,1002,,Jomvu,Closed,0
+subcounty,22113,,Juja,Closed,0
+subcounty,22119,,Kabete,Closed,0
+subcounty,43246,,Kabondo Kasipul,Closed,0
+subcounty,39218,,Kabuchai,Closed,0
+subcounty,17085,,Kaiti,Closed,0
+subcounty,34184,,Kajiado Central,Closed,0
+subcounty,34186,,Kajiado East,Closed,0
+subcounty,34183,,Kajiado North,Closed,0
+subcounty,34185,,Kajiado West,Closed,0
+,,,Kalama,Closed,0
+subcounty,3013,,Kaloleni,Closed,0
+subcounty,47288,,Kamukunji,Closed,6
+subcounty,21109,,Kandara,Closed,0
+subcounty,39220,,Kanduyi,Closed,0
+subcounty,21104,,Kangema,Closed,0
+subcounty,16077,,Kangundo,Closed,0
+subcounty,27145,,Kapseret,Closed,0
+subcounty,43247,,Karachuonyo,Closed,0
+subcounty,47280,,Kasarani,Closed,1
+subcounty,16079,,Kathiani,Closed,0
+subcounty,28149,,Keiyo North,Closed,0
+subcounty,28150,,Keiyo South,Closed,0
+subcounty,27146,,Kesses,Closed,0
+subcounty,37208,,Khwisero,Closed,0
+subcounty,22118,,Kiambaa,Closed,0
+,,,Kiambu Town,Closed,0
+,,,Kibish,Closed,0
+subcounty,47278,,Kibra,Closed,3
+subcounty,17087,,Kibwezi West,Closed,0
+,,,Kieni East,Closed,0
+,,,Kieni West,Closed,0
+subcounty,21107,,Kigumo,Closed,0
+subcounty,21106,,Kiharu,Closed,0
+subcounty,22120,,Kikuyu,Closed,2
+subcounty,3011,,Kilifi North,Closed,0
+subcounty,3012,,Kilifi South,Closed,0
+subcounty,17084,,Kilome,Closed,0
+subcounty,39223,,Kimilili,Closed,0
+subcounty,26139,,Kiminini,Closed,0
+subcounty,2010,,Kinango,Closed,0
+subcounty,18090,,Kipipiri,Closed,0
+subcounty,35188,,Kipkelion East,Closed,0
+subcounty,35189,,Kipkelion West,Closed,0
+subcounty,20103,,Kirinyaga Central,Closed,0
+,,,Kirinyaga East,Closed,0
+,,,Kirinyaga North/Mwea West,Closed,0
+,,,Kirinyaga South,Closed,0
+,,,Kirinyaga West,Closed,0
+subcounty,1003,,Kisauni,Closed,0
+subcounty,42240,,Kisumu Central,Closed,0
+subcounty,42238,,Kisumu East,Closed,0
+subcounty,42239,,Kisumu West,Closed,0
+subcounty,15072,,Kitui Central,Closed,0
+subcounty,15073,,Kitui East,Closed,0
+subcounty,15071,,Kitui Rural,Closed,4
+subcounty,15074,,Kitui South,Closed,0
+subcounty,15070,,Kitui West,Closed,0
+subcounty,45268,,Kitutu Chache North,Closed,0
+subcounty,45269,,Kitutu Chache South,Closed,0
+,,,Koibatek,Closed,0
+subcounty,36198,,Konoin,Closed,0
+subcounty,32171,,Kuresoi North,Closed,0
+subcounty,32170,,Kuresoi South,Closed,0
+subcounty,44260,,Kuria East,Closed,0
+subcounty,44259,,Kuria West,Closed,0
+subcounty,26136,,Kwanza,Closed,0
+subcounty,9044,,Lafey,Closed,0
+subcounty,7029,,Lagdera,Closed,0
+subcounty,31164,,Laikipia East,Closed,0
+subcounty,31165,,Laikipia North,Closed,0
+subcounty,31163,,Laikipia West,Closed,0
+subcounty,10048,,Laisamis,Closed,0
+subcounty,5021,,Lamu East,Closed,0
+subcounty,5022,,Lamu West,Closed,0
+subcounty,47277,,Langata,Closed,0
+subcounty,22122,,Lari,Closed,0
+subcounty,1005,,Likoni,Closed,0
+subcounty,37200,,Likuyani,Closed,0
+subcounty,22121,,Limuru,Closed,0
+subcounty,23126,,Loima,Closed,0
+,,,Loitokitok,Closed,0
+subcounty,38214,,Luanda,Closed,0
+subcounty,37199,,Lugari,Closed,0
+subcounty,2008,,Lunga Lunga,Closed,0
+subcounty,37202,,Lurambi,Closed,0
+,,,Machakos,Closed,0
+subcounty,3017,,Magarini,Closed,1
+subcounty,47287,,Makadara,Closed,6
+subcounty,17086,,Makueni,Closed,0
+subcounty,37201,,Malava,Closed,0
+subcounty,3016,,Malindi,Closed,1
+subcounty,9043,,Mandera East,Closed,0
+subcounty,9042,,Mandera South,Closed,0
+subcounty,9039,,Mandera West,Closed,0
+,,,Manga,Closed,0
+subcounty,14063,,Manyatta,Closed,3
+subcounty,28147,,Marakwet East,Closed,0
+subcounty,28148,,Marakwet West,Closed,0
+,,,Marigat,Closed,0
+,,,Masaba North,Closed,0
+subcounty,16075,,Masinga,Closed,0
+subcounty,40228,,Matayos,Closed,0
+subcounty,47290,,Mathare,Closed,0
+subcounty,21105,,Mathioya,Closed,0
+,,,Mathira East,Closed,0
+,,,Mathira West,Closed,0
+subcounty,2009,,Matuga,Closed,0
+subcounty,37206,,Matungu,Closed,0
+subcounty,16078,,Matungulu,Closed,0
+,,,Mbeere North,Closed,0
+,,,Mbeere South,Closed,0
+,,,Mbita,Closed,1
+subcounty,17083,,Mbooni,Closed,0
+,,,Merti,Closed,0
+subcounty,30161,,Mogotio,Closed,0
+subcounty,27143,,Moiben,Closed,0
+subcounty,32166,,Molo,Closed,0
+subcounty,29156,,Mosop,Closed,0
+subcounty,10045,,Moyale,Closed,0
+subcounty,2007,,Msambweni,Closed,1
+subcounty,39216,,Mt. Elgon,Closed,0
+subcounty,42243,,Muhoroni,Closed,0
+subcounty,19098,,Mukurweini,Closed,0
+subcounty,37205,,Mumias East,Closed,0
+subcounty,37204,,Mumias West,Closed,0
+,,,Muthambi,Closed,0
+subcounty,1006,,Mvita,Closed,0
+subcounty,16082,,Mwala,Closed,0
+subcounty,6025,,Mwatate,Closed,0
+,,,Mwimbi,Closed,0
+,,,Mwingi Central,Closed,0
+subcounty,15067,,Mwingi North,Closed,0
+subcounty,15068,,Mwingi West,Closed,0
+subcounty,32168,,Naivasha,Closed,0
+,,,Nakuru East,Closed,0
+,,,Nakuru North,Closed,0
+subcounty,40227,,Nambale,Closed,0
+subcounty,29153,,Nandi Hills,Closed,0
+subcounty,33180,,Narok East,Closed,0
+subcounty,33179,,Narok North,Closed,0
+subcounty,33181,,Narok South,Closed,0
+subcounty,33182,,Narok West,Closed,0
+subcounty,37203,,Navakholo,Closed,0
+subcounty,18093,,Ndaragwa,Closed,0
+subcounty,43250,,Ndhiwa,Closed,0
+subcounty,32167,,Njoro,Closed,0
+subcounty,10046,,North Horr,Closed,0
+subcounty,42244,,Nyakach,Closed,0
+subcounty,1004,,Nyali,Closed,0
+,,,Nyamira,Closed,0
+,,,Nyamira North,Closed,1
+subcounty,42242,,Nyando,Closed,0
+subcounty,45267,,Nyaribari Chache,Closed,0
+subcounty,45266,,Nyaribari Masaba,Closed,0
+subcounty,44258,,Nyatike,Closed,0
+,,,Nyeri Central,Closed,0
+,,,Nyeri South,Closed,0
+subcounty,18092,,Ol Jorok,Closed,0
+subcounty,18091,,Ol Kalou,Closed,0
+,,,Pokot Central,Closed,0
+,,,Pokot North,Closed,0
+subcounty,24132,,Pokot South,Closed,0
+subcounty,3014,,Rabai,Closed,0
+,,,Rachuonyo South,Closed,0
+subcounty,43248,,Rangwe,Closed,0
+subcounty,41237,,Rarieda,Closed,3
+subcounty,32173,,Rongai,Closed,0
+subcounty,44253,,Rongo,Closed,0
+subcounty,47279,,Roysambu,Closed,6
+subcounty,47281,,Ruaraka,Closed,15
+subcounty,22115,,Ruiru,Closed,0
+subcounty,14064,,Runyenjes,Closed,0
+subcounty,38212,,Sabatia,Closed,0
+subcounty,26138,,Saboti,Closed,0
+subcounty,10047,,Saku,Closed,0
+,,,Samburu Central,Closed,0
+subcounty,25135,,Samburu East,Closed,0
+subcounty,25134,,Samburu North,Closed,0
+,,,Samia,Closed,0
+subcounty,42241,,Seme,Closed,1
+subcounty,37209,,Shinyalu,Closed,0
+subcounty,35193,,Sigowet/Soin,Closed,0
+subcounty,39217,,Sirisia,Closed,0
+subcounty,36194,,Sotik,Closed,0
+subcounty,45262,,South Mugirango,Closed,0
+subcounty,27141,,Soy,Closed,0
+subcounty,47289,,Starehe,Closed,4
+subcounty,43252,,Suba South,Closed,0
+subcounty,32172,,Subukia,Closed,0
+subcounty,44255,,Suna East,Closed,0
+subcounty,44256,,Suna West,Closed,0
+subcounty,8035,,Tarbaj,Closed,0
+subcounty,6023,,Taveta,Closed,0
+subcounty,40225,,Teso North,Closed,0
+subcounty,40226,,Teso South,Closed,0
+subcounty,19094,,Tetu,Closed,0
+,,,Tharaka North,Closed,0
+,,,Tharaka South,Closed,0
+subcounty,22114,,Thika Town,Closed,0
+,,,Tiaty East,Closed,0
+subcounty,12055,,Tigania East,Closed,0
+subcounty,12054,,Tigania West,Closed,0
+subcounty,29151,,Tinderet,Closed,0
+subcounty,39224,,Tongaren,Closed,0
+,,,Transmara East,Closed,0
+,,,Transmara West,Closed,0
+subcounty,27142,,Turbo,Closed,0
+subcounty,23125,,Turkana Central,Closed,0
+subcounty,23128,,Turkana East,Closed,0
+subcounty,23123,,Turkana North,Closed,0
+subcounty,23127,,Turkana South,Closed,0
+subcounty,23124,,Turkana West,Closed,0
+subcounty,41232,,Ugenya,Closed,0
+subcounty,41233,,Ugunja,Closed,0
+subcounty,44257,,Uriri,Closed,2
+subcounty,38211,,Vihiga,Closed,0
+subcounty,6026,,Voi,Closed,0
+subcounty,8034,,Wajir East,Closed,0
+subcounty,8033,,Wajir North,Closed,0
+subcounty,8038,,Wajir South,Closed,0
+subcounty,8036,,Wajir West,Closed,0
+subcounty,39221,,Webuye East,Closed,0
+subcounty,39222,,Webuye West,Closed,0
+,,,West Pokot,Closed,0
+subcounty,47274,,Westlands,Closed,4
+subcounty,6024,,Wundanyi,Closed,0
+subcounty,16076,,Yatta,Closed,0
+,,,Muranga South,Closed,0
+county,30,,Baringo,Fully-functional,23
+county,36,,Bomet,Fully-functional,49
+county,39,,Bungoma,Fully-functional,224
+county,40,,Busia,Fully-functional,182
+county,28,,Elgeyo-Marakwet,Fully-functional,11
+county,14,,Embu,Fully-functional,34
+county,7,,Garissa,Fully-functional,67
+county,43,,Homa Bay,Fully-functional,231
+county,11,,Isiolo,Fully-functional,2
+county,34,,Kajiado,Fully-functional,81
+county,37,,Kakamega,Fully-functional,255
+country,KE,,Kenya,Fully-functional,3686
+county,35,,Kericho,Fully-functional,12
+county,22,,Kiambu,Fully-functional,105
+county,3,,Kilifi,Fully-functional,68
+county,20,,Kirinyaga,Fully-functional,30
+county,45,,Kisii,Fully-functional,103
+county,42,,Kisumu,Fully-functional,117
+county,15,,Kitui,Fully-functional,111
+county,2,,Kwale,Fully-functional,73
+county,31,,Laikipia,Fully-functional,10
+county,5,,Lamu,Fully-functional,7
+county,16,,Machakos,Fully-functional,28
+county,17,,Makueni,Fully-functional,33
+county,9,,Mandera,Fully-functional,15
+county,10,,Marsabit,Fully-functional,29
+county,12,,Meru,Fully-functional,68
+county,44,,Migori,Fully-functional,173
+county,1,,Mombasa,Fully-functional,37
+county,21,,Murang'a,Fully-functional,82
+county,47,,Nairobi,Fully-functional,449
+county,32,,Nakuru,Fully-functional,73
+county,29,,Nandi,Fully-functional,27
+county,33,,Narok,Fully-functional,19
+county,46,,Nyamira,Fully-functional,70
+county,18,,Nyandarua,Fully-functional,30
+county,19,,Nyeri,Fully-functional,88
+county,25,,Samburu,Fully-functional,35
+county,41,,Siaya,Fully-functional,155
+county,6,,Taita-Taveta,Fully-functional,18
+county,4,,Tana River,Fully-functional,33
+county,13,,Tharaka-Nithi,Fully-functional,92
+county,26,,Trans-Nzoia,Fully-functional,38
+county,23,,Turkana,Fully-functional,143
+county,27,,Uasin Gishu,Fully-functional,50
+county,38,,Vihiga,Fully-functional,66
+county,8,,Wajir,Fully-functional,27
+county,24,,West Pokot,Fully-functional,13
+subcounty,27144,,Ainabkoi,Fully-functional,15
+subcounty,35190,,Ainamoi,Fully-functional,0
+subcounty,29152,,Aldai,Fully-functional,0
+subcounty,41234,,Alego Usonga,Fully-functional,42
+subcounty,16080,,Mavoko,Fully-functional,3
+subcounty,44254,,Awendo,Fully-functional,21
+subcounty,7028,,Balambala,Fully-functional,13
+subcounty,9040,,Banissa,Fully-functional,5
+subcounty,30159,,Baringo Central,Fully-functional,4
+subcounty,30158,,Baringo North,Fully-functional,4
+subcounty,45264,,Bobasi,Fully-functional,43
+subcounty,45263,,Bomachoge Borabu,Fully-functional,13
+subcounty,45265,,Bomachoge Chache,Fully-functional,3
+subcounty,36197,,Bomet Central,Fully-functional,2
+subcounty,36196,,Bomet East,Fully-functional,18
+subcounty,45261,,Bonchari,Fully-functional,10
+subcounty,41236,,Bondo,Fully-functional,25
+subcounty,46273,,Borabu,Fully-functional,14
+subcounty,39219,,Bumula,Fully-functional,40
+,,,Bunyala,Fully-functional,18
+subcounty,4020,,Bura,Fully-functional,19
+subcounty,35191,,Buret,Fully-functional,0
+subcounty,37207,,Butere,Fully-functional,42
+subcounty,40229,,Butula,Fully-functional,21
+subcounty,12057,,Buuri,Fully-functional,2
+subcounty,1001,,Changamwe,Fully-functional,4
+subcounty,36195,,Chepalungu,Fully-functional,5
+,,,Cheptais,Fully-functional,25
+subcounty,26140,,Cherangany,Fully-functional,18
+subcounty,29154,,Chesumei,Fully-functional,7
+,,,Chuka,Fully-functional,18
+subcounty,7030,,Dadaab,Fully-functional,8
+,,,Dagoretti North,Fully-functional,39
+,,,Dagoretti South,Fully-functional,29
+,,,East Pokot,Fully-functional,1
+subcounty,8037,,Eldas,Fully-functional,3
+subcounty,47284,,Embakasi Central,Fully-functional,23
+subcounty,47285,,Embakasi East,Fully-functional,14
+subcounty,47283,,Embakasi North,Fully-functional,34
+subcounty,47282,,Embakasi South,Fully-functional,26
+subcounty,47286,,Embakasi West,Fully-functional,15
+subcounty,38215,,Emuhaya,Fully-functional,27
+subcounty,26137,,Endebess,Fully-functional,7
+subcounty,7031,,Fafi,Fully-functional,2
+subcounty,4019,,Galole,Fully-functional,9
+subcounty,3015,,Ganze,Fully-functional,13
+,,,Garbatulla,Fully-functional,0
+,,,Garissa,Fully-functional,13
+subcounty,4018,,Garsen,Fully-functional,5
+subcounty,21110,,Gatanga,Fully-functional,21
+subcounty,22112,,Gatundu North,Fully-functional,3
+subcounty,22111,,Gatundu South,Fully-functional,14
+subcounty,41235,,Gem,Fully-functional,39
+subcounty,32169,,Gilgil,Fully-functional,2
+subcounty,22116,,Githunguri,Fully-functional,7
+subcounty,38213,,Hamisi,Fully-functional,13
+subcounty,43249,,Homa Bay Town,Fully-functional,21
+,,,Hulugho,Fully-functional,6
+,,,Igambangombe,Fully-functional,14
+subcounty,12052,,Igembe Central,Fully-functional,5
+subcounty,12053,,Igembe North,Fully-functional,15
+subcounty,12051,,Igembe South,Fully-functional,12
+subcounty,7032,,Ijara,Fully-functional,11
+subcounty,37210,,Ikolomani,Fully-functional,19
+subcounty,12058,,Central Imenti,Fully-functional,3
+subcounty,12056,,North Imenti,Fully-functional,1
+subcounty,12059,,South Imenti,Fully-functional,7
+,,,Isiolo,Fully-functional,1
+subcounty,1002,,Jomvu,Fully-functional,5
+subcounty,22113,,Juja,Fully-functional,4
+subcounty,22119,,Kabete,Fully-functional,10
+subcounty,43246,,Kabondo Kasipul,Fully-functional,27
+subcounty,39218,,Kabuchai,Fully-functional,25
+subcounty,17085,,Kaiti,Fully-functional,3
+subcounty,34184,,Kajiado Central,Fully-functional,17
+subcounty,34186,,Kajiado East,Fully-functional,40
+subcounty,34183,,Kajiado North,Fully-functional,1
+subcounty,34185,,Kajiado West,Fully-functional,9
+,,,Kalama,Fully-functional,1
+subcounty,3013,,Kaloleni,Fully-functional,9
+subcounty,47288,,Kamukunji,Fully-functional,30
+subcounty,21109,,Kandara,Fully-functional,11
+subcounty,39220,,Kanduyi,Fully-functional,12
+subcounty,21104,,Kangema,Fully-functional,10
+subcounty,16077,,Kangundo,Fully-functional,0
+subcounty,27145,,Kapseret,Fully-functional,10
+subcounty,43247,,Karachuonyo,Fully-functional,50
+subcounty,47280,,Kasarani,Fully-functional,6
+subcounty,16079,,Kathiani,Fully-functional,4
+subcounty,28149,,Keiyo North,Fully-functional,3
+subcounty,28150,,Keiyo South,Fully-functional,0
+subcounty,27146,,Kesses,Fully-functional,10
+subcounty,37208,,Khwisero,Fully-functional,23
+subcounty,22118,,Kiambaa,Fully-functional,12
+,,,Kiambu Town,Fully-functional,5
+,,,Kibish,Fully-functional,17
+subcounty,47278,,Kibra,Fully-functional,27
+subcounty,17087,,Kibwezi West,Fully-functional,4
+,,,Kieni East,Fully-functional,11
+,,,Kieni West,Fully-functional,14
+subcounty,21107,,Kigumo,Fully-functional,15
+subcounty,21106,,Kiharu,Fully-functional,7
+subcounty,22120,,Kikuyu,Fully-functional,8
+subcounty,3011,,Kilifi North,Fully-functional,11
+subcounty,3012,,Kilifi South,Fully-functional,11
+subcounty,17084,,Kilome,Fully-functional,1
+subcounty,39223,,Kimilili,Fully-functional,25
+subcounty,26139,,Kiminini,Fully-functional,12
+subcounty,2010,,Kinango,Fully-functional,13
+subcounty,18090,,Kipipiri,Fully-functional,9
+subcounty,35188,,Kipkelion East,Fully-functional,2
+subcounty,35189,,Kipkelion West,Fully-functional,5
+subcounty,20103,,Kirinyaga Central,Fully-functional,8
+,,,Kirinyaga East,Fully-functional,0
+,,,Kirinyaga North/Mwea West,Fully-functional,6
+,,,Kirinyaga South,Fully-functional,5
+,,,Kirinyaga West,Fully-functional,11
+subcounty,1003,,Kisauni,Fully-functional,4
+subcounty,42240,,Kisumu Central,Fully-functional,16
+subcounty,42238,,Kisumu East,Fully-functional,8
+subcounty,42239,,Kisumu West,Fully-functional,13
+subcounty,15072,,Kitui Central,Fully-functional,12
+subcounty,15073,,Kitui East,Fully-functional,32
+subcounty,15071,,Kitui Rural,Fully-functional,22
+subcounty,15074,,Kitui South,Fully-functional,2
+subcounty,15070,,Kitui West,Fully-functional,2
+subcounty,45268,,Kitutu Chache North,Fully-functional,11
+subcounty,45269,,Kitutu Chache South,Fully-functional,4
+,,,Koibatek,Fully-functional,6
+subcounty,36198,,Konoin,Fully-functional,24
+subcounty,32171,,Kuresoi North,Fully-functional,18
+subcounty,32170,,Kuresoi South,Fully-functional,14
+subcounty,44260,,Kuria East,Fully-functional,28
+subcounty,44259,,Kuria West,Fully-functional,30
+subcounty,26136,,Kwanza,Fully-functional,1
+subcounty,9044,,Lafey,Fully-functional,1
+subcounty,7029,,Lagdera,Fully-functional,14
+subcounty,31164,,Laikipia East,Fully-functional,4
+subcounty,31165,,Laikipia North,Fully-functional,1
+subcounty,31163,,Laikipia West,Fully-functional,5
+subcounty,10048,,Laisamis,Fully-functional,4
+subcounty,5021,,Lamu East,Fully-functional,2
+subcounty,5022,,Lamu West,Fully-functional,5
+subcounty,47277,,Langata,Fully-functional,23
+subcounty,22122,,Lari,Fully-functional,9
+subcounty,1005,,Likoni,Fully-functional,9
+subcounty,37200,,Likuyani,Fully-functional,28
+subcounty,22121,,Limuru,Fully-functional,13
+subcounty,23126,,Loima,Fully-functional,26
+,,,Loitokitok,Fully-functional,14
+subcounty,38214,,Luanda,Fully-functional,4
+subcounty,37199,,Lugari,Fully-functional,6
+subcounty,2008,,Lunga Lunga,Fully-functional,36
+subcounty,37202,,Lurambi,Fully-functional,20
+,,,Machakos,Fully-functional,1
+subcounty,3017,,Magarini,Fully-functional,9
+subcounty,47287,,Makadara,Fully-functional,41
+subcounty,17086,,Makueni,Fully-functional,11
+subcounty,37201,,Malava,Fully-functional,6
+subcounty,3016,,Malindi,Fully-functional,6
+subcounty,9043,,Mandera East,Fully-functional,1
+subcounty,9042,,Mandera South,Fully-functional,3
+subcounty,9039,,Mandera West,Fully-functional,5
+,,,Manga,Fully-functional,14
+subcounty,14063,,Manyatta,Fully-functional,6
+subcounty,28147,,Marakwet East,Fully-functional,7
+subcounty,28148,,Marakwet West,Fully-functional,1
+,,,Marigat,Fully-functional,5
+,,,Masaba North,Fully-functional,18
+subcounty,16075,,Masinga,Fully-functional,0
+subcounty,40228,,Matayos,Fully-functional,19
+subcounty,47290,,Mathare,Fully-functional,26
+subcounty,21105,,Mathioya,Fully-functional,7
+,,,Mathira East,Fully-functional,29
+,,,Mathira West,Fully-functional,5
+subcounty,2009,,Matuga,Fully-functional,9
+subcounty,37206,,Matungu,Fully-functional,32
+subcounty,16078,,Matungulu,Fully-functional,10
+,,,Mbeere North,Fully-functional,11
+,,,Mbeere South,Fully-functional,16
+,,,Mbita,Fully-functional,31
+subcounty,17083,,Mbooni,Fully-functional,14
+,,,Merti,Fully-functional,1
+subcounty,30161,,Mogotio,Fully-functional,1
+subcounty,27143,,Moiben,Fully-functional,8
+subcounty,32166,,Molo,Fully-functional,0
+subcounty,29156,,Mosop,Fully-functional,1
+subcounty,10045,,Moyale,Fully-functional,5
+subcounty,2007,,Msambweni,Fully-functional,15
+subcounty,39216,,Mt. Elgon,Fully-functional,21
+subcounty,42243,,Muhoroni,Fully-functional,25
+subcounty,19098,,Mukurweini,Fully-functional,4
+subcounty,37205,,Mumias East,Fully-functional,9
+subcounty,37204,,Mumias West,Fully-functional,29
+,,,Muthambi,Fully-functional,8
+subcounty,1006,,Mvita,Fully-functional,7
+subcounty,16082,,Mwala,Fully-functional,2
+subcounty,6025,,Mwatate,Fully-functional,5
+,,,Mwimbi,Fully-functional,19
+,,,Mwingi Central,Fully-functional,8
+subcounty,15067,,Mwingi North,Fully-functional,1
+subcounty,15068,,Mwingi West,Fully-functional,32
+subcounty,32168,,Naivasha,Fully-functional,0
+,,,Nakuru East,Fully-functional,7
+,,,Nakuru North,Fully-functional,6
+subcounty,40227,,Nambale,Fully-functional,24
+subcounty,29153,,Nandi Hills,Fully-functional,13
+subcounty,33180,,Narok East,Fully-functional,2
+subcounty,33179,,Narok North,Fully-functional,1
+subcounty,33181,,Narok South,Fully-functional,3
+subcounty,33182,,Narok West,Fully-functional,8
+subcounty,37203,,Navakholo,Fully-functional,5
+subcounty,18093,,Ndaragwa,Fully-functional,16
+subcounty,43250,,Ndhiwa,Fully-functional,36
+subcounty,32167,,Njoro,Fully-functional,9
+subcounty,10046,,North Horr,Fully-functional,11
+subcounty,42244,,Nyakach,Fully-functional,26
+subcounty,1004,,Nyali,Fully-functional,8
+,,,Nyamira,Fully-functional,8
+,,,Nyamira North,Fully-functional,16
+subcounty,42242,,Nyando,Fully-functional,21
+subcounty,45267,,Nyaribari Chache,Fully-functional,10
+subcounty,45266,,Nyaribari Masaba,Fully-functional,7
+subcounty,44258,,Nyatike,Fully-functional,25
+,,,Nyeri Central,Fully-functional,1
+,,,Nyeri South,Fully-functional,24
+subcounty,18092,,Ol Jorok,Fully-functional,2
+subcounty,18091,,Ol Kalou,Fully-functional,3
+,,,Pokot Central,Fully-functional,3
+,,,Pokot North,Fully-functional,0
+subcounty,24132,,Pokot South,Fully-functional,5
+subcounty,3014,,Rabai,Fully-functional,9
+,,,Rachuonyo South,Fully-functional,18
+subcounty,43248,,Rangwe,Fully-functional,20
+subcounty,41237,,Rarieda,Fully-functional,37
+subcounty,32173,,Rongai,Fully-functional,6
+subcounty,44253,,Rongo,Fully-functional,24
+subcounty,47279,,Roysambu,Fully-functional,6
+subcounty,47281,,Ruaraka,Fully-functional,34
+subcounty,22115,,Ruiru,Fully-functional,11
+subcounty,14064,,Runyenjes,Fully-functional,1
+subcounty,38212,,Sabatia,Fully-functional,13
+subcounty,26138,,Saboti,Fully-functional,0
+subcounty,10047,,Saku,Fully-functional,9
+,,,Samburu Central,Fully-functional,11
+subcounty,25135,,Samburu East,Fully-functional,13
+subcounty,25134,,Samburu North,Fully-functional,11
+,,,Samia,Fully-functional,29
+subcounty,42241,,Seme,Fully-functional,8
+subcounty,37209,,Shinyalu,Fully-functional,36
+subcounty,35193,,Sigowet/Soin,Fully-functional,5
+subcounty,39217,,Sirisia,Fully-functional,6
+subcounty,36194,,Sotik,Fully-functional,0
+subcounty,45262,,South Mugirango,Fully-functional,2
+subcounty,27141,,Soy,Fully-functional,7
+subcounty,47289,,Starehe,Fully-functional,41
+subcounty,43252,,Suba South,Fully-functional,28
+subcounty,32172,,Subukia,Fully-functional,11
+subcounty,44255,,Suna East,Fully-functional,16
+subcounty,44256,,Suna West,Fully-functional,15
+subcounty,8035,,Tarbaj,Fully-functional,6
+subcounty,6023,,Taveta,Fully-functional,4
+subcounty,40225,,Teso North,Fully-functional,35
+subcounty,40226,,Teso South,Fully-functional,36
+subcounty,19094,,Tetu,Fully-functional,0
+,,,Tharaka North,Fully-functional,14
+,,,Tharaka South,Fully-functional,19
+subcounty,22114,,Thika Town,Fully-functional,9
+,,,Tiaty East,Fully-functional,2
+subcounty,12055,,Tigania East,Fully-functional,22
+subcounty,12054,,Tigania West,Fully-functional,1
+subcounty,29151,,Tinderet,Fully-functional,6
+subcounty,39224,,Tongaren,Fully-functional,41
+,,,Transmara East,Fully-functional,2
+,,,Transmara West,Fully-functional,3
+subcounty,27142,,Turbo,Fully-functional,0
+subcounty,23125,,Turkana Central,Fully-functional,25
+subcounty,23128,,Turkana East,Fully-functional,12
+subcounty,23123,,Turkana North,Fully-functional,18
+subcounty,23127,,Turkana South,Fully-functional,20
+subcounty,23124,,Turkana West,Fully-functional,25
+subcounty,41232,,Ugenya,Fully-functional,5
+subcounty,41233,,Ugunja,Fully-functional,7
+subcounty,44257,,Uriri,Fully-functional,14
+subcounty,38211,,Vihiga,Fully-functional,9
+subcounty,6026,,Voi,Fully-functional,8
+subcounty,8034,,Wajir East,Fully-functional,3
+subcounty,8033,,Wajir North,Fully-functional,10
+subcounty,8038,,Wajir South,Fully-functional,1
+subcounty,8036,,Wajir West,Fully-functional,4
+subcounty,39221,,Webuye East,Fully-functional,20
+subcounty,39222,,Webuye West,Fully-functional,9
+,,,West Pokot,Fully-functional,5
+subcounty,47274,,Westlands,Fully-functional,35
+subcounty,6024,,Wundanyi,Fully-functional,1
+subcounty,16076,,Yatta,Fully-functional,7
+,,,Muranga South,Fully-functional,11
+county,30,,Baringo,Non-functioning,23
+county,36,,Bomet,Non-functioning,0
+county,39,,Bungoma,Non-functioning,2
+county,40,,Busia,Non-functioning,0
+county,28,,Elgeyo-Marakwet,Non-functioning,32
+county,14,,Embu,Non-functioning,1
+county,7,,Garissa,Non-functioning,1
+county,43,,Homa Bay,Non-functioning,10
+county,11,,Isiolo,Non-functioning,4
+county,34,,Kajiado,Non-functioning,10
+county,37,,Kakamega,Non-functioning,4
+country,KE,,Kenya,Non-functioning,268
+county,35,,Kericho,Non-functioning,9
+county,22,,Kiambu,Non-functioning,2
+county,3,,Kilifi,Non-functioning,2
+county,20,,Kirinyaga,Non-functioning,0
+county,45,,Kisii,Non-functioning,3
+county,42,,Kisumu,Non-functioning,9
+county,15,,Kitui,Non-functioning,8
+county,2,,Kwale,Non-functioning,6
+county,31,,Laikipia,Non-functioning,0
+county,5,,Lamu,Non-functioning,3
+county,16,,Machakos,Non-functioning,10
+county,17,,Makueni,Non-functioning,1
+county,9,,Mandera,Non-functioning,0
+county,10,,Marsabit,Non-functioning,3
+county,12,,Meru,Non-functioning,3
+county,44,,Migori,Non-functioning,0
+county,1,,Mombasa,Non-functioning,1
+county,21,,Murang'a,Non-functioning,21
+county,47,,Nairobi,Non-functioning,7
+county,32,,Nakuru,Non-functioning,3
+county,29,,Nandi,Non-functioning,19
+county,33,,Narok,Non-functioning,14
+county,46,,Nyamira,Non-functioning,1
+county,18,,Nyandarua,Non-functioning,2
+county,19,,Nyeri,Non-functioning,1
+county,25,,Samburu,Non-functioning,1
+county,41,,Siaya,Non-functioning,1
+county,6,,Taita-Taveta,Non-functioning,0
+county,4,,Tana River,Non-functioning,0
+county,13,,Tharaka-Nithi,Non-functioning,2
+county,26,,Trans-Nzoia,Non-functioning,6
+county,23,,Turkana,Non-functioning,13
+county,27,,Uasin Gishu,Non-functioning,10
+county,38,,Vihiga,Non-functioning,0
+county,8,,Wajir,Non-functioning,5
+county,24,,West Pokot,Non-functioning,15
+subcounty,27144,,Ainabkoi,Non-functioning,2
+subcounty,35190,,Ainamoi,Non-functioning,2
+subcounty,29152,,Aldai,Non-functioning,6
+subcounty,41234,,Alego Usonga,Non-functioning,1
+subcounty,16080,,Mavoko,Non-functioning,0
+subcounty,44254,,Awendo,Non-functioning,0
+subcounty,7028,,Balambala,Non-functioning,0
+subcounty,9040,,Banissa,Non-functioning,0
+subcounty,30159,,Baringo Central,Non-functioning,1
+subcounty,30158,,Baringo North,Non-functioning,11
+subcounty,45264,,Bobasi,Non-functioning,0
+subcounty,45263,,Bomachoge Borabu,Non-functioning,2
+subcounty,45265,,Bomachoge Chache,Non-functioning,0
+subcounty,36197,,Bomet Central,Non-functioning,0
+subcounty,36196,,Bomet East,Non-functioning,0
+subcounty,45261,,Bonchari,Non-functioning,0
+subcounty,41236,,Bondo,Non-functioning,0
+subcounty,46273,,Borabu,Non-functioning,0
+subcounty,39219,,Bumula,Non-functioning,2
+,,,Bunyala,Non-functioning,0
+subcounty,4020,,Bura,Non-functioning,0
+subcounty,35191,,Buret,Non-functioning,0
+subcounty,37207,,Butere,Non-functioning,0
+subcounty,40229,,Butula,Non-functioning,0
+subcounty,12057,,Buuri,Non-functioning,0
+subcounty,1001,,Changamwe,Non-functioning,0
+subcounty,36195,,Chepalungu,Non-functioning,0
+,,,Cheptais,Non-functioning,0
+subcounty,26140,,Cherangany,Non-functioning,0
+subcounty,29154,,Chesumei,Non-functioning,0
+,,,Chuka,Non-functioning,0
+subcounty,7030,,Dadaab,Non-functioning,0
+,,,Dagoretti North,Non-functioning,0
+,,,Dagoretti South,Non-functioning,0
+,,,East Pokot,Non-functioning,3
+subcounty,8037,,Eldas,Non-functioning,0
+subcounty,47284,,Embakasi Central,Non-functioning,0
+subcounty,47285,,Embakasi East,Non-functioning,0
+subcounty,47283,,Embakasi North,Non-functioning,0
+subcounty,47282,,Embakasi South,Non-functioning,4
+subcounty,47286,,Embakasi West,Non-functioning,0
+subcounty,38215,,Emuhaya,Non-functioning,0
+subcounty,26137,,Endebess,Non-functioning,4
+subcounty,7031,,Fafi,Non-functioning,0
+subcounty,4019,,Galole,Non-functioning,0
+subcounty,3015,,Ganze,Non-functioning,1
+,,,Garbatulla,Non-functioning,2
+,,,Garissa,Non-functioning,0
+subcounty,4018,,Garsen,Non-functioning,0
+subcounty,21110,,Gatanga,Non-functioning,0
+subcounty,22112,,Gatundu North,Non-functioning,0
+subcounty,22111,,Gatundu South,Non-functioning,0
+subcounty,41235,,Gem,Non-functioning,0
+subcounty,32169,,Gilgil,Non-functioning,0
+subcounty,22116,,Githunguri,Non-functioning,0
+subcounty,38213,,Hamisi,Non-functioning,0
+subcounty,43249,,Homa Bay Town,Non-functioning,2
+,,,Hulugho,Non-functioning,0
+,,,Igambangombe,Non-functioning,0
+subcounty,12052,,Igembe Central,Non-functioning,0
+subcounty,12053,,Igembe North,Non-functioning,0
+subcounty,12051,,Igembe South,Non-functioning,0
+subcounty,7032,,Ijara,Non-functioning,0
+subcounty,37210,,Ikolomani,Non-functioning,0
+subcounty,12058,,Central Imenti,Non-functioning,2
+subcounty,12056,,North Imenti,Non-functioning,1
+subcounty,12059,,South Imenti,Non-functioning,0
+,,,Isiolo,Non-functioning,0
+subcounty,1002,,Jomvu,Non-functioning,0
+subcounty,22113,,Juja,Non-functioning,0
+subcounty,22119,,Kabete,Non-functioning,0
+subcounty,43246,,Kabondo Kasipul,Non-functioning,1
+subcounty,39218,,Kabuchai,Non-functioning,0
+subcounty,17085,,Kaiti,Non-functioning,0
+subcounty,34184,,Kajiado Central,Non-functioning,1
+subcounty,34186,,Kajiado East,Non-functioning,2
+subcounty,34183,,Kajiado North,Non-functioning,0
+subcounty,34185,,Kajiado West,Non-functioning,5
+,,,Kalama,Non-functioning,0
+subcounty,3013,,Kaloleni,Non-functioning,0
+subcounty,47288,,Kamukunji,Non-functioning,0
+subcounty,21109,,Kandara,Non-functioning,0
+subcounty,39220,,Kanduyi,Non-functioning,0
+subcounty,21104,,Kangema,Non-functioning,8
+subcounty,16077,,Kangundo,Non-functioning,6
+subcounty,27145,,Kapseret,Non-functioning,0
+subcounty,43247,,Karachuonyo,Non-functioning,6
+subcounty,47280,,Kasarani,Non-functioning,0
+subcounty,16079,,Kathiani,Non-functioning,0
+subcounty,28149,,Keiyo North,Non-functioning,1
+subcounty,28150,,Keiyo South,Non-functioning,13
+subcounty,27146,,Kesses,Non-functioning,0
+subcounty,37208,,Khwisero,Non-functioning,0
+subcounty,22118,,Kiambaa,Non-functioning,0
+,,,Kiambu Town,Non-functioning,0
+,,,Kibish,Non-functioning,0
+subcounty,47278,,Kibra,Non-functioning,1
+subcounty,17087,,Kibwezi West,Non-functioning,1
+,,,Kieni East,Non-functioning,0
+,,,Kieni West,Non-functioning,0
+subcounty,21107,,Kigumo,Non-functioning,4
+subcounty,21106,,Kiharu,Non-functioning,3
+subcounty,22120,,Kikuyu,Non-functioning,0
+subcounty,3011,,Kilifi North,Non-functioning,0
+subcounty,3012,,Kilifi South,Non-functioning,0
+subcounty,17084,,Kilome,Non-functioning,0
+subcounty,39223,,Kimilili,Non-functioning,0
+subcounty,26139,,Kiminini,Non-functioning,0
+subcounty,2010,,Kinango,Non-functioning,2
+subcounty,18090,,Kipipiri,Non-functioning,0
+subcounty,35188,,Kipkelion East,Non-functioning,0
+subcounty,35189,,Kipkelion West,Non-functioning,7
+subcounty,20103,,Kirinyaga Central,Non-functioning,0
+,,,Kirinyaga East,Non-functioning,0
+,,,Kirinyaga North/Mwea West,Non-functioning,0
+,,,Kirinyaga South,Non-functioning,0
+,,,Kirinyaga West,Non-functioning,0
+subcounty,1003,,Kisauni,Non-functioning,0
+subcounty,42240,,Kisumu Central,Non-functioning,0
+subcounty,42238,,Kisumu East,Non-functioning,0
+subcounty,42239,,Kisumu West,Non-functioning,0
+subcounty,15072,,Kitui Central,Non-functioning,0
+subcounty,15073,,Kitui East,Non-functioning,0
+subcounty,15071,,Kitui Rural,Non-functioning,1
+subcounty,15074,,Kitui South,Non-functioning,0
+subcounty,15070,,Kitui West,Non-functioning,7
+subcounty,45268,,Kitutu Chache North,Non-functioning,0
+subcounty,45269,,Kitutu Chache South,Non-functioning,0
+,,,Koibatek,Non-functioning,0
+subcounty,36198,,Konoin,Non-functioning,0
+subcounty,32171,,Kuresoi North,Non-functioning,0
+subcounty,32170,,Kuresoi South,Non-functioning,0
+subcounty,44260,,Kuria East,Non-functioning,0
+subcounty,44259,,Kuria West,Non-functioning,0
+subcounty,26136,,Kwanza,Non-functioning,1
+subcounty,9044,,Lafey,Non-functioning,0
+subcounty,7029,,Lagdera,Non-functioning,1
+subcounty,31164,,Laikipia East,Non-functioning,0
+subcounty,31165,,Laikipia North,Non-functioning,0
+subcounty,31163,,Laikipia West,Non-functioning,0
+subcounty,10048,,Laisamis,Non-functioning,3
+subcounty,5021,,Lamu East,Non-functioning,0
+subcounty,5022,,Lamu West,Non-functioning,3
+subcounty,47277,,Langata,Non-functioning,0
+subcounty,22122,,Lari,Non-functioning,1
+subcounty,1005,,Likoni,Non-functioning,0
+subcounty,37200,,Likuyani,Non-functioning,2
+subcounty,22121,,Limuru,Non-functioning,1
+subcounty,23126,,Loima,Non-functioning,0
+,,,Loitokitok,Non-functioning,2
+subcounty,38214,,Luanda,Non-functioning,0
+subcounty,37199,,Lugari,Non-functioning,0
+subcounty,2008,,Lunga Lunga,Non-functioning,4
+subcounty,37202,,Lurambi,Non-functioning,0
+,,,Machakos,Non-functioning,0
+subcounty,3017,,Magarini,Non-functioning,0
+subcounty,47287,,Makadara,Non-functioning,1
+subcounty,17086,,Makueni,Non-functioning,0
+subcounty,37201,,Malava,Non-functioning,1
+subcounty,3016,,Malindi,Non-functioning,0
+subcounty,9043,,Mandera East,Non-functioning,0
+subcounty,9042,,Mandera South,Non-functioning,0
+subcounty,9039,,Mandera West,Non-functioning,0
+,,,Manga,Non-functioning,1
+subcounty,14063,,Manyatta,Non-functioning,1
+subcounty,28147,,Marakwet East,Non-functioning,7
+subcounty,28148,,Marakwet West,Non-functioning,11
+,,,Marigat,Non-functioning,0
+,,,Masaba North,Non-functioning,0
+subcounty,16075,,Masinga,Non-functioning,0
+subcounty,40228,,Matayos,Non-functioning,0
+subcounty,47290,,Mathare,Non-functioning,0
+subcounty,21105,,Mathioya,Non-functioning,0
+,,,Mathira East,Non-functioning,0
+,,,Mathira West,Non-functioning,0
+subcounty,2009,,Matuga,Non-functioning,0
+subcounty,37206,,Matungu,Non-functioning,0
+subcounty,16078,,Matungulu,Non-functioning,4
+,,,Mbeere North,Non-functioning,0
+,,,Mbeere South,Non-functioning,0
+,,,Mbita,Non-functioning,0
+subcounty,17083,,Mbooni,Non-functioning,0
+,,,Merti,Non-functioning,2
+subcounty,30161,,Mogotio,Non-functioning,0
+subcounty,27143,,Moiben,Non-functioning,6
+subcounty,32166,,Molo,Non-functioning,0
+subcounty,29156,,Mosop,Non-functioning,0
+subcounty,10045,,Moyale,Non-functioning,0
+subcounty,2007,,Msambweni,Non-functioning,0
+subcounty,39216,,Mt. Elgon,Non-functioning,0
+subcounty,42243,,Muhoroni,Non-functioning,0
+subcounty,19098,,Mukurweini,Non-functioning,0
+subcounty,37205,,Mumias East,Non-functioning,0
+subcounty,37204,,Mumias West,Non-functioning,1
+,,,Muthambi,Non-functioning,0
+subcounty,1006,,Mvita,Non-functioning,1
+subcounty,16082,,Mwala,Non-functioning,0
+subcounty,6025,,Mwatate,Non-functioning,0
+,,,Mwimbi,Non-functioning,2
+,,,Mwingi Central,Non-functioning,0
+subcounty,15067,,Mwingi North,Non-functioning,0
+subcounty,15068,,Mwingi West,Non-functioning,0
+subcounty,32168,,Naivasha,Non-functioning,0
+,,,Nakuru East,Non-functioning,3
+,,,Nakuru North,Non-functioning,0
+subcounty,40227,,Nambale,Non-functioning,0
+subcounty,29153,,Nandi Hills,Non-functioning,6
+subcounty,33180,,Narok East,Non-functioning,2
+subcounty,33179,,Narok North,Non-functioning,2
+subcounty,33181,,Narok South,Non-functioning,5
+subcounty,33182,,Narok West,Non-functioning,4
+subcounty,37203,,Navakholo,Non-functioning,0
+subcounty,18093,,Ndaragwa,Non-functioning,0
+subcounty,43250,,Ndhiwa,Non-functioning,0
+subcounty,32167,,Njoro,Non-functioning,0
+subcounty,10046,,North Horr,Non-functioning,0
+subcounty,42244,,Nyakach,Non-functioning,0
+subcounty,1004,,Nyali,Non-functioning,0
+,,,Nyamira,Non-functioning,0
+,,,Nyamira North,Non-functioning,0
+subcounty,42242,,Nyando,Non-functioning,7
+subcounty,45267,,Nyaribari Chache,Non-functioning,0
+subcounty,45266,,Nyaribari Masaba,Non-functioning,0
+subcounty,44258,,Nyatike,Non-functioning,0
+,,,Nyeri Central,Non-functioning,0
+,,,Nyeri South,Non-functioning,1
+subcounty,18092,,Ol Jorok,Non-functioning,1
+subcounty,18091,,Ol Kalou,Non-functioning,1
+,,,Pokot Central,Non-functioning,6
+,,,Pokot North,Non-functioning,0
+subcounty,24132,,Pokot South,Non-functioning,1
+subcounty,3014,,Rabai,Non-functioning,1
+,,,Rachuonyo South,Non-functioning,1
+subcounty,43248,,Rangwe,Non-functioning,0
+subcounty,41237,,Rarieda,Non-functioning,0
+subcounty,32173,,Rongai,Non-functioning,0
+subcounty,44253,,Rongo,Non-functioning,0
+subcounty,47279,,Roysambu,Non-functioning,0
+subcounty,47281,,Ruaraka,Non-functioning,0
+subcounty,22115,,Ruiru,Non-functioning,0
+subcounty,14064,,Runyenjes,Non-functioning,0
+subcounty,38212,,Sabatia,Non-functioning,0
+subcounty,26138,,Saboti,Non-functioning,1
+subcounty,10047,,Saku,Non-functioning,0
+,,,Samburu Central,Non-functioning,0
+subcounty,25135,,Samburu East,Non-functioning,1
+subcounty,25134,,Samburu North,Non-functioning,0
+,,,Samia,Non-functioning,0
+subcounty,42241,,Seme,Non-functioning,2
+subcounty,37209,,Shinyalu,Non-functioning,0
+subcounty,35193,,Sigowet/Soin,Non-functioning,0
+subcounty,39217,,Sirisia,Non-functioning,0
+subcounty,36194,,Sotik,Non-functioning,0
+subcounty,45262,,South Mugirango,Non-functioning,1
+subcounty,27141,,Soy,Non-functioning,2
+subcounty,47289,,Starehe,Non-functioning,0
+subcounty,43252,,Suba South,Non-functioning,0
+subcounty,32172,,Subukia,Non-functioning,0
+subcounty,44255,,Suna East,Non-functioning,0
+subcounty,44256,,Suna West,Non-functioning,0
+subcounty,8035,,Tarbaj,Non-functioning,0
+subcounty,6023,,Taveta,Non-functioning,0
+subcounty,40225,,Teso North,Non-functioning,0
+subcounty,40226,,Teso South,Non-functioning,0
+subcounty,19094,,Tetu,Non-functioning,0
+,,,Tharaka North,Non-functioning,0
+,,,Tharaka South,Non-functioning,0
+subcounty,22114,,Thika Town,Non-functioning,0
+,,,Tiaty East,Non-functioning,8
+subcounty,12055,,Tigania East,Non-functioning,0
+subcounty,12054,,Tigania West,Non-functioning,0
+subcounty,29151,,Tinderet,Non-functioning,7
+subcounty,39224,,Tongaren,Non-functioning,0
+,,,Transmara East,Non-functioning,0
+,,,Transmara West,Non-functioning,1
+subcounty,27142,,Turbo,Non-functioning,0
+subcounty,23125,,Turkana Central,Non-functioning,0
+subcounty,23128,,Turkana East,Non-functioning,1
+subcounty,23123,,Turkana North,Non-functioning,4
+subcounty,23127,,Turkana South,Non-functioning,0
+subcounty,23124,,Turkana West,Non-functioning,8
+subcounty,41232,,Ugenya,Non-functioning,0
+subcounty,41233,,Ugunja,Non-functioning,0
+subcounty,44257,,Uriri,Non-functioning,0
+subcounty,38211,,Vihiga,Non-functioning,0
+subcounty,6026,,Voi,Non-functioning,0
+subcounty,8034,,Wajir East,Non-functioning,3
+subcounty,8033,,Wajir North,Non-functioning,0
+subcounty,8038,,Wajir South,Non-functioning,2
+subcounty,8036,,Wajir West,Non-functioning,0
+subcounty,39221,,Webuye East,Non-functioning,0
+subcounty,39222,,Webuye West,Non-functioning,0
+,,,West Pokot,Non-functioning,8
+subcounty,47274,,Westlands,Non-functioning,1
+subcounty,6024,,Wundanyi,Non-functioning,0
+subcounty,16076,,Yatta,Non-functioning,0
+,,,Muranga South,Non-functioning,6
+county,30,,Baringo,Semi-functional,11
+county,36,,Bomet,Semi-functional,69
+county,39,,Bungoma,Semi-functional,91
+county,40,,Busia,Semi-functional,3
+county,28,,Elgeyo-Marakwet,Semi-functional,19
+county,14,,Embu,Semi-functional,7
+county,7,,Garissa,Semi-functional,9
+county,43,,Homa Bay,Semi-functional,35
+county,11,,Isiolo,Semi-functional,17
+county,34,,Kajiado,Semi-functional,15
+county,37,,Kakamega,Semi-functional,174
+country,KE,,Kenya,Semi-functional,1490
+county,35,,Kericho,Semi-functional,6
+county,22,,Kiambu,Semi-functional,53
+county,3,,Kilifi,Semi-functional,11
+county,20,,Kirinyaga,Semi-functional,14
+county,45,,Kisii,Semi-functional,21
+county,42,,Kisumu,Semi-functional,54
+county,15,,Kitui,Semi-functional,176
+county,2,,Kwale,Semi-functional,10
+county,31,,Laikipia,Semi-functional,2
+county,5,,Lamu,Semi-functional,4
+county,16,,Machakos,Semi-functional,129
+county,17,,Makueni,Semi-functional,57
+county,9,,Mandera,Semi-functional,0
+county,10,,Marsabit,Semi-functional,26
+county,12,,Meru,Semi-functional,85
+county,44,,Migori,Semi-functional,31
+county,1,,Mombasa,Semi-functional,3
+county,21,,Murang'a,Semi-functional,16
+county,47,,Nairobi,Semi-functional,16
+county,32,,Nakuru,Semi-functional,37
+county,29,,Nandi,Semi-functional,1
+county,33,,Narok,Semi-functional,7
+county,46,,Nyamira,Semi-functional,13
+county,18,,Nyandarua,Semi-functional,13
+county,19,,Nyeri,Semi-functional,44
+county,25,,Samburu,Semi-functional,2
+county,41,,Siaya,Semi-functional,38
+county,6,,Taita-Taveta,Semi-functional,11
+county,4,,Tana River,Semi-functional,16
+county,13,,Tharaka-Nithi,Semi-functional,4
+county,26,,Trans-Nzoia,Semi-functional,27
+county,23,,Turkana,Semi-functional,15
+county,27,,Uasin Gishu,Semi-functional,66
+county,38,,Vihiga,Semi-functional,15
+county,8,,Wajir,Semi-functional,10
+county,24,,West Pokot,Semi-functional,7
+subcounty,27144,,Ainabkoi,Semi-functional,8
+subcounty,35190,,Ainamoi,Semi-functional,0
+subcounty,29152,,Aldai,Semi-functional,0
+subcounty,41234,,Alego Usonga,Semi-functional,0
+subcounty,16080,,Mavoko,Semi-functional,3
+subcounty,44254,,Awendo,Semi-functional,1
+subcounty,7028,,Balambala,Semi-functional,1
+subcounty,9040,,Banissa,Semi-functional,0
+subcounty,30159,,Baringo Central,Semi-functional,0
+subcounty,30158,,Baringo North,Semi-functional,0
+subcounty,45264,,Bobasi,Semi-functional,1
+subcounty,45263,,Bomachoge Borabu,Semi-functional,5
+subcounty,45265,,Bomachoge Chache,Semi-functional,1
+subcounty,36197,,Bomet Central,Semi-functional,11
+subcounty,36196,,Bomet East,Semi-functional,2
+subcounty,45261,,Bonchari,Semi-functional,3
+subcounty,41236,,Bondo,Semi-functional,4
+subcounty,46273,,Borabu,Semi-functional,0
+subcounty,39219,,Bumula,Semi-functional,0
+,,,Bunyala,Semi-functional,0
+subcounty,4020,,Bura,Semi-functional,0
+subcounty,35191,,Buret,Semi-functional,4
+subcounty,37207,,Butere,Semi-functional,6
+subcounty,40229,,Butula,Semi-functional,0
+subcounty,12057,,Buuri,Semi-functional,2
+subcounty,1001,,Changamwe,Semi-functional,2
+subcounty,36195,,Chepalungu,Semi-functional,25
+,,,Cheptais,Semi-functional,2
+subcounty,26140,,Cherangany,Semi-functional,11
+subcounty,29154,,Chesumei,Semi-functional,0
+,,,Chuka,Semi-functional,0
+subcounty,7030,,Dadaab,Semi-functional,2
+,,,Dagoretti North,Semi-functional,2
+,,,Dagoretti South,Semi-functional,0
+,,,East Pokot,Semi-functional,0
+subcounty,8037,,Eldas,Semi-functional,2
+subcounty,47284,,Embakasi Central,Semi-functional,0
+subcounty,47285,,Embakasi East,Semi-functional,0
+subcounty,47283,,Embakasi North,Semi-functional,3
+subcounty,47282,,Embakasi South,Semi-functional,0
+subcounty,47286,,Embakasi West,Semi-functional,0
+subcounty,38215,,Emuhaya,Semi-functional,2
+subcounty,26137,,Endebess,Semi-functional,1
+subcounty,7031,,Fafi,Semi-functional,4
+subcounty,4019,,Galole,Semi-functional,9
+subcounty,3015,,Ganze,Semi-functional,5
+,,,Garbatulla,Semi-functional,9
+,,,Garissa,Semi-functional,0
+subcounty,4018,,Garsen,Semi-functional,7
+subcounty,21110,,Gatanga,Semi-functional,0
+subcounty,22112,,Gatundu North,Semi-functional,3
+subcounty,22111,,Gatundu South,Semi-functional,7
+subcounty,41235,,Gem,Semi-functional,1
+subcounty,32169,,Gilgil,Semi-functional,6
+subcounty,22116,,Githunguri,Semi-functional,0
+subcounty,38213,,Hamisi,Semi-functional,9
+subcounty,43249,,Homa Bay Town,Semi-functional,5
+,,,Hulugho,Semi-functional,2
+,,,Igambangombe,Semi-functional,0
+subcounty,12052,,Igembe Central,Semi-functional,22
+subcounty,12053,,Igembe North,Semi-functional,6
+subcounty,12051,,Igembe South,Semi-functional,19
+subcounty,7032,,Ijara,Semi-functional,0
+subcounty,37210,,Ikolomani,Semi-functional,9
+subcounty,12058,,Central Imenti,Semi-functional,12
+subcounty,12056,,North Imenti,Semi-functional,12
+subcounty,12059,,South Imenti,Semi-functional,2
+,,,Isiolo,Semi-functional,8
+subcounty,1002,,Jomvu,Semi-functional,0
+subcounty,22113,,Juja,Semi-functional,5
+subcounty,22119,,Kabete,Semi-functional,0
+subcounty,43246,,Kabondo Kasipul,Semi-functional,6
+subcounty,39218,,Kabuchai,Semi-functional,2
+subcounty,17085,,Kaiti,Semi-functional,12
+subcounty,34184,,Kajiado Central,Semi-functional,5
+subcounty,34186,,Kajiado East,Semi-functional,0
+subcounty,34183,,Kajiado North,Semi-functional,0
+subcounty,34185,,Kajiado West,Semi-functional,6
+,,,Kalama,Semi-functional,13
+subcounty,3013,,Kaloleni,Semi-functional,5
+subcounty,47288,,Kamukunji,Semi-functional,1
+subcounty,21109,,Kandara,Semi-functional,0
+subcounty,39220,,Kanduyi,Semi-functional,33
+subcounty,21104,,Kangema,Semi-functional,0
+subcounty,16077,,Kangundo,Semi-functional,11
+subcounty,27145,,Kapseret,Semi-functional,21
+subcounty,43247,,Karachuonyo,Semi-functional,5
+subcounty,47280,,Kasarani,Semi-functional,4
+subcounty,16079,,Kathiani,Semi-functional,17
+subcounty,28149,,Keiyo North,Semi-functional,9
+subcounty,28150,,Keiyo South,Semi-functional,7
+subcounty,27146,,Kesses,Semi-functional,1
+subcounty,37208,,Khwisero,Semi-functional,3
+subcounty,22118,,Kiambaa,Semi-functional,0
+,,,Kiambu Town,Semi-functional,1
+,,,Kibish,Semi-functional,2
+subcounty,47278,,Kibra,Semi-functional,0
+subcounty,17087,,Kibwezi West,Semi-functional,10
+,,,Kieni East,Semi-functional,3
+,,,Kieni West,Semi-functional,12
+subcounty,21107,,Kigumo,Semi-functional,2
+subcounty,21106,,Kiharu,Semi-functional,8
+subcounty,22120,,Kikuyu,Semi-functional,25
+subcounty,3011,,Kilifi North,Semi-functional,0
+subcounty,3012,,Kilifi South,Semi-functional,0
+subcounty,17084,,Kilome,Semi-functional,11
+subcounty,39223,,Kimilili,Semi-functional,0
+subcounty,26139,,Kiminini,Semi-functional,2
+subcounty,2010,,Kinango,Semi-functional,2
+subcounty,18090,,Kipipiri,Semi-functional,0
+subcounty,35188,,Kipkelion East,Semi-functional,0
+subcounty,35189,,Kipkelion West,Semi-functional,0
+subcounty,20103,,Kirinyaga Central,Semi-functional,2
+,,,Kirinyaga East,Semi-functional,4
+,,,Kirinyaga North/Mwea West,Semi-functional,1
+,,,Kirinyaga South,Semi-functional,5
+,,,Kirinyaga West,Semi-functional,2
+subcounty,1003,,Kisauni,Semi-functional,0
+subcounty,42240,,Kisumu Central,Semi-functional,2
+subcounty,42238,,Kisumu East,Semi-functional,4
+subcounty,42239,,Kisumu West,Semi-functional,11
+subcounty,15072,,Kitui Central,Semi-functional,23
+subcounty,15073,,Kitui East,Semi-functional,3
+subcounty,15071,,Kitui Rural,Semi-functional,6
+subcounty,15074,,Kitui South,Semi-functional,46
+subcounty,15070,,Kitui West,Semi-functional,24
+subcounty,45268,,Kitutu Chache North,Semi-functional,5
+subcounty,45269,,Kitutu Chache South,Semi-functional,2
+,,,Koibatek,Semi-functional,4
+subcounty,36198,,Konoin,Semi-functional,0
+subcounty,32171,,Kuresoi North,Semi-functional,0
+subcounty,32170,,Kuresoi South,Semi-functional,2
+subcounty,44260,,Kuria East,Semi-functional,3
+subcounty,44259,,Kuria West,Semi-functional,2
+subcounty,26136,,Kwanza,Semi-functional,2
+subcounty,9044,,Lafey,Semi-functional,0
+subcounty,7029,,Lagdera,Semi-functional,0
+subcounty,31164,,Laikipia East,Semi-functional,0
+subcounty,31165,,Laikipia North,Semi-functional,0
+subcounty,31163,,Laikipia West,Semi-functional,2
+subcounty,10048,,Laisamis,Semi-functional,4
+subcounty,5021,,Lamu East,Semi-functional,2
+subcounty,5022,,Lamu West,Semi-functional,2
+subcounty,47277,,Langata,Semi-functional,3
+subcounty,22122,,Lari,Semi-functional,5
+subcounty,1005,,Likoni,Semi-functional,0
+subcounty,37200,,Likuyani,Semi-functional,0
+subcounty,22121,,Limuru,Semi-functional,0
+subcounty,23126,,Loima,Semi-functional,6
+,,,Loitokitok,Semi-functional,4
+subcounty,38214,,Luanda,Semi-functional,0
+subcounty,37199,,Lugari,Semi-functional,34
+subcounty,2008,,Lunga Lunga,Semi-functional,2
+subcounty,37202,,Lurambi,Semi-functional,18
+,,,Machakos,Semi-functional,18
+subcounty,3017,,Magarini,Semi-functional,1
+subcounty,47287,,Makadara,Semi-functional,0
+subcounty,17086,,Makueni,Semi-functional,17
+subcounty,37201,,Malava,Semi-functional,45
+subcounty,3016,,Malindi,Semi-functional,0
+subcounty,9043,,Mandera East,Semi-functional,0
+subcounty,9042,,Mandera South,Semi-functional,0
+subcounty,9039,,Mandera West,Semi-functional,0
+,,,Manga,Semi-functional,0
+subcounty,14063,,Manyatta,Semi-functional,1
+subcounty,28147,,Marakwet East,Semi-functional,2
+subcounty,28148,,Marakwet West,Semi-functional,1
+,,,Marigat,Semi-functional,0
+,,,Masaba North,Semi-functional,0
+subcounty,16075,,Masinga,Semi-functional,29
+subcounty,40228,,Matayos,Semi-functional,0
+subcounty,47290,,Mathare,Semi-functional,0
+subcounty,21105,,Mathioya,Semi-functional,2
+,,,Mathira East,Semi-functional,0
+,,,Mathira West,Semi-functional,1
+subcounty,2009,,Matuga,Semi-functional,2
+subcounty,37206,,Matungu,Semi-functional,4
+subcounty,16078,,Matungulu,Semi-functional,2
+,,,Mbeere North,Semi-functional,0
+,,,Mbeere South,Semi-functional,2
+,,,Mbita,Semi-functional,2
+subcounty,17083,,Mbooni,Semi-functional,7
+,,,Merti,Semi-functional,0
+subcounty,30161,,Mogotio,Semi-functional,7
+subcounty,27143,,Moiben,Semi-functional,12
+subcounty,32166,,Molo,Semi-functional,2
+subcounty,29156,,Mosop,Semi-functional,1
+subcounty,10045,,Moyale,Semi-functional,14
+subcounty,2007,,Msambweni,Semi-functional,4
+subcounty,39216,,Mt. Elgon,Semi-functional,2
+subcounty,42243,,Muhoroni,Semi-functional,7
+subcounty,19098,,Mukurweini,Semi-functional,3
+subcounty,37205,,Mumias East,Semi-functional,20
+subcounty,37204,,Mumias West,Semi-functional,4
+,,,Muthambi,Semi-functional,0
+subcounty,1006,,Mvita,Semi-functional,1
+subcounty,16082,,Mwala,Semi-functional,18
+subcounty,6025,,Mwatate,Semi-functional,4
+,,,Mwimbi,Semi-functional,0
+,,,Mwingi Central,Semi-functional,34
+subcounty,15067,,Mwingi North,Semi-functional,37
+subcounty,15068,,Mwingi West,Semi-functional,3
+subcounty,32168,,Naivasha,Semi-functional,16
+,,,Nakuru East,Semi-functional,4
+,,,Nakuru North,Semi-functional,5
+subcounty,40227,,Nambale,Semi-functional,0
+subcounty,29153,,Nandi Hills,Semi-functional,0
+subcounty,33180,,Narok East,Semi-functional,1
+subcounty,33179,,Narok North,Semi-functional,3
+subcounty,33181,,Narok South,Semi-functional,0
+subcounty,33182,,Narok West,Semi-functional,0
+subcounty,37203,,Navakholo,Semi-functional,26
+subcounty,18093,,Ndaragwa,Semi-functional,0
+subcounty,43250,,Ndhiwa,Semi-functional,0
+subcounty,32167,,Njoro,Semi-functional,1
+subcounty,10046,,North Horr,Semi-functional,6
+subcounty,42244,,Nyakach,Semi-functional,5
+subcounty,1004,,Nyali,Semi-functional,0
+,,,Nyamira,Semi-functional,13
+,,,Nyamira North,Semi-functional,0
+subcounty,42242,,Nyando,Semi-functional,7
+subcounty,45267,,Nyaribari Chache,Semi-functional,4
+subcounty,45266,,Nyaribari Masaba,Semi-functional,0
+subcounty,44258,,Nyatike,Semi-functional,12
+,,,Nyeri Central,Semi-functional,2
+,,,Nyeri South,Semi-functional,1
+subcounty,18092,,Ol Jorok,Semi-functional,3
+subcounty,18091,,Ol Kalou,Semi-functional,10
+,,,Pokot Central,Semi-functional,0
+,,,Pokot North,Semi-functional,4
+subcounty,24132,,Pokot South,Semi-functional,3
+subcounty,3014,,Rabai,Semi-functional,0
+,,,Rachuonyo South,Semi-functional,2
+subcounty,43248,,Rangwe,Semi-functional,14
+subcounty,41237,,Rarieda,Semi-functional,3
+subcounty,32173,,Rongai,Semi-functional,0
+subcounty,44253,,Rongo,Semi-functional,0
+subcounty,47279,,Roysambu,Semi-functional,2
+subcounty,47281,,Ruaraka,Semi-functional,1
+subcounty,22115,,Ruiru,Semi-functional,0
+subcounty,14064,,Runyenjes,Semi-functional,4
+subcounty,38212,,Sabatia,Semi-functional,3
+subcounty,26138,,Saboti,Semi-functional,11
+subcounty,10047,,Saku,Semi-functional,2
+,,,Samburu Central,Semi-functional,1
+subcounty,25135,,Samburu East,Semi-functional,0
+subcounty,25134,,Samburu North,Semi-functional,1
+,,,Samia,Semi-functional,0
+subcounty,42241,,Seme,Semi-functional,18
+subcounty,37209,,Shinyalu,Semi-functional,5
+subcounty,35193,,Sigowet/Soin,Semi-functional,2
+subcounty,39217,,Sirisia,Semi-functional,22
+subcounty,36194,,Sotik,Semi-functional,31
+subcounty,45262,,South Mugirango,Semi-functional,0
+subcounty,27141,,Soy,Semi-functional,11
+subcounty,47289,,Starehe,Semi-functional,0
+subcounty,43252,,Suba South,Semi-functional,1
+subcounty,32172,,Subukia,Semi-functional,1
+subcounty,44255,,Suna East,Semi-functional,2
+subcounty,44256,,Suna West,Semi-functional,3
+subcounty,8035,,Tarbaj,Semi-functional,0
+subcounty,6023,,Taveta,Semi-functional,3
+subcounty,40225,,Teso North,Semi-functional,1
+subcounty,40226,,Teso South,Semi-functional,2
+subcounty,19094,,Tetu,Semi-functional,22
+,,,Tharaka North,Semi-functional,1
+,,,Tharaka South,Semi-functional,3
+subcounty,22114,,Thika Town,Semi-functional,7
+,,,Tiaty East,Semi-functional,0
+subcounty,12055,,Tigania East,Semi-functional,0
+subcounty,12054,,Tigania West,Semi-functional,10
+subcounty,29151,,Tinderet,Semi-functional,0
+subcounty,39224,,Tongaren,Semi-functional,0
+,,,Transmara East,Semi-functional,1
+,,,Transmara West,Semi-functional,2
+subcounty,27142,,Turbo,Semi-functional,13
+subcounty,23125,,Turkana Central,Semi-functional,1
+subcounty,23128,,Turkana East,Semi-functional,3
+subcounty,23123,,Turkana North,Semi-functional,1
+subcounty,23127,,Turkana South,Semi-functional,0
+subcounty,23124,,Turkana West,Semi-functional,2
+subcounty,41232,,Ugenya,Semi-functional,18
+subcounty,41233,,Ugunja,Semi-functional,12
+subcounty,44257,,Uriri,Semi-functional,8
+subcounty,38211,,Vihiga,Semi-functional,1
+subcounty,6026,,Voi,Semi-functional,2
+subcounty,8034,,Wajir East,Semi-functional,0
+subcounty,8033,,Wajir North,Semi-functional,1
+subcounty,8038,,Wajir South,Semi-functional,7
+subcounty,8036,,Wajir West,Semi-functional,0
+subcounty,39221,,Webuye East,Semi-functional,10
+subcounty,39222,,Webuye West,Semi-functional,20
+,,,West Pokot,Semi-functional,0
+subcounty,47274,,Westlands,Semi-functional,0
+subcounty,6024,,Wundanyi,Semi-functional,2
+subcounty,16076,,Yatta,Semi-functional,18
+,,,Muranga South,Semi-functional,4

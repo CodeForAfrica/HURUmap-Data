@@ -1,0 +1,1401 @@
+geo_level,geo_code,geo_version,name,variable,value
+county,30,,Baringo,Ministry of Health,154
+county,36,,Bomet,Ministry of Health,108
+county,39,,Bungoma,Ministry of Health,111
+county,40,,Busia,Ministry of Health,59
+county,28,,Elgeyo-Marakwet,Ministry of Health,83
+county,14,,Embu,Ministry of Health,58
+county,7,,Garissa,Ministry of Health,43
+county,43,,Homa Bay,Ministry of Health,99
+county,11,,Isiolo,Ministry of Health,17
+county,34,,Kajiado,Ministry of Health,75
+county,37,,Kakamega,Ministry of Health,113
+country,KE,,Kenya,Ministry of Health,3655
+county,35,,Kericho,Ministry of Health,128
+county,22,,Kiambu,Ministry of Health,64
+county,3,,Kilifi,Ministry of Health,76
+county,20,,Kirinyaga,Ministry of Health,42
+county,45,,Kisii,Ministry of Health,65
+county,42,,Kisumu,Ministry of Health,52
+county,15,,Kitui,Ministry of Health,194
+county,2,,Kwale,Ministry of Health,66
+county,31,,Laikipia,Ministry of Health,69
+county,5,,Lamu,Ministry of Health,18
+county,16,,Machakos,Ministry of Health,102
+county,17,,Makueni,Ministry of Health,166
+county,9,,Mandera,Ministry of Health,53
+county,10,,Marsabit,Ministry of Health,42
+county,12,,Meru,Ministry of Health,108
+county,44,,Migori,Ministry of Health,99
+county,1,,Mombasa,Ministry of Health,20
+county,21,,Murang'a,Ministry of Health,72
+county,47,,Nairobi,Ministry of Health,37
+county,32,,Nakuru,Ministry of Health,140
+county,29,,Nandi,Ministry of Health,124
+county,33,,Narok,Ministry of Health,82
+county,46,,Nyamira,Ministry of Health,48
+county,18,,Nyandarua,Ministry of Health,33
+county,19,,Nyeri,Ministry of Health,77
+county,25,,Samburu,Ministry of Health,53
+county,41,,Siaya,Ministry of Health,96
+county,6,,Taita-Taveta,Ministry of Health,18
+county,4,,Tana River,Ministry of Health,29
+county,13,,Tharaka-Nithi,Ministry of Health,54
+county,26,,Trans-Nzoia,Ministry of Health,51
+county,23,,Turkana,Ministry of Health,156
+county,27,,Uasin Gishu,Ministry of Health,106
+county,38,,Vihiga,Ministry of Health,39
+county,8,,Wajir,Ministry of Health,52
+county,24,,West Pokot,Ministry of Health,104
+subcounty,27144,,Ainabkoi,Ministry of Health,15
+subcounty,35190,,Ainamoi,Ministry of Health,17
+subcounty,29152,,Aldai,Ministry of Health,32
+subcounty,41234,,Alego Usonga,Ministry of Health,26
+subcounty,44254,,Awendo,Ministry of Health,9
+subcounty,7028,,Balambala,Ministry of Health,9
+subcounty,9040,,Banissa,Ministry of Health,8
+subcounty,30159,,Baringo Central,Ministry of Health,23
+subcounty,30158,,Baringo North,Ministry of Health,43
+subcounty,35192,,Belgut,Ministry of Health,22
+subcounty,45264,,Bobasi,Ministry of Health,14
+subcounty,45263,,Bomachoge Borabu,Ministry of Health,2
+subcounty,45265,,Bomachoge Chache,Ministry of Health,4
+subcounty,36197,,Bomet Central,Ministry of Health,22
+subcounty,36196,,Bomet East,Ministry of Health,13
+subcounty,45261,,Bonchari,Ministry of Health,9
+subcounty,41236,,Bondo,Ministry of Health,16
+subcounty,46273,,Borabu,Ministry of Health,10
+subcounty,39219,,Bumula,Ministry of Health,9
+,,,Bunyala,Ministry of Health,6
+subcounty,4020,,Bura,Ministry of Health,9
+subcounty,35191,,Buret,Ministry of Health,22
+subcounty,37207,,Butere,Ministry of Health,3
+subcounty,40229,,Butula,Ministry of Health,8
+subcounty,12057,,Buuri,Ministry of Health,11
+subcounty,12058,,Central Imenti,Ministry of Health,8
+subcounty,1001,,Changamwe,Ministry of Health,2
+subcounty,36195,,Chepalungu,Ministry of Health,27
+,,,Cheptais,Ministry of Health,13
+subcounty,26140,,Cherangany,Ministry of Health,11
+subcounty,29154,,Chesumei,Ministry of Health,27
+,,,Chuka,Ministry of Health,6
+subcounty,7030,,Dadaab,Ministry of Health,10
+,,,Dagoretti North,Ministry of Health,4
+,,,Dagoretti South,Ministry of Health,1
+,,,East Pokot,Ministry of Health,11
+subcounty,8037,,Eldas,Ministry of Health,9
+subcounty,47284,,Embakasi Central,Ministry of Health,0
+subcounty,47285,,Embakasi East,Ministry of Health,4
+subcounty,47283,,Embakasi North,Ministry of Health,1
+subcounty,47282,,Embakasi South,Ministry of Health,1
+subcounty,47286,,Embakasi West,Ministry of Health,1
+subcounty,29155,,Emgwen,Ministry of Health,16
+subcounty,38215,,Emuhaya,Ministry of Health,5
+subcounty,26137,,Endebess,Ministry of Health,12
+subcounty,7031,,Fafi,Ministry of Health,3
+subcounty,4019,,Galole,Ministry of Health,8
+subcounty,3015,,Ganze,Ministry of Health,13
+,,,Garbatulla,Ministry of Health,5
+,,,Garissa,Ministry of Health,6
+subcounty,4018,,Garsen,Ministry of Health,12
+subcounty,21110,,Gatanga,Ministry of Health,12
+subcounty,22112,,Gatundu North,Ministry of Health,6
+subcounty,22111,,Gatundu South,Ministry of Health,3
+subcounty,41235,,Gem,Ministry of Health,18
+subcounty,32169,,Gilgil,Ministry of Health,12
+subcounty,22116,,Githunguri,Ministry of Health,8
+subcounty,38213,,Hamisi,Ministry of Health,17
+subcounty,43249,,Homa Bay Town,Ministry of Health,6
+,,,Hulugho,Ministry of Health,3
+,,,Igambangombe,Ministry of Health,10
+subcounty,12052,,Igembe Central,Ministry of Health,13
+subcounty,12053,,Igembe North,Ministry of Health,10
+subcounty,12051,,Igembe South,Ministry of Health,10
+subcounty,7032,,Ijara,Ministry of Health,4
+subcounty,37210,,Ikolomani,Ministry of Health,10
+,,,Isiolo,Ministry of Health,9
+subcounty,1002,,Jomvu,Ministry of Health,2
+subcounty,22113,,Juja,Ministry of Health,5
+subcounty,22119,,Kabete,Ministry of Health,1
+subcounty,43246,,Kabondo Kasipul,Ministry of Health,6
+subcounty,39218,,Kabuchai,Ministry of Health,8
+subcounty,17085,,Kaiti,Ministry of Health,28
+subcounty,34184,,Kajiado Central,Ministry of Health,17
+subcounty,34186,,Kajiado East,Ministry of Health,12
+subcounty,34183,,Kajiado North,Ministry of Health,0
+subcounty,34185,,Kajiado West,Ministry of Health,29
+,,,Kalama,Ministry of Health,10
+subcounty,3013,,Kaloleni,Ministry of Health,12
+subcounty,47288,,Kamukunji,Ministry of Health,1
+subcounty,21109,,Kandara,Ministry of Health,12
+subcounty,39220,,Kanduyi,Ministry of Health,12
+subcounty,21104,,Kangema,Ministry of Health,5
+subcounty,16077,,Kangundo,Ministry of Health,8
+subcounty,27145,,Kapseret,Ministry of Health,14
+subcounty,43247,,Karachuonyo,Ministry of Health,18
+subcounty,47280,,Kasarani,Ministry of Health,1
+subcounty,16079,,Kathiani,Ministry of Health,5
+subcounty,28149,,Keiyo North,Ministry of Health,10
+subcounty,28150,,Keiyo South,Ministry of Health,27
+subcounty,27146,,Kesses,Ministry of Health,16
+subcounty,37208,,Khwisero,Ministry of Health,2
+subcounty,22118,,Kiambaa,Ministry of Health,3
+,,,Kiambu Town,Ministry of Health,2
+,,,Kibish,Ministry of Health,12
+subcounty,47278,,Kibra,Ministry of Health,4
+subcounty,17088,,Kibwezi East,Ministry of Health,15
+subcounty,17087,,Kibwezi West,Ministry of Health,30
+,,,Kieni East,Ministry of Health,4
+,,,Kieni West,Ministry of Health,7
+subcounty,21107,,Kigumo,Ministry of Health,9
+subcounty,21106,,Kiharu,Ministry of Health,14
+subcounty,22120,,Kikuyu,Ministry of Health,7
+subcounty,3011,,Kilifi North,Ministry of Health,9
+subcounty,3012,,Kilifi South,Ministry of Health,4
+subcounty,17084,,Kilome,Ministry of Health,18
+subcounty,39223,,Kimilili,Ministry of Health,11
+subcounty,26139,,Kiminini,Ministry of Health,6
+subcounty,2010,,Kinango,Ministry of Health,25
+subcounty,18089,,Kinangop,Ministry of Health,8
+subcounty,18090,,Kipipiri,Ministry of Health,6
+subcounty,35188,,Kipkelion East,Ministry of Health,17
+subcounty,35189,,Kipkelion West,Ministry of Health,17
+subcounty,20103,,Kirinyaga Central,Ministry of Health,9
+,,,Kirinyaga East,Ministry of Health,8
+,,,Kirinyaga North/Mwea West,Ministry of Health,3
+,,,Kirinyaga South,Ministry of Health,9
+,,,Kirinyaga West,Ministry of Health,13
+subcounty,1003,,Kisauni,Ministry of Health,6
+subcounty,42240,,Kisumu Central,Ministry of Health,7
+subcounty,42238,,Kisumu East,Ministry of Health,4
+subcounty,42239,,Kisumu West,Ministry of Health,4
+subcounty,15072,,Kitui Central,Ministry of Health,21
+subcounty,15073,,Kitui East,Ministry of Health,30
+subcounty,15071,,Kitui Rural,Ministry of Health,18
+subcounty,15074,,Kitui South,Ministry of Health,39
+subcounty,15070,,Kitui West,Ministry of Health,15
+subcounty,45268,,Kitutu Chache North,Ministry of Health,2
+subcounty,45269,,Kitutu Chache South,Ministry of Health,8
+,,,Koibatek,Ministry of Health,18
+subcounty,36198,,Konoin,Ministry of Health,18
+subcounty,32171,,Kuresoi North,Ministry of Health,16
+subcounty,32170,,Kuresoi South,Ministry of Health,23
+subcounty,44260,,Kuria East,Ministry of Health,10
+subcounty,44259,,Kuria West,Ministry of Health,14
+subcounty,26136,,Kwanza,Ministry of Health,12
+subcounty,9044,,Lafey,Ministry of Health,6
+subcounty,7029,,Lagdera,Ministry of Health,8
+subcounty,31164,,Laikipia East,Ministry of Health,22
+subcounty,31165,,Laikipia North,Ministry of Health,22
+subcounty,31163,,Laikipia West,Ministry of Health,25
+subcounty,10048,,Laisamis,Ministry of Health,10
+subcounty,5021,,Lamu East,Ministry of Health,6
+subcounty,5022,,Lamu West,Ministry of Health,12
+subcounty,47277,,Langata,Ministry of Health,6
+subcounty,22122,,Lari,Ministry of Health,14
+subcounty,1005,,Likoni,Ministry of Health,0
+subcounty,37200,,Likuyani,Ministry of Health,7
+subcounty,22121,,Limuru,Ministry of Health,3
+subcounty,23126,,Loima,Ministry of Health,24
+,,,Loitokitok,Ministry of Health,17
+subcounty,38214,,Luanda,Ministry of Health,6
+subcounty,37199,,Lugari,Ministry of Health,15
+subcounty,2008,,Lunga Lunga,Ministry of Health,18
+subcounty,37202,,Lurambi,Ministry of Health,14
+,,,Machakos,Ministry of Health,9
+subcounty,3017,,Magarini,Ministry of Health,20
+subcounty,47287,,Makadara,Ministry of Health,1
+subcounty,17086,,Makueni,Ministry of Health,44
+subcounty,37201,,Malava,Ministry of Health,17
+subcounty,3016,,Malindi,Ministry of Health,9
+subcounty,9043,,Mandera East,Ministry of Health,12
+subcounty,9041,,Mandera North,Ministry of Health,4
+subcounty,9042,,Mandera South,Ministry of Health,12
+subcounty,9039,,Mandera West,Ministry of Health,11
+,,,Manga,Ministry of Health,7
+subcounty,14063,,Manyatta,Ministry of Health,13
+subcounty,28147,,Marakwet East,Ministry of Health,13
+subcounty,28148,,Marakwet West,Ministry of Health,33
+,,,Marigat,Ministry of Health,22
+,,,Masaba North,Ministry of Health,15
+subcounty,16075,,Masinga,Ministry of Health,20
+subcounty,40228,,Matayos,Ministry of Health,10
+subcounty,47290,,Mathare,Ministry of Health,1
+subcounty,21105,,Mathioya,Ministry of Health,11
+,,,Mathira East,Ministry of Health,11
+,,,Mathira West,Ministry of Health,7
+subcounty,2009,,Matuga,Ministry of Health,13
+subcounty,37206,,Matungu,Ministry of Health,6
+subcounty,16078,,Matungulu,Ministry of Health,13
+subcounty,16080,,Mavoko,Ministry of Health,4
+,,,Mbeere North,Ministry of Health,13
+,,,Mbeere South,Ministry of Health,18
+,,,Mbita,Ministry of Health,14
+subcounty,17083,,Mbooni,Ministry of Health,31
+,,,Merti,Ministry of Health,3
+subcounty,30161,,Mogotio,Ministry of Health,26
+subcounty,27143,,Moiben,Ministry of Health,21
+subcounty,32166,,Molo,Ministry of Health,10
+subcounty,29156,,Mosop,Ministry of Health,19
+subcounty,10045,,Moyale,Ministry of Health,17
+subcounty,2007,,Msambweni,Ministry of Health,10
+subcounty,39216,,Mt. Elgon,Ministry of Health,15
+subcounty,42243,,Muhoroni,Ministry of Health,11
+subcounty,19098,,Mukurweini,Ministry of Health,7
+subcounty,37205,,Mumias East,Ministry of Health,12
+subcounty,37204,,Mumias West,Ministry of Health,7
+,,,Murang'a south,Ministry of Health,9
+,,,Muthambi,Ministry of Health,7
+subcounty,1006,,Mvita,Ministry of Health,9
+subcounty,16082,,Mwala,Ministry of Health,11
+subcounty,6025,,Mwatate,Ministry of Health,8
+,,,Mwimbi,Ministry of Health,10
+,,,Mwingi Central,Ministry of Health,29
+subcounty,15067,,Mwingi North,Ministry of Health,14
+subcounty,15068,,Mwingi West,Ministry of Health,28
+subcounty,32168,,Naivasha,Ministry of Health,14
+,,,Nakuru East,Ministry of Health,2
+,,,Nakuru North,Ministry of Health,4
+,,,Nakuru West,Ministry of Health,8
+subcounty,40227,,Nambale,Ministry of Health,6
+subcounty,29153,,Nandi Hills,Ministry of Health,14
+subcounty,33180,,Narok East,Ministry of Health,8
+subcounty,33179,,Narok North,Ministry of Health,11
+subcounty,33181,,Narok South,Ministry of Health,11
+subcounty,33182,,Narok West,Ministry of Health,15
+subcounty,37203,,Navakholo,Ministry of Health,8
+subcounty,18093,,Ndaragwa,Ministry of Health,5
+subcounty,43250,,Ndhiwa,Ministry of Health,27
+subcounty,32167,,Njoro,Ministry of Health,19
+subcounty,10046,,North Horr,Ministry of Health,7
+subcounty,12056,,North Imenti,Ministry of Health,11
+subcounty,42244,,Nyakach,Ministry of Health,11
+subcounty,1004,,Nyali,Ministry of Health,1
+,,,Nyamira,Ministry of Health,8
+,,,Nyamira North,Ministry of Health,8
+subcounty,42242,,Nyando,Ministry of Health,7
+subcounty,45267,,Nyaribari Chache,Ministry of Health,10
+subcounty,45266,,Nyaribari Masaba,Ministry of Health,5
+subcounty,44258,,Nyatike,Ministry of Health,24
+,,,Nyeri Central,Ministry of Health,16
+,,,Nyeri South,Ministry of Health,15
+subcounty,18092,,Ol Jorok,Ministry of Health,7
+subcounty,18091,,Ol Kalou,Ministry of Health,7
+,,,Pokot Central,Ministry of Health,21
+,,,Pokot North,Ministry of Health,28
+subcounty,24132,,Pokot South,Ministry of Health,24
+subcounty,3014,,Rabai,Ministry of Health,9
+,,,Rachuonyo South,Ministry of Health,8
+subcounty,43248,,Rangwe,Ministry of Health,10
+subcounty,41237,,Rarieda,Ministry of Health,15
+subcounty,32173,,Rongai,Ministry of Health,22
+subcounty,44253,,Rongo,Ministry of Health,5
+subcounty,47279,,Roysambu,Ministry of Health,2
+subcounty,22115,,Ruiru,Ministry of Health,2
+subcounty,14064,,Runyenjes,Ministry of Health,14
+subcounty,38212,,Sabatia,Ministry of Health,4
+subcounty,26138,,Saboti,Ministry of Health,10
+subcounty,10047,,Saku,Ministry of Health,8
+,,,Samburu Central,Ministry of Health,19
+subcounty,25135,,Samburu East,Ministry of Health,15
+subcounty,25134,,Samburu North,Ministry of Health,19
+,,,Samia,Ministry of Health,11
+subcounty,42241,,Seme,Ministry of Health,8
+subcounty,37209,,Shinyalu,Ministry of Health,12
+subcounty,35193,,Sigowet/Soin,Ministry of Health,33
+subcounty,39217,,Sirisia,Ministry of Health,12
+subcounty,36194,,Sotik,Ministry of Health,28
+subcounty,12059,,South Imenti,Ministry of Health,17
+subcounty,45262,,South Mugirango,Ministry of Health,11
+subcounty,27141,,Soy,Ministry of Health,21
+subcounty,47289,,Starehe,Ministry of Health,6
+subcounty,43252,,Suba South,Ministry of Health,10
+subcounty,32172,,Subukia,Ministry of Health,10
+subcounty,44255,,Suna East,Ministry of Health,9
+subcounty,44256,,Suna West,Ministry of Health,10
+subcounty,8035,,Tarbaj,Ministry of Health,13
+subcounty,6023,,Taveta,Ministry of Health,2
+subcounty,40225,,Teso North,Ministry of Health,7
+subcounty,40226,,Teso South,Ministry of Health,11
+subcounty,19094,,Tetu,Ministry of Health,10
+,,,Tharaka North,Ministry of Health,8
+,,,Tharaka South,Ministry of Health,13
+subcounty,22114,,Thika Town,Ministry of Health,10
+,,,Tiaty East,Ministry of Health,11
+subcounty,12055,,Tigania East,Ministry of Health,13
+subcounty,12054,,Tigania West,Ministry of Health,15
+subcounty,29151,,Tinderet,Ministry of Health,16
+subcounty,39224,,Tongaren,Ministry of Health,13
+,,,Transmara East,Ministry of Health,16
+,,,Transmara West,Ministry of Health,21
+subcounty,27142,,Turbo,Ministry of Health,19
+subcounty,23125,,Turkana Central,Ministry of Health,39
+subcounty,23128,,Turkana East,Ministry of Health,14
+subcounty,23123,,Turkana North,Ministry of Health,19
+subcounty,23127,,Turkana South,Ministry of Health,28
+subcounty,23124,,Turkana West,Ministry of Health,20
+subcounty,41232,,Ugenya,Ministry of Health,13
+subcounty,41233,,Ugunja,Ministry of Health,8
+subcounty,44257,,Uriri,Ministry of Health,18
+subcounty,38211,,Vihiga,Ministry of Health,7
+subcounty,6026,,Voi,Ministry of Health,6
+subcounty,8034,,Wajir East,Ministry of Health,8
+subcounty,8033,,Wajir North,Ministry of Health,2
+subcounty,8038,,Wajir South,Ministry of Health,7
+subcounty,8036,,Wajir West,Ministry of Health,13
+subcounty,39221,,Webuye East,Ministry of Health,6
+subcounty,39222,,Webuye West,Ministry of Health,12
+,,,West Pokot,Ministry of Health,31
+subcounty,47274,,Westlands,Ministry of Health,3
+subcounty,6024,,Wundanyi,Ministry of Health,2
+subcounty,16076,,Yatta,Ministry of Health,22
+county,30,,Baringo,Faith-based organisation,9
+county,36,,Bomet,Faith-based organisation,1
+county,39,,Bungoma,Faith-based organisation,9
+county,40,,Busia,Faith-based organisation,8
+county,28,,Elgeyo-Marakwet,Faith-based organisation,5
+county,14,,Embu,Faith-based organisation,10
+county,7,,Garissa,Faith-based organisation,0
+county,43,,Homa Bay,Faith-based organisation,14
+county,11,,Isiolo,Faith-based organisation,3
+county,34,,Kajiado,Faith-based organisation,7
+county,37,,Kakamega,Faith-based organisation,12
+country,KE,,Kenya,Faith-based organisation,471
+county,35,,Kericho,Faith-based organisation,7
+county,22,,Kiambu,Faith-based organisation,27
+county,3,,Kilifi,Faith-based organisation,6
+county,20,,Kirinyaga,Faith-based organisation,11
+county,45,,Kisii,Faith-based organisation,6
+county,42,,Kisumu,Faith-based organisation,5
+county,15,,Kitui,Faith-based organisation,12
+county,2,,Kwale,Faith-based organisation,7
+county,31,,Laikipia,Faith-based organisation,8
+county,5,,Lamu,Faith-based organisation,0
+county,16,,Machakos,Faith-based organisation,9
+county,17,,Makueni,Faith-based organisation,16
+county,9,,Mandera,Faith-based organisation,0
+county,10,,Marsabit,Faith-based organisation,7
+county,12,,Meru,Faith-based organisation,20
+county,44,,Migori,Faith-based organisation,9
+county,1,,Mombasa,Faith-based organisation,6
+county,21,,Murang'a,Faith-based organisation,24
+county,47,,Nairobi,Faith-based organisation,41
+county,32,,Nakuru,Faith-based organisation,24
+county,29,,Nandi,Faith-based organisation,6
+county,33,,Narok,Faith-based organisation,20
+county,46,,Nyamira,Faith-based organisation,5
+county,18,,Nyandarua,Faith-based organisation,8
+county,19,,Nyeri,Faith-based organisation,12
+county,25,,Samburu,Faith-based organisation,6
+county,41,,Siaya,Faith-based organisation,7
+county,6,,Taita-Taveta,Faith-based organisation,3
+county,4,,Tana River,Faith-based organisation,4
+county,13,,Tharaka-Nithi,Faith-based organisation,12
+county,26,,Trans-Nzoia,Faith-based organisation,7
+county,23,,Turkana,Faith-based organisation,25
+county,27,,Uasin Gishu,Faith-based organisation,17
+county,38,,Vihiga,Faith-based organisation,2
+county,8,,Wajir,Faith-based organisation,1
+county,24,,West Pokot,Faith-based organisation,13
+subcounty,27144,,Ainabkoi,Faith-based organisation,2
+subcounty,35190,,Ainamoi,Faith-based organisation,1
+subcounty,29152,,Aldai,Faith-based organisation,1
+subcounty,41234,,Alego Usonga,Faith-based organisation,2
+subcounty,44254,,Awendo,Faith-based organisation,2
+subcounty,7028,,Balambala,Faith-based organisation,0
+subcounty,9040,,Banissa,Faith-based organisation,0
+subcounty,30159,,Baringo Central,Faith-based organisation,1
+subcounty,30158,,Baringo North,Faith-based organisation,1
+subcounty,35192,,Belgut,Faith-based organisation,0
+subcounty,45264,,Bobasi,Faith-based organisation,1
+subcounty,45263,,Bomachoge Borabu,Faith-based organisation,0
+subcounty,45265,,Bomachoge Chache,Faith-based organisation,1
+subcounty,36197,,Bomet Central,Faith-based organisation,0
+subcounty,36196,,Bomet East,Faith-based organisation,0
+subcounty,45261,,Bonchari,Faith-based organisation,0
+subcounty,41236,,Bondo,Faith-based organisation,2
+subcounty,46273,,Borabu,Faith-based organisation,2
+subcounty,39219,,Bumula,Faith-based organisation,2
+,,,Bunyala,Faith-based organisation,1
+subcounty,4020,,Bura,Faith-based organisation,1
+subcounty,35191,,Buret,Faith-based organisation,1
+subcounty,37207,,Butere,Faith-based organisation,1
+subcounty,40229,,Butula,Faith-based organisation,3
+subcounty,12057,,Buuri,Faith-based organisation,3
+subcounty,12058,,Central Imenti,Faith-based organisation,1
+subcounty,1001,,Changamwe,Faith-based organisation,1
+subcounty,36195,,Chepalungu,Faith-based organisation,0
+,,,Cheptais,Faith-based organisation,0
+subcounty,26140,,Cherangany,Faith-based organisation,3
+subcounty,29154,,Chesumei,Faith-based organisation,1
+,,,Chuka,Faith-based organisation,3
+subcounty,7030,,Dadaab,Faith-based organisation,0
+,,,Dagoretti North,Faith-based organisation,1
+,,,Dagoretti South,Faith-based organisation,1
+,,,East Pokot,Faith-based organisation,2
+subcounty,8037,,Eldas,Faith-based organisation,0
+subcounty,47284,,Embakasi Central,Faith-based organisation,0
+subcounty,47285,,Embakasi East,Faith-based organisation,4
+subcounty,47283,,Embakasi North,Faith-based organisation,3
+subcounty,47282,,Embakasi South,Faith-based organisation,4
+subcounty,47286,,Embakasi West,Faith-based organisation,1
+subcounty,29155,,Emgwen,Faith-based organisation,2
+subcounty,38215,,Emuhaya,Faith-based organisation,0
+subcounty,26137,,Endebess,Faith-based organisation,0
+subcounty,7031,,Fafi,Faith-based organisation,0
+subcounty,4019,,Galole,Faith-based organisation,0
+subcounty,3015,,Ganze,Faith-based organisation,1
+,,,Garbatulla,Faith-based organisation,1
+,,,Garissa,Faith-based organisation,0
+subcounty,4018,,Garsen,Faith-based organisation,3
+subcounty,21110,,Gatanga,Faith-based organisation,1
+subcounty,22112,,Gatundu North,Faith-based organisation,0
+subcounty,22111,,Gatundu South,Faith-based organisation,2
+subcounty,41235,,Gem,Faith-based organisation,1
+subcounty,32169,,Gilgil,Faith-based organisation,1
+subcounty,22116,,Githunguri,Faith-based organisation,4
+subcounty,38213,,Hamisi,Faith-based organisation,1
+subcounty,43249,,Homa Bay Town,Faith-based organisation,4
+,,,Hulugho,Faith-based organisation,0
+,,,Igambangombe,Faith-based organisation,3
+subcounty,12052,,Igembe Central,Faith-based organisation,2
+subcounty,12053,,Igembe North,Faith-based organisation,0
+subcounty,12051,,Igembe South,Faith-based organisation,2
+subcounty,7032,,Ijara,Faith-based organisation,0
+subcounty,37210,,Ikolomani,Faith-based organisation,0
+,,,Isiolo,Faith-based organisation,2
+subcounty,1002,,Jomvu,Faith-based organisation,2
+subcounty,22113,,Juja,Faith-based organisation,0
+subcounty,22119,,Kabete,Faith-based organisation,2
+subcounty,43246,,Kabondo Kasipul,Faith-based organisation,2
+subcounty,39218,,Kabuchai,Faith-based organisation,1
+subcounty,17085,,Kaiti,Faith-based organisation,0
+subcounty,34184,,Kajiado Central,Faith-based organisation,3
+subcounty,34186,,Kajiado East,Faith-based organisation,1
+subcounty,34183,,Kajiado North,Faith-based organisation,2
+subcounty,34185,,Kajiado West,Faith-based organisation,0
+,,,Kalama,Faith-based organisation,1
+subcounty,3013,,Kaloleni,Faith-based organisation,0
+subcounty,47288,,Kamukunji,Faith-based organisation,3
+subcounty,21109,,Kandara,Faith-based organisation,3
+subcounty,39220,,Kanduyi,Faith-based organisation,1
+subcounty,21104,,Kangema,Faith-based organisation,1
+subcounty,16077,,Kangundo,Faith-based organisation,1
+subcounty,27145,,Kapseret,Faith-based organisation,1
+subcounty,43247,,Karachuonyo,Faith-based organisation,0
+subcounty,47280,,Kasarani,Faith-based organisation,5
+subcounty,16079,,Kathiani,Faith-based organisation,2
+subcounty,28149,,Keiyo North,Faith-based organisation,1
+subcounty,28150,,Keiyo South,Faith-based organisation,0
+subcounty,27146,,Kesses,Faith-based organisation,5
+subcounty,37208,,Khwisero,Faith-based organisation,1
+subcounty,22118,,Kiambaa,Faith-based organisation,2
+,,,Kiambu Town,Faith-based organisation,3
+,,,Kibish,Faith-based organisation,1
+subcounty,47278,,Kibra,Faith-based organisation,2
+subcounty,17088,,Kibwezi East,Faith-based organisation,3
+subcounty,17087,,Kibwezi West,Faith-based organisation,0
+,,,Kieni East,Faith-based organisation,1
+,,,Kieni West,Faith-based organisation,2
+subcounty,21107,,Kigumo,Faith-based organisation,5
+subcounty,21106,,Kiharu,Faith-based organisation,9
+subcounty,22120,,Kikuyu,Faith-based organisation,4
+subcounty,3011,,Kilifi North,Faith-based organisation,3
+subcounty,3012,,Kilifi South,Faith-based organisation,1
+subcounty,17084,,Kilome,Faith-based organisation,5
+subcounty,39223,,Kimilili,Faith-based organisation,0
+subcounty,26139,,Kiminini,Faith-based organisation,1
+subcounty,2010,,Kinango,Faith-based organisation,0
+subcounty,18089,,Kinangop,Faith-based organisation,4
+subcounty,18090,,Kipipiri,Faith-based organisation,0
+subcounty,35188,,Kipkelion East,Faith-based organisation,2
+subcounty,35189,,Kipkelion West,Faith-based organisation,2
+subcounty,20103,,Kirinyaga Central,Faith-based organisation,1
+,,,Kirinyaga East,Faith-based organisation,4
+,,,Kirinyaga North/Mwea West,Faith-based organisation,2
+,,,Kirinyaga South,Faith-based organisation,0
+,,,Kirinyaga West,Faith-based organisation,4
+subcounty,1003,,Kisauni,Faith-based organisation,0
+subcounty,42240,,Kisumu Central,Faith-based organisation,2
+subcounty,42238,,Kisumu East,Faith-based organisation,1
+subcounty,42239,,Kisumu West,Faith-based organisation,0
+subcounty,15072,,Kitui Central,Faith-based organisation,2
+subcounty,15073,,Kitui East,Faith-based organisation,1
+subcounty,15071,,Kitui Rural,Faith-based organisation,2
+subcounty,15074,,Kitui South,Faith-based organisation,1
+subcounty,15070,,Kitui West,Faith-based organisation,3
+subcounty,45268,,Kitutu Chache North,Faith-based organisation,2
+subcounty,45269,,Kitutu Chache South,Faith-based organisation,1
+,,,Koibatek,Faith-based organisation,0
+subcounty,36198,,Konoin,Faith-based organisation,0
+subcounty,32171,,Kuresoi North,Faith-based organisation,3
+subcounty,32170,,Kuresoi South,Faith-based organisation,0
+subcounty,44260,,Kuria East,Faith-based organisation,1
+subcounty,44259,,Kuria West,Faith-based organisation,1
+subcounty,26136,,Kwanza,Faith-based organisation,1
+subcounty,9044,,Lafey,Faith-based organisation,0
+subcounty,7029,,Lagdera,Faith-based organisation,0
+subcounty,31164,,Laikipia East,Faith-based organisation,2
+subcounty,31165,,Laikipia North,Faith-based organisation,0
+subcounty,31163,,Laikipia West,Faith-based organisation,6
+subcounty,10048,,Laisamis,Faith-based organisation,4
+subcounty,5021,,Lamu East,Faith-based organisation,0
+subcounty,5022,,Lamu West,Faith-based organisation,0
+subcounty,47277,,Langata,Faith-based organisation,8
+subcounty,22122,,Lari,Faith-based organisation,3
+subcounty,1005,,Likoni,Faith-based organisation,1
+subcounty,37200,,Likuyani,Faith-based organisation,0
+subcounty,22121,,Limuru,Faith-based organisation,2
+subcounty,23126,,Loima,Faith-based organisation,5
+,,,Loitokitok,Faith-based organisation,1
+subcounty,38214,,Luanda,Faith-based organisation,0
+subcounty,37199,,Lugari,Faith-based organisation,2
+subcounty,2008,,Lunga Lunga,Faith-based organisation,1
+subcounty,37202,,Lurambi,Faith-based organisation,1
+,,,Machakos,Faith-based organisation,1
+subcounty,3017,,Magarini,Faith-based organisation,0
+subcounty,47287,,Makadara,Faith-based organisation,2
+subcounty,17086,,Makueni,Faith-based organisation,4
+subcounty,37201,,Malava,Faith-based organisation,2
+subcounty,3016,,Malindi,Faith-based organisation,0
+subcounty,9043,,Mandera East,Faith-based organisation,0
+subcounty,9041,,Mandera North,Faith-based organisation,0
+subcounty,9042,,Mandera South,Faith-based organisation,0
+subcounty,9039,,Mandera West,Faith-based organisation,0
+,,,Manga,Faith-based organisation,1
+subcounty,14063,,Manyatta,Faith-based organisation,5
+subcounty,28147,,Marakwet East,Faith-based organisation,2
+subcounty,28148,,Marakwet West,Faith-based organisation,2
+,,,Marigat,Faith-based organisation,2
+,,,Masaba North,Faith-based organisation,2
+subcounty,16075,,Masinga,Faith-based organisation,0
+subcounty,40228,,Matayos,Faith-based organisation,0
+subcounty,47290,,Mathare,Faith-based organisation,0
+subcounty,21105,,Mathioya,Faith-based organisation,2
+,,,Mathira East,Faith-based organisation,1
+,,,Mathira West,Faith-based organisation,0
+subcounty,2009,,Matuga,Faith-based organisation,3
+subcounty,37206,,Matungu,Faith-based organisation,1
+subcounty,16078,,Matungulu,Faith-based organisation,0
+subcounty,16080,,Mavoko,Faith-based organisation,1
+,,,Mbeere North,Faith-based organisation,1
+,,,Mbeere South,Faith-based organisation,3
+,,,Mbita,Faith-based organisation,0
+subcounty,17083,,Mbooni,Faith-based organisation,4
+,,,Merti,Faith-based organisation,0
+subcounty,30161,,Mogotio,Faith-based organisation,1
+subcounty,27143,,Moiben,Faith-based organisation,2
+subcounty,32166,,Molo,Faith-based organisation,4
+subcounty,29156,,Mosop,Faith-based organisation,1
+subcounty,10045,,Moyale,Faith-based organisation,0
+subcounty,2007,,Msambweni,Faith-based organisation,3
+subcounty,39216,,Mt. Elgon,Faith-based organisation,0
+subcounty,42243,,Muhoroni,Faith-based organisation,0
+subcounty,19098,,Mukurweini,Faith-based organisation,3
+subcounty,37205,,Mumias East,Faith-based organisation,0
+subcounty,37204,,Mumias West,Faith-based organisation,2
+,,,Murang'a south,Faith-based organisation,3
+,,,Muthambi,Faith-based organisation,3
+subcounty,1006,,Mvita,Faith-based organisation,1
+subcounty,16082,,Mwala,Faith-based organisation,1
+subcounty,6025,,Mwatate,Faith-based organisation,1
+,,,Mwimbi,Faith-based organisation,2
+,,,Mwingi Central,Faith-based organisation,2
+subcounty,15067,,Mwingi North,Faith-based organisation,0
+subcounty,15068,,Mwingi West,Faith-based organisation,1
+subcounty,32168,,Naivasha,Faith-based organisation,1
+,,,Nakuru East,Faith-based organisation,3
+,,,Nakuru North,Faith-based organisation,0
+,,,Nakuru West,Faith-based organisation,4
+subcounty,40227,,Nambale,Faith-based organisation,1
+subcounty,29153,,Nandi Hills,Faith-based organisation,0
+subcounty,33180,,Narok East,Faith-based organisation,3
+subcounty,33179,,Narok North,Faith-based organisation,7
+subcounty,33181,,Narok South,Faith-based organisation,3
+subcounty,33182,,Narok West,Faith-based organisation,6
+subcounty,37203,,Navakholo,Faith-based organisation,2
+subcounty,18093,,Ndaragwa,Faith-based organisation,0
+subcounty,43250,,Ndhiwa,Faith-based organisation,2
+subcounty,32167,,Njoro,Faith-based organisation,5
+subcounty,10046,,North Horr,Faith-based organisation,0
+subcounty,12056,,North Imenti,Faith-based organisation,5
+subcounty,42244,,Nyakach,Faith-based organisation,2
+subcounty,1004,,Nyali,Faith-based organisation,1
+,,,Nyamira,Faith-based organisation,0
+,,,Nyamira North,Faith-based organisation,0
+subcounty,42242,,Nyando,Faith-based organisation,0
+subcounty,45267,,Nyaribari Chache,Faith-based organisation,0
+subcounty,45266,,Nyaribari Masaba,Faith-based organisation,0
+subcounty,44258,,Nyatike,Faith-based organisation,2
+,,,Nyeri Central,Faith-based organisation,4
+,,,Nyeri South,Faith-based organisation,0
+subcounty,18092,,Ol Jorok,Faith-based organisation,2
+subcounty,18091,,Ol Kalou,Faith-based organisation,2
+,,,Pokot Central,Faith-based organisation,4
+,,,Pokot North,Faith-based organisation,3
+subcounty,24132,,Pokot South,Faith-based organisation,4
+subcounty,3014,,Rabai,Faith-based organisation,1
+,,,Rachuonyo South,Faith-based organisation,2
+subcounty,43248,,Rangwe,Faith-based organisation,3
+subcounty,41237,,Rarieda,Faith-based organisation,1
+subcounty,32173,,Rongai,Faith-based organisation,2
+subcounty,44253,,Rongo,Faith-based organisation,0
+subcounty,47279,,Roysambu,Faith-based organisation,3
+subcounty,22115,,Ruiru,Faith-based organisation,4
+subcounty,14064,,Runyenjes,Faith-based organisation,1
+subcounty,38212,,Sabatia,Faith-based organisation,1
+subcounty,26138,,Saboti,Faith-based organisation,2
+subcounty,10047,,Saku,Faith-based organisation,3
+,,,Samburu Central,Faith-based organisation,3
+subcounty,25135,,Samburu East,Faith-based organisation,0
+subcounty,25134,,Samburu North,Faith-based organisation,3
+,,,Samia,Faith-based organisation,1
+subcounty,42241,,Seme,Faith-based organisation,0
+subcounty,37209,,Shinyalu,Faith-based organisation,0
+subcounty,35193,,Sigowet/Soin,Faith-based organisation,1
+subcounty,39217,,Sirisia,Faith-based organisation,3
+subcounty,36194,,Sotik,Faith-based organisation,1
+subcounty,12059,,South Imenti,Faith-based organisation,5
+subcounty,45262,,South Mugirango,Faith-based organisation,1
+subcounty,27141,,Soy,Faith-based organisation,3
+subcounty,47289,,Starehe,Faith-based organisation,1
+subcounty,43252,,Suba South,Faith-based organisation,1
+subcounty,32172,,Subukia,Faith-based organisation,1
+subcounty,44255,,Suna East,Faith-based organisation,0
+subcounty,44256,,Suna West,Faith-based organisation,2
+subcounty,8035,,Tarbaj,Faith-based organisation,0
+subcounty,6023,,Taveta,Faith-based organisation,1
+subcounty,40225,,Teso North,Faith-based organisation,2
+subcounty,40226,,Teso South,Faith-based organisation,0
+subcounty,19094,,Tetu,Faith-based organisation,1
+,,,Tharaka North,Faith-based organisation,0
+,,,Tharaka South,Faith-based organisation,1
+subcounty,22114,,Thika Town,Faith-based organisation,1
+,,,Tiaty East,Faith-based organisation,2
+subcounty,12055,,Tigania East,Faith-based organisation,1
+subcounty,12054,,Tigania West,Faith-based organisation,1
+subcounty,29151,,Tinderet,Faith-based organisation,1
+subcounty,39224,,Tongaren,Faith-based organisation,2
+,,,Transmara East,Faith-based organisation,0
+,,,Transmara West,Faith-based organisation,1
+subcounty,27142,,Turbo,Faith-based organisation,4
+subcounty,23125,,Turkana Central,Faith-based organisation,5
+subcounty,23128,,Turkana East,Faith-based organisation,2
+subcounty,23123,,Turkana North,Faith-based organisation,5
+subcounty,23127,,Turkana South,Faith-based organisation,1
+subcounty,23124,,Turkana West,Faith-based organisation,6
+subcounty,41232,,Ugenya,Faith-based organisation,0
+subcounty,41233,,Ugunja,Faith-based organisation,1
+subcounty,44257,,Uriri,Faith-based organisation,1
+subcounty,38211,,Vihiga,Faith-based organisation,0
+subcounty,6026,,Voi,Faith-based organisation,1
+subcounty,8034,,Wajir East,Faith-based organisation,1
+subcounty,8033,,Wajir North,Faith-based organisation,0
+subcounty,8038,,Wajir South,Faith-based organisation,0
+subcounty,8036,,Wajir West,Faith-based organisation,0
+subcounty,39221,,Webuye East,Faith-based organisation,0
+subcounty,39222,,Webuye West,Faith-based organisation,0
+,,,West Pokot,Faith-based organisation,2
+subcounty,47274,,Westlands,Faith-based organisation,3
+subcounty,6024,,Wundanyi,Faith-based organisation,0
+subcounty,16076,,Yatta,Faith-based organisation,2
+county,30,,Baringo,Non-governmental organisation,1
+county,36,,Bomet,Non-governmental organisation,0
+county,39,,Bungoma,Non-governmental organisation,0
+county,40,,Busia,Non-governmental organisation,0
+county,28,,Elgeyo-Marakwet,Non-governmental organisation,0
+county,14,,Embu,Non-governmental organisation,0
+county,7,,Garissa,Non-governmental organisation,0
+county,43,,Homa Bay,Non-governmental organisation,0
+county,11,,Isiolo,Non-governmental organisation,0
+county,34,,Kajiado,Non-governmental organisation,0
+county,37,,Kakamega,Non-governmental organisation,0
+country,KE,,Kenya,Non-governmental organisation,18
+county,35,,Kericho,Non-governmental organisation,1
+county,22,,Kiambu,Non-governmental organisation,2
+county,3,,Kilifi,Non-governmental organisation,1
+county,20,,Kirinyaga,Non-governmental organisation,0
+county,45,,Kisii,Non-governmental organisation,0
+county,42,,Kisumu,Non-governmental organisation,1
+county,15,,Kitui,Non-governmental organisation,0
+county,2,,Kwale,Non-governmental organisation,2
+county,31,,Laikipia,Non-governmental organisation,0
+county,5,,Lamu,Non-governmental organisation,1
+county,16,,Machakos,Non-governmental organisation,0
+county,17,,Makueni,Non-governmental organisation,0
+county,9,,Mandera,Non-governmental organisation,0
+county,10,,Marsabit,Non-governmental organisation,0
+county,12,,Meru,Non-governmental organisation,0
+county,44,,Migori,Non-governmental organisation,0
+county,1,,Mombasa,Non-governmental organisation,0
+county,21,,Murang'a,Non-governmental organisation,0
+county,47,,Nairobi,Non-governmental organisation,1
+county,32,,Nakuru,Non-governmental organisation,1
+county,29,,Nandi,Non-governmental organisation,0
+county,33,,Narok,Non-governmental organisation,0
+county,46,,Nyamira,Non-governmental organisation,0
+county,18,,Nyandarua,Non-governmental organisation,0
+county,19,,Nyeri,Non-governmental organisation,0
+county,25,,Samburu,Non-governmental organisation,1
+county,41,,Siaya,Non-governmental organisation,0
+county,6,,Taita-Taveta,Non-governmental organisation,0
+county,4,,Tana River,Non-governmental organisation,0
+county,13,,Tharaka-Nithi,Non-governmental organisation,0
+county,26,,Trans-Nzoia,Non-governmental organisation,0
+county,23,,Turkana,Non-governmental organisation,4
+county,27,,Uasin Gishu,Non-governmental organisation,0
+county,38,,Vihiga,Non-governmental organisation,0
+county,8,,Wajir,Non-governmental organisation,0
+county,24,,West Pokot,Non-governmental organisation,2
+subcounty,27144,,Ainabkoi,Non-governmental organisation,0
+subcounty,35190,,Ainamoi,Non-governmental organisation,0
+subcounty,29152,,Aldai,Non-governmental organisation,0
+subcounty,41234,,Alego Usonga,Non-governmental organisation,0
+subcounty,44254,,Awendo,Non-governmental organisation,0
+subcounty,7028,,Balambala,Non-governmental organisation,0
+subcounty,9040,,Banissa,Non-governmental organisation,0
+subcounty,30159,,Baringo Central,Non-governmental organisation,0
+subcounty,30158,,Baringo North,Non-governmental organisation,0
+subcounty,35192,,Belgut,Non-governmental organisation,0
+subcounty,45264,,Bobasi,Non-governmental organisation,0
+subcounty,45263,,Bomachoge Borabu,Non-governmental organisation,0
+subcounty,45265,,Bomachoge Chache,Non-governmental organisation,0
+subcounty,36197,,Bomet Central,Non-governmental organisation,0
+subcounty,36196,,Bomet East,Non-governmental organisation,0
+subcounty,45261,,Bonchari,Non-governmental organisation,0
+subcounty,41236,,Bondo,Non-governmental organisation,0
+subcounty,46273,,Borabu,Non-governmental organisation,0
+subcounty,39219,,Bumula,Non-governmental organisation,0
+,,,Bunyala,Non-governmental organisation,0
+subcounty,4020,,Bura,Non-governmental organisation,0
+subcounty,35191,,Buret,Non-governmental organisation,0
+subcounty,37207,,Butere,Non-governmental organisation,0
+subcounty,40229,,Butula,Non-governmental organisation,0
+subcounty,12057,,Buuri,Non-governmental organisation,0
+subcounty,12058,,Central Imenti,Non-governmental organisation,0
+subcounty,1001,,Changamwe,Non-governmental organisation,0
+subcounty,36195,,Chepalungu,Non-governmental organisation,0
+,,,Cheptais,Non-governmental organisation,0
+subcounty,26140,,Cherangany,Non-governmental organisation,0
+subcounty,29154,,Chesumei,Non-governmental organisation,0
+,,,Chuka,Non-governmental organisation,0
+subcounty,7030,,Dadaab,Non-governmental organisation,0
+,,,Dagoretti North,Non-governmental organisation,0
+,,,Dagoretti South,Non-governmental organisation,0
+,,,East Pokot,Non-governmental organisation,0
+subcounty,8037,,Eldas,Non-governmental organisation,0
+subcounty,47284,,Embakasi Central,Non-governmental organisation,1
+subcounty,47285,,Embakasi East,Non-governmental organisation,0
+subcounty,47283,,Embakasi North,Non-governmental organisation,0
+subcounty,47282,,Embakasi South,Non-governmental organisation,0
+subcounty,47286,,Embakasi West,Non-governmental organisation,0
+subcounty,29155,,Emgwen,Non-governmental organisation,0
+subcounty,38215,,Emuhaya,Non-governmental organisation,0
+subcounty,26137,,Endebess,Non-governmental organisation,0
+subcounty,7031,,Fafi,Non-governmental organisation,0
+subcounty,4019,,Galole,Non-governmental organisation,0
+subcounty,3015,,Ganze,Non-governmental organisation,0
+,,,Garbatulla,Non-governmental organisation,0
+,,,Garissa,Non-governmental organisation,0
+subcounty,4018,,Garsen,Non-governmental organisation,0
+subcounty,21110,,Gatanga,Non-governmental organisation,0
+subcounty,22112,,Gatundu North,Non-governmental organisation,0
+subcounty,22111,,Gatundu South,Non-governmental organisation,0
+subcounty,41235,,Gem,Non-governmental organisation,0
+subcounty,32169,,Gilgil,Non-governmental organisation,0
+subcounty,22116,,Githunguri,Non-governmental organisation,0
+subcounty,38213,,Hamisi,Non-governmental organisation,0
+subcounty,43249,,Homa Bay Town,Non-governmental organisation,0
+,,,Hulugho,Non-governmental organisation,0
+,,,Igambangombe,Non-governmental organisation,0
+subcounty,12052,,Igembe Central,Non-governmental organisation,0
+subcounty,12053,,Igembe North,Non-governmental organisation,0
+subcounty,12051,,Igembe South,Non-governmental organisation,0
+subcounty,7032,,Ijara,Non-governmental organisation,0
+subcounty,37210,,Ikolomani,Non-governmental organisation,0
+,,,Isiolo,Non-governmental organisation,0
+subcounty,1002,,Jomvu,Non-governmental organisation,0
+subcounty,22113,,Juja,Non-governmental organisation,1
+subcounty,22119,,Kabete,Non-governmental organisation,0
+subcounty,43246,,Kabondo Kasipul,Non-governmental organisation,0
+subcounty,39218,,Kabuchai,Non-governmental organisation,0
+subcounty,17085,,Kaiti,Non-governmental organisation,0
+subcounty,34184,,Kajiado Central,Non-governmental organisation,0
+subcounty,34186,,Kajiado East,Non-governmental organisation,0
+subcounty,34183,,Kajiado North,Non-governmental organisation,0
+subcounty,34185,,Kajiado West,Non-governmental organisation,0
+,,,Kalama,Non-governmental organisation,0
+subcounty,3013,,Kaloleni,Non-governmental organisation,0
+subcounty,47288,,Kamukunji,Non-governmental organisation,0
+subcounty,21109,,Kandara,Non-governmental organisation,0
+subcounty,39220,,Kanduyi,Non-governmental organisation,0
+subcounty,21104,,Kangema,Non-governmental organisation,0
+subcounty,16077,,Kangundo,Non-governmental organisation,0
+subcounty,27145,,Kapseret,Non-governmental organisation,0
+subcounty,43247,,Karachuonyo,Non-governmental organisation,0
+subcounty,47280,,Kasarani,Non-governmental organisation,0
+subcounty,16079,,Kathiani,Non-governmental organisation,0
+subcounty,28149,,Keiyo North,Non-governmental organisation,0
+subcounty,28150,,Keiyo South,Non-governmental organisation,0
+subcounty,27146,,Kesses,Non-governmental organisation,0
+subcounty,37208,,Khwisero,Non-governmental organisation,0
+subcounty,22118,,Kiambaa,Non-governmental organisation,0
+,,,Kiambu Town,Non-governmental organisation,0
+,,,Kibish,Non-governmental organisation,0
+subcounty,47278,,Kibra,Non-governmental organisation,0
+subcounty,17088,,Kibwezi East,Non-governmental organisation,0
+subcounty,17087,,Kibwezi West,Non-governmental organisation,0
+,,,Kieni East,Non-governmental organisation,0
+,,,Kieni West,Non-governmental organisation,0
+subcounty,21107,,Kigumo,Non-governmental organisation,0
+subcounty,21106,,Kiharu,Non-governmental organisation,0
+subcounty,22120,,Kikuyu,Non-governmental organisation,1
+subcounty,3011,,Kilifi North,Non-governmental organisation,0
+subcounty,3012,,Kilifi South,Non-governmental organisation,0
+subcounty,17084,,Kilome,Non-governmental organisation,0
+subcounty,39223,,Kimilili,Non-governmental organisation,0
+subcounty,26139,,Kiminini,Non-governmental organisation,0
+subcounty,2010,,Kinango,Non-governmental organisation,0
+subcounty,18089,,Kinangop,Non-governmental organisation,0
+subcounty,18090,,Kipipiri,Non-governmental organisation,0
+subcounty,35188,,Kipkelion East,Non-governmental organisation,0
+subcounty,35189,,Kipkelion West,Non-governmental organisation,1
+subcounty,20103,,Kirinyaga Central,Non-governmental organisation,0
+,,,Kirinyaga East,Non-governmental organisation,0
+,,,Kirinyaga North/Mwea West,Non-governmental organisation,0
+,,,Kirinyaga South,Non-governmental organisation,0
+,,,Kirinyaga West,Non-governmental organisation,0
+subcounty,1003,,Kisauni,Non-governmental organisation,0
+subcounty,42240,,Kisumu Central,Non-governmental organisation,1
+subcounty,42238,,Kisumu East,Non-governmental organisation,0
+subcounty,42239,,Kisumu West,Non-governmental organisation,0
+subcounty,15072,,Kitui Central,Non-governmental organisation,0
+subcounty,15073,,Kitui East,Non-governmental organisation,0
+subcounty,15071,,Kitui Rural,Non-governmental organisation,0
+subcounty,15074,,Kitui South,Non-governmental organisation,0
+subcounty,15070,,Kitui West,Non-governmental organisation,0
+subcounty,45268,,Kitutu Chache North,Non-governmental organisation,0
+subcounty,45269,,Kitutu Chache South,Non-governmental organisation,0
+,,,Koibatek,Non-governmental organisation,0
+subcounty,36198,,Konoin,Non-governmental organisation,0
+subcounty,32171,,Kuresoi North,Non-governmental organisation,1
+subcounty,32170,,Kuresoi South,Non-governmental organisation,0
+subcounty,44260,,Kuria East,Non-governmental organisation,0
+subcounty,44259,,Kuria West,Non-governmental organisation,0
+subcounty,26136,,Kwanza,Non-governmental organisation,0
+subcounty,9044,,Lafey,Non-governmental organisation,0
+subcounty,7029,,Lagdera,Non-governmental organisation,0
+subcounty,31164,,Laikipia East,Non-governmental organisation,0
+subcounty,31165,,Laikipia North,Non-governmental organisation,0
+subcounty,31163,,Laikipia West,Non-governmental organisation,0
+subcounty,10048,,Laisamis,Non-governmental organisation,0
+subcounty,5021,,Lamu East,Non-governmental organisation,0
+subcounty,5022,,Lamu West,Non-governmental organisation,1
+subcounty,47277,,Langata,Non-governmental organisation,0
+subcounty,22122,,Lari,Non-governmental organisation,0
+subcounty,1005,,Likoni,Non-governmental organisation,0
+subcounty,37200,,Likuyani,Non-governmental organisation,0
+subcounty,22121,,Limuru,Non-governmental organisation,0
+subcounty,23126,,Loima,Non-governmental organisation,0
+,,,Loitokitok,Non-governmental organisation,0
+subcounty,38214,,Luanda,Non-governmental organisation,0
+subcounty,37199,,Lugari,Non-governmental organisation,0
+subcounty,2008,,Lunga Lunga,Non-governmental organisation,0
+subcounty,37202,,Lurambi,Non-governmental organisation,0
+,,,Machakos,Non-governmental organisation,0
+subcounty,3017,,Magarini,Non-governmental organisation,0
+subcounty,47287,,Makadara,Non-governmental organisation,0
+subcounty,17086,,Makueni,Non-governmental organisation,0
+subcounty,37201,,Malava,Non-governmental organisation,0
+subcounty,3016,,Malindi,Non-governmental organisation,1
+subcounty,9043,,Mandera East,Non-governmental organisation,0
+subcounty,9041,,Mandera North,Non-governmental organisation,0
+subcounty,9042,,Mandera South,Non-governmental organisation,0
+subcounty,9039,,Mandera West,Non-governmental organisation,0
+,,,Manga,Non-governmental organisation,0
+subcounty,14063,,Manyatta,Non-governmental organisation,0
+subcounty,28147,,Marakwet East,Non-governmental organisation,0
+subcounty,28148,,Marakwet West,Non-governmental organisation,0
+,,,Marigat,Non-governmental organisation,0
+,,,Masaba North,Non-governmental organisation,0
+subcounty,16075,,Masinga,Non-governmental organisation,0
+subcounty,40228,,Matayos,Non-governmental organisation,0
+subcounty,47290,,Mathare,Non-governmental organisation,0
+subcounty,21105,,Mathioya,Non-governmental organisation,0
+,,,Mathira East,Non-governmental organisation,0
+,,,Mathira West,Non-governmental organisation,0
+subcounty,2009,,Matuga,Non-governmental organisation,0
+subcounty,37206,,Matungu,Non-governmental organisation,0
+subcounty,16078,,Matungulu,Non-governmental organisation,0
+subcounty,16080,,Mavoko,Non-governmental organisation,0
+,,,Mbeere North,Non-governmental organisation,0
+,,,Mbeere South,Non-governmental organisation,0
+,,,Mbita,Non-governmental organisation,0
+subcounty,17083,,Mbooni,Non-governmental organisation,0
+,,,Merti,Non-governmental organisation,0
+subcounty,30161,,Mogotio,Non-governmental organisation,0
+subcounty,27143,,Moiben,Non-governmental organisation,0
+subcounty,32166,,Molo,Non-governmental organisation,0
+subcounty,29156,,Mosop,Non-governmental organisation,0
+subcounty,10045,,Moyale,Non-governmental organisation,0
+subcounty,2007,,Msambweni,Non-governmental organisation,2
+subcounty,39216,,Mt. Elgon,Non-governmental organisation,0
+subcounty,42243,,Muhoroni,Non-governmental organisation,0
+subcounty,19098,,Mukurweini,Non-governmental organisation,0
+subcounty,37205,,Mumias East,Non-governmental organisation,0
+subcounty,37204,,Mumias West,Non-governmental organisation,0
+,,,Murang'a south,Non-governmental organisation,0
+,,,Muthambi,Non-governmental organisation,0
+subcounty,1006,,Mvita,Non-governmental organisation,0
+subcounty,16082,,Mwala,Non-governmental organisation,0
+subcounty,6025,,Mwatate,Non-governmental organisation,0
+,,,Mwimbi,Non-governmental organisation,0
+,,,Mwingi Central,Non-governmental organisation,0
+subcounty,15067,,Mwingi North,Non-governmental organisation,0
+subcounty,15068,,Mwingi West,Non-governmental organisation,0
+subcounty,32168,,Naivasha,Non-governmental organisation,0
+,,,Nakuru East,Non-governmental organisation,0
+,,,Nakuru North,Non-governmental organisation,0
+,,,Nakuru West,Non-governmental organisation,0
+subcounty,40227,,Nambale,Non-governmental organisation,0
+subcounty,29153,,Nandi Hills,Non-governmental organisation,0
+subcounty,33180,,Narok East,Non-governmental organisation,0
+subcounty,33179,,Narok North,Non-governmental organisation,0
+subcounty,33181,,Narok South,Non-governmental organisation,0
+subcounty,33182,,Narok West,Non-governmental organisation,0
+subcounty,37203,,Navakholo,Non-governmental organisation,0
+subcounty,18093,,Ndaragwa,Non-governmental organisation,0
+subcounty,43250,,Ndhiwa,Non-governmental organisation,0
+subcounty,32167,,Njoro,Non-governmental organisation,0
+subcounty,10046,,North Horr,Non-governmental organisation,0
+subcounty,12056,,North Imenti,Non-governmental organisation,0
+subcounty,42244,,Nyakach,Non-governmental organisation,0
+subcounty,1004,,Nyali,Non-governmental organisation,0
+,,,Nyamira,Non-governmental organisation,0
+,,,Nyamira North,Non-governmental organisation,0
+subcounty,42242,,Nyando,Non-governmental organisation,0
+subcounty,45267,,Nyaribari Chache,Non-governmental organisation,0
+subcounty,45266,,Nyaribari Masaba,Non-governmental organisation,0
+subcounty,44258,,Nyatike,Non-governmental organisation,0
+,,,Nyeri Central,Non-governmental organisation,0
+,,,Nyeri South,Non-governmental organisation,0
+subcounty,18092,,Ol Jorok,Non-governmental organisation,0
+subcounty,18091,,Ol Kalou,Non-governmental organisation,0
+,,,Pokot Central,Non-governmental organisation,0
+,,,Pokot North,Non-governmental organisation,1
+subcounty,24132,,Pokot South,Non-governmental organisation,0
+subcounty,3014,,Rabai,Non-governmental organisation,0
+,,,Rachuonyo South,Non-governmental organisation,0
+subcounty,43248,,Rangwe,Non-governmental organisation,0
+subcounty,41237,,Rarieda,Non-governmental organisation,0
+subcounty,32173,,Rongai,Non-governmental organisation,0
+subcounty,44253,,Rongo,Non-governmental organisation,0
+subcounty,47279,,Roysambu,Non-governmental organisation,0
+subcounty,22115,,Ruiru,Non-governmental organisation,0
+subcounty,14064,,Runyenjes,Non-governmental organisation,0
+subcounty,38212,,Sabatia,Non-governmental organisation,0
+subcounty,26138,,Saboti,Non-governmental organisation,0
+subcounty,10047,,Saku,Non-governmental organisation,0
+,,,Samburu Central,Non-governmental organisation,0
+subcounty,25135,,Samburu East,Non-governmental organisation,1
+subcounty,25134,,Samburu North,Non-governmental organisation,0
+,,,Samia,Non-governmental organisation,0
+subcounty,42241,,Seme,Non-governmental organisation,0
+subcounty,37209,,Shinyalu,Non-governmental organisation,0
+subcounty,35193,,Sigowet/Soin,Non-governmental organisation,0
+subcounty,39217,,Sirisia,Non-governmental organisation,0
+subcounty,36194,,Sotik,Non-governmental organisation,0
+subcounty,12059,,South Imenti,Non-governmental organisation,0
+subcounty,45262,,South Mugirango,Non-governmental organisation,0
+subcounty,27141,,Soy,Non-governmental organisation,0
+subcounty,47289,,Starehe,Non-governmental organisation,0
+subcounty,43252,,Suba South,Non-governmental organisation,0
+subcounty,32172,,Subukia,Non-governmental organisation,0
+subcounty,44255,,Suna East,Non-governmental organisation,0
+subcounty,44256,,Suna West,Non-governmental organisation,0
+subcounty,8035,,Tarbaj,Non-governmental organisation,0
+subcounty,6023,,Taveta,Non-governmental organisation,0
+subcounty,40225,,Teso North,Non-governmental organisation,0
+subcounty,40226,,Teso South,Non-governmental organisation,0
+subcounty,19094,,Tetu,Non-governmental organisation,0
+,,,Tharaka North,Non-governmental organisation,0
+,,,Tharaka South,Non-governmental organisation,0
+subcounty,22114,,Thika Town,Non-governmental organisation,0
+,,,Tiaty East,Non-governmental organisation,1
+subcounty,12055,,Tigania East,Non-governmental organisation,0
+subcounty,12054,,Tigania West,Non-governmental organisation,0
+subcounty,29151,,Tinderet,Non-governmental organisation,0
+subcounty,39224,,Tongaren,Non-governmental organisation,0
+,,,Transmara East,Non-governmental organisation,0
+,,,Transmara West,Non-governmental organisation,0
+subcounty,27142,,Turbo,Non-governmental organisation,0
+subcounty,23125,,Turkana Central,Non-governmental organisation,0
+subcounty,23128,,Turkana East,Non-governmental organisation,0
+subcounty,23123,,Turkana North,Non-governmental organisation,0
+subcounty,23127,,Turkana South,Non-governmental organisation,0
+subcounty,23124,,Turkana West,Non-governmental organisation,4
+subcounty,41232,,Ugenya,Non-governmental organisation,0
+subcounty,41233,,Ugunja,Non-governmental organisation,0
+subcounty,44257,,Uriri,Non-governmental organisation,0
+subcounty,38211,,Vihiga,Non-governmental organisation,0
+subcounty,6026,,Voi,Non-governmental organisation,0
+subcounty,8034,,Wajir East,Non-governmental organisation,0
+subcounty,8033,,Wajir North,Non-governmental organisation,0
+subcounty,8038,,Wajir South,Non-governmental organisation,0
+subcounty,8036,,Wajir West,Non-governmental organisation,0
+subcounty,39221,,Webuye East,Non-governmental organisation,0
+subcounty,39222,,Webuye West,Non-governmental organisation,0
+,,,West Pokot,Non-governmental organisation,1
+subcounty,47274,,Westlands,Non-governmental organisation,0
+subcounty,6024,,Wundanyi,Non-governmental organisation,0
+subcounty,16076,,Yatta,Non-governmental organisation,0
+county,30,,Baringo,Private practice,1
+county,36,,Bomet,Private practice,9
+county,39,,Bungoma,Private practice,1
+county,40,,Busia,Private practice,0
+county,28,,Elgeyo-Marakwet,Private practice,0
+county,14,,Embu,Private practice,4
+county,7,,Garissa,Private practice,0
+county,43,,Homa Bay,Private practice,3
+county,11,,Isiolo,Private practice,0
+county,34,,Kajiado,Private practice,4
+county,37,,Kakamega,Private practice,0
+country,KE,,Kenya,Private practice,98
+county,35,,Kericho,Private practice,14
+county,22,,Kiambu,Private practice,7
+county,3,,Kilifi,Private practice,2
+county,20,,Kirinyaga,Private practice,4
+county,45,,Kisii,Private practice,1
+county,42,,Kisumu,Private practice,2
+county,15,,Kitui,Private practice,1
+county,2,,Kwale,Private practice,0
+county,31,,Laikipia,Private practice,2
+county,5,,Lamu,Private practice,0
+county,16,,Machakos,Private practice,2
+county,17,,Makueni,Private practice,0
+county,9,,Mandera,Private practice,0
+county,10,,Marsabit,Private practice,0
+county,12,,Meru,Private practice,1
+county,44,,Migori,Private practice,0
+county,1,,Mombasa,Private practice,1
+county,21,,Murang'a,Private practice,0
+county,47,,Nairobi,Private practice,3
+county,32,,Nakuru,Private practice,6
+county,29,,Nandi,Private practice,20
+county,33,,Narok,Private practice,4
+county,46,,Nyamira,Private practice,1
+county,18,,Nyandarua,Private practice,0
+county,19,,Nyeri,Private practice,0
+county,25,,Samburu,Private practice,2
+county,41,,Siaya,Private practice,0
+county,6,,Taita-Taveta,Private practice,0
+county,4,,Tana River,Private practice,0
+county,13,,Tharaka-Nithi,Private practice,0
+county,26,,Trans-Nzoia,Private practice,0
+county,23,,Turkana,Private practice,0
+county,27,,Uasin Gishu,Private practice,1
+county,38,,Vihiga,Private practice,2
+county,8,,Wajir,Private practice,0
+county,24,,West Pokot,Private practice,0
+subcounty,27144,,Ainabkoi,Private practice,0
+subcounty,35190,,Ainamoi,Private practice,1
+subcounty,29152,,Aldai,Private practice,0
+subcounty,41234,,Alego Usonga,Private practice,0
+subcounty,44254,,Awendo,Private practice,0
+subcounty,7028,,Balambala,Private practice,0
+subcounty,9040,,Banissa,Private practice,0
+subcounty,30159,,Baringo Central,Private practice,0
+subcounty,30158,,Baringo North,Private practice,0
+subcounty,35192,,Belgut,Private practice,6
+subcounty,45264,,Bobasi,Private practice,0
+subcounty,45263,,Bomachoge Borabu,Private practice,0
+subcounty,45265,,Bomachoge Chache,Private practice,0
+subcounty,36197,,Bomet Central,Private practice,0
+subcounty,36196,,Bomet East,Private practice,0
+subcounty,45261,,Bonchari,Private practice,0
+subcounty,41236,,Bondo,Private practice,0
+subcounty,46273,,Borabu,Private practice,1
+subcounty,39219,,Bumula,Private practice,0
+,,,Bunyala,Private practice,0
+subcounty,4020,,Bura,Private practice,0
+subcounty,35191,,Buret,Private practice,0
+subcounty,37207,,Butere,Private practice,0
+subcounty,40229,,Butula,Private practice,0
+subcounty,12057,,Buuri,Private practice,0
+subcounty,12058,,Central Imenti,Private practice,0
+subcounty,1001,,Changamwe,Private practice,0
+subcounty,36195,,Chepalungu,Private practice,0
+,,,Cheptais,Private practice,0
+subcounty,26140,,Cherangany,Private practice,0
+subcounty,29154,,Chesumei,Private practice,0
+,,,Chuka,Private practice,0
+subcounty,7030,,Dadaab,Private practice,0
+,,,Dagoretti North,Private practice,0
+,,,Dagoretti South,Private practice,0
+,,,East Pokot,Private practice,0
+subcounty,8037,,Eldas,Private practice,0
+subcounty,47284,,Embakasi Central,Private practice,1
+subcounty,47285,,Embakasi East,Private practice,0
+subcounty,47283,,Embakasi North,Private practice,0
+subcounty,47282,,Embakasi South,Private practice,0
+subcounty,47286,,Embakasi West,Private practice,1
+subcounty,29155,,Emgwen,Private practice,1
+subcounty,38215,,Emuhaya,Private practice,0
+subcounty,26137,,Endebess,Private practice,0
+subcounty,7031,,Fafi,Private practice,0
+subcounty,4019,,Galole,Private practice,0
+subcounty,3015,,Ganze,Private practice,1
+,,,Garbatulla,Private practice,0
+,,,Garissa,Private practice,0
+subcounty,4018,,Garsen,Private practice,0
+subcounty,21110,,Gatanga,Private practice,0
+subcounty,22112,,Gatundu North,Private practice,0
+subcounty,22111,,Gatundu South,Private practice,0
+subcounty,41235,,Gem,Private practice,0
+subcounty,32169,,Gilgil,Private practice,1
+subcounty,22116,,Githunguri,Private practice,4
+subcounty,38213,,Hamisi,Private practice,0
+subcounty,43249,,Homa Bay Town,Private practice,0
+,,,Hulugho,Private practice,0
+,,,Igambangombe,Private practice,0
+subcounty,12052,,Igembe Central,Private practice,0
+subcounty,12053,,Igembe North,Private practice,0
+subcounty,12051,,Igembe South,Private practice,0
+subcounty,7032,,Ijara,Private practice,0
+subcounty,37210,,Ikolomani,Private practice,0
+,,,Isiolo,Private practice,0
+subcounty,1002,,Jomvu,Private practice,0
+subcounty,22113,,Juja,Private practice,0
+subcounty,22119,,Kabete,Private practice,1
+subcounty,43246,,Kabondo Kasipul,Private practice,0
+subcounty,39218,,Kabuchai,Private practice,1
+subcounty,17085,,Kaiti,Private practice,0
+subcounty,34184,,Kajiado Central,Private practice,0
+subcounty,34186,,Kajiado East,Private practice,4
+subcounty,34183,,Kajiado North,Private practice,0
+subcounty,34185,,Kajiado West,Private practice,0
+,,,Kalama,Private practice,0
+subcounty,3013,,Kaloleni,Private practice,0
+subcounty,47288,,Kamukunji,Private practice,1
+subcounty,21109,,Kandara,Private practice,0
+subcounty,39220,,Kanduyi,Private practice,0
+subcounty,21104,,Kangema,Private practice,0
+subcounty,16077,,Kangundo,Private practice,0
+subcounty,27145,,Kapseret,Private practice,1
+subcounty,43247,,Karachuonyo,Private practice,0
+subcounty,47280,,Kasarani,Private practice,0
+subcounty,16079,,Kathiani,Private practice,1
+subcounty,28149,,Keiyo North,Private practice,0
+subcounty,28150,,Keiyo South,Private practice,0
+subcounty,27146,,Kesses,Private practice,0
+subcounty,37208,,Khwisero,Private practice,0
+subcounty,22118,,Kiambaa,Private practice,0
+,,,Kiambu Town,Private practice,0
+,,,Kibish,Private practice,0
+subcounty,47278,,Kibra,Private practice,0
+subcounty,17088,,Kibwezi East,Private practice,0
+subcounty,17087,,Kibwezi West,Private practice,0
+,,,Kieni East,Private practice,0
+,,,Kieni West,Private practice,0
+subcounty,21107,,Kigumo,Private practice,0
+subcounty,21106,,Kiharu,Private practice,0
+subcounty,22120,,Kikuyu,Private practice,0
+subcounty,3011,,Kilifi North,Private practice,0
+subcounty,3012,,Kilifi South,Private practice,1
+subcounty,17084,,Kilome,Private practice,0
+subcounty,39223,,Kimilili,Private practice,0
+subcounty,26139,,Kiminini,Private practice,0
+subcounty,2010,,Kinango,Private practice,0
+subcounty,18089,,Kinangop,Private practice,0
+subcounty,18090,,Kipipiri,Private practice,0
+subcounty,35188,,Kipkelion East,Private practice,5
+subcounty,35189,,Kipkelion West,Private practice,1
+subcounty,20103,,Kirinyaga Central,Private practice,1
+,,,Kirinyaga East,Private practice,2
+,,,Kirinyaga North/Mwea West,Private practice,0
+,,,Kirinyaga South,Private practice,1
+,,,Kirinyaga West,Private practice,0
+subcounty,1003,,Kisauni,Private practice,1
+subcounty,42240,,Kisumu Central,Private practice,1
+subcounty,42238,,Kisumu East,Private practice,0
+subcounty,42239,,Kisumu West,Private practice,0
+subcounty,15072,,Kitui Central,Private practice,0
+subcounty,15073,,Kitui East,Private practice,0
+subcounty,15071,,Kitui Rural,Private practice,1
+subcounty,15074,,Kitui South,Private practice,0
+subcounty,15070,,Kitui West,Private practice,0
+subcounty,45268,,Kitutu Chache North,Private practice,0
+subcounty,45269,,Kitutu Chache South,Private practice,1
+,,,Koibatek,Private practice,1
+subcounty,36198,,Konoin,Private practice,8
+subcounty,32171,,Kuresoi North,Private practice,0
+subcounty,32170,,Kuresoi South,Private practice,0
+subcounty,44260,,Kuria East,Private practice,0
+subcounty,44259,,Kuria West,Private practice,0
+subcounty,26136,,Kwanza,Private practice,0
+subcounty,9044,,Lafey,Private practice,0
+subcounty,7029,,Lagdera,Private practice,0
+subcounty,31164,,Laikipia East,Private practice,1
+subcounty,31165,,Laikipia North,Private practice,1
+subcounty,31163,,Laikipia West,Private practice,0
+subcounty,10048,,Laisamis,Private practice,0
+subcounty,5021,,Lamu East,Private practice,0
+subcounty,5022,,Lamu West,Private practice,0
+subcounty,47277,,Langata,Private practice,0
+subcounty,22122,,Lari,Private practice,1
+subcounty,1005,,Likoni,Private practice,0
+subcounty,37200,,Likuyani,Private practice,0
+subcounty,22121,,Limuru,Private practice,0
+subcounty,23126,,Loima,Private practice,0
+,,,Loitokitok,Private practice,0
+subcounty,38214,,Luanda,Private practice,0
+subcounty,37199,,Lugari,Private practice,0
+subcounty,2008,,Lunga Lunga,Private practice,0
+subcounty,37202,,Lurambi,Private practice,0
+,,,Machakos,Private practice,1
+subcounty,3017,,Magarini,Private practice,0
+subcounty,47287,,Makadara,Private practice,0
+subcounty,17086,,Makueni,Private practice,0
+subcounty,37201,,Malava,Private practice,0
+subcounty,3016,,Malindi,Private practice,0
+subcounty,9043,,Mandera East,Private practice,0
+subcounty,9041,,Mandera North,Private practice,0
+subcounty,9042,,Mandera South,Private practice,0
+subcounty,9039,,Mandera West,Private practice,0
+,,,Manga,Private practice,0
+subcounty,14063,,Manyatta,Private practice,0
+subcounty,28147,,Marakwet East,Private practice,0
+subcounty,28148,,Marakwet West,Private practice,0
+,,,Marigat,Private practice,0
+,,,Masaba North,Private practice,0
+subcounty,16075,,Masinga,Private practice,0
+subcounty,40228,,Matayos,Private practice,0
+subcounty,47290,,Mathare,Private practice,0
+subcounty,21105,,Mathioya,Private practice,0
+,,,Mathira East,Private practice,0
+,,,Mathira West,Private practice,0
+subcounty,2009,,Matuga,Private practice,0
+subcounty,37206,,Matungu,Private practice,0
+subcounty,16078,,Matungulu,Private practice,0
+subcounty,16080,,Mavoko,Private practice,0
+,,,Mbeere North,Private practice,0
+,,,Mbeere South,Private practice,3
+,,,Mbita,Private practice,0
+subcounty,17083,,Mbooni,Private practice,0
+,,,Merti,Private practice,0
+subcounty,30161,,Mogotio,Private practice,0
+subcounty,27143,,Moiben,Private practice,0
+subcounty,32166,,Molo,Private practice,0
+subcounty,29156,,Mosop,Private practice,0
+subcounty,10045,,Moyale,Private practice,0
+subcounty,2007,,Msambweni,Private practice,0
+subcounty,39216,,Mt. Elgon,Private practice,0
+subcounty,42243,,Muhoroni,Private practice,1
+subcounty,19098,,Mukurweini,Private practice,0
+subcounty,37205,,Mumias East,Private practice,0
+subcounty,37204,,Mumias West,Private practice,0
+,,,Murang'a south,Private practice,0
+,,,Muthambi,Private practice,0
+subcounty,1006,,Mvita,Private practice,0
+subcounty,16082,,Mwala,Private practice,0
+subcounty,6025,,Mwatate,Private practice,0
+,,,Mwimbi,Private practice,0
+,,,Mwingi Central,Private practice,0
+subcounty,15067,,Mwingi North,Private practice,0
+subcounty,15068,,Mwingi West,Private practice,0
+subcounty,32168,,Naivasha,Private practice,0
+,,,Nakuru East,Private practice,1
+,,,Nakuru North,Private practice,0
+,,,Nakuru West,Private practice,2
+subcounty,40227,,Nambale,Private practice,0
+subcounty,29153,,Nandi Hills,Private practice,18
+subcounty,33180,,Narok East,Private practice,0
+subcounty,33179,,Narok North,Private practice,1
+subcounty,33181,,Narok South,Private practice,2
+subcounty,33182,,Narok West,Private practice,0
+subcounty,37203,,Navakholo,Private practice,0
+subcounty,18093,,Ndaragwa,Private practice,0
+subcounty,43250,,Ndhiwa,Private practice,0
+subcounty,32167,,Njoro,Private practice,0
+subcounty,10046,,North Horr,Private practice,0
+subcounty,12056,,North Imenti,Private practice,1
+subcounty,42244,,Nyakach,Private practice,0
+subcounty,1004,,Nyali,Private practice,0
+,,,Nyamira,Private practice,0
+,,,Nyamira North,Private practice,0
+subcounty,42242,,Nyando,Private practice,0
+subcounty,45267,,Nyaribari Chache,Private practice,0
+subcounty,45266,,Nyaribari Masaba,Private practice,0
+subcounty,44258,,Nyatike,Private practice,0
+,,,Nyeri Central,Private practice,0
+,,,Nyeri South,Private practice,0
+subcounty,18092,,Ol Jorok,Private practice,0
+subcounty,18091,,Ol Kalou,Private practice,0
+,,,Pokot Central,Private practice,0
+,,,Pokot North,Private practice,0
+subcounty,24132,,Pokot South,Private practice,0
+subcounty,3014,,Rabai,Private practice,0
+,,,Rachuonyo South,Private practice,3
+subcounty,43248,,Rangwe,Private practice,0
+subcounty,41237,,Rarieda,Private practice,0
+subcounty,32173,,Rongai,Private practice,2
+subcounty,44253,,Rongo,Private practice,0
+subcounty,47279,,Roysambu,Private practice,0
+subcounty,22115,,Ruiru,Private practice,1
+subcounty,14064,,Runyenjes,Private practice,1
+subcounty,38212,,Sabatia,Private practice,2
+subcounty,26138,,Saboti,Private practice,0
+subcounty,10047,,Saku,Private practice,0
+,,,Samburu Central,Private practice,0
+subcounty,25135,,Samburu East,Private practice,2
+subcounty,25134,,Samburu North,Private practice,0
+,,,Samia,Private practice,0
+subcounty,42241,,Seme,Private practice,0
+subcounty,37209,,Shinyalu,Private practice,0
+subcounty,35193,,Sigowet/Soin,Private practice,1
+subcounty,39217,,Sirisia,Private practice,0
+subcounty,36194,,Sotik,Private practice,1
+subcounty,12059,,South Imenti,Private practice,0
+subcounty,45262,,South Mugirango,Private practice,0
+subcounty,27141,,Soy,Private practice,0
+subcounty,47289,,Starehe,Private practice,0
+subcounty,43252,,Suba South,Private practice,0
+subcounty,32172,,Subukia,Private practice,0
+subcounty,44255,,Suna East,Private practice,0
+subcounty,44256,,Suna West,Private practice,0
+subcounty,8035,,Tarbaj,Private practice,0
+subcounty,6023,,Taveta,Private practice,0
+subcounty,40225,,Teso North,Private practice,0
+subcounty,40226,,Teso South,Private practice,0
+subcounty,19094,,Tetu,Private practice,0
+,,,Tharaka North,Private practice,0
+,,,Tharaka South,Private practice,0
+subcounty,22114,,Thika Town,Private practice,0
+,,,Tiaty East,Private practice,0
+subcounty,12055,,Tigania East,Private practice,0
+subcounty,12054,,Tigania West,Private practice,0
+subcounty,29151,,Tinderet,Private practice,1
+subcounty,39224,,Tongaren,Private practice,0
+,,,Transmara East,Private practice,0
+,,,Transmara West,Private practice,1
+subcounty,27142,,Turbo,Private practice,0
+subcounty,23125,,Turkana Central,Private practice,0
+subcounty,23128,,Turkana East,Private practice,0
+subcounty,23123,,Turkana North,Private practice,0
+subcounty,23127,,Turkana South,Private practice,0
+subcounty,23124,,Turkana West,Private practice,0
+subcounty,41232,,Ugenya,Private practice,0
+subcounty,41233,,Ugunja,Private practice,0
+subcounty,44257,,Uriri,Private practice,0
+subcounty,38211,,Vihiga,Private practice,0
+subcounty,6026,,Voi,Private practice,0
+subcounty,8034,,Wajir East,Private practice,0
+subcounty,8033,,Wajir North,Private practice,0
+subcounty,8038,,Wajir South,Private practice,0
+subcounty,8036,,Wajir West,Private practice,0
+subcounty,39221,,Webuye East,Private practice,0
+subcounty,39222,,Webuye West,Private practice,0
+,,,West Pokot,Private practice,0
+subcounty,47274,,Westlands,Private practice,0
+subcounty,6024,,Wundanyi,Private practice,0
+subcounty,16076,,Yatta,Private practice,0

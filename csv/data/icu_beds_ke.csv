@@ -1,0 +1,193 @@
+geo_level,geo_code,geo_version,name,variable,value
+county,30,,Baringo,Available ICU beds for Isolation,0
+county,36,,Bomet,Available ICU beds for Isolation,0
+county,39,,Bungoma,Available ICU beds for Isolation,0
+county,40,,Busia,Available ICU beds for Isolation,0
+county,28,,Elgeyo-Marakwet,Available ICU beds for Isolation,0
+county,14,,Embu,Available ICU beds for Isolation,0
+county,7,,Garissa,Available ICU beds for Isolation,0
+county,43,,Homa Bay,Available ICU beds for Isolation,0
+county,11,,Isiolo,Available ICU beds for Isolation,0
+county,34,,Kajiado,Available ICU beds for Isolation,0
+county,37,,Kakamega,Available ICU beds for Isolation,0
+country,KE,,Kenya,Available ICU beds for Isolation,38
+county,35,,Kericho,Available ICU beds for Isolation,0
+county,22,,Kiambu,Available ICU beds for Isolation,0
+county,3,,Kilifi,Available ICU beds for Isolation,0
+county,20,,Kirinyaga,Available ICU beds for Isolation,0
+county,45,,Kisii,Available ICU beds for Isolation,0
+county,42,,Kisumu,Available ICU beds for Isolation,0
+county,15,,Kitui,Available ICU beds for Isolation,0
+county,2,,Kwale,Available ICU beds for Isolation,0
+county,31,,Laikipia,Available ICU beds for Isolation,0
+county,5,,Lamu,Available ICU beds for Isolation,0
+county,16,,Machakos,Available ICU beds for Isolation,0
+county,17,,Makueni,Available ICU beds for Isolation,0
+county,9,,Mandera,Available ICU beds for Isolation,10
+county,10,,Marsabit,Available ICU beds for Isolation,0
+county,12,,Meru,Available ICU beds for Isolation,0
+county,44,,Migori,Available ICU beds for Isolation,0
+county,1,,Mombasa,Available ICU beds for Isolation,0
+county,21,,Murang'a,Available ICU beds for Isolation,0
+county,47,,Nairobi,Available ICU beds for Isolation,25
+county,32,,Nakuru,Available ICU beds for Isolation,1
+county,29,,Nandi,Available ICU beds for Isolation,0
+county,33,,Narok,Available ICU beds for Isolation,0
+county,46,,Nyamira,Available ICU beds for Isolation,0
+county,18,,Nyandarua,Available ICU beds for Isolation,0
+county,19,,Nyeri,Available ICU beds for Isolation,2
+county,25,,Samburu,Available ICU beds for Isolation,0
+county,41,,Siaya,Available ICU beds for Isolation,0
+county,6,,Taita-Taveta,Available ICU beds for Isolation,0
+county,4,,Tana River,Available ICU beds for Isolation,0
+county,13,,Tharaka-Nithi,Available ICU beds for Isolation,0
+county,26,,Trans-Nzoia,Available ICU beds for Isolation,0
+county,23,,Turkana,Available ICU beds for Isolation,0
+county,27,,Uasin Gishu,Available ICU beds for Isolation,0
+county,38,,Vihiga,Available ICU beds for Isolation,0
+county,8,,Wajir,Available ICU beds for Isolation,0
+county,24,,West Pokot,Available ICU beds for Isolation,0
+county,30,,Baringo,General ICU beds,0
+county,36,,Bomet,General ICU beds,19
+county,39,,Bungoma,General ICU beds,23
+county,40,,Busia,General ICU beds,0
+county,28,,Elgeyo-Marakwet,General ICU beds,6
+county,14,,Embu,General ICU beds,12
+county,7,,Garissa,General ICU beds,6
+county,43,,Homa Bay,General ICU beds,2
+county,11,,Isiolo,General ICU beds,0
+county,34,,Kajiado,General ICU beds,0
+county,37,,Kakamega,General ICU beds,9
+county,35,,Kericho,General ICU beds,6
+county,22,,Kiambu,General ICU beds,34
+county,3,,Kilifi,General ICU beds,0
+county,20,,Kirinyaga,General ICU beds,4
+county,45,,Kisii,General ICU beds,14
+county,42,,Kisumu,General ICU beds,21
+county,15,,Kitui,General ICU beds,0
+county,2,,Kwale,General ICU beds,6
+county,31,,Laikipia,General ICU beds,3
+county,5,,Lamu,General ICU beds,0
+county,16,,Machakos,General ICU beds,6
+county,17,,Makueni,General ICU beds,4
+county,9,,Mandera,General ICU beds,0
+county,10,,Marsabit,General ICU beds,0
+county,12,,Meru,General ICU beds,6
+county,44,,Migori,General ICU beds,0
+county,1,,Mombasa,General ICU beds,38
+county,21,,Murang'a,General ICU beds,4
+county,47,,Nairobi,General ICU beds,258
+county,32,,Nakuru,General ICU beds,19
+county,29,,Nandi,General ICU beds,2
+county,33,,Narok,General ICU beds,6
+county,46,,Nyamira,General ICU beds,0
+county,18,,Nyandarua,General ICU beds,0
+county,19,,Nyeri,General ICU beds,21
+county,25,,Samburu,General ICU beds,0
+county,41,,Siaya,General ICU beds,0
+county,6,,Taita-Taveta,General ICU beds,0
+county,4,,Tana River,General ICU beds,0
+county,13,,Tharaka-Nithi,General ICU beds,0
+county,26,,Trans-Nzoia,General ICU beds,0
+county,23,,Turkana,General ICU beds,3
+county,27,,Uasin Gishu,General ICU beds,55
+county,38,,Vihiga,General ICU beds,0
+county,8,,Wajir,General ICU beds,0
+county,24,,West Pokot,General ICU beds,0
+country,KE,,Kenya,General ICU beds,587
+county,30,,Baringo,Regular isolation beds,0
+county,36,,Bomet,Regular isolation beds,44
+county,39,,Bungoma,Regular isolation beds,10
+county,40,,Busia,Regular isolation beds,100
+county,28,,Elgeyo-Marakwet,Regular isolation beds,20
+county,14,,Embu,Regular isolation beds,16
+county,7,,Garissa,Regular isolation beds,10
+county,43,,Homa Bay,Regular isolation beds,16
+county,11,,Isiolo,Regular isolation beds,26
+county,34,,Kajiado,Regular isolation beds,28
+county,37,,Kakamega,Regular isolation beds,14
+country,KE,,Kenya,Regular isolation beds,"1,893"
+county,35,,Kericho,Regular isolation beds,36
+county,22,,Kiambu,Regular isolation beds,34
+county,3,,Kilifi,Regular isolation beds,80
+county,20,,Kirinyaga,Regular isolation beds,14
+county,45,,Kisii,Regular isolation beds,50
+county,42,,Kisumu,Regular isolation beds,20
+county,15,,Kitui,Regular isolation beds,33
+county,2,,Kwale,Regular isolation beds,6
+county,31,,Laikipia,Regular isolation beds,33
+county,5,,Lamu,Regular isolation beds,12
+county,16,,Machakos,Regular isolation beds,24
+county,17,,Makueni,Regular isolation beds,111
+county,9,,Mandera,Regular isolation beds,50
+county,10,,Marsabit,Regular isolation beds,20
+county,12,,Meru,Regular isolation beds,8
+county,44,,Migori,Regular isolation beds,30
+county,1,,Mombasa,Regular isolation beds,19
+county,21,,Murang'a,Regular isolation beds,14
+county,47,,Nairobi,Regular isolation beds,582
+county,32,,Nakuru,Regular isolation beds,36
+county,29,,Nandi,Regular isolation beds,35
+county,33,,Narok,Regular isolation beds,11
+county,46,,Nyamira,Regular isolation beds,22
+county,18,,Nyandarua,Regular isolation beds,13
+county,19,,Nyeri,Regular isolation beds,18
+county,25,,Samburu,Regular isolation beds,10
+county,41,,Siaya,Regular isolation beds,8
+county,6,,Taita-Taveta,Regular isolation beds,40
+county,4,,Tana River,Regular isolation beds,30
+county,13,,Tharaka-Nithi,Regular isolation beds,24
+county,26,,Trans-Nzoia,Regular isolation beds,40
+county,23,,Turkana,Regular isolation beds,12
+county,27,,Uasin Gishu,Regular isolation beds,37
+county,38,,Vihiga,Regular isolation beds,6
+county,8,,Wajir,Regular isolation beds,6
+county,24,,West Pokot,Regular isolation beds,85
+county,30,,Baringo,Available ventilators for isolation,0
+county,36,,Bomet,Available ventilators for isolation,0
+county,39,,Bungoma,Available ventilators for isolation,0
+county,40,,Busia,Available ventilators for isolation,0
+county,28,,Elgeyo-Marakwet,Available ventilators for isolation,0
+county,14,,Embu,Available ventilators for isolation,0
+county,7,,Garissa,Available ventilators for isolation,0
+county,43,,Homa Bay,Available ventilators for isolation,0
+county,11,,Isiolo,Available ventilators for isolation,0
+county,34,,Kajiado,Available ventilators for isolation,0
+county,37,,Kakamega,Available ventilators for isolation,0
+country,KE,,Kenya,Available ventilators for isolation,31
+county,35,,Kericho,Available ventilators for isolation,0
+county,22,,Kiambu,Available ventilators for isolation,0
+county,3,,Kilifi,Available ventilators for isolation,0
+county,20,,Kirinyaga,Available ventilators for isolation,0
+county,45,,Kisii,Available ventilators for isolation,0
+county,42,,Kisumu,Available ventilators for isolation,0
+county,15,,Kitui,Available ventilators for isolation,0
+county,2,,Kwale,Available ventilators for isolation,0
+county,31,,Laikipia,Available ventilators for isolation,0
+county,5,,Lamu,Available ventilators for isolation,0
+county,16,,Machakos,Available ventilators for isolation,0
+county,17,,Makueni,Available ventilators for isolation,0
+county,9,,Mandera,Available ventilators for isolation,0
+county,10,,Marsabit,Available ventilators for isolation,0
+county,12,,Meru,Available ventilators for isolation,2
+county,44,,Migori,Available ventilators for isolation,0
+county,1,,Mombasa,Available ventilators for isolation,0
+county,21,,Murang'a,Available ventilators for isolation,0
+county,47,,Nairobi,Available ventilators for isolation,29
+county,32,,Nakuru,Available ventilators for isolation,0
+county,29,,Nandi,Available ventilators for isolation,0
+county,33,,Narok,Available ventilators for isolation,0
+county,46,,Nyamira,Available ventilators for isolation,0
+county,18,,Nyandarua,Available ventilators for isolation,0
+county,19,,Nyeri,Available ventilators for isolation,0
+county,25,,Samburu,Available ventilators for isolation,0
+county,41,,Siaya,Available ventilators for isolation,0
+county,6,,Taita-Taveta,Available ventilators for isolation,0
+county,4,,Tana River,Available ventilators for isolation,0
+county,13,,Tharaka-Nithi,Available ventilators for isolation,0
+county,26,,Trans-Nzoia,Available ventilators for isolation,0
+county,23,,Turkana,Available ventilators for isolation,0
+county,27,,Uasin Gishu,Available ventilators for isolation,0
+county,38,,Vihiga,Available ventilators for isolation,0
+county,8,,Wajir,Available ventilators for isolation,0
+county,24,,West Pokot,Available ventilators for isolation,0

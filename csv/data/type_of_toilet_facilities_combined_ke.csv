@@ -1,0 +1,337 @@
+geo_level,geo_code,geo_version,name,variable,value
+county,30,,Baringo,Bucket latrine/cesspool,0.4
+county,36,,Bomet,Bucket latrine/cesspool,0.3
+county,39,,Bungoma,Bucket latrine/cesspool,0.7
+county,40,,Busia,Bucket latrine/cesspool,0.6
+county,28,,Elgeyo-Marakwet,Bucket latrine/cesspool,0.3
+county,14,,Embu,Bucket latrine/cesspool,0.6
+county,7,,Garissa,Bucket latrine/cesspool,3.6
+county,43,,Homa Bay,Bucket latrine/cesspool,0.7
+county,11,,Isiolo,Bucket latrine/cesspool,1
+county,34,,Kajiado,Bucket latrine/cesspool,1
+county,37,,Kakamega,Bucket latrine/cesspool,0.5
+country,KE,,Kenya,Bucket latrine/cesspool,1.1
+county,35,,Kericho,Bucket latrine/cesspool,0.5
+county,22,,Kiambu,Bucket latrine/cesspool,0.8
+county,3,,Kilifi,Bucket latrine/cesspool,2.4
+county,20,,Kirinyaga,Bucket latrine/cesspool,0.4
+county,45,,Kisii,Bucket latrine/cesspool,0.8
+county,42,,Kisumu,Bucket latrine/cesspool,0.7
+county,15,,Kitui,Bucket latrine/cesspool,0.4
+county,2,,Kwale,Bucket latrine/cesspool,1.7
+county,31,,Laikipia,Bucket latrine/cesspool,0.3
+county,5,,Lamu,Bucket latrine/cesspool,2.1
+county,16,,Machakos,Bucket latrine/cesspool,0.6
+county,17,,Makueni,Bucket latrine/cesspool,0.3
+county,9,,Mandera,Bucket latrine/cesspool,2.7
+county,10,,Marsabit,Bucket latrine/cesspool,0.5
+county,12,,Meru,Bucket latrine/cesspool,0.5
+county,44,,Migori,Bucket latrine/cesspool,0.8
+county,1,,Mombasa,Bucket latrine/cesspool,3.5
+county,12,,Murang'a,Bucket latrine/cesspool,0.2
+county,47,,Nairobi,Bucket latrine/cesspool,1.9
+county,32,,Nakuru,Bucket latrine/cesspool,0.7
+county,29,,Nandi,Bucket latrine/cesspool,0.3
+county,33,,Narok,Bucket latrine/cesspool,0.7
+county,46,,Nyamira,Bucket latrine/cesspool,0.7
+county,18,,Nyandarua,Bucket latrine/cesspool,0.2
+county,19,,Nyeri,Bucket latrine/cesspool,0.3
+county,25,,Samburu,Bucket latrine/cesspool,0.6
+county,41,,Siaya,Bucket latrine/cesspool,0.4
+county,6,,Taita-Taveta,Bucket latrine/cesspool,0.5
+county,4,,Tana River,Bucket latrine/cesspool,1.1
+county,13,,Tharaka-Nithi,Bucket latrine/cesspool,0.3
+county,26,,Trans-Nzoia,Bucket latrine/cesspool,0.6
+county,23,,Turkana,Bucket latrine/cesspool,1
+county,27,,Uasin Gishu,Bucket latrine/cesspool,0.5
+county,38,,Vihiga,Bucket latrine/cesspool,0.3
+county,8,,Wajir,Bucket latrine/cesspool,10.8
+county,24,,West Pokot,Bucket latrine/cesspool,0.8
+county,30,,Baringo,Septic/bio-septic tank/biodigester,2.2
+county,36,,Bomet,Septic/bio-septic tank/biodigester,1.3
+county,39,,Bungoma,Septic/bio-septic tank/biodigester,2.9
+county,40,,Busia,Septic/bio-septic tank/biodigester,2.3
+county,28,,Elgeyo-Marakwet,Septic/bio-septic tank/biodigester,1.1
+county,14,,Embu,Septic/bio-septic tank/biodigester,7.2
+county,7,,Garissa,Septic/bio-septic tank/biodigester,5.1
+county,43,,Homa Bay,Septic/bio-septic tank/biodigester,1.2
+county,11,,Isiolo,Septic/bio-septic tank/biodigester,3.2
+county,34,,Kajiado,Septic/bio-septic tank/biodigester,21.7
+county,37,,Kakamega,Septic/bio-septic tank/biodigester,2.4
+country,KE,,Kenya,Septic/bio-septic tank/biodigester,9.4
+county,35,,Kericho,Septic/bio-septic tank/biodigester,2.7
+county,22,,Kiambu,Septic/bio-septic tank/biodigester,25.4
+county,3,,Kilifi,Septic/bio-septic tank/biodigester,18.8
+county,20,,Kirinyaga,Septic/bio-septic tank/biodigester,8.4
+county,45,,Kisii,Septic/bio-septic tank/biodigester,2.1
+county,42,,Kisumu,Septic/bio-septic tank/biodigester,6.2
+county,15,,Kitui,Septic/bio-septic tank/biodigester,2.9
+county,2,,Kwale,Septic/bio-septic tank/biodigester,8.9
+county,31,,Laikipia,Septic/bio-septic tank/biodigester,5.3
+county,5,,Lamu,Septic/bio-septic tank/biodigester,9.5
+county,16,,Machakos,Septic/bio-septic tank/biodigester,13.1
+county,17,,Makueni,Septic/bio-septic tank/biodigester,2.5
+county,9,,Mandera,Septic/bio-septic tank/biodigester,2.1
+county,10,,Marsabit,Septic/bio-septic tank/biodigester,0.7
+county,12,,Meru,Septic/bio-septic tank/biodigester,5.3
+county,44,,Migori,Septic/bio-septic tank/biodigester,1.8
+county,1,,Mombasa,Septic/bio-septic tank/biodigester,31.5
+county,12,,Murang'a,Septic/bio-septic tank/biodigester,4.6
+county,47,,Nairobi,Septic/bio-septic tank/biodigester,18.4
+county,32,,Nakuru,Septic/bio-septic tank/biodigester,10.2
+county,29,,Nandi,Septic/bio-septic tank/biodigester,1.8
+county,33,,Narok,Septic/bio-septic tank/biodigester,2.2
+county,46,,Nyamira,Septic/bio-septic tank/biodigester,1.8
+county,18,,Nyandarua,Septic/bio-septic tank/biodigester,3.1
+county,19,,Nyeri,Septic/bio-septic tank/biodigester,7.2
+county,25,,Samburu,Septic/bio-septic tank/biodigester,1.4
+county,41,,Siaya,Septic/bio-septic tank/biodigester,1.4
+county,6,,Taita-Taveta,Septic/bio-septic tank/biodigester,11.3
+county,4,,Tana River,Septic/bio-septic tank/biodigester,4.2
+county,13,,Tharaka-Nithi,Septic/bio-septic tank/biodigester,3.9
+county,26,,Trans-Nzoia,Septic/bio-septic tank/biodigester,4.1
+county,23,,Turkana,Septic/bio-septic tank/biodigester,1.5
+county,27,,Uasin Gishu,Septic/bio-septic tank/biodigester,11.1
+county,38,,Vihiga,Septic/bio-septic tank/biodigester,1.3
+county,8,,Wajir,Septic/bio-septic tank/biodigester,4.1
+county,24,,West Pokot,Septic/bio-septic tank/biodigester,1.2
+county,30,,Baringo,Main Sewer,0.3
+county,36,,Bomet,Main Sewer,0.3
+county,39,,Bungoma,Main Sewer,1
+county,40,,Busia,Main Sewer,0.6
+county,28,,Elgeyo-Marakwet,Main Sewer,0.3
+county,14,,Embu,Main Sewer,2.2
+county,7,,Garissa,Main Sewer,5.2
+county,43,,Homa Bay,Main Sewer,1.1
+county,11,,Isiolo,Main Sewer,4
+county,34,,Kajiado,Main Sewer,2.8
+county,37,,Kakamega,Main Sewer,0.8
+country,KE,,Kenya,Main Sewer,9.7
+county,35,,Kericho,Main Sewer,1.7
+county,22,,Kiambu,Main Sewer,9.1
+county,3,,Kilifi,Main Sewer,2.4
+county,20,,Kirinyaga,Main Sewer,0.7
+county,45,,Kisii,Main Sewer,1.9
+county,42,,Kisumu,Main Sewer,4.8
+county,15,,Kitui,Main Sewer,0.5
+county,2,,Kwale,Main Sewer,0.9
+county,31,,Laikipia,Main Sewer,8.9
+county,5,,Lamu,Main Sewer,2.1
+county,16,,Machakos,Main Sewer,5.7
+county,17,,Makueni,Main Sewer,0.4
+county,9,,Mandera,Main Sewer,1.2
+county,10,,Marsabit,Main Sewer,0.1
+county,12,,Meru,Main Sewer,0.7
+county,44,,Migori,Main Sewer,0.5
+county,1,,Mombasa,Main Sewer,16.6
+county,12,,Murang'a,Main Sewer,2.3
+county,47,,Nairobi,Main Sewer,54.3
+county,32,,Nakuru,Main Sewer,7.7
+county,29,,Nandi,Main Sewer,0.4
+county,33,,Narok,Main Sewer,0.5
+county,46,,Nyamira,Main Sewer,0.3
+county,18,,Nyandarua,Main Sewer,0.3
+county,19,,Nyeri,Main Sewer,6.7
+county,25,,Samburu,Main Sewer,0.4
+county,41,,Siaya,Main Sewer,0.3
+county,6,,Taita-Taveta,Main Sewer,1.1
+county,4,,Tana River,Main Sewer,0.8
+county,13,,Tharaka-Nithi,Main Sewer,0.6
+county,26,,Trans-Nzoia,Main Sewer,1.7
+county,23,,Turkana,Main Sewer,0.4
+county,27,,Uasin Gishu,Main Sewer,9.6
+county,38,,Vihiga,Main Sewer,0.3
+county,8,,Wajir,Main Sewer,1.7
+county,24,,West Pokot,Main Sewer,0.2
+county,30,,Baringo,Open/bush,30.8
+county,36,,Bomet,Open/bush,1
+county,39,,Bungoma,Open/bush,1.4
+county,40,,Busia,Open/bush,2.5
+county,28,,Elgeyo-Marakwet,Open/bush,6.8
+county,14,,Embu,Open/bush,0.7
+county,7,,Garissa,Open/bush,36.2
+county,43,,Homa Bay,Open/bush,10.2
+county,11,,Isiolo,Open/bush,30.6
+county,34,,Kajiado,Open/bush,13.6
+county,37,,Kakamega,Open/bush,1.1
+country,KE,,Kenya,Open/bush,7.4
+county,35,,Kericho,Open/bush,1.5
+county,22,,Kiambu,Open/bush,0.1
+county,3,,Kilifi,Open/bush,17
+county,20,,Kirinyaga,Open/bush,0.2
+county,45,,Kisii,Open/bush,0.9
+county,42,,Kisumu,Open/bush,3.6
+county,15,,Kitui,Open/bush,9.2
+county,2,,Kwale,Open/bush,31.7
+county,31,,Laikipia,Open/bush,9.4
+county,5,,Lamu,Open/bush,17.9
+county,16,,Machakos,Open/bush,0.9
+county,17,,Makueni,Open/bush,1.2
+county,9,,Mandera,Open/bush,39.4
+county,10,,Marsabit,Open/bush,47.4
+county,12,,Meru,Open/bush,1.4
+county,44,,Migori,Open/bush,9.4
+county,1,,Mombasa,Open/bush,0.9
+county,12,,Murang'a,Open/bush,0.2
+county,47,,Nairobi,Open/bush,0.1
+county,32,,Nakuru,Open/bush,0.8
+county,29,,Nandi,Open/bush,1.5
+county,33,,Narok,Open/bush,28.2
+county,46,,Nyamira,Open/bush,1
+county,18,,Nyandarua,Open/bush,0.2
+county,19,,Nyeri,Open/bush,0.1
+county,25,,Samburu,Open/bush,65.6
+county,41,,Siaya,Open/bush,6
+county,6,,Taita-Taveta,Open/bush,2.4
+county,4,,Tana River,Open/bush,48.6
+county,13,,Tharaka-Nithi,Open/bush,1.1
+county,26,,Trans-Nzoia,Open/bush,1.4
+county,23,,Turkana,Open/bush,68.1
+county,27,,Uasin Gishu,Open/bush,0.5
+county,38,,Vihiga,Open/bush,0.6
+county,8,,Wajir,Open/bush,43.6
+county,24,,West Pokot,Open/bush,42.7
+county,30,,Baringo,Pit latrine covered,45.7
+county,36,,Bomet,Pit latrine covered,77.5
+county,39,,Bungoma,Pit latrine covered,68.6
+county,40,,Busia,Pit latrine covered,68
+county,28,,Elgeyo-Marakwet,Pit latrine covered,57.7
+county,14,,Embu,Pit latrine covered,66.2
+county,7,,Garissa,Pit latrine covered,29.7
+county,43,,Homa Bay,Pit latrine covered,62
+county,11,,Isiolo,Pit latrine covered,36.8
+county,34,,Kajiado,Pit latrine covered,41.2
+county,37,,Kakamega,Pit latrine covered,73.4
+country,KE,,Kenya,Pit latrine covered,51.2
+county,35,,Kericho,Pit latrine covered,69.8
+county,22,,Kiambu,Pit latrine covered,45.9
+county,3,,Kilifi,Pit latrine covered,40.1
+county,20,,Kirinyaga,Pit latrine covered,68.5
+county,45,,Kisii,Pit latrine covered,59.6
+county,42,,Kisumu,Pit latrine covered,65.4
+county,15,,Kitui,Pit latrine covered,62
+county,2,,Kwale,Pit latrine covered,38.2
+county,31,,Laikipia,Pit latrine covered,55.8
+county,5,,Lamu,Pit latrine covered,42.8
+county,16,,Machakos,Pit latrine covered,54.8
+county,17,,Makueni,Pit latrine covered,67.1
+county,9,,Mandera,Pit latrine covered,28.3
+county,10,,Marsabit,Pit latrine covered,37
+county,12,,Meru,Pit latrine covered,62.3
+county,44,,Migori,Pit latrine covered,62.2
+county,1,,Mombasa,Pit latrine covered,30.8
+county,12,,Murang'a,Pit latrine covered,71.4
+county,47,,Nairobi,Pit latrine covered,16.8
+county,32,,Nakuru,Pit latrine covered,53.2
+county,29,,Nandi,Pit latrine covered,67.1
+county,33,,Narok,Pit latrine covered,49.2
+county,46,,Nyamira,Pit latrine covered,60.4
+county,18,,Nyandarua,Pit latrine covered,71.8
+county,19,,Nyeri,Pit latrine covered,66.3
+county,25,,Samburu,Pit latrine covered,23.6
+county,41,,Siaya,Pit latrine covered,68.9
+county,6,,Taita-Taveta,Pit latrine covered,58.7
+county,4,,Tana River,Pit latrine covered,31.7
+county,13,,Tharaka-Nithi,Pit latrine covered,66.5
+county,26,,Trans-Nzoia,Pit latrine covered,64.6
+county,23,,Turkana,Pit latrine covered,18.9
+county,27,,Uasin Gishu,Pit latrine covered,55.3
+county,38,,Vihiga,Pit latrine covered,70.1
+county,8,,Wajir,Pit latrine covered,21.6
+county,24,,West Pokot,Pit latrine covered,41.7
+county,30,,Baringo,Pit Latrine uncovered,8.3
+county,36,,Bomet,Pit Latrine uncovered,13
+county,39,,Bungoma,Pit Latrine uncovered,14.7
+county,40,,Busia,Pit Latrine uncovered,14.9
+county,28,,Elgeyo-Marakwet,Pit Latrine uncovered,24.9
+county,14,,Embu,Pit Latrine uncovered,8.6
+county,7,,Garissa,Pit Latrine uncovered,16.7
+county,43,,Homa Bay,Pit Latrine uncovered,14.7
+county,11,,Isiolo,Pit Latrine uncovered,6.7
+county,34,,Kajiado,Pit Latrine uncovered,5.5
+county,37,,Kakamega,Pit Latrine uncovered,9.5
+country,KE,,Kenya,Pit Latrine uncovered,9.4
+county,35,,Kericho,Pit Latrine uncovered,13.7
+county,22,,Kiambu,Pit Latrine uncovered,3.3
+county,3,,Kilifi,Pit Latrine uncovered,9.2
+county,20,,Kirinyaga,Pit Latrine uncovered,3.9
+county,45,,Kisii,Pit Latrine uncovered,23.7
+county,42,,Kisumu,Pit Latrine uncovered,10.5
+county,15,,Kitui,Pit Latrine uncovered,12
+county,2,,Kwale,Pit Latrine uncovered,9.8
+county,31,,Laikipia,Pit Latrine uncovered,8.3
+county,5,,Lamu,Pit Latrine uncovered,14
+county,16,,Machakos,Pit Latrine uncovered,10.1
+county,17,,Makueni,Pit Latrine uncovered,13.4
+county,9,,Mandera,Pit Latrine uncovered,23.4
+county,10,,Marsabit,Pit Latrine uncovered,9.3
+county,12,,Meru,Pit Latrine uncovered,8.5
+county,44,,Migori,Pit Latrine uncovered,15
+county,1,,Mombasa,Pit Latrine uncovered,5.5
+county,12,,Murang'a,Pit Latrine uncovered,5.4
+county,47,,Nairobi,Pit Latrine uncovered,2.1
+county,32,,Nakuru,Pit Latrine uncovered,9.4
+county,29,,Nandi,Pit Latrine uncovered,11.5
+county,33,,Narok,Pit Latrine uncovered,10.6
+county,46,,Nyamira,Pit Latrine uncovered,22.6
+county,18,,Nyandarua,Pit Latrine uncovered,6.6
+county,19,,Nyeri,Pit Latrine uncovered,5.3
+county,25,,Samburu,Pit Latrine uncovered,4.2
+county,41,,Siaya,Pit Latrine uncovered,12
+county,6,,Taita-Taveta,Pit Latrine uncovered,12.1
+county,4,,Tana River,Pit Latrine uncovered,9
+county,13,,Tharaka-Nithi,Pit Latrine uncovered,12
+county,26,,Trans-Nzoia,Pit Latrine uncovered,13.8
+county,23,,Turkana,Pit Latrine uncovered,6.8
+county,27,,Uasin Gishu,Pit Latrine uncovered,8.6
+county,38,,Vihiga,Pit Latrine uncovered,9.1
+county,8,,Wajir,Pit Latrine uncovered,16
+county,24,,West Pokot,Pit Latrine uncovered,8.1
+county,30,,Baringo,VIP Latrine,12.4
+county,36,,Bomet,VIP Latrine,6.7
+county,39,,Bungoma,VIP Latrine,10.9
+county,40,,Busia,VIP Latrine,11.1
+county,28,,Elgeyo-Marakwet,VIP Latrine,8.8
+county,14,,Embu,VIP Latrine,14.5
+county,7,,Garissa,VIP Latrine,3.6
+county,43,,Homa Bay,VIP Latrine,10.1
+county,11,,Isiolo,VIP Latrine,17.7
+county,34,,Kajiado,VIP Latrine,14
+county,37,,Kakamega,VIP Latrine,12.3
+country,KE,,Kenya,VIP Latrine,11.9
+county,35,,Kericho,VIP Latrine,10
+county,22,,Kiambu,VIP Latrine,15.3
+county,3,,Kilifi,VIP Latrine,10.1
+county,20,,Kirinyaga,VIP Latrine,17.9
+county,45,,Kisii,VIP Latrine,11
+county,42,,Kisumu,VIP Latrine,8.7
+county,15,,Kitui,VIP Latrine,13
+county,2,,Kwale,VIP Latrine,8.7
+county,31,,Laikipia,VIP Latrine,12
+county,5,,Lamu,VIP Latrine,11.5
+county,16,,Machakos,VIP Latrine,14.9
+county,17,,Makueni,VIP Latrine,15.2
+county,9,,Mandera,VIP Latrine,2.8
+county,10,,Marsabit,VIP Latrine,5.1
+county,12,,Meru,VIP Latrine,21.3
+county,44,,Migori,VIP Latrine,10.3
+county,1,,Mombasa,VIP Latrine,11.1
+county,12,,Murang'a,VIP Latrine,15.8
+county,47,,Nairobi,VIP Latrine,6.3
+county,32,,Nakuru,VIP Latrine,17.8
+county,29,,Nandi,VIP Latrine,17.3
+county,33,,Narok,VIP Latrine,8.6
+county,46,,Nyamira,VIP Latrine,13.3
+county,18,,Nyandarua,VIP Latrine,17.8
+county,19,,Nyeri,VIP Latrine,14
+county,25,,Samburu,VIP Latrine,4.2
+county,41,,Siaya,VIP Latrine,10.8
+county,6,,Taita-Taveta,VIP Latrine,13.8
+county,4,,Tana River,VIP Latrine,4.6
+county,13,,Tharaka-Nithi,VIP Latrine,15.6
+county,26,,Trans-Nzoia,VIP Latrine,13.9
+county,23,,Turkana,VIP Latrine,3.3
+county,27,,Uasin Gishu,VIP Latrine,14.4
+county,38,,Vihiga,VIP Latrine,18.4
+county,8,,Wajir,VIP Latrine,2.1
+county,24,,West Pokot,VIP Latrine,5.3

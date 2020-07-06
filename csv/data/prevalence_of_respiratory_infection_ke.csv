@@ -1,145 +1,145 @@
 geo_level,geo_code,geo_version,name,variable,value
-county,30,,Baringo,Upper respiratory Infection,10.3
-county,30,,Baringo,Lower Respiratoty Infection,0.5
 county,30,,Baringo,Asthma,1.2
-county,36,,Bomet,Lower Respiratoty Infection,0.9
-county,36,,Bomet,Upper respiratory Infection,3.3
 county,36,,Bomet,Asthma,1.6
 county,39,,Bungoma,Asthma,1.6
-county,39,,Bungoma,Upper respiratory Infection,4
-county,39,,Bungoma,Lower Respiratoty Infection,1.1
-county,40,,Busia,Upper respiratory Infection,2.7
 county,40,,Busia,Asthma,2.3
-county,40,,Busia,Lower Respiratoty Infection,0.5
-county,28,,Elgeyo / Marakwet,Upper respiratory Infection,3.8
-county,28,,Elgeyo / Marakwet,Lower Respiratoty Infection,6.7
 county,28,,Elgeyo / Marakwet,Asthma,0
-county,14,,Embu,Upper respiratory Infection,4.2
-county,14,,Embu,Lower Respiratoty Infection,1
 county,14,,Embu,Asthma,2.2
 county,7,,Garissa,Asthma,1.1
-county,7,,Garissa,Lower Respiratoty Infection,1.1
-county,7,,Garissa,Upper respiratory Infection,2
-county,43,,Homa Bay,Upper respiratory Infection,3.6
-county,43,,Homa Bay,Lower Respiratoty Infection,0.1
 county,43,,Homa Bay,Asthma,1.5
-county,11,,Isiolo,Lower Respiratoty Infection,9.4
 county,11,,Isiolo,Asthma,0.2
-county,11,,Isiolo,Upper respiratory Infection,7.5
-county,34,,Kajiado,Upper respiratory Infection,7.4
-county,34,,Kajiado,Lower Respiratoty Infection,2.5
 county,34,,Kajiado,Asthma,1.6
 county,37,,Kakamega,Asthma,1.6
-county,37,,Kakamega,Upper respiratory Infection,5.5
-county,37,,Kakamega,Lower Respiratoty Infection,3.1
 county,35,,Kericho,Asthma,0.9
-county,35,,Kericho,Upper respiratory Infection,4
-county,35,,Kericho,Lower Respiratoty Infection,2.8
-county,22,,Kiambu,Lower Respiratoty Infection,16
 county,22,,Kiambu,Asthma,1.2
-county,22,,Kiambu,Upper respiratory Infection,1.7
-county,3,,Kilifi,Lower Respiratoty Infection,3.8
 county,3,,Kilifi,Asthma,2.9
-county,3,,Kilifi,Upper respiratory Infection,9.4
 county,20,,Kirinyaga,Asthma,1.6
-county,20,,Kirinyaga,Lower Respiratoty Infection,8.9
-county,20,,Kirinyaga,Upper respiratory Infection,11.7
-county,45,,Kisii,Lower Respiratoty Infection,0.3
-county,45,,Kisii,Upper respiratory Infection,4
 county,45,,Kisii,Asthma,0.8
-county,42,,Kisumu,Upper respiratory Infection,8.4
 county,42,,Kisumu,Asthma,0.9
-county,42,,Kisumu,Lower Respiratoty Infection,4.8
 county,15,,Kitui,Asthma,1.3
-county,15,,Kitui,Lower Respiratoty Infection,2.6
-county,15,,Kitui,Upper respiratory Infection,13.9
-county,2,,Kwale,Lower Respiratoty Infection,1.1
 county,2,,Kwale,Asthma,4
-county,2,,Kwale,Upper respiratory Infection,7.7
-county,31,,Laikipia,Lower Respiratoty Infection,3.2
-county,31,,Laikipia,Upper respiratory Infection,8.1
 county,31,,Laikipia,Asthma,0.9
-county,5,,Lamu,Upper respiratory Infection,3.6
-county,5,,Lamu,Lower Respiratoty Infection,1.3
 county,5,,Lamu,Asthma,3.4
-county,16,,Machakos,Upper respiratory Infection,5.7
-county,16,,Machakos,Lower Respiratoty Infection,0.8
 county,16,,Machakos,Asthma,1.2
-country,17,,Makueni,Upper respiratory Infection,22.2
 country,17,,Makueni,Asthma,0.6
-county,17,,Makueni,Lower Respiratoty Infection,4.2
-county,9,,Mandera,Lower Respiratoty Infection,4.4
-county,9,,Mandera,Upper respiratory Infection,6.7
 county,9,,Mandera,Asthma,0.7
-county,10,,Marsabit,Lower Respiratoty Infection,1.1
-county,10,,Marsabit,Upper respiratory Infection,9.9
 county,10,,Marsabit,Asthma,3
-county,12,,Meru,Lower Respiratoty Infection,2.6
-county,12,,Meru,Upper respiratory Infection,22.5
 county,12,,Meru,Asthma,0.5
-county,44,,Migori,Lower Respiratoty Infection,1.5
-county,44,,Migori,Upper respiratory Infection,4.1
 county,44,,Migori,Asthma,0.6
-county,1,,Mombasa,Lower Respiratoty Infection,2.7
-county,1,,Mombasa,Upper respiratory Infection,0.4
 county,1,,Mombasa,Asthma,1.7
-county,21,,Murang'a,Lower Respiratoty Infection,3.4
-county,21,,Murang'a,Upper respiratory Infection,6.1
 county,21,,Murang'a,Asthma,1.5
-county,47,,Nairobi City,Lower Respiratoty Infection,6.3
-county,47,,Nairobi City,Asthma,0.5
-county,47,,Nairobi City,Upper respiratory Infection,4.4
-county,32,,Nakuru,Lower Respiratoty Infection,1.5
+county,47,,Nairobi,Asthma,0.5
 county,32,,Nakuru,Asthma,0.5
-county,32,,Nakuru,Upper respiratory Infection,12.3
-county,29,,Nandi,Lower Respiratoty Infection,0.2
 county,29,,Nandi,Asthma,1.4
-county,29,,Nandi,Upper respiratory Infection,1.8
 county,33,,Narok,Asthma,0
-county,33,,Narok,Upper respiratory Infection,15.7
-county,33,,Narok,Lower Respiratoty Infection,1
-country,KE,,Kenya,Lower Respiratoty Infection,3
-country,KE,,Kenya,Upper respiratory Infection,7.4
 country,KE,,Kenya,Asthma,1.2
-county,46,,Nyamira,Lower Respiratoty Infection,0.8
-county,46,,Nyamira,Upper respiratory Infection,26.6
 county,46,,Nyamira,Asthma,0.8
-county,18,,Nyandarua,Lower Respiratoty Infection,0
-county,18,,Nyandarua,Upper respiratory Infection,19.3
 county,18,,Nyandarua,Asthma,1.9
-county,19,,Nyeri,Upper respiratory Infection,9.7
-county,19,,Nyeri,Lower Respiratoty Infection,1.9
 county,19,,Nyeri,Asthma,1.6
-county,25,,Samburu,Upper respiratory Infection,20.5
 county,25,,Samburu,Asthma,0.1
-county,25,,Samburu,Lower Respiratoty Infection,5.2
-county,41,,Siaya,Lower Respiratoty Infection,1.1
-county,41,,Siaya,Upper respiratory Infection,2.1
 county,41,,Siaya,Asthma,2.4
-county,6,,Taita Taveta,Upper respiratory Infection,6.7
-county,6,,Taita Taveta,Lower Respiratoty Infection,1.2
-county,6,,Taita Taveta,Asthma,0.9
-county,4,,Tana River,Lower Respiratoty Infection,6.2
+county,6,,Taita-Taveta,Asthma,0.9
 county,4,,Tana River,Asthma,2.6
-county,4,,Tana River,Upper respiratory Infection,3
-county,13,,Tharaka-Nithi,Lower Respiratoty Infection,1.1
-county,13,,Tharaka-Nithi,Upper respiratory Infection,8.8
 county,13,,Tharaka-Nithi,Asthma,0.5
-county,26,,Trans Nzoia,Asthma,1.7
-county,26,,Trans Nzoia,Lower Respiratoty Infection,0
-county,26,,Trans Nzoia,Upper respiratory Infection,1.3
-county,23,,Turkana,Upper respiratory Infection,1
+county,26,,Trans-Nzoia,Asthma,1.7
 county,23,,Turkana,Asthma,0
-county,23,,Turkana,Lower Respiratoty Infection,4.5
-county,27,,Uasin Gishu,Lower Respiratoty Infection,1
 county,27,,Uasin Gishu,Asthma,0.7
-county,27,,Uasin Gishu,Upper respiratory Infection,6.7
-county,38,,Vihiga,Lower Respiratoty Infection,1
 county,38,,Vihiga,Asthma,0.3
+county,8,,Wajir,Asthma,1.5
+county,24,,West Pokot,Asthma,0
+county,30,,Baringo,Lower Respiratory Infection,0.5
+county,36,,Bomet,Lower Respiratory Infection,0.9
+county,39,,Bungoma,Lower Respiratory Infection,1.1
+county,40,,Busia,Lower Respiratory Infection,0.5
+county,28,,Elgeyo / Marakwet,Lower Respiratory Infection,6.7
+county,14,,Embu,Lower Respiratory Infection,1
+county,7,,Garissa,Lower Respiratory Infection,1.1
+county,43,,Homa Bay,Lower Respiratory Infection,0.1
+county,11,,Isiolo,Lower Respiratory Infection,9.4
+county,34,,Kajiado,Lower Respiratory Infection,2.5
+county,37,,Kakamega,Lower Respiratory Infection,3.1
+county,35,,Kericho,Lower Respiratory Infection,2.8
+county,22,,Kiambu,Lower Respiratory Infection,16
+county,3,,Kilifi,Lower Respiratory Infection,3.8
+county,20,,Kirinyaga,Lower Respiratory Infection,8.9
+county,45,,Kisii,Lower Respiratory Infection,0.3
+county,42,,Kisumu,Lower Respiratory Infection,4.8
+county,15,,Kitui,Lower Respiratory Infection,2.6
+county,2,,Kwale,Lower Respiratory Infection,1.1
+county,31,,Laikipia,Lower Respiratory Infection,3.2
+county,5,,Lamu,Lower Respiratory Infection,1.3
+county,16,,Machakos,Lower Respiratory Infection,0.8
+county,17,,Makueni,Lower Respiratory Infection,4.2
+county,9,,Mandera,Lower Respiratory Infection,4.4
+county,10,,Marsabit,Lower Respiratory Infection,1.1
+county,12,,Meru,Lower Respiratory Infection,2.6
+county,44,,Migori,Lower Respiratory Infection,1.5
+county,1,,Mombasa,Lower Respiratory Infection,2.7
+county,21,,Murang'a,Lower Respiratory Infection,3.4
+county,47,,Nairobi,Lower Respiratory Infection,6.3
+county,32,,Nakuru,Lower Respiratory Infection,1.5
+county,29,,Nandi,Lower Respiratory Infection,0.2
+county,33,,Narok,Lower Respiratory Infection,1
+country,KE,,Kenya,Lower Respiratory Infection,3
+county,46,,Nyamira,Lower Respiratory Infection,0.8
+county,18,,Nyandarua,Lower Respiratory Infection,0
+county,19,,Nyeri,Lower Respiratory Infection,1.9
+county,25,,Samburu,Lower Respiratory Infection,5.2
+county,41,,Siaya,Lower Respiratory Infection,1.1
+county,6,,Taita-Taveta,Lower Respiratory Infection,1.2
+county,4,,Tana River,Lower Respiratory Infection,6.2
+county,13,,Tharaka-Nithi,Lower Respiratory Infection,1.1
+county,26,,Trans-Nzoia,Lower Respiratory Infection,0
+county,23,,Turkana,Lower Respiratory Infection,4.5
+county,27,,Uasin Gishu,Lower Respiratory Infection,1
+county,38,,Vihiga,Lower Respiratory Infection,1
+county,8,,Wajir,Lower Respiratory Infection,1.4
+county,24,,West Pokot,Lower Respiratory Infection,0
+county,30,,Baringo,Upper respiratory Infection,10.3
+county,36,,Bomet,Upper respiratory Infection,3.3
+county,39,,Bungoma,Upper respiratory Infection,4
+county,40,,Busia,Upper respiratory Infection,2.7
+county,28,,Elgeyo / Marakwet,Upper respiratory Infection,3.8
+county,14,,Embu,Upper respiratory Infection,4.2
+county,7,,Garissa,Upper respiratory Infection,2
+county,43,,Homa Bay,Upper respiratory Infection,3.6
+county,11,,Isiolo,Upper respiratory Infection,7.5
+county,34,,Kajiado,Upper respiratory Infection,7.4
+county,37,,Kakamega,Upper respiratory Infection,5.5
+county,35,,Kericho,Upper respiratory Infection,4
+county,22,,Kiambu,Upper respiratory Infection,1.7
+county,3,,Kilifi,Upper respiratory Infection,9.4
+county,20,,Kirinyaga,Upper respiratory Infection,11.7
+county,45,,Kisii,Upper respiratory Infection,4
+county,42,,Kisumu,Upper respiratory Infection,8.4
+county,15,,Kitui,Upper respiratory Infection,13.9
+county,2,,Kwale,Upper respiratory Infection,7.7
+county,31,,Laikipia,Upper respiratory Infection,8.1
+county,5,,Lamu,Upper respiratory Infection,3.6
+county,16,,Machakos,Upper respiratory Infection,5.7
+country,17,,Makueni,Upper respiratory Infection,22.2
+county,9,,Mandera,Upper respiratory Infection,6.7
+county,10,,Marsabit,Upper respiratory Infection,9.9
+county,12,,Meru,Upper respiratory Infection,22.5
+county,44,,Migori,Upper respiratory Infection,4.1
+county,1,,Mombasa,Upper respiratory Infection,0.4
+county,21,,Murang'a,Upper respiratory Infection,6.1
+county,47,,Nairobi,Upper respiratory Infection,4.4
+county,32,,Nakuru,Upper respiratory Infection,12.3
+county,29,,Nandi,Upper respiratory Infection,1.8
+county,33,,Narok,Upper respiratory Infection,15.7
+country,KE,,Kenya,Upper respiratory Infection,7.4
+county,46,,Nyamira,Upper respiratory Infection,26.6
+county,18,,Nyandarua,Upper respiratory Infection,19.3
+county,19,,Nyeri,Upper respiratory Infection,9.7
+county,25,,Samburu,Upper respiratory Infection,20.5
+county,41,,Siaya,Upper respiratory Infection,2.1
+county,6,,Taita-Taveta,Upper respiratory Infection,6.7
+county,4,,Tana River,Upper respiratory Infection,3
+county,13,,Tharaka-Nithi,Upper respiratory Infection,8.8
+county,26,,Trans-Nzoia,Upper respiratory Infection,1.3
+county,23,,Turkana,Upper respiratory Infection,1
+county,27,,Uasin Gishu,Upper respiratory Infection,6.7
 county,38,,Vihiga,Upper respiratory Infection,7.3
 county,8,,Wajir,Upper respiratory Infection,17.3
-county,8,,Wajir,Asthma,1.5
-county,8,,Wajir,Lower Respiratoty Infection,1.4
 county,24,,West Pokot,Upper respiratory Infection,7.1
-county,24,,West Pokot,Asthma,0
-county,24,,West Pokot,Lower Respiratoty Infection,0
