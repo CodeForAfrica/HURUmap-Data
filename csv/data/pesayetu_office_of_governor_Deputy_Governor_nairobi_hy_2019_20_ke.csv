@@ -1,0 +1,13 @@
+geo_level,geo_code,geo_version,name,variable_1,variable_2,value
+county,47,,Nairobi,Expenditure to Exchequer Issues,Development,0
+county,47,,Nairobi,Expenditure to Exchequer Issues ,Recurrent,100
+county,47,,Nairobi,Absorption rate ,Recurrent,37
+county,47,,Nairobi,Absorption rate ,Development,0
+county,47,,Nairobi,Public Service Management,Absorption rate (%),0
+county,47,,Nairobi,Public Service Management,Expenditure to Exchequer Issues (%),100
+county,47,,Nairobi,Public Service Management,Absorption rate (%),73
+county,47,,Nairobi,Public Service Management,Expenditure to Exchequer Issues (%),0
+county,47,,Nairobi,"Public Works ,Trans-port & Infrastructure",Expenditure to Exchequer Issues (%),100
+county,47,,Nairobi,"Public Works ,Trans-port & Infrastructure",Absorption rate (%),34
+county,47,,Nairobi,"Public Works ,Trans-port & Infrastructure",Absorption rate (%),1
+county,47,,Nairobi,"Public Works ,Trans-port & Infrastructure",Expenditure to Exchequer Issues (%),100

@@ -1,0 +1,11 @@
+geo_level,geo_code,geo_version,name,variable_1,variable_2,value
+county,42,,Kisumu,Compensation to Employees,Expenditure,"2,409.35"
+county,42,,Kisumu,Compensation to Employees,Exchequer Issues,"2,111.69"
+county,42,,Kisumu,Compensation to Employees,Budget,"4,041.56"
+county,42,,Kisumu,Operations & Maintenance,Exchequer Issues,900.64
+county,42,,Kisumu,Operations & Maintenance,Expenditure,703.21
+county,42,,Kisumu,Operations and Maintenance,Budget,"3,264.40"
+county,47,,Nairobi,Compensation to Employees,Budget,"14,241.48"
+county,47,,Nairobi,Compensation to Employees,Expenditure,"5,919.79"
+county,47,,Nairobi,Operations & Maintenance,Budget,"11,468.65"
+county,47,,Nairobi,Operations & Maintenance,Expenditure,"4,555.16"

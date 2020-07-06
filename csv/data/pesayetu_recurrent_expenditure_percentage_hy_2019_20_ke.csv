@@ -1,0 +1,9 @@
+geo_level,geo_code,geo_version,name,variable_1,variable_2,value
+county,42,,Kisumu,Compensation to Employees,Expenditure as % of Total Expenditure,70.9
+county,42,,Kisumu,Compensation to Employees,Absorption,59.6
+county,42,,Kisumu,Operations and Maintenance,Expenditure as % of Total Expenditure,20.7
+county,42,,Kisumu,Operations and Maintenance,Absorption,21.5
+county,47,,Nairobi,Compensation to Employees,Expenditure as % of Total Expenditure,53.3
+county,47,,Nairobi,Compensation to Employees,Absorption,41.6
+county,47,,Nairobi,Operations and Maintenance,Expenditure as % of Total Expenditure,41
+county,47,,Nairobi,Operations and Maintenance,Absorption,39.7
