@@ -1,0 +1,7 @@
+geo_level,geo_code,geo_version,name,variable_1,variable_2 ,value
+country,ZA,,South Africa,Private hospitals,Critical care beds,2140
+country,ZA,,South Africa,Public hospitals,Critical care beds,1178
+country,ZA,,South Africa,Public hospitals,High care beds,1082
+country,ZA,,South Africa,Private hospitals,High care beds,1640
+country,ZA,,South Africa,Public hospitals,Ventilators,1111
+country,ZA,,South Africa,Private hospitals,Ventilators,2105

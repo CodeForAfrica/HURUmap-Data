@@ -41,6 +41,7 @@ INSERT INTO public.population_density VALUES
 ('level2','ZA_2_00640',2009,'level1','ZA_1_006',2011,47.2,'Dr Kenneth Kaunda'),
 ('level2','ZA_2_00639',2009,'level1','ZA_1_006',2011,10.5,'Dr Ruth Segomotsi Mompati'),
 ('level1','ZA_1_002',2009,'country','ZA',2011,38.8,'Eastern Cape'),
+('level2','ZA_2_00104',2009,'level1','ZA_1_001',2011,24.5,'Garden Route'),
 ('level2','ZA_2_00832',2009,'level1','ZA_1_008',2011,60,'Ehlanzeni'),
 ('level2','ZA_2_00797',2009,'level1','ZA_1_007',2011,1609.1,'Ekurhuleni'),
 ('level2','ZA_2_00595',2009,'level1','ZA_1_005',2011,1517.3,'eThekwini'),
@@ -70,6 +71,7 @@ INSERT INTO public.population_density VALUES
 ('level2','ZA_2_00210',2009,'level1','ZA_1_002',2011,7.7,'Sarah Baartman'),
 ('level2','ZA_2_00742',2009,'level1','ZA_1_007',2011,217.9,'Sedibeng'),
 ('level2','ZA_2_00947',2009,'level1','ZA_1_009',2011,78.9,'Sekhukhune'),
+('level2','ZA_2_00543',2009,'level1','ZA_1_005',2011,44,'Harry Gwala'),
 ('country','ZA',2009,'continent','AFR',2011,42.1,'South Africa'),
 ('level2','ZA_2_00419',2009,'level1','ZA_1_004',2011,21.9,'Thabo Mofutsanyane'),
 ('level2','ZA_2_00521',2009,'level1','ZA_1_005',2011,135.6,'Ugu'),
@@ -77,6 +79,7 @@ INSERT INTO public.population_density VALUES
 ('level2','ZA_2_00527',2009,'level1','ZA_1_005',2011,44.8,'Umkhanyakude'),
 ('level2','ZA_2_00524',2009,'level1','ZA_1_005',2011,59.4,'Umzinyathi'),
 ('level2','ZA_2_00523',2009,'level1','ZA_1_005',2011,58.6,'Uthukela'),
+('level2','ZA_2_00528',2009,'level1','ZA_1_005',2011,109.7,'King Cetshwayo'),
 ('level2','ZA_2_00934',2009,'level1','ZA_1_009',2011,50.1,'Vhembe'),
 ('level2','ZA_2_00936',2009,'level1','ZA_1_009',2011,15,'Waterberg'),
 ('level2','ZA_2_00101',2009,'level1','ZA_1_001',2011,12.5,'West Coast'),
@@ -100,6 +103,7 @@ INSERT INTO public.population_density VALUES
 ('level2','ZA_2_00640',2009,'level1','ZA_1_006',2016,50.3,'Dr Kenneth Kaunda'),
 ('level2','ZA_2_00639',2009,'level1','ZA_1_006',2016,10.4,'Dr Ruth Segomotsi Mompati'),
 ('level1','ZA_1_002',2009,'country','ZA',2016,41.3,'Eastern Cape'),
+('level2','ZA_2_00104',2009,'level1','ZA_1_001',2016,26.1,'Garden Route'),
 ('level2','ZA_2_00832',2009,'level1','ZA_1_008',2016,62.4,'Ehlanzeni'),
 ('level2','ZA_2_00797',2009,'level1','ZA_1_007',2016,1710.7,'Ekurhuleni'),
 ('level2','ZA_2_00595',2009,'level1','ZA_1_005',2016,1615.8,'eThekwini'),
@@ -129,6 +133,7 @@ INSERT INTO public.population_density VALUES
 ('level2','ZA_2_00210',2009,'level1','ZA_1_002',2016,8.2,'Sarah Baartman'),
 ('level2','ZA_2_00742',2009,'level1','ZA_1_007',2016,227.6,'Sedibeng'),
 ('level2','ZA_2_00947',2009,'level1','ZA_1_009',2016,85.7,'Sekhukhune'),
+('level2','ZA_2_00543',2009,'level1','ZA_1_005',2016,48.1,'Harry Gwala'),
 ('country','ZA',2009,'continent','AFR',2016,45.3,'South Africa'),
 ('level2','ZA_2_00419',2009,'level1','ZA_1_004',2016,23.3,'Thabo Mofutsanyane'),
 ('level2','ZA_2_00521',2009,'level1','ZA_1_005',2016,148.3,'Ugu'),
@@ -136,6 +141,7 @@ INSERT INTO public.population_density VALUES
 ('level2','ZA_2_00527',2009,'level1','ZA_1_005',2016,49.4,'Umkhanyakude'),
 ('level2','ZA_2_00524',2009,'level1','ZA_1_005',2016,64.1,'Umzinyathi'),
 ('level2','ZA_2_00523',2009,'level1','ZA_1_005',2016,61.9,'Uthukela'),
+('level2','ZA_2_00528',2009,'level1','ZA_1_005',2016,117.4,'King Cetshwayo'),
 ('level2','ZA_2_00934',2009,'level1','ZA_1_009',2016,53.9,'Vhembe'),
 ('level2','ZA_2_00936',2009,'level1','ZA_1_009',2016,16.5,'Waterberg'),
 ('level2','ZA_2_00101',2009,'level1','ZA_1_001',2016,13.9,'West Coast'),
@@ -145,5 +151,5 @@ INSERT INTO public.population_density VALUES
 ('level2','ZA_2_00308',2009,'level1','ZA_1_003',2016,2.5,'Z F Mgcawu'),
 ('level2','ZA_2_00526',2009,'level1','ZA_1_005',2016,59.8,'Zululand') ON CONFLICT DO NOTHING;
       
-INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allPopulationDensities','"Community Survey, 2016"','https://open.africa/dataset/community-survey-south-africa-2016/resource/53b6e7de-522e-4ee9-8b1e-7a0d695d39b0') ON CONFLICT DO NOTHING;
-INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allPopulationDensities','"Community Survey, 2016"','https://open.africa/dataset/community-survey-south-africa-2016/resource/53b6e7de-522e-4ee9-8b1e-7a0d695d39b0') ON CONFLICT DO NOTHING;
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allPopulationDensities','"Census, 2011 and Community Survey, 2016"','https://open.africa/dataset/south-africa-population-land-area-and-population-density') ON CONFLICT DO NOTHING;
+INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allPopulationDensities','"Census, 2011 and Community Survey, 2016"','https://open.africa/dataset/south-africa-population-land-area-and-population-density') ON CONFLICT DO NOTHING;

@@ -13,29 +13,29 @@ district,798,,City of Johannesburg,2006,19
 district,799,,City of Tshwane,2006,6
 district,640,,Dr Kenneth Kaunda,2006,43
 district,639,,Dr Ruth Segomotsi Mompati,2006,37
-province,EC,,Eastern Cape,2006,720.5
+province,EC,,Eastern Cape,2006,721
 district,104,,Garden Route,2006,46
 district,832,,Ehlanzeni,2006,1
 district,797,,Ekurhuleni,2006,10
 district,420,,Fezile Dabi,2006,23
 district,309,,Frances Baard,2006,29
-province,FS,,Free State,2006,819.6
-province,GT,,Gauteng,2006,462.3
+province,FS,,Free State,2006,820
+province,GT,,Gauteng,2006,462
 district,830,,Gert Sibande,2006,2
 district,214,,Joe Gqabi,2006,9
 district,345,,John Taolo Gaetsewe,2006,17
-province,KZN,,KwaZulu-Natal,2006,591.7
+province,KZN,,KwaZulu-Natal,2006,592
 district,418,,Lejweleputswa,2006,44
-province,LIM,,Limpopo,2006,284.1
+province,LIM,,Limpopo,2006,284
 district,494,,Mangaung,2006,33
 district,933,,Mopani,2006,8
-province,MP,,Mpumalanga,2006,22.7
+province,MP,,Mpumalanga,2006,23
 district,638,,Ngaka Modiri Molema,2006,20
 district,306,,Namakwa,2006,24
 district,293,,Nelson Mandela Bay,2006,47
 district,831,,Nkangala,2006,1
-province,NW,,North West,2006,791.6
-province,NC,,Northern Cape,2006,778.2
+province,NW,,North West,2006,792
+province,NC,,Northern Cape,2006,778
 district,215,,O.R.Tambo,2006,25
 district,103,,Overberg,2006,41
 district,307,,Pixley ka Seme,2006,36
@@ -43,7 +43,7 @@ district,210,,Sarah Baartman,2006,42
 district,742,,Sedibeng,2006,13
 district,947,,Sekhukhune,2006,3
 district,543,,Harry Gwala,2006,26
-country,ZA,,South Africa,2006,577.7
+country,ZA,,South Africa,2006,578
 district,419,,Thabo Mofutsanyana,2006,16
 district,521,,Ugu,2006,1
 district,522,,Umgungundlovu,2006,35
@@ -54,7 +54,7 @@ district,934,,Vhembe,2006,4
 district,936,,Waterberg,2006,12
 district,101,,West Coast,2006,45
 district,748,,West Rand,2006,22
-province,WC,,Western Cape,2006,958.8
+province,WC,,Western Cape,2006,959
 district,416,,Xhariep,2006,32
 district,308,,ZF Mgcawu,2006,34
 district,526,,Zululand,2006,38
@@ -75,29 +75,29 @@ district,798,,City of Johannesburg,2007,8
 district,799,,City of Tshwane,2007,4
 district,640,,Dr Kenneth Kaunda,2007,35
 district,639,,Dr Ruth Segomotsi Mompati,2007,32
-province,EC,,Eastern Cape,2007,806.6
+province,EC,,Eastern Cape,2007,807
 district,104,,Garden Route,2007,49
 district,832,,Ehlanzeni,2007,3
 district,797,,Ekurhuleni,2007,5
 district,420,,Fezile Dabi,2007,21
 district,309,,Frances Baard,2007,39
-province,FS,,Free State,2007,844.1
-province,GT,,Gauteng,2007,174.1
+province,FS,,Free State,2007,844
+province,GT,,Gauteng,2007,174
 district,830,,Gert Sibande,2007,19
 district,214,,Joe Gqabi,2007,15
 district,345,,John Taolo Gaetsewe,2007,16
-province,KZN,,KwaZulu-Natal,2007,880.7
+province,KZN,,KwaZulu-Natal,2007,881
 district,418,,Lejweleputswa,2007,45
-province,LIM,,Limpopo,2007,329.1
+province,LIM,,Limpopo,2007,329
 district,494,,Mangaung,2007,31
 district,933,,Mopani,2007,11
-province,MP,,Mpumalanga,2007,227.3
+province,MP,,Mpumalanga,2007,227
 district,638,,Ngaka Modiri Molema,2007,18
 district,306,,Namakwa,2007,20
 district,293,,Nelson Mandela Bay,2007,47
 district,831,,Nkangala,2007,2
-province,NW,,North West,2007,766.5
-province,NC,,Northern Cape,2007,859.2
+province,NW,,North West,2007,767
+province,NC,,Northern Cape,2007,859
 district,215,,O.R.Tambo,2007,25
 district,103,,Overberg,2007,41
 district,307,,Pixley ka Seme,2007,38
@@ -105,7 +105,7 @@ district,210,,Sarah Baartman,2007,51
 district,742,,Sedibeng,2007,7
 district,947,,Sekhukhune,2007,6
 district,543,,Harry Gwala,2007,34
-country,ZA,,South Africa,2007,608.2
+country,ZA,,South Africa,2007,608
 district,419,,Thabo Mofutsanyana,2007,22
 district,521,,Ugu,2007,1
 district,522,,Umgungundlovu,2007,37
@@ -116,7 +116,7 @@ district,934,,Vhembe,2007,12
 district,936,,Waterberg,2007,17
 district,101,,West Coast,2007,44
 district,748,,West Rand,2007,9
-province,WC,,Western Cape,2007,938.3
+province,WC,,Western Cape,2007,938
 district,416,,Xhariep,2007,29
 district,308,,ZF Mgcawu,2007,33
 district,526,,Zululand,2007,40
@@ -137,29 +137,29 @@ district,798,,City of Johannesburg,2008,15
 district,799,,City of Tshwane,2008,8
 district,640,,Dr Kenneth Kaunda,2008,30
 district,639,,Dr Ruth Segomotsi Mompati,2008,36
-province,EC,,Eastern Cape,2008,962.7
+province,EC,,Eastern Cape,2008,963
 district,104,,Garden Route,2008,46
 district,832,,Ehlanzeni,2008,17
 district,797,,Ekurhuleni,2008,3
 district,420,,Fezile Dabi,2008,16
 district,309,,Frances Baard,2008,39
-province,FS,,Free State,2008,889.5
-province,GT,,Gauteng,2008,489.5
+province,FS,,Free State,2008,890
+province,GT,,Gauteng,2008,490
 district,830,,Gert Sibande,2008,20
 district,214,,Joe Gqabi,2008,23
 district,345,,John Taolo Gaetsewe,2008,14
-province,KZN,,KwaZulu-Natal,2008,928.1
+province,KZN,,KwaZulu-Natal,2008,928
 district,418,,Lejweleputswa,2008,47
-province,LIM,,Limpopo,2008,397.2
+province,LIM,,Limpopo,2008,397
 district,494,,Mangaung,2008,32
 district,933,,Mopani,2008,5
-province,MP,,Mpumalanga,2008,637.1
+province,MP,,Mpumalanga,2008,637
 district,638,,Ngaka Modiri Molema,2008,21
 district,306,,Namakwa,2008,12
 district,293,,Nelson Mandela Bay,2008,49
 district,831,,Nkangala,2008,9
 province,NW,,North West,2008,815
-province,NC,,Northern Cape,2008,935.5
+province,NC,,Northern Cape,2008,936
 district,215,,O.R.Tambo,2008,27
 district,103,,Overberg,2008,38
 district,307,,Pixley ka Seme,2008,48
@@ -167,7 +167,7 @@ district,210,,Sarah Baartman,2008,51
 district,742,,Sedibeng,2008,7
 district,947,,Sekhukhune,2008,2
 district,543,,Harry Gwala,2008,45
-country,ZA,,South Africa,2008,752.8
+country,ZA,,South Africa,2008,753
 district,419,,Thabo Mofutsanyana,2008,18
 district,521,,Ugu,2008,1
 district,522,,Umgungundlovu,2008,37
@@ -178,7 +178,7 @@ district,934,,Vhembe,2008,6
 district,936,,Waterberg,2008,13
 district,101,,West Coast,2008,35
 district,748,,West Rand,2008,11
-province,WC,,Western Cape,2008,948.1
+province,WC,,Western Cape,2008,948
 district,416,,Xhariep,2008,31
 district,308,,ZF Mgcawu,2008,28
 district,526,,Zululand,2008,42
@@ -199,20 +199,20 @@ district,798,,City of Johannesburg,2009,14
 district,799,,City of Tshwane,2009,6
 district,640,,Dr Kenneth Kaunda,2009,38
 district,639,,Dr Ruth Segomotsi Mompati,2009,33
-province,EC,,Eastern Cape,2009,953.4
+province,EC,,Eastern Cape,2009,953
 district,104,,Garden Route,2009,40
 district,832,,Ehlanzeni,2009,21
 district,797,,Ekurhuleni,2009,1
 district,420,,Fezile Dabi,2009,13
 district,309,,Frances Baard,2009,37
-province,FS,,Free State,2009,859.7
-province,GT,,Gauteng,2009,517.1
+province,FS,,Free State,2009,860
+province,GT,,Gauteng,2009,517
 district,830,,Gert Sibande,2009,19
 district,214,,Joe Gqabi,2009,20
 district,345,,John Taolo Gaetsewe,2009,16
-province,KZN,,KwaZulu-Natal,2009,1215.5
+province,KZN,,KwaZulu-Natal,2009,1216
 district,418,,Lejweleputswa,2009,39
-province,LIM,,Limpopo,2009,433.5
+province,LIM,,Limpopo,2009,434
 district,494,,Mangaung,2009,31
 district,933,,Mopani,2009,5
 province,MP,,Mpumalanga,2009,745
@@ -220,8 +220,8 @@ district,638,,Ngaka Modiri Molema,2009,28
 district,306,,Namakwa,2009,11
 district,293,,Nelson Mandela Bay,2009,42
 district,831,,Nkangala,2009,8
-province,NW,,North West,2009,903.8
-province,NC,,Northern Cape,2009,932.5
+province,NW,,North West,2009,904
+province,NC,,Northern Cape,2009,933
 district,215,,O.R.Tambo,2009,35
 district,103,,Overberg,2009,34
 district,307,,Pixley ka Seme,2009,44
@@ -229,7 +229,7 @@ district,210,,Sarah Baartman,2009,49
 district,742,,Sedibeng,2009,9
 district,947,,Sekhukhune,2009,2
 district,543,,Harry Gwala,2009,50
-country,ZA,,South Africa,2009,831.8
+country,ZA,,South Africa,2009,832
 district,419,,Thabo Mofutsanyana,2009,15
 district,521,,Ugu,2009,48
 district,522,,Umgungundlovu,2009,47
@@ -240,7 +240,7 @@ district,934,,Vhembe,2009,3
 district,936,,Waterberg,2009,12
 district,101,,West Coast,2009,41
 district,748,,West Rand,2009,10
-province,WC,,Western Cape,2009,930.1
+province,WC,,Western Cape,2009,930
 district,416,,Xhariep,2009,23
 district,308,,ZF Mgcawu,2009,25
 district,526,,Zululand,2009,46
@@ -261,29 +261,29 @@ district,798,,City of Johannesburg,2010,4
 district,799,,City of Tshwane,2010,2
 district,640,,Dr Kenneth Kaunda,2010,40
 district,639,,Dr Ruth Segomotsi Mompati,2010,36
-province,EC,,Eastern Cape,2010,922.3
+province,EC,,Eastern Cape,2010,922
 district,104,,Garden Route,2010,34
 district,832,,Ehlanzeni,2010,22
 district,797,,Ekurhuleni,2010,1
 district,420,,Fezile Dabi,2010,15
 district,309,,Frances Baard,2010,28
-province,FS,,Free State,2010,837.2
-province,GT,,Gauteng,2010,113.6
+province,FS,,Free State,2010,837
+province,GT,,Gauteng,2010,114
 district,830,,Gert Sibande,2010,19
 district,214,,Joe Gqabi,2010,24
 district,345,,John Taolo Gaetsewe,2010,17
-province,KZN,,KwaZulu-Natal,2010,1161.8
+province,KZN,,KwaZulu-Natal,2010,1162
 district,418,,Lejweleputswa,2010,31
-province,LIM,,Limpopo,2010,419.8
+province,LIM,,Limpopo,2010,420
 district,494,,Mangaung,2010,38
 district,933,,Mopani,2010,9
-province,MP,,Mpumalanga,2010,715.5
+province,MP,,Mpumalanga,2010,716
 district,638,,Ngaka Modiri Molema,2010,25
 district,306,,Namakwa,2010,13
 district,293,,Nelson Mandela Bay,2010,44
 district,831,,Nkangala,2010,10
-province,NW,,North West,2010,894.4
-province,NC,,Northern Cape,2010,892.2
+province,NW,,North West,2010,894
+province,NC,,Northern Cape,2010,892
 district,215,,O.R.Tambo,2010,33
 district,103,,Overberg,2010,35
 district,307,,Pixley ka Seme,2010,39
@@ -291,7 +291,7 @@ district,210,,Sarah Baartman,2010,52
 district,742,,Sedibeng,2010,5
 district,947,,Sekhukhune,2010,7
 district,543,,Harry Gwala,2010,50
-country,ZA,,South Africa,2010,718.4
+country,ZA,,South Africa,2010,718
 district,419,,Thabo Mofutsanyana,2010,12
 district,521,,Ugu,2010,51
 district,522,,Umgungundlovu,2010,45
@@ -302,7 +302,7 @@ district,934,,Vhembe,2010,6
 district,936,,Waterberg,2010,14
 district,101,,West Coast,2010,42
 district,748,,West Rand,2010,3
-province,WC,,Western Cape,2010,909.5
+province,WC,,Western Cape,2010,910
 district,416,,Xhariep,2010,30
 district,308,,ZF Mgcawu,2010,32
 district,526,,Zululand,2010,49
@@ -323,29 +323,29 @@ district,798,,City of Johannesburg,2011,8
 district,799,,City of Tshwane,2011,7
 district,640,,Dr Kenneth Kaunda,2011,44
 district,639,,Dr Ruth Segomotsi Mompati,2011,27
-province,EC,,Eastern Cape,2011,913.7
+province,EC,,Eastern Cape,2011,914
 district,104,,Garden Route,2011,33
 district,832,,Ehlanzeni,2011,17
 district,797,,Ekurhuleni,2011,2
 district,420,,Fezile Dabi,2011,14
 district,309,,Frances Baard,2011,32
-province,FS,,Free State,2011,841.5
-province,GT,,Gauteng,2011,454.1
+province,FS,,Free State,2011,842
+province,GT,,Gauteng,2011,454
 district,830,,Gert Sibande,2011,18
 district,214,,Joe Gqabi,2011,31
 district,345,,John Taolo Gaetsewe,2011,19
-province,KZN,,KwaZulu-Natal,2011,1185.2
+province,KZN,,KwaZulu-Natal,2011,1185
 district,418,,Lejweleputswa,2011,37
-province,LIM,,Limpopo,2011,410.6
+province,LIM,,Limpopo,2011,411
 district,494,,Mangaung,2011,34
 district,933,,Mopani,2011,6
-province,MP,,Mpumalanga,2011,613.6
+province,MP,,Mpumalanga,2011,614
 district,638,,Ngaka Modiri Molema,2011,23
 district,306,,Namakwa,2011,10
 district,293,,Nelson Mandela Bay,2011,40
 district,831,,Nkangala,2011,5
-province,NW,,North West,2011,816.6
-province,NC,,Northern Cape,2011,893.8
+province,NW,,North West,2011,817
+province,NC,,Northern Cape,2011,894
 district,215,,O.R.Tambo,2011,38
 district,103,,Overberg,2011,30
 district,307,,Pixley ka Seme,2011,43
@@ -353,7 +353,7 @@ district,210,,Sarah Baartman,2011,51
 district,742,,Sedibeng,2011,9
 district,947,,Sekhukhune,2011,1
 district,543,,Harry Gwala,2011,45
-country,ZA,,South Africa,2011,762.3
+country,ZA,,South Africa,2011,762
 district,419,,Thabo Mofutsanyana,2011,15
 district,521,,Ugu,2011,52
 district,522,,Umgungundlovu,2011,42
@@ -364,7 +364,7 @@ district,934,,Vhembe,2011,3
 district,936,,Waterberg,2011,12
 district,101,,West Coast,2011,28
 district,748,,West Rand,2011,16
-province,WC,,Western Cape,2011,827.4
+province,WC,,Western Cape,2011,827
 district,416,,Xhariep,2011,47
 district,308,,ZF Mgcawu,2011,35
 district,526,,Zululand,2011,49
@@ -385,29 +385,29 @@ district,798,,City of Johannesburg,2012,8
 district,799,,City of Tshwane,2012,6
 district,640,,Dr Kenneth Kaunda,2012,48
 district,639,,Dr Ruth Segomotsi Mompati,2012,27
-province,EC,,Eastern Cape,2012,862.7
+province,EC,,Eastern Cape,2012,863
 district,104,,Garden Route,2012,30
 district,832,,Ehlanzeni,2012,18
 district,797,,Ekurhuleni,2012,4
 district,420,,Fezile Dabi,2012,19
 district,309,,Frances Baard,2012,20
-province,FS,,Free State,2012,760.6
-province,GT,,Gauteng,2012,418.2
+province,FS,,Free State,2012,761
+province,GT,,Gauteng,2012,418
 district,830,,Gert Sibande,2012,15
 district,214,,Joe Gqabi,2012,25
 district,345,,John Taolo Gaetsewe,2012,24
-province,KZN,,KwaZulu-Natal,2012,1060.4
+province,KZN,,KwaZulu-Natal,2012,1060
 district,418,,Lejweleputswa,2012,38
-province,LIM,,Limpopo,2012,371.8
+province,LIM,,Limpopo,2012,372
 district,494,,Mangaung,2012,32
 district,933,,Mopani,2012,7
-province,MP,,Mpumalanga,2012,512.7
+province,MP,,Mpumalanga,2012,513
 district,638,,Ngaka Modiri Molema,2012,17
 district,306,,Namakwa,2012,11
 district,293,,Nelson Mandela Bay,2012,42
 district,831,,Nkangala,2012,3
 province,NW,,North West,2012,705
-province,NC,,Northern Cape,2012,758.1
+province,NC,,Northern Cape,2012,758
 district,215,,O.R.Tambo,2012,39
 district,103,,Overberg,2012,28
 district,307,,Pixley ka Seme,2012,40
@@ -415,7 +415,7 @@ district,210,,Sarah Baartman,2012,49
 district,742,,Sedibeng,2012,9
 district,947,,Sekhukhune,2012,1
 district,543,,Harry Gwala,2012,43
-country,ZA,,South Africa,2012,689.3
+country,ZA,,South Africa,2012,689
 district,419,,Thabo Mofutsanyana,2012,10
 district,521,,Ugu,2012,52
 district,522,,Umgungundlovu,2012,45
@@ -426,7 +426,7 @@ district,934,,Vhembe,2012,2
 district,936,,Waterberg,2012,14
 district,101,,West Coast,2012,33
 district,748,,West Rand,2012,13
-province,WC,,Western Cape,2012,776.5
+province,WC,,Western Cape,2012,777
 district,416,,Xhariep,2012,41
 district,308,,ZF Mgcawu,2012,34
 district,526,,Zululand,2012,46
@@ -447,28 +447,28 @@ district,798,,City of Johannesburg,2013,8
 district,799,,City of Tshwane,2013,6
 district,640,,Dr Kenneth Kaunda,2013,45
 district,639,,Dr Ruth Segomotsi Mompati,2013,23
-province,EC,,Eastern Cape,2013,823.1
+province,EC,,Eastern Cape,2013,823
 district,104,,Garden Route,2013,34
 district,832,,Ehlanzeni,2013,16
 district,797,,Ekurhuleni,2013,3
 district,420,,Fezile Dabi,2013,19
 district,309,,Frances Baard,2013,28
-province,FS,,Free State,2013,720.9
-province,GT,,Gauteng,2013,403.3
+province,FS,,Free State,2013,721
+province,GT,,Gauteng,2013,403
 district,830,,Gert Sibande,2013,11
 district,214,,Joe Gqabi,2013,21
 district,345,,John Taolo Gaetsewe,2013,26
-province,KZN,,KwaZulu-Natal,2013,952.5
+province,KZN,,KwaZulu-Natal,2013,953
 district,418,,Lejweleputswa,2013,38
-province,LIM,,Limpopo,2013,383.3
+province,LIM,,Limpopo,2013,383
 district,494,,Mangaung,2013,29
 district,933,,Mopani,2013,4
-province,MP,,Mpumalanga,2013,477.1
+province,MP,,Mpumalanga,2013,477
 district,638,,Ngaka Modiri Molema,2013,17
 district,306,,Namakwa,2013,18
 district,293,,Nelson Mandela Bay,2013,46
 district,831,,Nkangala,2013,2
-province,NW,,North West,2013,658.1
+province,NW,,North West,2013,658
 province,NC,,Northern Cape,2013,798
 district,215,,O.R.Tambo,2013,37
 district,103,,Overberg,2013,30
@@ -477,7 +477,7 @@ district,210,,Sarah Baartman,2013,52
 district,742,,Sedibeng,2013,12
 district,947,,Sekhukhune,2013,5
 district,543,,Harry Gwala,2013,44
-country,ZA,,South Africa,2013,648.9
+country,ZA,,South Africa,2013,649
 district,419,,Thabo Mofutsanyana,2013,13
 district,521,,Ugu,2013,49
 district,522,,Umgungundlovu,2013,35
@@ -488,7 +488,7 @@ district,934,,Vhembe,2013,1
 district,936,,Waterberg,2013,14
 district,101,,West Coast,2013,36
 district,748,,West Rand,2013,9
-province,WC,,Western Cape,2013,742.9
+province,WC,,Western Cape,2013,743
 district,416,,Xhariep,2013,47
 district,308,,ZF Mgcawu,2013,41
 district,526,,Zululand,2013,43
@@ -515,23 +515,23 @@ district,832,,Ehlanzeni,2014,17
 district,797,,Ekurhuleni,2014,4
 district,420,,Fezile Dabi,2014,14
 district,309,,Frances Baard,2014,23
-province,FS,,Free State,2014,631.7
-province,GT,,Gauteng,2014,378.2
+province,FS,,Free State,2014,632
+province,GT,,Gauteng,2014,378
 district,830,,Gert Sibande,2014,11
 district,214,,Joe Gqabi,2014,28
 district,345,,John Taolo Gaetsewe,2014,29
-province,KZN,,KwaZulu-Natal,2014,813.7
+province,KZN,,KwaZulu-Natal,2014,814
 district,418,,Lejweleputswa,2014,32
-province,LIM,,Limpopo,2014,334.1
+province,LIM,,Limpopo,2014,334
 district,494,,Mangaung,2014,25
 district,933,,Mopani,2014,3
-province,MP,,Mpumalanga,2014,461.5
+province,MP,,Mpumalanga,2014,462
 district,638,,Ngaka Modiri Molema,2014,19
 district,306,,Namakwa,2014,18
 district,293,,Nelson Mandela Bay,2014,49
 district,831,,Nkangala,2014,6
-province,NW,,North West,2014,630.7
-province,NC,,Northern Cape,2014,764.3
+province,NW,,North West,2014,631
+province,NC,,Northern Cape,2014,764
 district,215,,O.R.Tambo,2014,34
 district,103,,Overberg,2014,31
 district,307,,Pixley ka Seme,2014,46
@@ -539,7 +539,7 @@ district,210,,Sarah Baartman,2014,52
 district,742,,Sedibeng,2014,9
 district,947,,Sekhukhune,2014,2
 district,543,,Harry Gwala,2014,38
-country,ZA,,South Africa,2014,592.7
+country,ZA,,South Africa,2014,593
 district,419,,Thabo Mofutsanyana,2014,13
 district,521,,Ugu,2014,51
 district,522,,Umgungundlovu,2014,33
@@ -550,7 +550,7 @@ district,934,,Vhembe,2014,1
 district,936,,Waterberg,2014,16
 district,101,,West Coast,2014,39
 district,748,,West Rand,2014,10
-province,WC,,Western Cape,2014,709.9
+province,WC,,Western Cape,2014,710
 district,416,,Xhariep,2014,48
 district,308,,ZF Mgcawu,2014,50
 district,526,,Zululand,2014,35
@@ -571,29 +571,29 @@ district,798,,City of Johannesburg,2015,6
 district,799,,City of Tshwane,2015,8
 district,640,,Dr Kenneth Kaunda,2015,36
 district,639,,Dr Ruth Segomotsi Mompati,2015,32
-province,EC,,Eastern Cape,2015,691.7
+province,EC,,Eastern Cape,2015,692
 district,104,,Garden Route,2015,43
 district,832,,Ehlanzeni,2015,13
 district,797,,Ekurhuleni,2015,4
 district,420,,Fezile Dabi,2015,15
 district,309,,Frances Baard,2015,12
-province,FS,,Free State,2015,574.8
-province,GT,,Gauteng,2015,329.9
+province,FS,,Free State,2015,575
+province,GT,,Gauteng,2015,330
 district,830,,Gert Sibande,2015,14
 district,214,,Joe Gqabi,2015,24
 district,345,,John Taolo Gaetsewe,2015,27
-province,KZN,,KwaZulu-Natal,2015,685.2
+province,KZN,,KwaZulu-Natal,2015,685
 district,418,,Lejweleputswa,2015,37
-province,LIM,,Limpopo,2015,300.7
+province,LIM,,Limpopo,2015,301
 district,494,,Mangaung,2015,29
 district,933,,Mopani,2015,3
-province,MP,,Mpumalanga,2015,401.6
+province,MP,,Mpumalanga,2015,402
 district,638,,Ngaka Modiri Molema,2015,21
 district,306,,Namakwa,2015,23
 district,293,,Nelson Mandela Bay,2015,50
 district,831,,Nkangala,2015,5
-province,NW,,North West,2015,528.4
-province,NC,,Northern Cape,2015,644.6
+province,NW,,North West,2015,528
+province,NC,,Northern Cape,2015,645
 district,215,,O.R.Tambo,2015,25
 district,103,,Overberg,2015,40
 district,307,,Pixley ka Seme,2015,51
@@ -601,7 +601,7 @@ district,210,,Sarah Baartman,2015,52
 district,742,,Sedibeng,2015,10
 district,947,,Sekhukhune,2015,2
 district,543,,Harry Gwala,2015,33
-country,ZA,,South Africa,2015,519.8
+country,ZA,,South Africa,2015,520
 district,419,,Thabo Mofutsanyana,2015,16
 district,521,,Ugu,2015,44
 district,522,,Umgungundlovu,2015,34
@@ -612,10 +612,23 @@ district,934,,Vhembe,2015,1
 district,936,,Waterberg,2015,19
 district,101,,West Coast,2015,46
 district,748,,West Rand,2015,9
-province,WC,,Western Cape,2015,681.4
+province,WC,,Western Cape,2015,681
 district,416,,Xhariep,2015,41
 district,308,,ZF Mgcawu,2015,47
 district,526,,Zululand,2015,35
 district,595,,eThekwini,2015,38
 district,529,,iLembe,2015,42
 district,528,,King Cetshwayo,2015,48
+continent,AFR,,Africa,2006,319
+continent,AFR,,Africa,2007,312
+continent,AFR,,Africa,2008,303
+continent,AFR,,Africa,2009,300
+continent,AFR,,Africa,2010,293
+continent,AFR,,Africa,2011,274
+continent,AFR,,Africa,2012,263
+continent,AFR,,Africa,2013,253
+continent,AFR,,Africa,2014,241
+continent,AFR,,Africa,2015,232
+continent,AFR,,Africa,2016,222
+continent,AFR,,Africa,2017,213
+continent,AFR,,Africa,2018,206
