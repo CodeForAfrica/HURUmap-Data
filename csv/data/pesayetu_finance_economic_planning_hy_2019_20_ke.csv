@@ -1,9 +1,13 @@
 geo_level,geo_code,geo_version,name,variable_1,variable_2,value
-county,42,,Kisumu,Absorption rate,Development,19.6
-county,42,,Kisumu,Expenditure to Exchequer Issues,Recurrent,88.4
-county,42,,Kisumu,Absorption rate,Recurrent,29.3
-county,42,,Kisumu,Expenditure to Exchequer Issues,Development,426.1
-county,47,,Nairobi,Expenditure to Exchequer Issues,Development,100
-county,47,,Nairobi,Absorption rate,Recurrent,64
-county,47,,Nairobi,Expenditure to Exchequer Issues,Recurrent,100
-county,47,,Nairobi,Absorption rate,Development,67
+county,42,,Kisumu,Budget Allocation,Recurrent,1186.05
+county,42,,Kisumu,Budget Allocation,Development,1211.33
+county,42,,Kisumu,Exchequer Issues,Development,55.69
+county,42,,Kisumu,Exchequer Issues,Recurrent,392.46
+county,42,,Kisumu,Expenditure,Recurrent,347.06
+county,42,,Kisumu,Expenditure,Development,237.31
+county,47,,Nairobi,Budget Allocation,Recurrent,4661
+county,47,,Nairobi,Budget Allocation,Development,862
+county,47,,Nairobi,Exchequer Issues,Recurrent,2979
+county,47,,Nairobi,Exchequer Issues,Development,580
+county,47,,Nairobi, Expenditure,Development,580
+county,47,,Nairobi, Expenditure,Recurrent,2979

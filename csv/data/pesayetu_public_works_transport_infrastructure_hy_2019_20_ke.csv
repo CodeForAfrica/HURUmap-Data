@@ -1,5 +1,7 @@
-geo_level,geo_code,geo_version,name,variable_1,variable_2,value
-county,47,,Nairobi,Expenditure to Exchequer Issues ,Recurrent,100
-county,47,,Nairobi,Absorption rate ,Recurrent,34
-county,47,,Nairobi,Absorption rate ,Development,1
-county,47,,Nairobi,Expenditure to Exchequer Issues ,Development,100
+geo_level,geo_code,geo_level,name,variable_1,variable_2,value
+county,47,,Nairobi,Budget Allocation,Recurrent,1141
+county,47,,Nairobi,Budget Allocation,Development,3638
+county,47,,Nairobi,Exchequer Issues,Recurrent,391
+county,47,,Nairobi,Exchequer Issues,Development,31
+county,47,,Nairobi, Expenditure,Development,31
+county,47,,Nairobi, Expenditure,Recurrent,391
