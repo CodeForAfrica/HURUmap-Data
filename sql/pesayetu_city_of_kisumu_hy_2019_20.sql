@@ -27,7 +27,9 @@ CREATE TABLE IF NOT EXISTS public.pesayetu_city_of_kisumu_hy_2019_20 (
 ALTER TABLE ONLY public.pesayetu_city_of_kisumu_hy_2019_20 ADD CONSTRAINT pk_pesayetu_city_of_kisumu_hy_2019_20 PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable_2, variable_1, value, name);
 
 INSERT INTO public.pesayetu_city_of_kisumu_hy_2019_20 VALUES
-('level1','KE_1_042',2009,'country','KE','Recurrent','Absorption rate',43.5,'Kisumu'),
-('level1','KE_1_042',2009,'country','KE','Development','Expenditure to Exchequer Issues',53.3,'Kisumu'),
-('level1','KE_1_042',2009,'country','KE','Recurrent','Expenditure to Exchequer Issues',90,'Kisumu'),
-('level1','KE_1_042',2009,'country','KE','Development','Absorption rate',0.8,'Kisumu') ON CONFLICT DO NOTHING;
+('level1','KE_1_042',2009,'country','KE','Recurrent','Budget Allocation',616.33,'Kisumu'),
+('level1','KE_1_042',2009,'country','KE','Development','Budget Allocation',831.01,'Kisumu'),
+('level1','KE_1_042',2009,'country','KE','Recurrent','Exchequer Issues',296.89,'Kisumu'),
+('level1','KE_1_042',2009,'country','KE','Development','Exchequer Issues',12.55,'Kisumu'),
+('level1','KE_1_042',2009,'country','KE','Recurrent','Expenditure',268.23,'Kisumu'),
+('level1','KE_1_042',2009,'country','KE','Development','Expenditure',6.69,'Kisumu') ON CONFLICT DO NOTHING;

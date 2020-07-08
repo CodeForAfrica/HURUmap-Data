@@ -27,11 +27,14 @@ CREATE TABLE IF NOT EXISTS public.pesayetu_agri_livestock_fisheries_hy_2019_20 (
 ALTER TABLE ONLY public.pesayetu_agri_livestock_fisheries_hy_2019_20 ADD CONSTRAINT pk_pesayetu_agri_livestock_fisheries_hy_2019_20 PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable_2, variable_1, value, name);
 
 INSERT INTO public.pesayetu_agri_livestock_fisheries_hy_2019_20 VALUES
-('level1','KE_1_042',2009,'country','KE','Recurrent','Expenditure to Exchequer Issues',88.5,'Kisumu'),
-('level1','KE_1_042',2009,'country','KE','Development','Expenditure to Exchequer Issues',9.9,'Kisumu'),
-('level1','KE_1_042',2009,'country','KE','Development','Absorption rate',1.8,'Kisumu'),
-('level1','KE_1_042',2009,'country','KE','Recurrent','Absorption rate',43.7,'Kisumu'),
-('level1','KE_1_047',2009,'country','KE','Development','Absorption rate',0,'Nairobi'),
-('level1','KE_1_047',2009,'country','KE','Recurrent','Absorption rate',27,'Nairobi'),
-('level1','KE_1_047',2009,'country','KE','Recurrent','Expenditure to Exchequer Issues',100,'Nairobi'),
-('level1','KE_1_047',2009,'country','KE','Development','Expenditure to Exchequer Issues',0,'Nairobi') ON CONFLICT DO NOTHING;
+('level1','KE_1_042',2009,'country','KE','Recurrent','Budget Allocation',246.85,'Kisumu'),
+('level1','KE_1_042',2009,'country','KE','Development','Budget Allocation',278.68,'Kisumu'),
+('level1','KE_1_042',2009,'country','KE','Recurrent','Exchequer Issues',121.84,'Kisumu'),
+('level1','KE_1_042',2009,'country','KE','Development','Exchequer Issues',50.39,'Kisumu'),
+('level1','KE_1_042',2009,'country','KE','Recurrent','Expenditure',107.8,'Kisumu'),
+('level1','KE_1_042',2009,'country','KE','Development','Expenditure',5,'Kisumu'),
+('level1','KE_1_042',2009,'country','KE','Recurrent','Budget Allocation',32.42,'Kisumu'),
+('level1','KE_1_047',2009,'country','KE','Recurrent','Budget Allocation',361,'Nairobi'),
+('level1','KE_1_047',2009,'country','KE','Development','Budget Allocation',126,'Nairobi'),
+('level1','KE_1_047',2009,'country','KE','Recurrent','Exchequer Issues',98,'Nairobi'),
+('level1','KE_1_047',2009,'country','KE','Development','Exchequer Issues',0,'Nairobi') ON CONFLICT DO NOTHING;
