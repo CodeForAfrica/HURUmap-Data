@@ -1,5 +1,7 @@
 geo_level,geo_code,geo_version,name,variable_1,variable_2,value
-county,42,,Kisumu,Absorption rate ,Recurrent,43.5
-county,42,,Kisumu,Expenditure to Exchequer Issues ,Development,53.3
-county,42,,Kisumu,Expenditure to Exchequer Issues ,Recurrent,90
-county,42,,Kisumu,Absorption rate ,Development,0.8
+county,42,,Kisumu,Budget Allocation,Recurrent,616.33
+county,42,Kisumu,Budget Allocation,Development,831.01
+county,42,Kisumu,Exchequer Issues,Recurrent,296.89
+county,42,Kisumu,Exchequer Issues,Development,12.55
+county,42,Kisumu,Expenditure,Recurrent,268.23
+county,42,Kisumu,Expenditure,Development,6.69
