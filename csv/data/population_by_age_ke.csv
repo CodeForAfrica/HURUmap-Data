@@ -1,4 +1,4 @@
-geo_level,geo_code,geo_version,name,Age,Total
+geo_level,geo_code,geo_version,name,variable,value
 country,KE,,Kenya,0-4,1824277
 country,KE,,Kenya,5-9,1595239
 country,KE,,Kenya,10-14,1485614
