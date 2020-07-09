@@ -1,886 +1,320 @@
-geo_level,geo_code,geo_version,name,variable,value,
-district,244,,Alfred Nzo,Occupational therapists,0.5,
-district,525,,Amajuba,Occupational therapists,2.4,
-district,212,,Amathole,Occupational therapists,1.8,
-district,637,,Bojanala,Occupational therapists,1.2,
-district,292,,Buffalo City,Occupational therapists,3.1,
-district,210,,Sarah Baartman,Occupational therapists,4.5,
-district,102,,Cape Winelands,Occupational therapists,1.7,
-district,935,,Capricorn,Occupational therapists,5.3,
-district,105,,Central Karoo,Occupational therapists,1.5,
-district,213,,Chris Hani,Occupational therapists,2.2,
-district,1910,,City of Cape Town,Occupational therapists,3.8,
-district,798,,City of Johannesburg,Occupational therapists,2.2,
-district,799,,City of Tshwane,Occupational therapists,3.9,
-district,640,,Dr Kenneth Kaunda,Occupational therapists,4,
-district,639,,Dr Ruth Segomotsi Mompati,Occupational therapists,1.8,
-province,EC,,Eastern Cape,Occupational therapists,2.3,
-district,104,,Garden Route,Occupational therapists,1.7,
-district,832,,Ehlanzeni,Occupational therapists,2.9,
-district,797,,Ekurhuleni,Occupational therapists,2.1,
-district,595,,eThekwini,Occupational therapists,1.6,
-district,420,,Fezile Dabi,Occupational therapists,2.3,
-district,309,,Frances Baard,Occupational therapists,9.3,
-province,FS,,Free State,Occupational therapists,3.2,
-province,GT,,Gauteng,Occupational therapists,2.7,
-district,830,,Gert Sibande,Occupational therapists,2.4,
-district,529,,iLembe,Occupational therapists,1.4,
-district,214,,Joe Gqabi,Occupational therapists,2.2,
-district,345,,John Taolo Gaetsewe,Occupational therapists,1.9,
-province,KZN,,KwaZulu-Natal,Occupational therapists,1.8,
-district,418,,Lejweleputswa,Occupational therapists,2,
-province,LIM,,Limpopo,Occupational therapists,4.1,
-district,4940,,Mangaung,Occupational therapists,5.6,
-district,933,,Mopani,Occupational therapists,3.5,
-province,MP,,Mpumalanga,Occupational therapists,2.4,
-district,306,,Namakwa,Occupational therapists,7.5,
-district,2930,,Nelson Mandela Bay,Occupational therapists,3.6,
-district,638,,Ngaka Modiri Molema,Occupational therapists,1.6,
-district,831,,Nkangala,Occupational therapists,1.7,
-province,NW,,North West,Occupational therapists,1.9,
-province,NC,,Northern Cape,Occupational therapists,5.4,
-district,215,,O.R.Tambo,Occupational therapists,1.5,
-district,103,,Overberg,Occupational therapists,1.2,
-district,307,,Pixley ka Seme,Occupational therapists,3.3,
-district,742,,Sedibeng,Occupational therapists,2.8,
-district,947,,Sekhukhune,Occupational therapists,2.8,
-district,543,,Harry Gwala,Occupational therapists,2,
-country,ZA,,South Africa,Occupational therapists,2.6,
-district,419,,Thabo Mofutsanyane,Occupational therapists,1.7,
-district,521,,Ugu,Occupational therapists,1.4,
-district,522,,Umgungundlovu,Occupational therapists,3.9,
-district,527,,Umkhanyakude,Occupational therapists,2.7,
-district,524,,Umzinyathi,Occupational therapists,1.5,
-district,523,,Uthukela,Occupational therapists,1.3,
-district,528,,King Cetshwayo,Occupational therapists,1.2,
-district,934,,Vhembe,Occupational therapists,4.4,
-district,936,,Waterberg,Occupational therapists,4.5,
-district,101,,West Coast,Occupational therapists,1.5,
-district,748,,West Rand,Occupational therapists,3.1,
-province,WC,,Western Cape,Occupational therapists,2.9,
-district,416,,Xhariep,Occupational therapists,5,
-district,308,,Z F Mgcawu,Occupational therapists,4,
-district,526,,Zululand,Occupational therapists,0.9,
-district,244,,Alfred Nzo,Pharmacists,4.1,
-district,525,,Amajuba,Pharmacists,9,
-district,212,,Amathole,Pharmacists,8.3,
-district,637,,Bojanala,Pharmacists,5.8,
-district,292,,Buffalo City,Pharmacists,21,
-district,210,,Sarah Baartman,Pharmacists,20.6,
-district,102,,Cape Winelands,Pharmacists,13.7,
-district,935,,Capricorn,Pharmacists,14.5,
-district,105,,Central Karoo,Pharmacists,28,
-district,213,,Chris Hani,Pharmacists,9,
-district,1910,,City of Cape Town,Pharmacists,17.8,
-district,798,,City of Johannesburg,Pharmacists,9,
-district,799,,City of Tshwane,Pharmacists,14,
-district,640,,Dr Kenneth Kaunda,Pharmacists,13.1,
-district,639,,Dr Ruth Segomotsi Mompati,Pharmacists,9.4,
-province,EC,,Eastern Cape,Pharmacists,13,
-district,104,,Garden Route,Pharmacists,21.3,
-district,832,,Ehlanzeni,Pharmacists,10.2,
-district,797,,Ekurhuleni,Pharmacists,9.6,
-district,595,,eThekwini,Pharmacists,10.4,
-district,420,,Fezile Dabi,Pharmacists,13.8,
-district,309,,Frances Baard,Pharmacists,23.6,
-province,FS,,Free State,Pharmacists,13.8,
-province,GT,,Gauteng,Pharmacists,11.4,
-district,830,,Gert Sibande,Pharmacists,9,
-district,529,,iLembe,Pharmacists,7.8,
-district,214,,Joe Gqabi,Pharmacists,8.1,
-district,345,,John Taolo Gaetsewe,Pharmacists,5.7,
-province,KZN,,KwaZulu-Natal,Pharmacists,8.6,
-district,418,,Lejweleputswa,Pharmacists,8.9,
-province,LIM,,Limpopo,Pharmacists,10.8,
-district,4940,,Mangaung,Pharmacists,19.7,
-district,933,,Mopani,Pharmacists,8,
-province,MP,,Mpumalanga,Pharmacists,8.1,
-district,306,,Namakwa,Pharmacists,12.8,
-district,2930,,Nelson Mandela Bay,Pharmacists,17.1,
-district,638,,Ngaka Modiri Molema,Pharmacists,8.9,
-district,831,,Nkangala,Pharmacists,5,
-province,NW,,North West,Pharmacists,8.7,
-province,NC,,Northern Cape,Pharmacists,17.2,
-district,215,,O.R.Tambo,Pharmacists,14.8,
-district,103,,Overberg,Pharmacists,16.4,
-district,307,,Pixley ka Seme,Pharmacists,17.9,
-district,742,,Sedibeng,Pharmacists,17.8,
-district,947,,Sekhukhune,Pharmacists,9.6,
-district,543,,Harry Gwala,Pharmacists,6.9,
-country,ZA,,South Africa,Pharmacists,11.6,
-district,419,,Thabo Mofutsanyane,Pharmacists,10.2,
-district,521,,Ugu,Pharmacists,10.7,
-district,522,,Umgungundlovu,Pharmacists,10.3,
-district,527,,Umkhanyakude,Pharmacists,6.6,
-district,524,,Umzinyathi,Pharmacists,6.6,
-district,523,,Uthukela,Pharmacists,4.9,
-district,528,,King Cetshwayo,Pharmacists,7.8,
-district,934,,Vhembe,Pharmacists,7.6,
-district,936,,Waterberg,Pharmacists,13.9,
-district,101,,West Coast,Pharmacists,12.1,
-district,748,,West Rand,Pharmacists,15.5,
-province,WC,,Western Cape,Pharmacists,18.9,
-district,416,,Xhariep,Pharmacists,20.1,
-district,308,,Z F Mgcawu,Pharmacists,11.1,
-district,526,,Zululand,Pharmacists,6.3,
-district,244,,Alfred Nzo,Physiotherapists,1.5,
-district,525,,Amajuba,Physiotherapists,3.7,
-district,212,,Amathole,Physiotherapists,1.9,
-district,637,,Bojanala,Physiotherapists,2.1,
-district,292,,Buffalo City,Physiotherapists,4,
-district,210,,Sarah Baartman,Physiotherapists,3.5,
-district,102,,Cape Winelands,Physiotherapists,1.9,
-district,935,,Capricorn,Physiotherapists,3.9,
-district,105,,Central Karoo,Physiotherapists,1.5,
-district,213,,Chris Hani,Physiotherapists,2.2,
-district,1910,,City of Cape Town,Physiotherapists,3.6,
-district,798,,City of Johannesburg,Physiotherapists,2.3,
-district,799,,City of Tshwane,Physiotherapists,3.6,
-district,640,,Dr Kenneth Kaunda,Physiotherapists,4,
-district,639,,Dr Ruth Segomotsi Mompati,Physiotherapists,3.6,
-province,EC,,Eastern Cape,Physiotherapists,2.6,
-district,104,,Garden Route,Physiotherapists,2.3,
-district,832,,Ehlanzeni,Physiotherapists,3,
-district,797,,Ekurhuleni,Physiotherapists,2.1,
-district,595,,eThekwini,Physiotherapists,4.1,
-district,420,,Fezile Dabi,Physiotherapists,1.6,
-district,309,,Frances Baard,Physiotherapists,8.1,
-province,FS,,Free State,Physiotherapists,3.1,
-province,GT,,Gauteng,Physiotherapists,2.6,
-district,830,,Gert Sibande,Physiotherapists,2.5,
-district,529,,iLembe,Physiotherapists,3.2,
-district,214,,Joe Gqabi,Physiotherapists,1.4,
-district,345,,John Taolo Gaetsewe,Physiotherapists,2.4,
-province,KZN,,KwaZulu-Natal,Physiotherapists,3.2,
-district,418,,Lejweleputswa,Physiotherapists,1.3,
-province,LIM,,Limpopo,Physiotherapists,3.4,
-district,4940,,Mangaung,Physiotherapists,6.2,
-district,933,,Mopani,Physiotherapists,2.9,
-province,MP,,Mpumalanga,Physiotherapists,2.7,
-district,306,,Namakwa,Physiotherapists,11.8,
-district,2930,,Nelson Mandela Bay,Physiotherapists,4.1,
-district,638,,Ngaka Modiri Molema,Physiotherapists,3,
-district,831,,Nkangala,Physiotherapists,2.5,
-province,NW,,North West,Physiotherapists,2.9,
-province,NC,,Northern Cape,Physiotherapists,5.9,
-district,215,,O.R.Tambo,Physiotherapists,2.1,
-district,103,,Overberg,Physiotherapists,1.2,
-district,307,,Pixley ka Seme,Physiotherapists,3.3,
-district,742,,Sedibeng,Physiotherapists,1.9,
-district,947,,Sekhukhune,Physiotherapists,2.8,
-district,543,,Harry Gwala,Physiotherapists,2.4,
-country,ZA,,South Africa,Physiotherapists,3,
-district,419,,Thabo Mofutsanyane,Physiotherapists,2.3,
-district,521,,Ugu,Physiotherapists,3,
-district,522,,Umgungundlovu,Physiotherapists,4.3,
-district,527,,Umkhanyakude,Physiotherapists,2.5,
-district,524,,Umzinyathi,Physiotherapists,2,
-district,523,,Uthukela,Physiotherapists,3.2,
-district,528,,King Cetshwayo,Physiotherapists,1.4,
-district,934,,Vhembe,Physiotherapists,3.1,
-district,936,,Waterberg,Physiotherapists,4.7,
-district,101,,West Coast,Physiotherapists,2.3,
-district,748,,West Rand,Physiotherapists,2.7,
-province,WC,,Western Cape,Physiotherapists,3,
-district,416,,Xhariep,Physiotherapists,4.3,
-district,308,,Z F Mgcawu,Physiotherapists,5.8,
-district,526,,Zululand,Physiotherapists,2.2,
-district,525,,Amajuba,Psychologists,0.9,
-district,212,,Amathole,Psychologists,0.2,
-district,637,,Bojanala,Psychologists,0.6,
-district,292,,Buffalo City,Psychologists,0.9,
-district,210,,Sarah Baartman,Psychologists,3.5,
-district,102,,Cape Winelands,Psychologists,0.6,
-district,935,,Capricorn,Psychologists,3.4,
-district,213,,Chris Hani,Psychologists,0.5,
-district,1910,,City of Cape Town,Psychologists,2.4,
-district,798,,City of Johannesburg,Psychologists,2,
-district,799,,City of Tshwane,Psychologists,3.5,
-district,640,,Dr Kenneth Kaunda,Psychologists,2.7,
-district,639,,Dr Ruth Segomotsi Mompati,Psychologists,0.5,
-province,EC,,Eastern Cape,Psychologists,1.1,
-district,104,,Garden Route,Psychologists,0.4,
-district,832,,Ehlanzeni,Psychologists,1.1,
-district,797,,Ekurhuleni,Psychologists,0.8,
-district,595,,eThekwini,Psychologists,0.8,
-district,420,,Fezile Dabi,Psychologists,0.7,
-district,309,,Frances Baard,Psychologists,4.4,
-province,FS,,Free State,Psychologists,1,
-province,GT,,Gauteng,Psychologists,2.1,
-district,830,,Gert Sibande,Psychologists,0.8,
-district,529,,iLembe,Psychologists,0.2,
-province,KZN,,KwaZulu-Natal,Psychologists,0.8,
-province,LIM,,Limpopo,Psychologists,2.2,
-district,4940,,Mangaung,Psychologists,2.5,
-district,933,,Mopani,Psychologists,2.1,
-province,MP,,Mpumalanga,Psychologists,1,
-district,306,,Namakwa,Psychologists,1.1,
-district,2930,,Nelson Mandela Bay,Psychologists,3.5,
-district,638,,Ngaka Modiri Molema,Psychologists,1.5,
-district,831,,Nkangala,Psychologists,1,
-province,NW,,North West,Psychologists,1.2,
-province,NC,,Northern Cape,Psychologists,2,
-district,215,,O.R.Tambo,Psychologists,0.3,
-district,103,,Overberg,Psychologists,0.8,
-district,307,,Pixley ka Seme,Psychologists,1.1,
-district,742,,Sedibeng,Psychologists,0.6,
-district,947,,Sekhukhune,Psychologists,1.7,
-district,543,,Harry Gwala,Psychologists,0.6,
-country,ZA,,South Africa,Psychologists,1.4,
-district,419,,Thabo Mofutsanyane,Psychologists,0.3,
-district,521,,Ugu,Psychologists,0.7,
-district,522,,Umgungundlovu,Psychologists,3,
-district,527,,Umkhanyakude,Psychologists,0.3,
-district,524,,Umzinyathi,Psychologists,0.2,
-district,523,,Uthukela,Psychologists,0.3,
-district,528,,King Cetshwayo,Psychologists,0.3,
-district,934,,Vhembe,Psychologists,1.1,
-district,936,,Waterberg,Psychologists,3.5,
-district,101,,West Coast,Psychologists,1,
-district,748,,West Rand,Psychologists,4.1,
-province,WC,,Western Cape,Psychologists,1.7,
-district,308,,Z F Mgcawu,Psychologists,1.3,
-district,526,,Zululand,Psychologists,0,
-district,244,,Alfred Nzo,Radiographers,2.2,
-district,525,,Amajuba,Radiographers,6.3,
-district,212,,Amathole,Radiographers,3.8,
-district,637,,Bojanala,Radiographers,2.3,
-district,292,,Buffalo City,Radiographers,12.9,
-district,210,,Sarah Baartman,Radiographers,4.5,
-district,102,,Cape Winelands,Radiographers,5.5,
-district,935,,Capricorn,Radiographers,5.5,
-district,105,,Central Karoo,Radiographers,5.9,
-district,213,,Chris Hani,Radiographers,4.5,
-district,1910,,City of Cape Town,Radiographers,11.6,
-district,798,,City of Johannesburg,Radiographers,6.9,
-district,799,,City of Tshwane,Radiographers,9.9,
-district,640,,Dr Kenneth Kaunda,Radiographers,7.1,
-district,639,,Dr Ruth Segomotsi Mompati,Radiographers,2.9,
-province,EC,,Eastern Cape,Radiographers,5.9,
-district,104,,Garden Route,Radiographers,4.7,
-district,832,,Ehlanzeni,Radiographers,3.7,
-district,797,,Ekurhuleni,Radiographers,4,
-district,595,,eThekwini,Radiographers,8.4,
-district,420,,Fezile Dabi,Radiographers,4.1,
-district,309,,Frances Baard,Radiographers,14,
-province,FS,,Free State,Radiographers,6.1,
-province,GT,,Gauteng,Radiographers,6.6,
-district,830,,Gert Sibande,Radiographers,3.8,
-district,529,,iLembe,Radiographers,5,
-district,214,,Joe Gqabi,Radiographers,5.9,
-district,345,,John Taolo Gaetsewe,Radiographers,3.3,
-province,KZN,,KwaZulu-Natal,Radiographers,6,
-district,418,,Lejweleputswa,Radiographers,2.9,
-province,LIM,,Limpopo,Radiographers,3.5,
-district,4940,,Mangaung,Radiographers,13,
-district,933,,Mopani,Radiographers,2.4,
-province,MP,,Mpumalanga,Radiographers,3.6,
-district,306,,Namakwa,Radiographers,10.7,
-district,2930,,Nelson Mandela Bay,Radiographers,10.3,
-district,638,,Ngaka Modiri Molema,Radiographers,2.4,
-district,831,,Nkangala,Radiographers,3.2,
-province,NW,,North West,Radiographers,3.3,
-province,NC,,Northern Cape,Radiographers,8.6,
-district,215,,O.R.Tambo,Radiographers,4.2,
-district,103,,Overberg,Radiographers,4.4,
-district,307,,Pixley ka Seme,Radiographers,6.5,
-district,742,,Sedibeng,Radiographers,4.8,
-district,947,,Sekhukhune,Radiographers,3,
-district,543,,Harry Gwala,Radiographers,3.3,
-country,ZA,,South Africa,Radiographers,5.8,
-district,419,,Thabo Mofutsanyane,Radiographers,4.4,
-district,521,,Ugu,Radiographers,4.7,
-district,522,,Umgungundlovu,Radiographers,8,
-district,527,,Umkhanyakude,Radiographers,4.3,
-district,524,,Umzinyathi,Radiographers,3.3,
-district,523,,Uthukela,Radiographers,4.3,
-district,528,,King Cetshwayo,Radiographers,5,
-district,934,,Vhembe,Radiographers,2.5,
-district,936,,Waterberg,Radiographers,4.9,
-district,101,,West Coast,Radiographers,3.6,
-district,748,,West Rand,Radiographers,5,
-province,WC,,Western Cape,Radiographers,9,
-district,416,,Xhariep,Radiographers,3.6,
-district,308,,Z F Mgcawu,Radiographers,6.7,
+geo_level,geo_code,geo_version,name,variable,value
+district,244,,Alfred Nzo,Occupational therapists,0.5
+district,525,,Amajuba,Occupational therapists,2.4
+district,212,,Amathole,Occupational therapists,1.8
+district,637,,Bojanala,Occupational therapists,1.2
+district,292,,Buffalo City,Occupational therapists,3.1
+district,210,,Sarah Baartman,Occupational therapists,4.5
+district,102,,Cape Winelands,Occupational therapists,1.7
+district,935,,Capricorn,Occupational therapists,5.3
+district,105,,Central Karoo,Occupational therapists,1.5
+district,213,,Chris Hani,Occupational therapists,2.2
+district,1910,,City of Cape Town,Occupational therapists,3.8
+district,798,,City of Johannesburg,Occupational therapists,2.2
+district,799,,City of Tshwane,Occupational therapists,3.9
+district,640,,Dr Kenneth Kaunda,Occupational therapists,4
+district,639,,Dr Ruth Segomotsi Mompati,Occupational therapists,1.8
+province,EC,,Eastern Cape,Occupational therapists,2.3
+district,104,,Garden Route,Occupational therapists,1.7
+district,832,,Ehlanzeni,Occupational therapists,2.9
+district,797,,Ekurhuleni,Occupational therapists,2.1
+district,595,,eThekwini,Occupational therapists,1.6
+district,420,,Fezile Dabi,Occupational therapists,2.3
+district,309,,Frances Baard,Occupational therapists,9.3
+province,FS,,Free State,Occupational therapists,3.2
+province,GT,,Gauteng,Occupational therapists,2.7
+district,830,,Gert Sibande,Occupational therapists,2.4
+district,529,,iLembe,Occupational therapists,1.4
+district,214,,Joe Gqabi,Occupational therapists,2.2
+district,345,,John Taolo Gaetsewe,Occupational therapists,1.9
+province,KZN,,KwaZulu-Natal,Occupational therapists,1.8
+district,418,,Lejweleputswa,Occupational therapists,2
+province,LIM,,Limpopo,Occupational therapists,4.1
+district,4940,,Mangaung,Occupational therapists,5.6
+district,933,,Mopani,Occupational therapists,3.5
+province,MP,,Mpumalanga,Occupational therapists,2.4
+district,306,,Namakwa,Occupational therapists,7.5
+district,2930,,Nelson Mandela Bay,Occupational therapists,3.6
+district,638,,Ngaka Modiri Molema,Occupational therapists,1.6
+district,831,,Nkangala,Occupational therapists,1.7
+province,NW,,North West,Occupational therapists,1.9
+province,NC,,Northern Cape,Occupational therapists,5.4
+district,215,,O.R.Tambo,Occupational therapists,1.5
+district,103,,Overberg,Occupational therapists,1.2
+district,307,,Pixley ka Seme,Occupational therapists,3.3
+district,742,,Sedibeng,Occupational therapists,2.8
+district,947,,Sekhukhune,Occupational therapists,2.8
+district,543,,Harry Gwala,Occupational therapists,2
+country,ZA,,South Africa,Occupational therapists,2.6
+district,419,,Thabo Mofutsanyane,Occupational therapists,1.7
+district,521,,Ugu,Occupational therapists,1.4
+district,522,,Umgungundlovu,Occupational therapists,3.9
+district,527,,Umkhanyakude,Occupational therapists,2.7
+district,524,,Umzinyathi,Occupational therapists,1.5
+district,523,,Uthukela,Occupational therapists,1.3
+district,528,,King Cetshwayo,Occupational therapists,1.2
+district,934,,Vhembe,Occupational therapists,4.4
+district,936,,Waterberg,Occupational therapists,4.5
+district,101,,West Coast,Occupational therapists,1.5
+district,748,,West Rand,Occupational therapists,3.1
+province,WC,,Western Cape,Occupational therapists,2.9
+district,416,,Xhariep,Occupational therapists,5
+district,308,,Z F Mgcawu,Occupational therapists,4
+district,526,,Zululand,Occupational therapists,0.9
+district,244,,Alfred Nzo,Pharmacists,4.1
+district,525,,Amajuba,Pharmacists,9
+district,212,,Amathole,Pharmacists,8.3
+district,637,,Bojanala,Pharmacists,5.8
+district,292,,Buffalo City,Pharmacists,21
+district,210,,Sarah Baartman,Pharmacists,20.6
+district,102,,Cape Winelands,Pharmacists,13.7
+district,935,,Capricorn,Pharmacists,14.5
+district,105,,Central Karoo,Pharmacists,28
+district,213,,Chris Hani,Pharmacists,9
+district,1910,,City of Cape Town,Pharmacists,17.8
+district,798,,City of Johannesburg,Pharmacists,9
+district,799,,City of Tshwane,Pharmacists,14
+district,640,,Dr Kenneth Kaunda,Pharmacists,13.1
+district,639,,Dr Ruth Segomotsi Mompati,Pharmacists,9.4
+province,EC,,Eastern Cape,Pharmacists,13
+district,104,,Garden Route,Pharmacists,21.3
+district,832,,Ehlanzeni,Pharmacists,10.2
+district,797,,Ekurhuleni,Pharmacists,9.6
+district,595,,eThekwini,Pharmacists,10.4
+district,420,,Fezile Dabi,Pharmacists,13.8
+district,309,,Frances Baard,Pharmacists,23.6
+province,FS,,Free State,Pharmacists,13.8
+province,GT,,Gauteng,Pharmacists,11.4
+district,830,,Gert Sibande,Pharmacists,9
+district,529,,iLembe,Pharmacists,7.8
+district,214,,Joe Gqabi,Pharmacists,8.1
+district,345,,John Taolo Gaetsewe,Pharmacists,5.7
+province,KZN,,KwaZulu-Natal,Pharmacists,8.6
+district,418,,Lejweleputswa,Pharmacists,8.9
+province,LIM,,Limpopo,Pharmacists,10.8
+district,4940,,Mangaung,Pharmacists,19.7
+district,933,,Mopani,Pharmacists,8
+province,MP,,Mpumalanga,Pharmacists,8.1
+district,306,,Namakwa,Pharmacists,12.8
+district,2930,,Nelson Mandela Bay,Pharmacists,17.1
+district,638,,Ngaka Modiri Molema,Pharmacists,8.9
+district,831,,Nkangala,Pharmacists,5
+province,NW,,North West,Pharmacists,8.7
+province,NC,,Northern Cape,Pharmacists,17.2
+district,215,,O.R.Tambo,Pharmacists,14.8
+district,103,,Overberg,Pharmacists,16.4
+district,307,,Pixley ka Seme,Pharmacists,17.9
+district,742,,Sedibeng,Pharmacists,17.8
+district,947,,Sekhukhune,Pharmacists,9.6
+district,543,,Harry Gwala,Pharmacists,6.9
+country,ZA,,South Africa,Pharmacists,11.6
+district,419,,Thabo Mofutsanyane,Pharmacists,10.2
+district,521,,Ugu,Pharmacists,10.7
+district,522,,Umgungundlovu,Pharmacists,10.3
+district,527,,Umkhanyakude,Pharmacists,6.6
+district,524,,Umzinyathi,Pharmacists,6.6
+district,523,,Uthukela,Pharmacists,4.9
+district,528,,King Cetshwayo,Pharmacists,7.8
+district,934,,Vhembe,Pharmacists,7.6
+district,936,,Waterberg,Pharmacists,13.9
+district,101,,West Coast,Pharmacists,12.1
+district,748,,West Rand,Pharmacists,15.5
+province,WC,,Western Cape,Pharmacists,18.9
+district,416,,Xhariep,Pharmacists,20.1
+district,308,,Z F Mgcawu,Pharmacists,11.1
+district,526,,Zululand,Pharmacists,6.3
+district,244,,Alfred Nzo,Physiotherapists,1.5
+district,525,,Amajuba,Physiotherapists,3.7
+district,212,,Amathole,Physiotherapists,1.9
+district,637,,Bojanala,Physiotherapists,2.1
+district,292,,Buffalo City,Physiotherapists,4
+district,210,,Sarah Baartman,Physiotherapists,3.5
+district,102,,Cape Winelands,Physiotherapists,1.9
+district,935,,Capricorn,Physiotherapists,3.9
+district,105,,Central Karoo,Physiotherapists,1.5
+district,213,,Chris Hani,Physiotherapists,2.2
+district,1910,,City of Cape Town,Physiotherapists,3.6
+district,798,,City of Johannesburg,Physiotherapists,2.3
+district,799,,City of Tshwane,Physiotherapists,3.6
+district,640,,Dr Kenneth Kaunda,Physiotherapists,4
+district,639,,Dr Ruth Segomotsi Mompati,Physiotherapists,3.6
+province,EC,,Eastern Cape,Physiotherapists,2.6
+district,104,,Garden Route,Physiotherapists,2.3
+district,832,,Ehlanzeni,Physiotherapists,3
+district,797,,Ekurhuleni,Physiotherapists,2.1
+district,595,,eThekwini,Physiotherapists,4.1
+district,420,,Fezile Dabi,Physiotherapists,1.6
+district,309,,Frances Baard,Physiotherapists,8.1
+province,FS,,Free State,Physiotherapists,3.1
+province,GT,,Gauteng,Physiotherapists,2.6
+district,830,,Gert Sibande,Physiotherapists,2.5
+district,529,,iLembe,Physiotherapists,3.2
+district,214,,Joe Gqabi,Physiotherapists,1.4
+district,345,,John Taolo Gaetsewe,Physiotherapists,2.4
+province,KZN,,KwaZulu-Natal,Physiotherapists,3.2
+district,418,,Lejweleputswa,Physiotherapists,1.3
+province,LIM,,Limpopo,Physiotherapists,3.4
+district,4940,,Mangaung,Physiotherapists,6.2
+district,933,,Mopani,Physiotherapists,2.9
+province,MP,,Mpumalanga,Physiotherapists,2.7
+district,306,,Namakwa,Physiotherapists,11.8
+district,2930,,Nelson Mandela Bay,Physiotherapists,4.1
+district,638,,Ngaka Modiri Molema,Physiotherapists,3
+district,831,,Nkangala,Physiotherapists,2.5
+province,NW,,North West,Physiotherapists,2.9
+province,NC,,Northern Cape,Physiotherapists,5.9
+district,215,,O.R.Tambo,Physiotherapists,2.1
+district,103,,Overberg,Physiotherapists,1.2
+district,307,,Pixley ka Seme,Physiotherapists,3.3
+district,742,,Sedibeng,Physiotherapists,1.9
+district,947,,Sekhukhune,Physiotherapists,2.8
+district,543,,Harry Gwala,Physiotherapists,2.4
+country,ZA,,South Africa,Physiotherapists,3
+district,419,,Thabo Mofutsanyane,Physiotherapists,2.3
+district,521,,Ugu,Physiotherapists,3
+district,522,,Umgungundlovu,Physiotherapists,4.3
+district,527,,Umkhanyakude,Physiotherapists,2.5
+district,524,,Umzinyathi,Physiotherapists,2
+district,523,,Uthukela,Physiotherapists,3.2
+district,528,,King Cetshwayo,Physiotherapists,1.4
+district,934,,Vhembe,Physiotherapists,3.1
+district,936,,Waterberg,Physiotherapists,4.7
+district,101,,West Coast,Physiotherapists,2.3
+district,748,,West Rand,Physiotherapists,2.7
+province,WC,,Western Cape,Physiotherapists,3
+district,416,,Xhariep,Physiotherapists,4.3
+district,308,,Z F Mgcawu,Physiotherapists,5.8
+district,526,,Zululand,Physiotherapists,2.2
+district,525,,Amajuba,Psychologists,0.9
+district,212,,Amathole,Psychologists,0.2
+district,637,,Bojanala,Psychologists,0.6
+district,292,,Buffalo City,Psychologists,0.9
+district,210,,Sarah Baartman,Psychologists,3.5
+district,102,,Cape Winelands,Psychologists,0.6
+district,935,,Capricorn,Psychologists,3.4
+district,213,,Chris Hani,Psychologists,0.5
+district,1910,,City of Cape Town,Psychologists,2.4
+district,798,,City of Johannesburg,Psychologists,2
+district,799,,City of Tshwane,Psychologists,3.5
+district,640,,Dr Kenneth Kaunda,Psychologists,2.7
+district,639,,Dr Ruth Segomotsi Mompati,Psychologists,0.5
+province,EC,,Eastern Cape,Psychologists,1.1
+district,104,,Garden Route,Psychologists,0.4
+district,832,,Ehlanzeni,Psychologists,1.1
+district,797,,Ekurhuleni,Psychologists,0.8
+district,595,,eThekwini,Psychologists,0.8
+district,420,,Fezile Dabi,Psychologists,0.7
+district,309,,Frances Baard,Psychologists,4.4
+province,FS,,Free State,Psychologists,1
+province,GT,,Gauteng,Psychologists,2.1
+district,830,,Gert Sibande,Psychologists,0.8
+district,529,,iLembe,Psychologists,0.2
+province,KZN,,KwaZulu-Natal,Psychologists,0.8
+province,LIM,,Limpopo,Psychologists,2.2
+district,4940,,Mangaung,Psychologists,2.5
+district,933,,Mopani,Psychologists,2.1
+province,MP,,Mpumalanga,Psychologists,1
+district,306,,Namakwa,Psychologists,1.1
+district,2930,,Nelson Mandela Bay,Psychologists,3.5
+district,638,,Ngaka Modiri Molema,Psychologists,1.5
+district,831,,Nkangala,Psychologists,1
+province,NW,,North West,Psychologists,1.2
+province,NC,,Northern Cape,Psychologists,2
+district,215,,O.R.Tambo,Psychologists,0.3
+district,103,,Overberg,Psychologists,0.8
+district,307,,Pixley ka Seme,Psychologists,1.1
+district,742,,Sedibeng,Psychologists,0.6
+district,947,,Sekhukhune,Psychologists,1.7
+district,543,,Harry Gwala,Psychologists,0.6
+country,ZA,,South Africa,Psychologists,1.4
+district,419,,Thabo Mofutsanyane,Psychologists,0.3
+district,521,,Ugu,Psychologists,0.7
+district,522,,Umgungundlovu,Psychologists,3
+district,527,,Umkhanyakude,Psychologists,0.3
+district,524,,Umzinyathi,Psychologists,0.2
+district,523,,Uthukela,Psychologists,0.3
+district,528,,King Cetshwayo,Psychologists,0.3
+district,934,,Vhembe,Psychologists,1.1
+district,936,,Waterberg,Psychologists,3.5
+district,101,,West Coast,Psychologists,1
+district,748,,West Rand,Psychologists,4.1
+province,WC,,Western Cape,Psychologists,1.7
+district,308,,Z F Mgcawu,Psychologists,1.3
+district,526,,Zululand,Psychologists,0
+district,244,,Alfred Nzo,Radiographers,2.2
+district,525,,Amajuba,Radiographers,6.3
+district,212,,Amathole,Radiographers,3.8
+district,637,,Bojanala,Radiographers,2.3
+district,292,,Buffalo City,Radiographers,12.9
+district,210,,Sarah Baartman,Radiographers,4.5
+district,102,,Cape Winelands,Radiographers,5.5
+district,935,,Capricorn,Radiographers,5.5
+district,105,,Central Karoo,Radiographers,5.9
+district,213,,Chris Hani,Radiographers,4.5
+district,1910,,City of Cape Town,Radiographers,11.6
+district,798,,City of Johannesburg,Radiographers,6.9
+district,799,,City of Tshwane,Radiographers,9.9
+district,640,,Dr Kenneth Kaunda,Radiographers,7.1
+district,639,,Dr Ruth Segomotsi Mompati,Radiographers,2.9
+province,EC,,Eastern Cape,Radiographers,5.9
+district,104,,Garden Route,Radiographers,4.7
+district,832,,Ehlanzeni,Radiographers,3.7
+district,797,,Ekurhuleni,Radiographers,4
+district,595,,eThekwini,Radiographers,8.4
+district,420,,Fezile Dabi,Radiographers,4.1
+district,309,,Frances Baard,Radiographers,14
+province,FS,,Free State,Radiographers,6.1
+province,GT,,Gauteng,Radiographers,6.6
+district,830,,Gert Sibande,Radiographers,3.8
+district,529,,iLembe,Radiographers,5
+district,214,,Joe Gqabi,Radiographers,5.9
+district,345,,John Taolo Gaetsewe,Radiographers,3.3
+province,KZN,,KwaZulu-Natal,Radiographers,6
+district,418,,Lejweleputswa,Radiographers,2.9
+province,LIM,,Limpopo,Radiographers,3.5
+district,4940,,Mangaung,Radiographers,13
+district,933,,Mopani,Radiographers,2.4
+province,MP,,Mpumalanga,Radiographers,3.6
+district,306,,Namakwa,Radiographers,10.7
+district,2930,,Nelson Mandela Bay,Radiographers,10.3
+district,638,,Ngaka Modiri Molema,Radiographers,2.4
+district,831,,Nkangala,Radiographers,3.2
+province,NW,,North West,Radiographers,3.3
+province,NC,,Northern Cape,Radiographers,8.6
+district,215,,O.R.Tambo,Radiographers,4.2
+district,103,,Overberg,Radiographers,4.4
+district,307,,Pixley ka Seme,Radiographers,6.5
+district,742,,Sedibeng,Radiographers,4.8
+district,947,,Sekhukhune,Radiographers,3
+district,543,,Harry Gwala,Radiographers,3.3
+country,ZA,,South Africa,Radiographers,5.8
+district,419,,Thabo Mofutsanyane,Radiographers,4.4
+district,521,,Ugu,Radiographers,4.7
+district,522,,Umgungundlovu,Radiographers,8
+district,527,,Umkhanyakude,Radiographers,4.3
+district,524,,Umzinyathi,Radiographers,3.3
+district,523,,Uthukela,Radiographers,4.3
+district,528,,King Cetshwayo,Radiographers,5
+district,934,,Vhembe,Radiographers,2.5
+district,936,,Waterberg,Radiographers,4.9
+district,101,,West Coast,Radiographers,3.6
+district,748,,West Rand,Radiographers,5
+province,WC,,Western Cape,Radiographers,9
+district,416,,Xhariep,Radiographers,3.6
+district,308,,Z F Mgcawu,Radiographers,6.7
 district,526,,Zululand,Radiographers,3.1,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,district,419,,Thabo Mofutsanyane,Nursing assistants,53.1
-,district,521,,Ugu,Nursing assistants,57.4
-,district,522,,Umgungundlovu,Nursing assistants,69.6
-,district,527,,Umkhanyakude,Nursing assistants,50
-,district,524,,Umzinyathi,Nursing assistants,54.7
-,district,523,,Uthukela,Nursing assistants,39
-,district,528,,King Cetshwayo,Nursing assistants,52.7
-,district,934,,Vhembe,Nursing assistants,81.5
-,district,936,,Waterberg,Nursing assistants,93.4
-,district,101,,West Coast,Nursing assistants,37.8
-,district,748,,West Rand,Nursing assistants,83.3
-,province,WC,,Western Cape,Nursing assistants,79.5
-,district,416,,Xhariep,Nursing assistants,84.8
-,district,308,,Z F Mgcawu,Nursing assistants,85.1
-,district,526,,Zululand,Nursing assistants,45.7
+district,419,,Thabo Mofutsanyane,Nursing assistants,53.1
+district,521,,Ugu,Nursing assistants,57.4
+district,522,,Umgungundlovu,Nursing assistants,69.6
+district,527,,Umkhanyakude,Nursing assistants,50
+district,524,,Umzinyathi,Nursing assistants,54.7
+district,523,,Uthukela,Nursing assistants,39
+district,528,,King Cetshwayo,Nursing assistants,52.7
+district,934,,Vhembe,Nursing assistants,81.5
+district,936,,Waterberg,Nursing assistants,93.4
+district,101,,West Coast,Nursing assistants,37.8
+district,748,,West Rand,Nursing assistants,83.3
+province,WC,,Western Cape,Nursing assistants,79.5
+district,416,,Xhariep,Nursing assistants,84.8
+district,308,,Z F Mgcawu,Nursing assistants,85.1
+district,526,,Zululand,Nursing assistants,45.7

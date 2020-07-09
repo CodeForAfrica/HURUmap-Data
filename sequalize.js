@@ -148,7 +148,7 @@ module.exports = ({
 
     if (populateGeoColumns) {
       const key = `${
-        row["geo_level"] === "country"
+        row["geo_level"] === "country" || row["geo_level"] === "continent"
           ? row["geo_code"]
           : (row["country_code"] || "").toLocaleLowerCase()
       }-${row["geo_level"]}-${row["geo_code"]}`;

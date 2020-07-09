@@ -1,886 +1,221 @@
-geo_level,geo_code,geo_version,name,variable,value,
-district,244,,Alfred Nzo,Professional nurses,104.4,
-district,525,,Amajuba,Professional nurses,163.5,
-district,212,,Amathole,Professional nurses,147.6,
-district,637,,Bojanala,Professional nurses,99.7,
-district,292,,Buffalo City,Professional nurses,254.2,
-district,210,,Sarah Baartman,Professional nurses,168.4,
-district,102,,Cape Winelands,Professional nurses,79.4,
-district,935,,Capricorn,Professional nurses,173.7,
-district,105,,Central Karoo,Professional nurses,125.2,
-district,213,,Chris Hani,Professional nurses,198.3,
-district,1910,,City of Cape Town,Professional nurses,115.7,
-district,798,,City of Johannesburg,Professional nurses,114.9,
-district,799,,City of Tshwane,Professional nurses,172.3,
-district,640,,Dr Kenneth Kaunda,Professional nurses,193.2,
-district,639,,Dr Ruth Segomotsi Mompati,Professional nurses,164.6,
-province,EC,,Eastern Cape,Professional nurses,170.9,
-district,104,,Garden Route,Professional nurses,94.3,
-district,832,,Ehlanzeni,Professional nurses,174,
-district,797,,Ekurhuleni,Professional nurses,92.4,
-district,595,,eThekwini,Professional nurses,173.7,
-district,420,,Fezile Dabi,Professional nurses,62,
-district,309,,Frances Baard,Professional nurses,181.8,
-province,FS,,Free State,Professional nurses,89.7,
-province,GT,,Gauteng,Professional nurses,131.6,
-district,830,,Gert Sibande,Professional nurses,141.5,
-district,529,,iLembe,Professional nurses,133.1,
-district,214,,Joe Gqabi,Professional nurses,162.2,
-district,345,,John Taolo Gaetsewe,Professional nurses,127.7,
-province,KZN,,KwaZulu-Natal,Professional nurses,168.5,
-district,418,,Lejweleputswa,Professional nurses,70.8,
-province,LIM,,Limpopo,Professional nurses,165.2,
-district,4940,,Mangaung,Professional nurses,161.2,
-district,933,,Mopani,Professional nurses,154,
-province,MP,,Mpumalanga,Professional nurses,142.1,
-district,306,,Namakwa,Professional nurses,158.2,
-district,2930,,Nelson Mandela Bay,Professional nurses,182.4,
-district,638,,Ngaka Modiri Molema,Professional nurses,131.5,
-district,831,,Nkangala,Professional nurses,101.4,
-province,NW,,North West,Professional nurses,136,
-province,NC,,Northern Cape,Professional nurses,147,
-district,215,,O.R.Tambo,Professional nurses,153.5,
-district,103,,Overberg,Professional nurses,71.6,
-district,307,,Pixley ka Seme,Professional nurses,116.2,
-district,742,,Sedibeng,Professional nurses,123.5,
-district,947,,Sekhukhune,Professional nurses,130.6,
-district,543,,Harry Gwala,Professional nurses,153.8,
-country,ZA,,South Africa,Professional nurses,144.8,
-district,419,,Thabo Mofutsanyane,Professional nurses,60.2,
-district,521,,Ugu,Professional nurses,172.1,
-district,522,,Umgungundlovu,Professional nurses,246.1,
-district,527,,Umkhanyakude,Professional nurses,145.3,
-district,524,,Umzinyathi,Professional nurses,176.3,
-district,523,,Uthukela,Professional nurses,119,
-district,528,,King Cetshwayo,Professional nurses,175,
-district,934,,Vhembe,Professional nurses,192.1,
-district,936,,Waterberg,Professional nurses,172.1,
-district,101,,West Coast,Professional nurses,62.2,
-district,748,,West Rand,Professional nurses,183.7,
-province,WC,,Western Cape,Professional nurses,103.2,
-district,416,,Xhariep,Professional nurses,69,
-district,308,,Z F Mgcawu,Professional nurses,111.8,
-district,526,,Zululand,Professional nurses,135.1,
-district,244,,Alfred Nzo,Enrolled nurses,33.6,
-district,525,,Amajuba,Enrolled nurses,82.6,
-district,212,,Amathole,Enrolled nurses,40.9,
-district,637,,Bojanala,Enrolled nurses,19,
-district,292,,Buffalo City,Enrolled nurses,71.4,
-district,210,,Sarah Baartman,Enrolled nurses,40.4,
-district,935,,Capricorn,Enrolled nurses,84,
-district,213,,Chris Hani,Enrolled nurses,55.4,
-district,798,,City of Johannesburg,Enrolled nurses,62.6,
-district,799,,City of Tshwane,Enrolled nurses,95.1,
-district,640,,Dr Kenneth Kaunda,Enrolled nurses,40.4,
-district,639,,Dr Ruth Segomotsi Mompati,Enrolled nurses,40.1,
-province,EC,,Eastern Cape,Enrolled nurses,50.8,
-district,832,,Ehlanzeni,Enrolled nurses,64.6,
-district,797,,Ekurhuleni,Enrolled nurses,48.9,
-district,595,,eThekwini,Enrolled nurses,93.3,
-district,420,,Fezile Dabi,Enrolled nurses,33.1,
-district,309,,Frances Baard,Enrolled nurses,26.4,
-province,FS,,Free State,Enrolled nurses,39.4,
-province,GT,,Gauteng,Enrolled nurses,68.6,
-district,830,,Gert Sibande,Enrolled nurses,45.4,
-district,529,,iLembe,Enrolled nurses,75.6,
-district,214,,Joe Gqabi,Enrolled nurses,46.9,
-district,345,,John Taolo Gaetsewe,Enrolled nurses,10.8,
-province,KZN,,KwaZulu-Natal,Enrolled nurses,93.9,
-district,418,,Lejweleputswa,Enrolled nurses,40.7,
-province,LIM,,Limpopo,Enrolled nurses,70.4,
-district,4940,,Mangaung,Enrolled nurses,58.8,
-district,933,,Mopani,Enrolled nurses,63,
-province,MP,,Mpumalanga,Enrolled nurses,46.3,
-district,306,,Namakwa,Enrolled nurses,3.2,
-district,2930,,Nelson Mandela Bay,Enrolled nurses,45.8,
-district,638,,Ngaka Modiri Molema,Enrolled nurses,25.8,
-district,831,,Nkangala,Enrolled nurses,25.6,
-province,NW,,North West,Enrolled nurses,27.5,
-province,NC,,Northern Cape,Enrolled nurses,22.9,
-district,215,,O.R.Tambo,Enrolled nurses,63.2,
-district,307,,Pixley ka Seme,Enrolled nurses,21.7,
-district,742,,Sedibeng,Enrolled nurses,62.3,
-district,947,,Sekhukhune,Enrolled nurses,62.9,
-district,543,,Harry Gwala,Enrolled nurses,78,
-country,ZA,,South Africa,Enrolled nurses,62.7,
-district,419,,Thabo Mofutsanyane,Enrolled nurses,22.8,
-district,521,,Ugu,Enrolled nurses,78.1,
-district,522,,Umgungundlovu,Enrolled nurses,110.1,
-district,527,,Umkhanyakude,Enrolled nurses,119.5,
-district,524,,Umzinyathi,Enrolled nurses,106.3,
-district,523,,Uthukela,Enrolled nurses,70.1,
-district,528,,King Cetshwayo,Enrolled nurses,118.6,
-district,934,,Vhembe,Enrolled nurses,62.2,
-district,936,,Waterberg,Enrolled nurses,88,
-district,748,,West Rand,Enrolled nurses,96.6,
-province,WC,,Western Cape,Enrolled nurses,50,
-district,416,,Xhariep,Enrolled nurses,37.4,
-district,308,,Z F Mgcawu,Enrolled nurses,26.3,
-district,526,,Zululand,Enrolled nurses,84.6,
-district,525,,Amajuba,Student nurses,8.3,
-district,637,,Bojanala,Student nurses,1.1,
-district,935,,Capricorn,Student nurses,7.1,
-district,798,,City of Johannesburg,Student nurses,15.3,
-district,799,,City of Tshwane,Student nurses,2,
-district,797,,Ekurhuleni,Student nurses,1.7,
-district,595,,eThekwini,Student nurses,6.2,
-province,GT,,Gauteng,Student nurses,20.8,
-province,KZN,,KwaZulu-Natal,Student nurses,6,
-province,LIM,,Limpopo,Student nurses,5.2,
-district,933,,Mopani,Student nurses,12.3,
-province,MP,,Mpumalanga,Student nurses,14.6,
-district,638,,Ngaka Modiri Molema,Student nurses,0.8,
-province,NW,,North West,Student nurses,0.7,
-district,742,,Sedibeng,Student nurses,0.9,
-district,947,,Sekhukhune,Student nurses,0.3,
-country,ZA,,South Africa,Student nurses,7.6,
-district,521,,Ugu,Student nurses,9.7,
-district,522,,Umgungundlovu,Student nurses,8.5,
-district,527,,Umkhanyakude,Student nurses,0.8,
-district,524,,Umzinyathi,Student nurses,10.8,
-district,528,,King Cetshwayo,Student nurses,11,
-district,934,,Vhembe,Student nurses,4.4,
-district,748,,West Rand,Student nurses,1.3,
-district,526,,Zululand,Student nurses,5.8,
-district,244,,Alfred Nzo,Nursing assistants,68.6,
-district,525,,Amajuba,Nursing assistants,69.4,
-district,212,,Amathole,Nursing assistants,74.6,
-district,637,,Bojanala,Nursing assistants,50.3,
-district,292,,Buffalo City,Nursing assistants,116.9,
-district,210,,Sarah Baartman,Nursing assistants,58.1,
-district,102,,Cape Winelands,Nursing assistants,48.2,
-district,935,,Capricorn,Nursing assistants,95,
-district,105,,Central Karoo,Nursing assistants,81,
-district,213,,Chris Hani,Nursing assistants,90.4,
-district,1910,,City of Cape Town,Nursing assistants,100,
-district,798,,City of Johannesburg,Nursing assistants,58.3,
-district,799,,City of Tshwane,Nursing assistants,81,
-district,640,,Dr Kenneth Kaunda,Nursing assistants,134.8,
-district,639,,Dr Ruth Segomotsi Mompati,Nursing assistants,96.7,
-province,EC,,Eastern Cape,Nursing assistants,81.6,
-district,104,,Garden Route,Nursing assistants,52.3,
-district,832,,Ehlanzeni,Nursing assistants,45.7,
-district,797,,Ekurhuleni,Nursing assistants,40.1,
-district,595,,eThekwini,Nursing assistants,69.2,
-district,420,,Fezile Dabi,Nursing assistants,60.4,
-district,309,,Frances Baard,Nursing assistants,99.2,
-province,FS,,Free State,Nursing assistants,80.6,
-province,GT,,Gauteng,Nursing assistants,59.2,
-district,830,,Gert Sibande,Nursing assistants,36.4,
-district,529,,iLembe,Nursing assistants,43.7,
-district,214,,Joe Gqabi,Nursing assistants,81.5,
-district,345,,John Taolo Gaetsewe,Nursing assistants,54.2,
-province,KZN,,KwaZulu-Natal,Nursing assistants,58.9,
-district,418,,Lejweleputswa,Nursing assistants,30.9,
-province,LIM,,Limpopo,Nursing assistants,83.5,
-district,4940,,Mangaung,Nursing assistants,169,
-district,933,,Mopani,Nursing assistants,82.1,
-province,MP,,Mpumalanga,Nursing assistants,37,
-district,306,,Namakwa,Nursing assistants,89.8,
-district,2930,,Nelson Mandela Bay,Nursing assistants,63.9,
-district,638,,Ngaka Modiri Molema,Nursing assistants,72.9,
-district,831,,Nkangala,Nursing assistants,27.4,
-province,NW,,North West,Nursing assistants,78.1,
-province,NC,,Northern Cape,Nursing assistants,82.6,
-district,215,,O.R.Tambo,Nursing assistants,92.9,
-district,103,,Overberg,Nursing assistants,31.6,
-district,307,,Pixley ka Seme,Nursing assistants,79.8,
-district,742,,Sedibeng,Nursing assistants,43,
-district,947,,Sekhukhune,Nursing assistants,69,
-district,543,,Harry Gwala,Nursing assistants,62.1,
-country,ZA,,South Africa,Nursing assistants,68.3,
-district,419,,Thabo Mofutsanyane,Nursing assistants,53.1,
-district,521,,Ugu,Nursing assistants,57.4,
-district,522,,Umgungundlovu,Nursing assistants,69.6,
-district,527,,Umkhanyakude,Nursing assistants,50,
-district,524,,Umzinyathi,Nursing assistants,54.7,
-district,523,,Uthukela,Nursing assistants,39,
-district,528,,King Cetshwayo,Nursing assistants,52.7,
-district,934,,Vhembe,Nursing assistants,81.5,
-district,936,,Waterberg,Nursing assistants,93.4,
-district,101,,West Coast,Nursing assistants,37.8,
-district,748,,West Rand,Nursing assistants,83.3,
-province,WC,,Western Cape,Nursing assistants,79.5,
-district,416,,Xhariep,Nursing assistants,84.8,
-district,308,,Z F Mgcawu,Nursing assistants,85.1,
+geo_level,geo_code,geo_version,name,variable,value
+district,244,,Alfred Nzo,Professional nurses,104.4
+district,525,,Amajuba,Professional nurses,163.5
+district,212,,Amathole,Professional nurses,147.6
+district,637,,Bojanala,Professional nurses,99.7
+district,292,,Buffalo City,Professional nurses,254.2
+district,210,,Sarah Baartman,Professional nurses,168.4
+district,102,,Cape Winelands,Professional nurses,79.4
+district,935,,Capricorn,Professional nurses,173.7
+district,105,,Central Karoo,Professional nurses,125.2
+district,213,,Chris Hani,Professional nurses,198.3
+district,1910,,City of Cape Town,Professional nurses,115.7
+district,798,,City of Johannesburg,Professional nurses,114.9
+district,799,,City of Tshwane,Professional nurses,172.3
+district,640,,Dr Kenneth Kaunda,Professional nurses,193.2
+district,639,,Dr Ruth Segomotsi Mompati,Professional nurses,164.6
+province,EC,,Eastern Cape,Professional nurses,170.9
+district,104,,Garden Route,Professional nurses,94.3
+district,832,,Ehlanzeni,Professional nurses,174
+district,797,,Ekurhuleni,Professional nurses,92.4
+district,595,,eThekwini,Professional nurses,173.7
+district,420,,Fezile Dabi,Professional nurses,62
+district,309,,Frances Baard,Professional nurses,181.8
+province,FS,,Free State,Professional nurses,89.7
+province,GT,,Gauteng,Professional nurses,131.6
+district,830,,Gert Sibande,Professional nurses,141.5
+district,529,,iLembe,Professional nurses,133.1
+district,214,,Joe Gqabi,Professional nurses,162.2
+district,345,,John Taolo Gaetsewe,Professional nurses,127.7
+province,KZN,,KwaZulu-Natal,Professional nurses,168.5
+district,418,,Lejweleputswa,Professional nurses,70.8
+province,LIM,,Limpopo,Professional nurses,165.2
+district,4940,,Mangaung,Professional nurses,161.2
+district,933,,Mopani,Professional nurses,154
+province,MP,,Mpumalanga,Professional nurses,142.1
+district,306,,Namakwa,Professional nurses,158.2
+district,2930,,Nelson Mandela Bay,Professional nurses,182.4
+district,638,,Ngaka Modiri Molema,Professional nurses,131.5
+district,831,,Nkangala,Professional nurses,101.4
+province,NW,,North West,Professional nurses,136
+province,NC,,Northern Cape,Professional nurses,147
+district,215,,O.R.Tambo,Professional nurses,153.5
+district,103,,Overberg,Professional nurses,71.6
+district,307,,Pixley ka Seme,Professional nurses,116.2
+district,742,,Sedibeng,Professional nurses,123.5
+district,947,,Sekhukhune,Professional nurses,130.6
+district,543,,Harry Gwala,Professional nurses,153.8
+country,ZA,,South Africa,Professional nurses,144.8
+district,419,,Thabo Mofutsanyane,Professional nurses,60.2
+district,521,,Ugu,Professional nurses,172.1
+district,522,,Umgungundlovu,Professional nurses,246.1
+district,527,,Umkhanyakude,Professional nurses,145.3
+district,524,,Umzinyathi,Professional nurses,176.3
+district,523,,Uthukela,Professional nurses,119
+district,528,,King Cetshwayo,Professional nurses,175
+district,934,,Vhembe,Professional nurses,192.1
+district,936,,Waterberg,Professional nurses,172.1
+district,101,,West Coast,Professional nurses,62.2
+district,748,,West Rand,Professional nurses,183.7
+province,WC,,Western Cape,Professional nurses,103.2
+district,416,,Xhariep,Professional nurses,69
+district,308,,Z F Mgcawu,Professional nurses,111.8
+district,526,,Zululand,Professional nurses,135.1
+district,244,,Alfred Nzo,Enrolled nurses,33.6
+district,525,,Amajuba,Enrolled nurses,82.6
+district,212,,Amathole,Enrolled nurses,40.9
+district,637,,Bojanala,Enrolled nurses,19
+district,292,,Buffalo City,Enrolled nurses,71.4
+district,210,,Sarah Baartman,Enrolled nurses,40.4
+district,935,,Capricorn,Enrolled nurses,84
+district,213,,Chris Hani,Enrolled nurses,55.4
+district,798,,City of Johannesburg,Enrolled nurses,62.6
+district,799,,City of Tshwane,Enrolled nurses,95.1
+district,640,,Dr Kenneth Kaunda,Enrolled nurses,40.4
+district,639,,Dr Ruth Segomotsi Mompati,Enrolled nurses,40.1
+province,EC,,Eastern Cape,Enrolled nurses,50.8
+district,832,,Ehlanzeni,Enrolled nurses,64.6
+district,797,,Ekurhuleni,Enrolled nurses,48.9
+district,595,,eThekwini,Enrolled nurses,93.3
+district,420,,Fezile Dabi,Enrolled nurses,33.1
+district,309,,Frances Baard,Enrolled nurses,26.4
+province,FS,,Free State,Enrolled nurses,39.4
+province,GT,,Gauteng,Enrolled nurses,68.6
+district,830,,Gert Sibande,Enrolled nurses,45.4
+district,529,,iLembe,Enrolled nurses,75.6
+district,214,,Joe Gqabi,Enrolled nurses,46.9
+district,345,,John Taolo Gaetsewe,Enrolled nurses,10.8
+province,KZN,,KwaZulu-Natal,Enrolled nurses,93.9
+district,418,,Lejweleputswa,Enrolled nurses,40.7
+province,LIM,,Limpopo,Enrolled nurses,70.4
+district,4940,,Mangaung,Enrolled nurses,58.8
+district,933,,Mopani,Enrolled nurses,63
+province,MP,,Mpumalanga,Enrolled nurses,46.3
+district,306,,Namakwa,Enrolled nurses,3.2
+district,2930,,Nelson Mandela Bay,Enrolled nurses,45.8
+district,638,,Ngaka Modiri Molema,Enrolled nurses,25.8
+district,831,,Nkangala,Enrolled nurses,25.6
+province,NW,,North West,Enrolled nurses,27.5
+province,NC,,Northern Cape,Enrolled nurses,22.9
+district,215,,O.R.Tambo,Enrolled nurses,63.2
+district,307,,Pixley ka Seme,Enrolled nurses,21.7
+district,742,,Sedibeng,Enrolled nurses,62.3
+district,947,,Sekhukhune,Enrolled nurses,62.9
+district,543,,Harry Gwala,Enrolled nurses,78
+country,ZA,,South Africa,Enrolled nurses,62.7
+district,419,,Thabo Mofutsanyane,Enrolled nurses,22.8
+district,521,,Ugu,Enrolled nurses,78.1
+district,522,,Umgungundlovu,Enrolled nurses,110.1
+district,527,,Umkhanyakude,Enrolled nurses,119.5
+district,524,,Umzinyathi,Enrolled nurses,106.3
+district,523,,Uthukela,Enrolled nurses,70.1
+district,528,,King Cetshwayo,Enrolled nurses,118.6
+district,934,,Vhembe,Enrolled nurses,62.2
+district,936,,Waterberg,Enrolled nurses,88
+district,748,,West Rand,Enrolled nurses,96.6
+province,WC,,Western Cape,Enrolled nurses,50
+district,416,,Xhariep,Enrolled nurses,37.4
+district,308,,Z F Mgcawu,Enrolled nurses,26.3
+district,526,,Zululand,Enrolled nurses,84.6
+district,525,,Amajuba,Student nurses,8.3
+district,637,,Bojanala,Student nurses,1.1
+district,935,,Capricorn,Student nurses,7.1
+district,798,,City of Johannesburg,Student nurses,15.3
+district,799,,City of Tshwane,Student nurses,2
+district,797,,Ekurhuleni,Student nurses,1.7
+district,595,,eThekwini,Student nurses,6.2
+province,GT,,Gauteng,Student nurses,20.8
+province,KZN,,KwaZulu-Natal,Student nurses,6
+province,LIM,,Limpopo,Student nurses,5.2
+district,933,,Mopani,Student nurses,12.3
+province,MP,,Mpumalanga,Student nurses,14.6
+district,638,,Ngaka Modiri Molema,Student nurses,0.8
+province,NW,,North West,Student nurses,0.7
+district,742,,Sedibeng,Student nurses,0.9
+district,947,,Sekhukhune,Student nurses,0.3
+country,ZA,,South Africa,Student nurses,7.6
+district,521,,Ugu,Student nurses,9.7
+district,522,,Umgungundlovu,Student nurses,8.5
+district,527,,Umkhanyakude,Student nurses,0.8
+district,524,,Umzinyathi,Student nurses,10.8
+district,528,,King Cetshwayo,Student nurses,11
+district,934,,Vhembe,Student nurses,4.4
+district,748,,West Rand,Student nurses,1.3
+district,526,,Zululand,Student nurses,5.8
+district,244,,Alfred Nzo,Nursing assistants,68.6
+district,525,,Amajuba,Nursing assistants,69.4
+district,212,,Amathole,Nursing assistants,74.6
+district,637,,Bojanala,Nursing assistants,50.3
+district,292,,Buffalo City,Nursing assistants,116.9
+district,210,,Sarah Baartman,Nursing assistants,58.1
+district,102,,Cape Winelands,Nursing assistants,48.2
+district,935,,Capricorn,Nursing assistants,95
+district,105,,Central Karoo,Nursing assistants,81
+district,213,,Chris Hani,Nursing assistants,90.4
+district,1910,,City of Cape Town,Nursing assistants,100
+district,798,,City of Johannesburg,Nursing assistants,58.3
+district,799,,City of Tshwane,Nursing assistants,81
+district,640,,Dr Kenneth Kaunda,Nursing assistants,134.8
+district,639,,Dr Ruth Segomotsi Mompati,Nursing assistants,96.7
+province,EC,,Eastern Cape,Nursing assistants,81.6
+district,104,,Garden Route,Nursing assistants,52.3
+district,832,,Ehlanzeni,Nursing assistants,45.7
+district,797,,Ekurhuleni,Nursing assistants,40.1
+district,595,,eThekwini,Nursing assistants,69.2
+district,420,,Fezile Dabi,Nursing assistants,60.4
+district,309,,Frances Baard,Nursing assistants,99.2
+province,FS,,Free State,Nursing assistants,80.6
+province,GT,,Gauteng,Nursing assistants,59.2
+district,830,,Gert Sibande,Nursing assistants,36.4
+district,529,,iLembe,Nursing assistants,43.7
+district,214,,Joe Gqabi,Nursing assistants,81.5
+district,345,,John Taolo Gaetsewe,Nursing assistants,54.2
+province,KZN,,KwaZulu-Natal,Nursing assistants,58.9
+district,418,,Lejweleputswa,Nursing assistants,30.9
+province,LIM,,Limpopo,Nursing assistants,83.5
+district,4940,,Mangaung,Nursing assistants,169
+district,933,,Mopani,Nursing assistants,82.1
+province,MP,,Mpumalanga,Nursing assistants,37
+district,306,,Namakwa,Nursing assistants,89.8
+district,2930,,Nelson Mandela Bay,Nursing assistants,63.9
+district,638,,Ngaka Modiri Molema,Nursing assistants,72.9
+district,831,,Nkangala,Nursing assistants,27.4
+province,NW,,North West,Nursing assistants,78.1
+province,NC,,Northern Cape,Nursing assistants,82.6
+district,215,,O.R.Tambo,Nursing assistants,92.9
+district,103,,Overberg,Nursing assistants,31.6
+district,307,,Pixley ka Seme,Nursing assistants,79.8
+district,742,,Sedibeng,Nursing assistants,43
+district,947,,Sekhukhune,Nursing assistants,69
+district,543,,Harry Gwala,Nursing assistants,62.1
+country,ZA,,South Africa,Nursing assistants,68.3
+district,419,,Thabo Mofutsanyane,Nursing assistants,53.1
+district,521,,Ugu,Nursing assistants,57.4
+district,522,,Umgungundlovu,Nursing assistants,69.6
+district,527,,Umkhanyakude,Nursing assistants,50
+district,524,,Umzinyathi,Nursing assistants,54.7
+district,523,,Uthukela,Nursing assistants,39
+district,528,,King Cetshwayo,Nursing assistants,52.7
+district,934,,Vhembe,Nursing assistants,81.5
+district,936,,Waterberg,Nursing assistants,93.4
+district,101,,West Coast,Nursing assistants,37.8
+district,748,,West Rand,Nursing assistants,83.3
+province,WC,,Western Cape,Nursing assistants,79.5
+district,416,,Xhariep,Nursing assistants,84.8
+district,308,,Z F Mgcawu,Nursing assistants,85.1
 district,526,,Zululand,Nursing assistants,45.7,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,district,419,,Thabo Mofutsanyane,Nursing assistants,53.1
-,district,521,,Ugu,Nursing assistants,57.4
-,district,522,,Umgungundlovu,Nursing assistants,69.6
-,district,527,,Umkhanyakude,Nursing assistants,50
-,district,524,,Umzinyathi,Nursing assistants,54.7
-,district,523,,Uthukela,Nursing assistants,39
-,district,528,,King Cetshwayo,Nursing assistants,52.7
-,district,934,,Vhembe,Nursing assistants,81.5
-,district,936,,Waterberg,Nursing assistants,93.4
-,district,101,,West Coast,Nursing assistants,37.8
-,district,748,,West Rand,Nursing assistants,83.3
-,province,WC,,Western Cape,Nursing assistants,79.5
-,district,416,,Xhariep,Nursing assistants,84.8
-,district,308,,Z F Mgcawu,Nursing assistants,85.1
-,district,526,,Zululand,Nursing assistants,45.7
+district,419,,Thabo Mofutsanyane,Nursing assistants,53.1
+district,521,,Ugu,Nursing assistants,57.4
+district,522,,Umgungundlovu,Nursing assistants,69.6
+district,527,,Umkhanyakude,Nursing assistants,50
+district,524,,Umzinyathi,Nursing assistants,54.7
+district,523,,Uthukela,Nursing assistants,39
+district,528,,King Cetshwayo,Nursing assistants,52.7
+district,934,,Vhembe,Nursing assistants,81.5
+district,936,,Waterberg,Nursing assistants,93.4
+district,101,,West Coast,Nursing assistants,37.8
+district,748,,West Rand,Nursing assistants,83.3
+province,WC,,Western Cape,Nursing assistants,79.5
+district,416,,Xhariep,Nursing assistants,84.8
+district,308,,Z F Mgcawu,Nursing assistants,85.1
+district,526,,Zululand,Nursing assistants,45.7

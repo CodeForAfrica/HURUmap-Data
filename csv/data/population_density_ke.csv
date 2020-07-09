@@ -1,0 +1,445 @@
+geo_level,geo_code,geo_version,name,variable,value
+county,30,,Baringo,2009,50.44
+county,36,,Bomet,2009,293.04
+county,39,,Bungoma,2009,453.49
+county,40,,Busia,2009,438.9
+county,28,,Elgeyo-Marakwet,2009,122.12
+county,14,,Embu,2009,183.18
+county,7,,Garissa,2009,14.1
+county,43,,Homa Bay,2009,302.77
+county,11,,Isiolo,2009,5.66
+county,34,,Kajiado,2009,31.38
+county,37,,Kakamega,2009,544.26
+country,KE,,Kenya,2009,66.42
+county,35,,Kericho,2009,305.91
+county,22,,Kiambu,2009,638.23
+county,3,,Kilifi,2009,88.01
+county,20,,Kirinyaga,2009,357.01
+county,45,,Kisii,2009,874.58
+county,42,,Kisumu,2009,464.5
+county,15,,Kitui,2009,33.21
+county,2,,Kwale,2009,78.59
+county,31,,Laikipia,2009,42.19
+county,5,,Lamu,2009,16.19
+county,16,,Machakos,2009,176.96
+county,17,,Makueni,2009,110.45
+county,9,,Mandera,2009,39.47
+county,10,,Marsabit,2009,4.1
+county,12,,Meru,2009,195.54
+county,44,,Migori,2009,353.24
+county,1,,Mombasa,2009,4292.09
+county,21,,Murang'A,2009,368.37
+county,47,,Nairobi,2009,4514.96
+county,32,,Nakuru,2009,213.92
+county,29,,Nandi,2009,261.07
+county,33,,Narok,2009,47.45
+county,46,,Nyamira,2009,665.22
+county,18,,Nyandarua,2009,183.74
+county,19,,Nyeri,2009,207.83
+county,25,,Samburu,2009,10.65
+county,41,,Siaya,2009,332.88
+county,6,,Taita-Taveta,2009,16.66
+county,4,,Tana River,2009,6.25
+county,13,,Tharaka-Nithi,2009,138.44
+county,26,,Trans-Nzoia,2009,328.09
+county,23,,Turkana,2009,12.45
+county,27,,Uasin Gishu,2009,267.3
+county,38,,Vihiga,2009,1044.68
+county,8,,Wajir,2009,11.68
+county,24,,West Pokot,2009,55.91
+country,KE,,Kenya,2019,82
+county,30,,Baringo,2019,61
+county,36,,Bomet,2019,349
+county,39,,Bungoma,2019,552
+county,40,,Busia,2019,526
+county,28,,Elgeyo-Marakwet,2019,150
+county,14,,Embu,2019,216
+county,7,,Garissa,2019,19
+county,43,,Homa Bay,2019,359
+county,11,,Isiolo,2019,11
+county,34,,Kajiado,2019,51
+county,37,,Kakamega,2019,619
+county,35,,Kericho,2019,370
+county,22,,Kiambu,2019,952
+county,3,,Kilifi,2019,116
+county,20,,Kirinyaga,2019,413
+county,45,,Kisii,2019,957
+county,42,,Kisumu,2019,554
+county,15,,Kitui,2019,37
+county,2,,Kwale,2019,105
+county,31,,Laikipia,2019,55
+county,5,,Lamu,2019,23
+county,16,,Machakos,2019,236
+county,17,,Makueni,2019,121
+county,9,,Mandera,2019,33
+county,10,,Marsabit,2019,6
+county,12,,Meru,2019,220
+county,44,,Migori,2019,427
+county,1,,Mombasa,2019,5495
+county,21,,Murang'a,2019,419
+county,47,,Nairobi,2019,6247
+county,32,,Nakuru,2019,288
+county,29,,Nandi,2019,311
+county,33,,Narok,2019,65
+county,46,,Nyamira,2019,675
+county,18,,Nyandarua,2019,194
+county,19,,Nyeri,2019,228
+county,25,,Samburu,2019,15
+county,41,,Siaya,2019,393
+county,6,,Taita-Taveta,2019,20
+county,4,,Tana River,2019,8
+county,13,,Tharaka-Nithi,2019,153
+county,26,,Trans-Nzoia,2019,397
+county,23,,Turkana,2019,14
+county,27,,Uasin Gishu,2019,342
+county,38,,Vihiga,2019,1047
+county,8,,Wajir,2019,14
+county,24,,West Pokot,2019,68
+,,,Aberdare Forest,2019,0
+,,,Aberdare Forest,2019,0
+,,,Aberdare National Park,2019,0
+subcounty,27144,,Ainabkoi,2019,280
+subcounty,44254,,Awendo,2019,459
+subcounty,7028,,Balambala,2019,9
+,,,Banisa,2019,39
+subcounty,30159,,Baringo Central,2019,123
+subcounty,30158,,Baringo North,2019,64
+subcounty,35192,,Belgut,2019,549
+subcounty,36197,,Bomet Central,2019,613
+subcounty,36196,,Bomet East,2019,473
+subcounty,41236,,Bondo,2019,330
+subcounty,46273,,Borabu,2019,296
+subcounty,39219,,Bumula,2019,625
+,,,Buna,2019,13
+,,,Bungoma Central,2019,764
+,,,Bungoma East,2019,702
+,,,Bungoma North,2019,633
+,,,Bungoma South,2019,896
+,,,Bungoma West,2019,568
+,,,Bunyala,2019,447
+subcounty,35191,,Buret,2019,622
+,,,Busia,2019,727
+subcounty,37207,,Butere,2019,734
+subcounty,40229,,Butula,2019,576
+,,,Buuri East,2019,230
+,,,Buuri West,2019,126
+subcounty,1001,,Changamwe,2019,7457
+subcounty,36195,,Chepalungu,2019,358
+,,,Cheptais,2019,610
+subcounty,29154,,Chesumei,2019,346
+,,,Chonyi,2019,324
+subcounty,7030,,Dadaab,2019,29
+subcounty,47276,,Dagoretti,2019,14908
+,,,East Pokot,2019,32
+subcounty,8037,,Eldas,2019,20
+,,,Embakasi,2019,11460
+,,,Embu East,2019,512
+,,,Embu North,2019,719
+,,,Embu West,2019,804
+subcounty,38215,,Emuhaya,2019,1091
+subcounty,26137,,Endebess,2019,165
+,,,Etago,2019,773
+subcounty,7031,,Fafi,2019,9
+subcounty,3015,,Ganze,2019,45
+,,,Garbatulla,2019,10
+,,,Garissa,2019,51
+subcounty,21110,,Gatanga,2019,353
+subcounty,22112,,Gatundu North,2019,384
+subcounty,22111,,Gatundu South,2019,631
+,,,Gem,2019,444
+subcounty,32169,,Gilgil,2019,172
+subcounty,22116,,Githunguri,2019,948
+,,,Gucha,2019,1020
+,,,Gucha South,2019,881
+,,,Habaswein,2019,16
+subcounty,38213,,Hamisi,2019,1013
+subcounty,43249,,Homa Bay,2019,645
+,,,Hulugho,2019,17
+,,,Igambang'ombe,2019,164
+subcounty,12052,,Igembe Central,2019,366
+subcounty,12053,,Igembe North,2019,157
+subcounty,12051,,Igembe South,2019,633
+subcounty,7032,,Ijara,2019,58
+,,,Ikutha,2019,9
+,,,Isinya,2019,196
+,,,Isiolo,2019,45
+subcounty,1002,,Jomvu,2019,4432
+subcounty,22113,,Juja,2019,880
+subcounty,22119,,Kabete,2019,3289
+,,,Kahuro,2019,521
+subcounty,34184,,Kajiado Central,2019,38
+subcounty,34183,,Kajiado North,2019,2773
+subcounty,34185,,Kajiado West,2019,23
+,,,Kakamega Central,2019,1212
+,,,Kakamega East,2019,402
+,,,Kakamega Forest,2019,1
+,,,Kakamega North,2019,566
+,,,Kakamega South,2019,764
+,,,Kalama,2019,112
+subcounty,3013,,Kaloleni,2019,274
+subcounty,47288,,Kamukunji,2019,25455
+subcounty,21109,,Kandara,2019,746
+subcounty,21104,,Kangema,2019,463
+subcounty,16077,,Kangundo,2019,567
+subcounty,27145,,Kapseret,2019,663
+subcounty,47280,,Kasarani,2019,9058
+subcounty,16079,,Kathiani,2019,544
+,,,Kathonzweni,2019,91
+,,,Katulani,2019,146
+,,,Kauma,2019,125
+subcounty,28149,,Keiyo North,2019,183
+subcounty,28150,,Keiyo South,2019,134
+,,,Kenyenya,2019,930
+,,,Kericho East,2019,709
+subcounty,27146,,Kesses,2019,204
+subcounty,37208,,Khwisero,2019,780
+subcounty,22118,,Kiambaa,2019,2595
+subcounty,22117,,Kiambu,2019,1484
+,,,Kibish,2019,4
+subcounty,47278,,Kibra,2019,15311
+,,,Kibwezi,2019,63
+,,,Kieni East,2019,246
+,,,Kieni West,2019,171
+subcounty,21107,,Kigumo,2019,561
+subcounty,22120,,Kikuyu,2019,1082
+subcounty,3011,,Kilifi North,2019,676
+subcounty,3012,,Kilifi South,2019,712
+,,,Kilungu,2019,395
+,,,Kimilili-Bungoma,2019,902
+subcounty,26139,,Kiminini,2019,662
+subcounty,2010,,Kinango,2019,58
+subcounty,18089,,Kinangop,2019,379
+subcounty,18090,,Kipipiri,2019,206
+,,,Kipkelion,2019,350
+,,,Kipkomo,2019,134
+subcounty,20103,,Kirinyaga Central,2019,800
+,,,Kirinyaga East,2019,585
+,,,Kirinyaga West,2019,552
+,,,Kisasi,2019,157
+subcounty,1003,,Kisauni,2019,3328
+,,,Kisii Central,2019,1229
+,,,Kisii South,2019,1054
+subcounty,42240,,Kisumu Central,2019,4737
+subcounty,42238,,Kisumu East,2019,1560
+subcounty,42239,,Kisumu West,2019,827
+subcounty,15072,,Kitui Central,2019,251
+subcounty,15070,,Kitui West,2019,170
+,,,Kitutu Central,2019,1537
+,,,Koibatek,2019,138
+subcounty,36198,,Konoin,2019,417
+subcounty,32171,,Kuresoi North,2019,283
+subcounty,32170,,Kuresoi South,2019,283
+subcounty,44260,,Kuria East,2019,516
+subcounty,44259,,Kuria West,2019,527
+,,,Kutulo,2019,29
+subcounty,26136,,Kwanza,2019,438
+,,,Kyuso,2019,30
+subcounty,9044,,Lafey,2019,22
+subcounty,7029,,Lagdera,2019,8
+,,,Laikipia Central,2019,78
+subcounty,31164,,Laikipia East,2019,67
+subcounty,31165,,Laikipia North,2019,14
+subcounty,31163,,Laikipia West,2019,38
+subcounty,5021,,Lamu East,2019,10
+subcounty,5022,,Lamu West,2019,31
+,,,Lang'ata,2019,911
+subcounty,22122,,Lari,2019,313
+subcounty,1005,,Likoni,2019,6187
+subcounty,37200,,Likuyani,2019,481
+subcounty,22121,,Limuru,2019,559
+subcounty,23126,,Loima,2019,12
+,,,Loitokitok,2019,30
+,,,Loiyangalani,2019,3
+,,,Londiani,2019,344
+,,,Lower Yatta,2019,53
+subcounty,38214,,Luanda,2019,1265
+subcounty,37199,,Lugari,2019,483
+,,,Lungalunga,2019,72
+subcounty,13061,,Maara,2019,433
+,,,Machakos,2019,609
+subcounty,3017,,Magarini,2019,37
+subcounty,47287,,Makadara,2019,16150
+,,,Makindu,2019,100
+subcounty,17086,,Makueni,2019,214
+subcounty,3016,,Malindi,2019,147
+,,,Mandera Central,2019,39
+subcounty,9043,,Mandera East,2019,64
+subcounty,9041,,Mandera North,2019,28
+subcounty,9039,,Mandera West,2019,24
+,,,Manga,2019,845
+subcounty,28147,,Marakwet East,2019,114
+subcounty,28148,,Marakwet West,2019,186
+,,,Marani,2019,837
+,,,Marigat,2019,63
+,,,Marsabit Central,2019,37
+,,,Marsabit North,2019,3
+,,,Marsabit South,2019,8
+,,,Masaba North,2019,789
+,,,Masaba South,2019,759
+,,,Mashuuru,2019,29
+subcounty,16075,,Masinga,2019,106
+,,,Matete,2019,644
+subcounty,47290,,Mathare,2019,68941
+subcounty,21105,,Mathioya,2019,523
+,,,Mathira East,2019,760
+,,,Mathira West,2019,369
+,,,Matinyani,2019,181
+subcounty,2009,,Matuga,2019,188
+subcounty,37206,,Matungu,2019,598
+subcounty,16078,,Matungulu,2019,278
+,,,Mau Forest,2019,0
+,,,Mau Forest,2019,0
+,,,Mau Forest,2019,0
+subcounty,16080,,Mavoko,2019,390
+,,,Mbeere North,2019,139
+,,,Mbeere South,2019,125
+,,,Mbooni East,2019,142
+,,,Mbooni West,2019,379
+,,,Merti,2019,4
+,,,Meru Central,2019,350
+,,,Meru National Park,2019,0
+,,,Meru South,2019,656
+,,,Migwani,2019,125
+,,,Mirangine,2019,274
+subcounty,30161,,Mogotio,2019,66
+subcounty,27143,,Moiben,2019,236
+subcounty,32166,,Molo,2019,324
+subcounty,10045,,Moyale,2019,32
+subcounty,2007,,Msambweni,2019,432
+,,,Mt Kenya Forest,2019,0
+,,,Mt Kenya Forest,2019,1
+,,,Mt Kenya Forest,2019,0
+,,,Mt Kenya Forest,2019,0
+,,,Mt Kenya Forest,2019,0
+subcounty,39216,,Mt. Elgon,2019,624
+,,,Mt. Elgon Forest,2019,6
+subcounty,42243,,Muhoroni,2019,234
+,,,Mukaa,2019,134
+subcounty,19098,,Mukurwe-ini,2019,498
+subcounty,37205,,Mumias East,2019,778
+subcounty,37204,,Mumias West,2019,706
+,,,Mumoni,2019,48
+,,,Murang'a East,2019,458
+,,,Murang'a South,2019,405
+,,,Mutitu,2019,10
+,,,Mutitu North,2019,39
+,,,Mutomo,2019,51
+subcounty,1006,,Mvita,2019,10543
+subcounty,16082,,Mwala,2019,178
+subcounty,6025,,Mwatate,2019,30
+,,,Mwea East,2019,437
+,,,Mwea West,2019,438
+,,,Mwingi Central,2019,95
+subcounty,15069,,Mwingi East,2019,25
+subcounty,32168,,Naivasha,2019,181
+,,,Nakuru East,2019,840
+,,,Nakuru North,2019,563
+,,,Nakuru West,2019,2764
+subcounty,40227,,Nambale,2019,469
+,,,Nandi Central,2019,407
+,,,Nandi East,2019,300
+,,,Nandi North,2019,274
+,,,Nandi South,2019,378
+subcounty,33180,,Narok East,2019,56
+subcounty,33179,,Narok North,2019,117
+subcounty,33181,,Narok South,2019,52
+subcounty,33182,,Narok West,2019,35
+subcounty,37203,,Navakholo,2019,594
+subcounty,43250,,Ndhiwa,2019,306
+,,,Njiru,2019,4821
+subcounty,32167,,Njoro,2019,341
+subcounty,10046,,North Horr,2019,4
+subcounty,12056,,North Imenti,2019,769
+,,,Nyahururu,2019,190
+subcounty,42244,,Nyakach,2019,460
+subcounty,1004,,Nyali,2019,9610
+,,,Nyamache,2019,805
+,,,Nyamira North,2019,775
+,,,Nyamira South,2019,876
+,,,Nyandarua Central,2019,217
+,,,Nyandarua North,2019,187
+,,,Nyandarua South,2019,299
+,,,Nyandarua West,2019,255
+subcounty,42242,,Nyando,2019,362
+subcounty,44258,,Nyatike,2019,260
+,,,Nyeri Central,2019,837
+,,,Nyeri South,2019,538
+,,,Nzambani,2019,146
+,,,Nzaui,2019,163
+,,,Pokot Central,2019,58
+,,,Pokot North,2019,34
+subcounty,24132,,Pokot South,2019,150
+subcounty,3014,,Rabai,2019,581
+,,,Rachuonyo East,2019,486
+,,,Rachuonyo North,2019,410
+,,,Rachuonyo South,2019,511
+subcounty,43248,,Rangwe,2019,429
+subcounty,41237,,Rarieda,2019,379
+subcounty,32173,,Rongai,2019,202
+subcounty,44253,,Rongo,2019,584
+subcounty,22115,,Ruiru,2019,1846
+subcounty,38212,,Sabatia,2019,1181
+,,,Samburu Central,2019,45
+subcounty,25135,,Samburu East,2019,8
+subcounty,25134,,Samburu North,2019,9
+,,,Samburu-Kwale,2019,83
+,,,Sameta,2019,847
+,,,Samia,2019,408
+subcounty,42241,,Seme,2019,455
+,,,Siaya,2019,375
+,,,Soin Sigowet,2019,271
+,,,Sololo,2019,7
+subcounty,36194,,Sotik,2019,419
+subcounty,12059,,South Imenti,2019,499
+subcounty,27141,,Soy,2019,343
+subcounty,47289,,Starehe,2019,10205
+subcounty,43251,,Suba North,2019,307
+subcounty,43252,,Suba South,2019,193
+subcounty,32172,,Subukia,2019,212
+subcounty,44255,,Suna East,2019,598
+subcounty,44256,,Suna West,2019,448
+,,,Taita,2019,117
+,,,Tana Delta,2019,9
+,,,Tana North,2019,7
+,,,Tana River,2019,10
+subcounty,8035,,Tarbaj,2019,6
+subcounty,6023,,Taveta,2019,14
+subcounty,40225,,Teso North,2019,529
+subcounty,40226,,Teso South,2019,555
+subcounty,19094,,Tetu,2019,372
+,,,Thagicu,2019,42
+,,,Tharaka North,2019,70
+,,,Tharaka South,2019,118
+,,,Thika East,2019,354
+,,,Thika West,2019,2689
+,,,Tiaty East,2019,35
+,,,Tigania Central,2019,441
+subcounty,12055,,Tigania East,2019,143
+subcounty,12054,,Tigania West,2019,351
+subcounty,29151,,Tinderet,2019,208
+,,,Tinderet Forest,2019,0
+subcounty,39224,,Tongaren,2019,542
+,,,Trans Mara East,2019,359
+,,,Trans Mara West,2019,97
+,,,Trans Nzoia East,2019,365
+,,,Trans Nzoia West,2019,569
+,,,Tseikuru,2019,30
+subcounty,27142,,Turbo,2019,620
+subcounty,23125,,Turkana Central,2019,29
+subcounty,23128,,Turkana East,2019,12
+subcounty,23123,,Turkana North,2019,9
+subcounty,23127,,Turkana South,2019,22
+subcounty,23124,,Turkana West,2019,14
+subcounty,41232,,Ugenya,2019,415
+subcounty,41233,,Ugunja,2019,519
+subcounty,44257,,Uriri,2019,361
+subcounty,38211,,Vihiga,2019,1058
+subcounty,6026,,Voi,2019,15
+subcounty,8034,,Wajir East,2019,27
+subcounty,8033,,Wajir North,2019,15
+subcounty,8038,,Wajir South,2019,11
+subcounty,8036,,Wajir West,2019,13
+subcounty,39222,,Webuye West,2019,638
+,,,West Pokot,2019,99
+subcounty,47274,,Westlands,2019,3167
+subcounty,16076,,Yatta,2019,162
