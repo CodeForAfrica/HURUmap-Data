@@ -27,7 +27,7 @@ CREATE TABLE IF NOT EXISTS public.wazimap_geography (
 ALTER TABLE ONLY public.wazimap_geography ADD CONSTRAINT pk_wazimap_geography PRIMARY KEY (geo_level, geo_code, version);
 
 INSERT INTO public.wazimap_geography VALUES
-(1,'continent','AFR',NULL,NULL,2009,'Africa','Africa',NULL),
+(1,'continent','AFR','continent','AFR',2009,'Africa','Africa',NULL),
 (2,'country','NG','continent','AFR',2009,'Nigeria','Nigeria',923768),
 (3,'country','SN','continent','AFR',2009,'Senegal','Senegal',196712),
 (4,'country','TZ','continent','AFR',2009,'Tanzania','Tanzania',945087),

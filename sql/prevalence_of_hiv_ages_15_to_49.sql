@@ -21463,7 +21463,25 @@ INSERT INTO public.prevalence_of_hiv_ages_15_to_49 VALUES
 ('level2','ZA_2_00748',2009,'level1','ZA_1_007',2017,18.7,'West Rand'),
 ('level1','ZA_1_001',2009,'country','ZA',2017,10,'Western Cape'),
 ('level2','ZA_2_00416',2009,'level1','ZA_1_004',2017,17.7,'Xhariep'),
-('level2','ZA_2_00526',2009,'level1','ZA_1_005',2017,25.8,'Zululand') ON CONFLICT DO NOTHING;
+('level2','ZA_2_00526',2009,'level1','ZA_1_005',2017,25.8,'Zululand'),
+('continent','AFR',2009,'','',2000,5.2,'Africa'),
+('continent','AFR',2009,'','',2001,5.2,'Africa'),
+('continent','AFR',2009,'','',2002,5.1,'Africa'),
+('continent','AFR',2009,'','',2003,5.0,'Africa'),
+('continent','AFR',2009,'','',2004,5.0,'Africa'),
+('continent','AFR',2009,'','',2005,4.9,'Africa'),
+('continent','AFR',2009,'','',2006,4.8,'Africa'),
+('continent','AFR',2009,'','',2007,4.8,'Africa'),
+('continent','AFR',2009,'','',2008,4.7,'Africa'),
+('continent','AFR',2009,'','',2009,4.7,'Africa'),
+('continent','AFR',2009,'','',2010,4.7,'Africa'),
+('continent','AFR',2009,'','',2011,4.6,'Africa'),
+('continent','AFR',2009,'','',2012,4.6,'Africa'),
+('continent','AFR',2009,'','',2013,4.6,'Africa'),
+('continent','AFR',2009,'','',2014,4.5,'Africa'),
+('continent','AFR',2009,'','',2015,4.5,'Africa'),
+('continent','AFR',2009,'','',2016,4.4,'Africa'),
+('continent','AFR',2009,'','',2017,4.4,'Africa') ON CONFLICT DO NOTHING;
       
 INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','GH','allPrevalenceOfHivAges15To49S','"Institute for Health Metrics and Evaluation (IHME), 2017"','https://open.africa/dataset/africa-hiv-prevalence-geospatial-estimates-2000-2017') ON CONFLICT DO NOTHING;
 INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','GH','allPrevalenceOfHivAges15To49S','"Institute for Health Metrics and Evaluation (IHME), 2017"','https://open.africa/dataset/africa-hiv-prevalence-geospatial-estimates-2000-2017') ON CONFLICT DO NOTHING;

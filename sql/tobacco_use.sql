@@ -445,7 +445,12 @@ INSERT INTO public.tobacco_use VALUES
 ('level2','ZA_2_00210',2009,'level1','ZA_1_002',2017,37.1,'Sarah Baartman'),
 ('level2','ZA_2_00101',2009,'level1','ZA_1_001',2017,42.7,'West Coast'),
 ('level2','ZA_2_00105',2009,'level1','ZA_1_001',2017,47.3,'Central Karoo'),
-('level2','ZA_2_00306',2009,'level1','ZA_1_003',2017,55.6,'Namakwa') ON CONFLICT DO NOTHING;
+('level2','ZA_2_00306',2009,'level1','ZA_1_003',2017,55.6,'Namakwa'),
+('continent','AFR',2009,'','',2010,15.1,'Africa'),
+('continent','AFR',2009,'','',2011,15,'Africa'),
+('continent','AFR',2009,'','',2012,14.9,'Africa'),
+('continent','AFR',2009,'','',2014,14.9,'Africa'),
+('continent','AFR',2009,'','',2015,14.8,'Africa') ON CONFLICT DO NOTHING;
       
 INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allTobaccoUses','"District Health Barometer, 2018/19"','https://open.africa/dataset/district-health-barometer-2018-19/resource/0fc4804c-6cf8-43ff-aeed-685816c49c25') ON CONFLICT DO NOTHING;
 INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allTobaccoUses','"District Health Barometer, 2018/19"','https://open.africa/dataset/district-health-barometer-2018-19/resource/0fc4804c-6cf8-43ff-aeed-685816c49c25') ON CONFLICT DO NOTHING;

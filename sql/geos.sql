@@ -26,7 +26,7 @@ CREATE TABLE IF NOT EXISTS public.geos (
 ALTER TABLE ONLY public.geos ADD CONSTRAINT pk_geos PRIMARY KEY (geo_level, geo_code, version);
 
 INSERT INTO public.geos VALUES
-('continent','AFR',NULL,NULL,2009,'Africa','Africa',NULL),
+('continent','AFR','continent','AFR',2009,'Africa','Africa',NULL),
 ('country','NG','continent','AFR',2009,'Nigeria','Nigeria',923768),
 ('country','SN','continent','AFR',2009,'Senegal','Senegal',196712),
 ('country','TZ','continent','AFR',2009,'Tanzania','Tanzania',945087),

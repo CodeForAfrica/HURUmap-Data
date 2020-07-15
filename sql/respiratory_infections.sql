@@ -1069,7 +1069,25 @@ INSERT INTO public.respiratory_infections VALUES
 ('level2','ZA_2_00215',2009,'level1','ZA_1_002',2017,0.054,'O.R.Tambo'),
 ('level2','ZA_2_00524',2009,'level1','ZA_1_005',2017,0.055,'Umzinyathi'),
 ('level2','ZA_2_00523',2009,'level1','ZA_1_005',2017,0.054,'Uthukela'),
-('level2','ZA_2_00526',2009,'level1','ZA_1_005',2017,0.052,'Zululand') ON CONFLICT DO NOTHING;
+('level2','ZA_2_00526',2009,'level1','ZA_1_005',2017,0.052,'Zululand'),
+('continent','AFR',2009,'','',2000,0.152,'Africa'),
+('continent','AFR',2009,'','',2001,0.149,'Africa'),
+('continent','AFR',2009,'','',2002,0.146,'Africa'),
+('continent','AFR',2009,'','',2003,0.142,'Africa'),
+('continent','AFR',2009,'','',2004,0.139,'Africa'),
+('continent','AFR',2009,'','',2005,0.137,'Africa'),
+('continent','AFR',2009,'','',2006,0.136,'Africa'),
+('continent','AFR',2009,'','',2007,0.135,'Africa'),
+('continent','AFR',2009,'','',2008,0.134,'Africa'),
+('continent','AFR',2009,'','',2009,0.133,'Africa'),
+('continent','AFR',2009,'','',2010,0.132,'Africa'),
+('continent','AFR',2009,'','',2011,0.13,'Africa'),
+('continent','AFR',2009,'','',2012,0.129,'Africa'),
+('continent','AFR',2009,'','',2013,0.127,'Africa'),
+('continent','AFR',2009,'','',2014,0.125,'Africa'),
+('continent','AFR',2009,'','',2015,0.122,'Africa'),
+('continent','AFR',2009,'','',2016,0.12,'Africa'),
+('continent','AFR',2009,'','',2017,0.117,'Africa') ON CONFLICT DO NOTHING;
       
 INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allRespiratoryInfections','"Institute for Health Metrics and Evaluation (IHME), 2017"','https://open.africa/dataset/lower-respiratory-infections-under-5-years-2017') ON CONFLICT DO NOTHING;
 INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allRespiratoryInfections','"Institute for Health Metrics and Evaluation (IHME), 2017"','https://open.africa/dataset/lower-respiratory-infections-under-5-years-2017') ON CONFLICT DO NOTHING;

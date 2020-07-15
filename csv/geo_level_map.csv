@@ -1,4 +1,5 @@
 mapto_geo_level,mapto_geo_code,country_code,geo_level,geo_code,name
+continent,AFR,AFR,continent,AFR,Africa
 country,BF,BF,country,BF,Burkina Faso
 level1,BF_1_013,BF,region,13,Centre
 level1,BF_1_046,BF,region,46,Boucle du Mouhoun

@@ -445,7 +445,13 @@ INSERT INTO public.cardiovascular_risk VALUES
 ('level2','ZA_2_00416',2009,'level1','ZA_1_004',2017,54.2,'Xhariep'),
 ('level2','ZA_2_00526',2009,'level1','ZA_1_005',2017,40.6,'Zululand'),
 ('level2','ZA_2_00595',2009,'level1','ZA_1_005',2017,45.4,'eThekwini'),
-('level2','ZA_2_00529',2009,'level1','ZA_1_005',2017,41.7,'iLembe') ON CONFLICT DO NOTHING;
+('level2','ZA_2_00529',2009,'level1','ZA_1_005',2017,41.7,'iLembe'),
+('continent','AFR',2009,'','',2008,21.8,'Africa'),
+('continent','AFR',2009,'','',2010,21.7,'Africa'),
+('continent','AFR',2009,'','',2011,21.6,'Africa'),
+('continent','AFR',2009,'','',2012,21.5,'Africa'),
+('continent','AFR',2009,'','',2014,21.4,'Africa'),
+('continent','AFR',2009,'','',2015,21.3,'Africa') ON CONFLICT DO NOTHING;
       
 INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allCardiovascularRisks','"District Health Barometer, 2018/19"','https://open.africa/dataset/district-health-barometer-2018-19/resource/1fb135b6-6919-4c44-a8aa-e348ddf68c12') ON CONFLICT DO NOTHING;
 INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allCardiovascularRisks','"District Health Barometer, 2018/19"','https://open.africa/dataset/district-health-barometer-2018-19/resource/1fb135b6-6919-4c44-a8aa-e348ddf68c12') ON CONFLICT DO NOTHING;

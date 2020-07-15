@@ -625,7 +625,17 @@ INSERT INTO public.tb_incidence VALUES
 ('level2','ZA_2_00526',2009,'level1','ZA_1_005',2015,35,'Zululand'),
 ('level2','ZA_2_00595',2009,'level1','ZA_1_005',2015,38,'eThekwini'),
 ('level2','ZA_2_00529',2009,'level1','ZA_1_005',2015,42,'iLembe'),
-('level2','ZA_2_00528',2009,'level1','ZA_1_005',2015,48,'King Cetshwayo') ON CONFLICT DO NOTHING;
-      
+('level2','ZA_2_00528',2009,'level1','ZA_1_005',2015,48,'King Cetshwayo'),
+('continent','AFR',2009,'','',2006,319,'Africa'),
+('continent','AFR',2009,'','',2007,312,'Africa'),
+('continent','AFR',2009,'','',2008,303,'Africa'),
+('continent','AFR',2009,'','',2009,300,'Africa'),
+('continent','AFR',2009,'','',2010,293,'Africa'),
+('continent','AFR',2009,'','',2011,274,'Africa'),
+('continent','AFR',2009,'','',2012,263,'Africa'),
+('continent','AFR',2009,'','',2013,253,'Africa'),
+('continent','AFR',2009,'','',2014,241,'Africa'),
+('continent','AFR',2009,'','',2015,232,'Africa') ON CONFLICT DO NOTHING;
+
 INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allTbIncidences','"District Health Barometer, 2015/16"','https://open.africa/dataset/district-health-barometer-2015-16/resource/3cd9647e-8075-4403-9860-45abc800ed3a') ON CONFLICT DO NOTHING;
 INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allTbIncidences','"District Health Barometer, 2015/16"','https://open.africa/dataset/district-health-barometer-2015-16/resource/3cd9647e-8075-4403-9860-45abc800ed3a') ON CONFLICT DO NOTHING;
