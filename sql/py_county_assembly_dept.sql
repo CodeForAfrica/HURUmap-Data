@@ -27,7 +27,9 @@ CREATE TABLE IF NOT EXISTS public.py_county_assembly_dept (
 ALTER TABLE ONLY public.py_county_assembly_dept ADD CONSTRAINT pk_py_county_assembly_dept PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable_2, variable_1, value, name);
 
 INSERT INTO public.py_county_assembly_dept VALUES
-('level1','KE_1_017',2009,'country','KE','Recurrent','Expenditure to Exchequer Issues',91.1,'Makueni'),
-('level1','KE_1_017',2009,'country','KE','Development','Absorption rate',81.8,'Makueni'),
-('level1','KE_1_017',2009,'country','KE','Recurrent','Expenditure to Exchequer Issues',52.7,'Makueni'),
-('level1','KE_1_017',2009,'country','KE','Development','Absorption rate',10.9,'Makueni') ON CONFLICT DO NOTHING;
+('level1','KE_1_017',2009,'country','KE','Recurrent','Budget Allocation',746.36,'Makueni'),
+('level1','KE_1_017',2009,'country','KE','Development','Budget Allocation',121.24,'Makueni'),
+('level1','KE_1_017',2009,'country','KE','Recurrent','Exchequer Issues',432.09,'Makueni'),
+('level1','KE_1_017',2009,'country','KE','Development','Exchequer Issues',16.13,'Makueni'),
+('level1','KE_1_017',2009,'country','KE','Recurrent','Expenditure',393.46,'Makueni'),
+('level1','KE_1_017',2009,'country','KE','Development','Expenditure',13.2,'Makueni') ON CONFLICT DO NOTHING;

@@ -27,7 +27,9 @@ CREATE TABLE IF NOT EXISTS public.py_trade_industry_tourism_cooperatives_dept (
 ALTER TABLE ONLY public.py_trade_industry_tourism_cooperatives_dept ADD CONSTRAINT pk_py_trade_industry_tourism_cooperatives_dept PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable_2, variable_1, value, name);
 
 INSERT INTO public.py_trade_industry_tourism_cooperatives_dept VALUES
-('level1','KE_1_017',2009,'country','KE','Recurrent','Expenditure to Exchequer Issues',77.2,'Makueni'),
-('level1','KE_1_017',2009,'country','KE','Development','Absorption rate',115.9,'Makueni'),
-('level1','KE_1_017',2009,'country','KE','Recurrent','Expenditure to Exchequer Issues',39.9,'Makueni'),
-('level1','KE_1_017',2009,'country','KE','Development','Absorption rate',9.3,'Makueni') ON CONFLICT DO NOTHING;
+('level1','KE_1_017',2009,'country','KE','Recurrent','Budget Allocation',49.5,'Makueni'),
+('level1','KE_1_017',2009,'country','KE','Development','Budget Allocation',104.94,'Makueni'),
+('level1','KE_1_017',2009,'country','KE','Recurrent','Exchequer Issues',25.6,'Makueni'),
+('level1','KE_1_017',2009,'country','KE','Development','Exchequer Issues',8.44,'Makueni'),
+('level1','KE_1_017',2009,'country','KE','Recurrent','Expenditure',19.77,'Makueni'),
+('level1','KE_1_017',2009,'country','KE','Development','Expenditure',9.78,'Makueni') ON CONFLICT DO NOTHING;

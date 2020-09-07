@@ -27,7 +27,9 @@ CREATE TABLE IF NOT EXISTS public.py_water_environment_climate_change_dept (
 ALTER TABLE ONLY public.py_water_environment_climate_change_dept ADD CONSTRAINT pk_py_water_environment_climate_change_dept PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable_2, variable_1, value, name);
 
 INSERT INTO public.py_water_environment_climate_change_dept VALUES
-('level1','KE_1_017',2009,'country','KE','Recurrent','Expenditure to Exchequer Issues',83.2,'Makueni'),
-('level1','KE_1_017',2009,'country','KE','Development','Absorption rate',67.2,'Makueni'),
-('level1','KE_1_017',2009,'country','KE','Recurrent','Expenditure to Exchequer Issues',38.7,'Makueni'),
-('level1','KE_1_017',2009,'country','KE','Development','Absorption rate',7.7,'Makueni') ON CONFLICT DO NOTHING;
+('level1','KE_1_017',2009,'country','KE','Recurrent','Budget Allocation',207.14,'Makueni'),
+('level1','KE_1_017',2009,'country','KE','Development','Budget Allocation',1135.57,'Makueni'),
+('level1','KE_1_017',2009,'country','KE','Recurrent','Exchequer Issues',96.46,'Makueni'),
+('level1','KE_1_017',2009,'country','KE','Development','Exchequer Issues',130.89,'Makueni'),
+('level1','KE_1_017',2009,'country','KE','Recurrent','Expenditure',80.27,'Makueni'),
+('level1','KE_1_017',2009,'country','KE','Development','Expenditure',87.92,'Makueni') ON CONFLICT DO NOTHING;
