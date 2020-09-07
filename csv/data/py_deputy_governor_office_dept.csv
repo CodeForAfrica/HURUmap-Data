@@ -1,6 +1,6 @@
 geo_level,geo_code,geo_version,name,variable_1,variable_2,value
-county,17,,Makueni,Budget Allocation ,Recurrent,13.45
-county,17,,Makueni,Budget Allocation ,Development,0
+county,17,,Makueni,Budget Allocation,Recurrent,13.45
+county,17,,Makueni,Budget Allocation,Development,0
 county,17,,Makueni,Exchequer Issues,Recurrent,7.14
 county,17,,Makueni,Exchequer Issues,Development,0
 county,17,,Makueni,Expenditure,Recurrent,4.94

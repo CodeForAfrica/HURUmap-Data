@@ -47,11 +47,14 @@ INSERT INTO public.inpatient_bed_utilisation_rate VALUES
 ('level2','ZA_2_00420',2009,'level1','ZA_1_004','Inpatient bed utilisation rate',67.5,'Fezile Dabi'),
 ('level2','ZA_2_00309',2009,'level1','ZA_1_003','Inpatient bed utilisation rate',35.9,'Frances Baard'),
 ('level1','ZA_1_004',2009,'country','ZA','Inpatient bed utilisation rate',60.2,'Free State'),
+('level2','ZA_2_00104',2009,'level1','ZA_1_001','Inpatient bed utilisation rate',84.9,'Garden Route'),
 ('level1','ZA_1_007',2009,'country','ZA','Inpatient bed utilisation rate',66.9,'Gauteng'),
 ('level2','ZA_2_00830',2009,'level1','ZA_1_008','Inpatient bed utilisation rate',68.4,'Gert Sibande'),
+('level2','ZA_2_00543',2009,'level1','ZA_1_005','Inpatient bed utilisation rate',62.4,'Harry Gwala'),
 ('level2','ZA_2_00529',2009,'level1','ZA_1_005','Inpatient bed utilisation rate',48.2,'iLembe'),
 ('level2','ZA_2_00214',2009,'level1','ZA_1_002','Inpatient bed utilisation rate',55.5,'Joe Gqabi'),
 ('level2','ZA_2_00345',2009,'level1','ZA_1_003','Inpatient bed utilisation rate',56.2,'John Taolo Gaetsewe'),
+('level2','ZA_2_00528',2009,'level1','ZA_1_005','Inpatient bed utilisation rate',46.4,'King Cetshwayo'),
 ('level1','ZA_1_005',2009,'country','ZA','Inpatient bed utilisation rate',57,'KwaZulu-Natal'),
 ('level2','ZA_2_00418',2009,'level1','ZA_1_004','Inpatient bed utilisation rate',57.1,'Lejweleputswa'),
 ('level1','ZA_1_009',2009,'country','ZA','Inpatient bed utilisation rate',72.7,'Limpopo'),
@@ -66,6 +69,7 @@ INSERT INTO public.inpatient_bed_utilisation_rate VALUES
 ('level2','ZA_2_00215',2009,'level1','ZA_1_002','Inpatient bed utilisation rate',54,'O.R.Tambo'),
 ('level2','ZA_2_00103',2009,'level1','ZA_1_001','Inpatient bed utilisation rate',76.6,'Overberg'),
 ('level2','ZA_2_00307',2009,'level1','ZA_1_003','Inpatient bed utilisation rate',60,'Pixley ka Seme'),
+('level2','ZA_2_00210',2009,'level1','ZA_1_002','Inpatient bed utilisation rate',61.1,'Sarah Baartman'),
 ('level2','ZA_2_00742',2009,'level1','ZA_1_007','Inpatient bed utilisation rate',74.9,'Sedibeng'),
 ('level2','ZA_2_00947',2009,'level1','ZA_1_009','Inpatient bed utilisation rate',68.2,'Sekhukhune'),
 ('country','ZA',2009,'continent','AFR','Inpatient bed utilisation rate',65.2,'South Africa'),
@@ -82,6 +86,3 @@ INSERT INTO public.inpatient_bed_utilisation_rate VALUES
 ('level2','ZA_2_00416',2009,'level1','ZA_1_004','Inpatient bed utilisation rate',56.8,'Xhariep'),
 ('level2','ZA_2_00526',2009,'level1','ZA_1_005','Inpatient bed utilisation rate',61.2,'Zululand'),
 ('level2','ZA_2_00308',2009,'level1','ZA_1_003','Inpatient bed utilisation rate',45.5,'Z F Mgcawu') ON CONFLICT DO NOTHING;
-      
-INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('level1','ZA','allInpatientBedUtilisationRates','"District Health Barometer, 2018/19"','https://open.africa/dataset/district-health-barometer-2018-19/resource/0381062b-e65d-4967-8cf1-24998775eeb0') ON CONFLICT DO NOTHING;
-INSERT INTO public.sources(geo_level, country_code, table_name, source_title, source_link) VALUES('country','ZA','allInpatientBedUtilisationRates','"District Health Barometer, 2018/19"','https://open.africa/dataset/district-health-barometer-2018-19/resource/0381062b-e65d-4967-8cf1-24998775eeb0') ON CONFLICT DO NOTHING;
