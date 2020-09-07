@@ -27,7 +27,12 @@ CREATE TABLE IF NOT EXISTS public.py_expenditure_economic (
 ALTER TABLE ONLY public.py_expenditure_economic ADD CONSTRAINT pk_py_expenditure_economic PRIMARY KEY (geo_level, geo_code, geo_version, parent_level, parent_code, variable_2, variable_1, value, name);
 
 INSERT INTO public.py_expenditure_economic VALUES
-('level1','KE_1_017',2009,'country','KE','Expenditure as Percentage of Total Expenditure','Total Recurrent Expenditure',82,'Makueni'),
-('level1','KE_1_017',2009,'country','KE','Absorption','Total Recurrent Expenditure',46.1,'Makueni'),
-('level1','KE_1_017',2009,'country','KE','Expenditure as Percentage of Total Expenditure','Total Development Expenditure',18,'Makueni'),
-('level1','KE_1_017',2009,'country','KE','Absorption','Total Development Expenditure',13.3,'Makueni') ON CONFLICT DO NOTHING;
+('level1','KE_1_017',2009,'country','KE','Budget','Development expenditure',4667.13,'Makueni'),
+('level1','KE_1_017',2009,'country','KE','Exchequer Issues','Development expenditure',946.23,'Makueni'),
+('level1','KE_1_017',2009,'country','KE','Expenditure','Development expenditure',620.1,'Makueni'),
+('level1','KE_1_017',2009,'country','KE','Budget','Operations and Maintenance',2387.66,'Makueni'),
+('level1','KE_1_017',2009,'country','KE','Exchequer Issues','Operations and Maintenance',1027.57,'Makueni'),
+('level1','KE_1_017',2009,'country','KE','Expenditure','Operations and Maintenance',977.77,'Makueni'),
+('level1','KE_1_017',2009,'country','KE','Budget','Compensation to Employees',3735.82,'Makueni'),
+('level1','KE_1_017',2009,'country','KE','Exchequer Issues','Compensation to Employees',1850.76,'Makueni'),
+('level1','KE_1_017',2009,'country','KE','Expenditure','Compensation to Employees',1847.23,'Makueni') ON CONFLICT DO NOTHING;
