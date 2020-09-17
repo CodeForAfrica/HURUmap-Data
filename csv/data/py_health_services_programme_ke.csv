@@ -1,0 +1,13 @@
+geo_level,geo_code,geo_version,name,variable_1,variable_2,value
+county,1,,Mombasa,Administration Unit,Approved Budget,2551.27
+county,1,,Mombasa,Administration Unit,Actual Payments,1288.39
+county,1,,Mombasa,Administration Unit,Variance,1262.87
+county,1,,Mombasa,Curative/Clinical Health Services,Approved Budget,266.50
+county,1,,Mombasa,Curative/Clinical Health Services,Actual Payments,0.00
+county,1,,Mombasa,Curative/Clinical Health Services,Variance,266.50
+county,1,,Mombasa,Preventive and Promotive Services Unit,Approved Budget,205.12
+county,1,,Mombasa,Preventive and Promotive Services Unit,Actual Payments,0.00
+county,1,,Mombasa,Preventive and Promotive Services Unit,Variance,205.12
+county,1,,Mombasa,Special Programs,Approved Budget,22.59
+county,1,,Mombasa,Special Programs,Actual Payments,0.00
+county,1,,Mombasa,Special Programs,Variance,22.59

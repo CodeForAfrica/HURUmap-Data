@@ -1,0 +1,10 @@
+geo_level,geo_code,geo_version,name,variable_1,variable_2,value
+county,1,,Mombasa,Administration Unit,Approved Budget,233.12
+county,1,,Mombasa,Administration Unit,Actual Payments,68.94
+county,1,,Mombasa,Administration Unit,Variance,164.18
+county,1,,Mombasa,Land Management Unit,Approved Budget,78.075
+county,1,,Mombasa,Land Management Unit,Actual Payments,0
+county,1,,Mombasa,Land Management Unit,Variance,78.075
+county,1,,Mombasa,Housing Development Unit,Approved Budget,120.29
+county,1,,Mombasa,Housing Development Unit,Actual Payments,0
+county,1,,Mombasa,Housing Development Unit,Variance,120.29

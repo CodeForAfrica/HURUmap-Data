@@ -1,0 +1,16 @@
+geo_level,geo_code,geo_version,name,variable_1,variable_2,value
+county,1,,Mombasa,"Administration, Planning and Support Services",Approved Budget,416.87
+county,1,,Mombasa,"Administration, Planning and Support Services",Actual Payments,149.20
+county,1,,Mombasa,"Administration, Planning and Support Services",Variance,267.66
+county,1,,Mombasa,Waste Management,Approved Budget,285.07
+county,1,,Mombasa,Waste Management,Actual Payments,11.34
+county,1,,Mombasa,Waste Management,Variance,273.73
+county,1,,Mombasa,Environmental Compliance and Monitoring,Approved Budget,167.07
+county,1,,Mombasa,Environmental Compliance and Monitoring,Actual Payments,4.78
+county,1,,Mombasa,Environmental Compliance and Monitoring,Variance,162.29
+county,1,,Mombasa,Climate Change,Approved Budget,53.25
+county,1,,Mombasa,Climate Change,Actual Payments,0.00
+county,1,,Mombasa,Climate Change,Variance,53.25
+county,1,,Mombasa,Energy,Approved Budget,20.25
+county,1,,Mombasa,Energy,Actual Payments,0.00
+county,1,,Mombasa,Energy,Variance,20.25

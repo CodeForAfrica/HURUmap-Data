@@ -1,0 +1,5 @@
+geo_level,geo_code,geo_version,name,variable_1,variable_2,value
+county,1,,Mombasa,Development expenditure,Expenditure as a Percentage of Total Expenditure ,83.80
+county,1,,Mombasa,Development expenditure,Absorption,34.10
+county,1,,Mombasa,Recurrent Expenditure,Expenditure as a Percentage of Total Expenditure ,16.20
+county,1,,Mombasa,Recurrent Expenditure,Absorption,11.60
