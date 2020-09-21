@@ -1,0 +1,13 @@
+geo_level,geo_code,geo_version,name,variable_1,variable_2,value
+county,1,,Mombasa,Administration unit,Approved Budget,68.98
+county,1,,Mombasa,Administration unit,Actual Payments,9.66
+county,1,,Mombasa,Administration unit,Variance,59.32
+county,1,,Mombasa,Sanitation/Sewerage Services Headquarters,Approved Budget,609.43
+county,1,,Mombasa,Sanitation/Sewerage Services Headquarters,Actual Payments,0.00
+county,1,,Mombasa,Sanitation/Sewerage Services Headquarters,Variance,609.43
+county,1,,Mombasa,Water Supply Headquarters,Approved Budget,938.01
+county,1,,Mombasa,Water Supply Headquarters,Actual Payments,0.00
+county,1,,Mombasa,Water Supply Headquarters,Variance,938.01
+county,1,,Mombasa,Natural Resources,Approved Budget,54.80
+county,1,,Mombasa,Natural Resources,Actual Payments,0.00
+county,1,,Mombasa,Natural Resources,Variance,54.80

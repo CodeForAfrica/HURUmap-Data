@@ -1,0 +1,19 @@
+geo_level,geo_code,geo_version,name,variable_1,variable_2,value
+county,1,,Mombasa,Administration Unit-Headquarters,Approved Budget,166.04
+county,1,,Mombasa,Administration Unit-Headquarters,Actual Payments,44.83
+county,1,,Mombasa,Administration Unit-Headquarters,Variance,121.20
+county,1,,Mombasa,Crop Management Unit,Approved Budget,64.26
+county,1,,Mombasa,Crop Management Unit,Actual Payments,0.00
+county,1,,Mombasa,Crop Management Unit,Variance,64.26
+county,1,,Mombasa,Livestock Unit,Approved Budget,29.24
+county,1,,Mombasa,Livestock Unit,Actual Payments,0.00
+county,1,,Mombasa,Livestock Unit,Variance,29.24
+county,1,,Mombasa,Fisheries Unit-Headquarters,Approved Budget,126.27
+county,1,,Mombasa,Fisheries Unit-Headquarters,Actual Payments,5.71
+county,1,,Mombasa,Fisheries Unit-Headquarters,Variance,120.56
+county,1,,Mombasa,Veterinary Services,Approved Budget,27.03
+county,1,,Mombasa,Veterinary Services,Actual Payments,0.00
+county,1,,Mombasa,Veterinary Services,Variance,27.03
+county,1,,Mombasa,Cooperatives,Approved Budget,20.19
+county,1,,Mombasa,Cooperatives,Actual Payments,0.00
+county,1,,Mombasa,Cooperatives,Variance,20.19

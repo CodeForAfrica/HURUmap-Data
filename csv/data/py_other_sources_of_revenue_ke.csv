@@ -1,0 +1,10 @@
+geo_level,geo_code,geo_version,name,variable_1,variable_2,value
+county,1,,Mombasa,Own Source Revenue,Annual CARA Allocation,0.00
+county,1,,Mombasa,Own Source Revenue,Annual Budget Allocation ,3452.76
+county,1,,Mombasa,Own Source Revenue,Actual Receipts,1100.14
+county,1,,Mombasa,Other Revenues ( World Bank Development Projects),Annual CARA Allocation,0.00
+county,1,,Mombasa,Other Revenues ( World Bank Development Projects),Annual Budget Allocation ,1550.00
+county,1,,Mombasa,Other Revenues ( World Bank Development Projects),Actual Receipts,0.00
+county,1,,Mombasa,A-I-A (Level 5 Hospital),Annual CARA Allocation,0.00
+county,1,,Mombasa,A-I-A (Level 5 Hospital),Annual Budget Allocation ,0.00
+county,1,,Mombasa,A-I-A (Level 5 Hospital),Actual Receipts,382.91

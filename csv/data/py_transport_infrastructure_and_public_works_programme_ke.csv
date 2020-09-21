@@ -1,0 +1,19 @@
+geo_level,geo_code,geo_version,name,variable_1,variable_2,value
+county,1,,Mombasa,Administration Unit,Approved Budget,289.00
+county,1,,Mombasa,Administration Unit,Actual Payments,211.37
+county,1,,Mombasa,Administration Unit,Variance,77.63
+county,1,,Mombasa,Road and Transport Unit,Approved Budget,473.50
+county,1,,Mombasa,Road and Transport Unit,Actual Payments,168.18
+county,1,,Mombasa,Road and Transport Unit,Variance,305.32
+county,1,,Mombasa,Works Unit,Approved Budget,63.79
+county,1,,Mombasa,Works Unit,Actual Payments,0.00
+county,1,,Mombasa,Works Unit,Variance,63.79
+county,1,,Mombasa,"Transport Planning, Management and Safety",Approved Budget,146.31
+county,1,,Mombasa,"Transport Planning, Management and Safety",Actual Payments,11.95
+county,1,,Mombasa,"Transport Planning, Management and Safety",Variance,134.36
+county,1,,Mombasa,Mechanical Services,Approved Budget,77.83
+county,1,,Mombasa,Mechanical Services,Actual Payments,3.27
+county,1,,Mombasa,Mechanical Services,Variance,74.55
+county,1,,Mombasa,"Safety, Risk Management and Rescue Services",Approved Budget,42.25
+county,1,,Mombasa,"Safety, Risk Management and Rescue Services",Actual Payments,0.00
+county,1,,Mombasa,"Safety, Risk Management and Rescue Services",Variance,42.25

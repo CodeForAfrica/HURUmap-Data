@@ -1,0 +1,5 @@
+geo_level,geo_code,geo_version,name,variable_1,variable_2,value
+county,1,,Mombasa,Administration Unit,Absorption,50.50
+county,1,,Mombasa,Curative/Clinical Health Services,Absorption,0
+county,1,,Mombasa,Preventive and Promotive Services Unit,Absorption,0
+county,1,,Mombasa,Special Programs,Absorption,0
