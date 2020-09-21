@@ -1,5 +1,13 @@
 geo_level,geo_code,geo_version,name,variable_1,variable_2,value
-county,1,,Mombasa,Development expenditure,Expenditure as a Percentage of Total Expenditure ,83.80
-county,1,,Mombasa,Development expenditure,Absorption,34.10
-county,1,,Mombasa,Recurrent Expenditure,Expenditure as a Percentage of Total Expenditure ,16.20
-county,1,,Mombasa,Recurrent Expenditure,Absorption,11.60
+county,1,,Mombasa,Development expenditure,Expenditure as a Percentage of Total Expenditure ,83.8
+county,1,,Mombasa,Development expenditure,Absorption,34.1
+county,1,,Mombasa,Recurrent Expenditure,Expenditure as a Percentage of Total Expenditure ,16.2
+county,1,,Mombasa,Recurrent Expenditure,Absorption,11.6
+county,47,,Nairobi,Development expenditure,Expenditure as a Percentage of Total Expenditure ,5.7
+county,47,,Nairobi,Development expenditure,Absorption,5.6
+county,47,,Nairobi,Recurrent Expenditure,Expenditure as a Percentage of Total Expenditure ,94.3
+county,47,,Nairobi,Recurrent Expenditure,Absorption,40.7
+county,17,,Makueni ,Total Recurrent Expenditure,Expenditure as Percentage of Total Expenditure,82
+county,17,,Makueni ,Total Recurrent Expenditure,Absorption,46.1
+county,17,,Makueni ,Total Development Expenditure,Expenditure as Percentage of Total Expenditure,18
+county,17,,Makueni ,Total Development Expenditure,Absorption,13.3

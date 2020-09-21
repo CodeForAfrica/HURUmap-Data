@@ -30,4 +30,14 @@ INSERT INTO public.py_recurrent_expenditure VALUES
 ('level1','KE_1_001',2009,'country','KE','Budget','Operations and Maintenance',5063.08,'Mombasa'),
 ('level1','KE_1_001',2009,'country','KE','Expenditure','Operations and Maintenance',2100.65,'Mombasa'),
 ('level1','KE_1_001',2009,'country','KE','Budget','Compensation to Employees',3676.49,'Mombasa'),
-('level1','KE_1_001',2009,'country','KE','Expenditure','Compensation to Employees',879.83,'Mombasa') ON CONFLICT DO NOTHING;
+('level1','KE_1_001',2009,'country','KE','Expenditure','Compensation to Employees',879.83,'Mombasa'),
+('level1','KE_1_047',2009,'country','KE','Budget','Operations and Maintenance',11468.65,'Nairobi'),
+('level1','KE_1_047',2009,'country','KE','Expenditure','Operations and Maintenance',4555.16,'Nairobi'),
+('level1','KE_1_047',2009,'country','KE','Budget','Compensation to Employees',14241.48,'Nairobi'),
+('level1','KE_1_047',2009,'country','KE','Expenditure','Compensation to Employees',5919.79,'Nairobi'),
+('level1','KE_1_017',2009,'country','KE','Budget','Operations and Maintenance',2387.66,'Makueni'),
+('level1','KE_1_017',2009,'country','KE','Exchequer Issues','Operations and Maintenance',1027.57,'Makueni'),
+('level1','KE_1_017',2009,'country','KE','Expenditure','Operations and Maintenance',977.77,'Makueni'),
+('level1','KE_1_017',2009,'country','KE','Budget','Compensation to Employees',3735.82,'Makueni'),
+('level1','KE_1_017',2009,'country','KE','Exchequer Issues','Compensation to Employees',1850.76,'Makueni'),
+('level1','KE_1_017',2009,'country','KE','Expenditure','Compensation to Employees',1847.23,'Makueni') ON CONFLICT DO NOTHING;

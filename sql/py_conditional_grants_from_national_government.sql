@@ -38,4 +38,16 @@ INSERT INTO public.py_conditional_grants_from_national_government VALUES
 ('level1','KE_1_001',2009,'country','KE','Actual Receipts','Road Maintenance Fuel Levy',0,'Mombasa'),
 ('level1','KE_1_001',2009,'country','KE','Annual CARA Allocation','Development of Youth Polytechnics',25.47,'Mombasa'),
 ('level1','KE_1_001',2009,'country','KE','Annual Budget Allocation','Development of Youth Polytechnics',25.47,'Mombasa'),
-('level1','KE_1_001',2009,'country','KE','Actual Receipts','Development of Youth Polytechnics',0,'Mombasa') ON CONFLICT DO NOTHING;
+('level1','KE_1_001',2009,'country','KE','Actual Receipts','Development of Youth Polytechnics',0,'Mombasa'),
+('level1','KE_1_047',2009,'country','KE','Annual CARA Allocation','Compensation for User Fee Foregone',79.42,'Nairobi'),
+('level1','KE_1_047',2009,'country','KE','Annual Budget Allocation','Compensation for User Fee Foregone',79.42,'Nairobi'),
+('level1','KE_1_047',2009,'country','KE','Actual Receipts','Compensation for User Fee Foregone',0,'Nairobi'),
+('level1','KE_1_047',2009,'country','KE','Annual CARA Allocation','Leasing of Medical Equipment',131.91,'Nairobi'),
+('level1','KE_1_047',2009,'country','KE','Annual Budget Allocation','Leasing of Medical Equipment',0,'Nairobi'),
+('level1','KE_1_047',2009,'country','KE','Actual Receipts','Leasing of Medical Equipment',0,'Nairobi'),
+('level1','KE_1_047',2009,'country','KE','Annual CARA Allocation','Road Maintenance Fuel Levy Fund',451.9,'Nairobi'),
+('level1','KE_1_047',2009,'country','KE','Annual Budget Allocation','Road Maintenance Fuel Levy Fund',451.9,'Nairobi'),
+('level1','KE_1_047',2009,'country','KE','Actual Receipts','Road Maintenance Fuel Levy Fund',0,'Nairobi'),
+('level1','KE_1_047',2009,'country','KE','Annual CARA Allocation','Rehabilitation of Village Polytechnics',23,'Nairobi'),
+('level1','KE_1_047',2009,'country','KE','Annual Budget Allocation','Rehabilitation of Village Polytechnics',23,'Nairobi'),
+('level1','KE_1_047',2009,'country','KE','Actual Receipts','Rehabilitation of Village Polytechnics',0,'Nairobi') ON CONFLICT DO NOTHING;
