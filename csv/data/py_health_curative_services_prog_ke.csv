@@ -1,0 +1,4 @@
+geo_level,geo_code,geo_version,name,variable_1,variable_2,value
+county,42,,Kisumu,Health curative services,Approved Budget,73.36
+county,42,,Kisumu,Health curative services,Actual Payments,4.27
+county,42,,Kisumu,Health curative services,Variance,69.09

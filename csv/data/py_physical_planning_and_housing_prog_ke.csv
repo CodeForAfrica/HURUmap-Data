@@ -1,0 +1,4 @@
+geo_level,geo_code,geo_version,name,variable_1,variable_2,value
+county,42,,Kisumu,Physical planning and housing,Approved Budget,82.50
+county,42,,Kisumu,Physical planning and housing,Actual Payments,0.73
+county,42,,Kisumu,Physical planning and housing,Variance,81.77

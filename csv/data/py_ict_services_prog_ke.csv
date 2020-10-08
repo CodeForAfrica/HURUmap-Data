@@ -1,0 +1,4 @@
+geo_level,geo_code,geo_version,name,variable_1,variable_2,value
+county,42,,Kisumu,ICT services,Approved Budget,5.92
+county,42,,Kisumu,ICT services,Actual Payments,1.06
+county,42,,Kisumu,ICT services,Variance,4.86

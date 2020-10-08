@@ -1,0 +1,4 @@
+geo_level,geo_code,geo_version,name,variable_1,variable_2,value
+county,42,,Kisumu,J.O.O Teaching and referral hospital,Approved Budget,296.52
+county,42,,Kisumu,J.O.O Teaching and referral hospital,Actual Payments,98.26
+county,42,,Kisumu,J.O.O Teaching and referral hospital,Variance,198.26

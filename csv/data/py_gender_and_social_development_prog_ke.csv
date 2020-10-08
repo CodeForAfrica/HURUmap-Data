@@ -1,0 +1,4 @@
+geo_level,geo_code,geo_version,name,variable_1,variable_2,value
+county,42,,Kisumu,Gender and social development,Approved Budget,5.56
+county,42,,Kisumu,Gender and social development,Actual Payments,0.17
+county,42,,Kisumu,Gender and social development,Variance,5.39
