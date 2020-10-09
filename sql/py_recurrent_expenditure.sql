@@ -40,4 +40,10 @@ INSERT INTO public.py_recurrent_expenditure VALUES
 ('level1','KE_1_017',2009,'country','KE','Expenditure','Operations and Maintenance',977.77,'Makueni'),
 ('level1','KE_1_017',2009,'country','KE','Budget','Compensation to Employees',3735.82,'Makueni'),
 ('level1','KE_1_017',2009,'country','KE','Exchequer Issues','Compensation to Employees',1850.76,'Makueni'),
-('level1','KE_1_017',2009,'country','KE','Expenditure','Compensation to Employees',1847.23,'Makueni') ON CONFLICT DO NOTHING;
+('level1','KE_1_017',2009,'country','KE','Expenditure','Compensation to Employees',1847.23,'Makueni'),
+('level1','KE_1_042',2009,'country','KE','Budget','Operations and Maintenance',3264.4,'Kisumu'),
+('level1','KE_1_042',2009,'country','KE','Exchequer Issues','Operations and Maintenance',900.64,'Kisumu'),
+('level1','KE_1_042',2009,'country','KE','Expenditure','Operations and Maintenance',703.21,'Kisumu'),
+('level1','KE_1_042',2009,'country','KE','Budget','Compensation to Employees',4041.56,'Kisumu'),
+('level1','KE_1_042',2009,'country','KE','Exchequer Issues','Compensation to Employees',2111.69,'Kisumu'),
+('level1','KE_1_042',2009,'country','KE','Expenditure','Compensation to Employees',2409.35,'Kisumu') ON CONFLICT DO NOTHING;

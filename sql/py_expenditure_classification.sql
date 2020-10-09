@@ -38,4 +38,10 @@ INSERT INTO public.py_expenditure_classification VALUES
 ('level1','KE_1_017',2009,'country','KE','Budget','Development expenditure',4667.13,'Makueni'),
 ('level1','KE_1_017',2009,'country','KE','Expenditure','Development expenditure',620.1,'Makueni'),
 ('level1','KE_1_017',2009,'country','KE','Budget','Recurrent expenditure',6123.48,'Makueni'),
-('level1','KE_1_017',2009,'country','KE','Expenditure','Recurrent expenditure',2825,'Makueni') ON CONFLICT DO NOTHING;
+('level1','KE_1_017',2009,'country','KE','Expenditure','Recurrent expenditure',2825,'Makueni'),
+('level1','KE_1_042',2009,'country','KE','Budget','Recurrent expenditure',7305.95,'Kisumu'),
+('level1','KE_1_042',2009,'country','KE','Exchequer Issues','Recurrent expenditure',3012.32,'Kisumu'),
+('level1','KE_1_042',2009,'country','KE','Expenditure','Recurrent expenditure',3112.55,'Kisumu'),
+('level1','KE_1_042',2009,'country','KE','Budget','Development expenditure',4499.6,'Kisumu'),
+('level1','KE_1_042',2009,'country','KE','Exchequer Issues','Development expenditure',118.65,'Kisumu'),
+('level1','KE_1_042',2009,'country','KE','Expenditure','Development expenditure',284.61,'Kisumu') ON CONFLICT DO NOTHING;

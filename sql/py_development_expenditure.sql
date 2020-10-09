@@ -31,6 +31,9 @@ INSERT INTO public.py_development_expenditure VALUES
 ('level1','KE_1_001',2009,'country','KE','Expenditure','Development Expenditure',574.72,'Mombasa'),
 ('level1','KE_1_047',2009,'country','KE','Budget','Development Expenditure',11271.26,'Nairobi'),
 ('level1','KE_1_047',2009,'country','KE','Expenditure','Development Expenditure',625.84,'Nairobi'),
-('level1','KE_1_017',2009,'country','KE','Budget','Development expenditure',4667.127315,'Makueni'),
-('level1','KE_1_017',2009,'country','KE','Exchequer Issues','Development expenditure',946.233914,'Makueni'),
-('level1','KE_1_017',2009,'country','KE','Expenditure','Development expenditure',620.101409,'Makueni') ON CONFLICT DO NOTHING;
+('level1','KE_1_017',2009,'country','KE','Budget','Development expenditure',4667.13,'Makueni'),
+('level1','KE_1_017',2009,'country','KE','Exchequer Issues','Development expenditure',946.23,'Makueni'),
+('level1','KE_1_017',2009,'country','KE','Expenditure','Development expenditure',620.1,'Makueni'),
+('level1','KE_1_042',2009,'country','KE','Budget','Development expenditure',4499.6,'Kisumu'),
+('level1','KE_1_042',2009,'country','KE','Exchequer Issues','Development expenditure',118.65,'Kisumu'),
+('level1','KE_1_042',2009,'country','KE','Expenditure','Development expenditure',284.61,'Kisumu') ON CONFLICT DO NOTHING;

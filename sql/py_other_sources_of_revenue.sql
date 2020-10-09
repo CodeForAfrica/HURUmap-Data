@@ -53,4 +53,10 @@ INSERT INTO public.py_other_sources_of_revenue VALUES
 ('level1','KE_1_017',2009,'country','KE','Actual Receipts in the','Own Source Revenue',205.14,'Makueni'),
 ('level1','KE_1_017',2009,'country','KE','Annual CARA Allocation','Balance b/f from FY2018/19',0,'Makueni'),
 ('level1','KE_1_017',2009,'country','KE','Annual Budget Allocation','Balance b/f from FY2018/20',1636.21,'Makueni'),
-('level1','KE_1_017',2009,'country','KE','Actual Receipts in the','Balance b/f from FY2018/21',2709.79,'Makueni') ON CONFLICT DO NOTHING;
+('level1','KE_1_017',2009,'country','KE','Actual Receipts in the','Balance b/f from FY2018/21',2709.79,'Makueni'),
+('level1','KE_1_042',2009,'country','KE','Annual CARA Allocation','Own Source Revenue',1438.48,'Kisumu'),
+('level1','KE_1_042',2009,'country','KE','Annual Budget Allocation','Own Source Revenue',1438.48,'Kisumu'),
+('level1','KE_1_042',2009,'country','KE','Actual Receipts','Own Source Revenue',363.96,'Kisumu'),
+('level1','KE_1_042',2009,'country','KE','Annual CARA Allocation','Balance b/f from FY2018/19',1524.08,'Kisumu'),
+('level1','KE_1_042',2009,'country','KE','Annual Budget Allocation','Balance b/f from FY2018/20',1524.08,'Kisumu'),
+('level1','KE_1_042',2009,'country','KE','Actual Receipts','Balance b/f from FY2018/21',1524.08,'Kisumu') ON CONFLICT DO NOTHING;

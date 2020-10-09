@@ -38,4 +38,8 @@ INSERT INTO public.py_expenditure_classification_perc VALUES
 ('level1','KE_1_017',2009,'country','KE','Expenditure as Percentage of Total Expenditure','Total Recurrent Expenditure',82,'Makueni'),
 ('level1','KE_1_017',2009,'country','KE','Absorption','Total Recurrent Expenditure',46.1,'Makueni'),
 ('level1','KE_1_017',2009,'country','KE','Expenditure as Percentage of Total Expenditure','Total Development Expenditure',18,'Makueni'),
-('level1','KE_1_017',2009,'country','KE','Absorption','Total Development Expenditure',13.3,'Makueni') ON CONFLICT DO NOTHING;
+('level1','KE_1_017',2009,'country','KE','Absorption','Total Development Expenditure',13.3,'Makueni'),
+('level1','KE_1_042',2009,'country','KE','Expenditure as Percentage of Total Expenditure','Total Recurrent Expenditure',91.6,'Kisumu'),
+('level1','KE_1_042',2009,'country','KE','Absorption','Total Recurrent Expenditure',42.6,'Kisumu'),
+('level1','KE_1_042',2009,'country','KE','Expenditure as Percentage of Total Expenditure','Total Development Expenditure',8.4,'Kisumu'),
+('level1','KE_1_042',2009,'country','KE','Absorption','Total Development Expenditure',6.3,'Kisumu') ON CONFLICT DO NOTHING;
