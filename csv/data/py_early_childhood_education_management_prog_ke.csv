@@ -1,0 +1,4 @@
+geo_level,geo_code,geo_version,name,variable_1,variable_2,value
+county,42,,Kisumu,Early childhood education,Approved Budget,4.84
+county,42,,Kisumu,Early childhood education,Actual Payments,0.09
+county,42,,Kisumu,Early childhood education,Variance,4.75

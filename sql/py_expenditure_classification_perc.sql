@@ -30,4 +30,16 @@ INSERT INTO public.py_expenditure_classification_perc VALUES
 ('level1','KE_1_001',2009,'country','KE','Expenditure as a Percentage of Total Expenditure','Development expenditure',83.8,'Mombasa'),
 ('level1','KE_1_001',2009,'country','KE','Absorption','Development expenditure',34.1,'Mombasa'),
 ('level1','KE_1_001',2009,'country','KE','Expenditure as a Percentage of Total Expenditure','Recurrent Expenditure',16.2,'Mombasa'),
-('level1','KE_1_001',2009,'country','KE','Absorption','Recurrent Expenditure',11.6,'Mombasa') ON CONFLICT DO NOTHING;
+('level1','KE_1_001',2009,'country','KE','Absorption','Recurrent Expenditure',11.6,'Mombasa'),
+('level1','KE_1_047',2009,'country','KE','Expenditure as a Percentage of Total Expenditure','Development expenditure',5.7,'Nairobi'),
+('level1','KE_1_047',2009,'country','KE','Absorption','Development expenditure',5.6,'Nairobi'),
+('level1','KE_1_047',2009,'country','KE','Expenditure as a Percentage of Total Expenditure','Recurrent Expenditure',94.3,'Nairobi'),
+('level1','KE_1_047',2009,'country','KE','Absorption','Recurrent Expenditure',40.7,'Nairobi'),
+('level1','KE_1_017',2009,'country','KE','Expenditure as Percentage of Total Expenditure','Total Recurrent Expenditure',82,'Makueni'),
+('level1','KE_1_017',2009,'country','KE','Absorption','Total Recurrent Expenditure',46.1,'Makueni'),
+('level1','KE_1_017',2009,'country','KE','Expenditure as Percentage of Total Expenditure','Total Development Expenditure',18,'Makueni'),
+('level1','KE_1_017',2009,'country','KE','Absorption','Total Development Expenditure',13.3,'Makueni'),
+('level1','KE_1_042',2009,'country','KE','Expenditure as Percentage of Total Expenditure','Total Recurrent Expenditure',91.6,'Kisumu'),
+('level1','KE_1_042',2009,'country','KE','Absorption','Total Recurrent Expenditure',42.6,'Kisumu'),
+('level1','KE_1_042',2009,'country','KE','Expenditure as Percentage of Total Expenditure','Total Development Expenditure',8.4,'Kisumu'),
+('level1','KE_1_042',2009,'country','KE','Absorption','Total Development Expenditure',6.3,'Kisumu') ON CONFLICT DO NOTHING;
