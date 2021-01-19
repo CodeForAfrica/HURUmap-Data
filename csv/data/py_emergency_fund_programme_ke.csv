@@ -1,0 +1,4 @@
+geo_level,geo_code,geo_version,name,variable_1,variable_2,value
+county,47,,Nairobi,Liquor Licensing & Regulation,Approved Budget,250.0
+county,47,,Nairobi,Liquor Licensing & Regulation,Actual Payments,173.6
+county,47,,Nairobi,Liquor Licensing & Regulation,Variance,76.4

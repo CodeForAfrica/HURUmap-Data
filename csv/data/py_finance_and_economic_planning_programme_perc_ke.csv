@@ -1,0 +1,4 @@
+geo_level,geo_code,geo_version,name,variable_1,variable_2,value
+county,47,,Nairobi,Preventive & Promotive Health Services,Absorption,15.61
+county,47,,Nairobi,Curative care,Absorption,12.28
+county,47,,Nairobi,"General administration, planning and support services",Absorption,40.04

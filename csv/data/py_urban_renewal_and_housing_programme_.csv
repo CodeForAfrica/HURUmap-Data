@@ -1,0 +1,4 @@
+geo_level,geo_code,geo_version,name,variable_1,variable_2,value
+county,47,,Nairobi,Ward Development,Approved Budget,1343.00
+county,47,,Nairobi,Ward Development,Actual Payments,4.00
+county,47,,Nairobi,Ward Development,Variance,1339.00

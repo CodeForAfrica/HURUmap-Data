@@ -1,0 +1,4 @@
+geo_level,geo_code,geo_version,name,variable_1,variable_2,value
+county,47,,Nairobi,General,Approved Budget,250.00
+county,47,,Nairobi,General,Actual Payments,173.56
+county,47,,Nairobi,General,Variance,76.44
